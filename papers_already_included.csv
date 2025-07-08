@@ -40,3 +40,35 @@ arxiv_id,paper_title,batch_number
 2505.23856v1,OMNIGUARD An Efficient Approach for AI Safety Moderation Across   Modalities,1
 2505.21523v2,"More Thinking, Less Seeing Assessing Amplified Hallucination in   Multimodal Reasoning Models",1
 2505.17067v2,Unveil Multi-Picture Descriptions for Multilingual Mild Cognitive   Impairment Detection via Contrastive Learning,1
+2506.04642v1,TaDA Training-free recipe for Decoding with Adaptive KV Cache   Compression and Mean-centering,2
+2412.12706v2,"More Tokens, Lower Precision Towards the Optimal Token-Precision   Trade-off in KV Cache Compression",2
+2412.15831v1,Enriching Social Science Research via Survey Item Linking,2
+2402.10110v2,Selective Reflection-Tuning Student-Selected Data Recycling for LLM   Instruction-Tuning,2
+2406.11632v5,Unveiling the Power of Source Source-based Minimum Bayes Risk Decoding   for Neural Machine Translation,2
+2504.18748v1,Generative Product Recommendations for Implicit Superlative Queries,2
+2506.20495v1,ReCode Updating Code API Knowledge with Reinforcement Learning,2
+2502.20339v1,"Thinking Slow, Fast Scaling Inference Compute with Distilled Reasoners",2
+2503.04723v2,Shifting Long-Context LLMs Research from Input to Output,2
+2406.12263v2,Defending Against Social Engineering Attacks in the Age of LLMs,2
+2406.13706v2,Developing Story Case Studies of Generative AI's Use in Journalism,2
+2506.10766v1,One Tokenizer To Rule Them All Emergent Language Plasticity via   Multilingual Tokenizers,2
+2506.07458v1,KScope A Framework for Characterizing the Knowledge Status of Language   Models,2
+2405.19635v1,GKT A Novel Guidance-Based Knowledge Transfer Framework For Efficient   Cloud-edge Collaboration LLM Deployment,2
+2505.04638v1,Towards Artificial Intelligence Research Assistant for Expert-Involved   Learning,2
+2412.04067v1,Automated Medical Report Generation for ECG Data Bridging Medical Text   and Signal Processing with Deep Learning,2
+2506.08436v1,Olica Efficient Structured Pruning of Large Language Models without   Retraining,2
+2405.11212v1,Automated Text Identification Using CNN and Training Dynamics,2
+2312.01306v1,On Significance of Subword tokenization for Low Resource and Efficient   Named Entity Recognition A case study in Marathi,2
+2502.12179v1,Identifiable Steering via Sparse Autoencoding of Multi-Concept Shifts,2
+2504.05228v3,NoveltyBench Evaluating Language Models for Humanlike Diversity,2
+2311.10431v1,Causal Graph in Language Model Rediscovers Cortical Hierarchy in Human   Narrative Processing,2
+2311.11268v1,Towards Real-World Writing Assistance A Chinese Character Checking   Benchmark with Faked and Misspelled Characters,2
+2506.09014v1,Learning to Reason Across Parallel Samples for LLM Reasoning,2
+2402.10787v2,Squat Quant Small Language Models on the Edge,2
+2404.16413v1,Asking and Answering Questions to Extract Event-Argument Structures,2
+2305.01759v1,Evaluation of Speaker Anonymization on Emotional Speech,2
+2506.22900v1,MOTOR Multimodal Optimal Transport via Grounded Retrieval in Medical   Visual Question Answering,2
+2503.13222v2,Can Language Models Follow Multiple Turns of Entangled Instructions,2
+2402.00367v2,"Don't Hallucinate, Abstain Identifying LLM Knowledge Gaps via Multi-LLM   Collaboration",2
+2503.03686v1,MAS-GPT Training LLMs to Build LLM-based Multi-Agent Systems,2
+2406.14673v2,Insights into LLM Long-Context Failures When Transformers Know but   Don't Tell,2
