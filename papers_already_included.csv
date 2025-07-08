@@ -1,0 +1,42 @@
+arxiv_id,paper_title,batch_number
+2505.23807v3,DLP Dynamic Layerwise Pruning in Large Language Models,1
+2505.23923v1,ChARM Character-based Act-adaptive Reward Modeling for Advanced   Role-Playing Language Agents,1
+2505.06708v1,"Gated Attention for Large Language Models Non-linearity, Sparsity, and   Attention-Sink-Free",1
+2505.22582v1,"Less, but Better Efficient Multilingual Expansion for LLMs via   Layer-wise Mixture-of-Experts",1
+2505.11545v1,TARGET Benchmarking Table Retrieval for Generative Tasks,1
+2506.00688v1,Existing Large Language Model Unlearning Evaluations Are Inconclusive,1
+2505.17120v1,"Self-Interpretability LLMs Can Describe Complex Internal Processes that   Drive Their Decisions, and Improve with Training",1
+2505.20215v1,Dependency Parsing is More Parameter-Efficient with Normalization,1
+2505.10981v1,Rethinking the Role of Prompting Strategies in LLM Test-Time Scaling A   Perspective of Probability Theory,1
+2506.01713v1,SRPO Enhancing Multimodal LLM Reasoning via Reflection-Aware   Reinforcement Learning,1
+2505.23830v1,EvoMoE Expert Evolution in Mixture of Experts for Multimodal Large   Language Models,1
+2505.08600v1,Automatic Task Detection and Heterogeneous LLM Speculative Decoding,1
+2505.16410v1,Tool-Star Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement   Learning,1
+2505.13890v1,Mapping the Minds of LLMs A Graph-Based Analysis of Reasoning LLM,1
+2506.02596v1,EssayBench Evaluating Large Language Models in Multi-Genre Chinese   Essay Writing,1
+2505.23108v1,Generating Diverse Training Samples for Relation Extraction with Large   Language Models,1
+2505.19756v1,Efficient Reasoning via Chain of Unconscious Thought,1
+2505.17537v1,How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary   Perception,1
+2505.21930v1,Efficient Ensemble for Fine-tuning Language Models on Multiple Datasets,1
+2506.02678v1,"TL;DR Too Long, Do Re-weighting for Effcient LLM Reasoning Compression",1
+2505.16552v4,"Think Silently, Think Fast Dynamic Latent Compression of LLM Reasoning   Chains",1
+2505.15781v1,dKV-Cache The Cache for Diffusion Language Models,1
+2505.16538v1,Mechanistic Understanding and Mitigation of Language Confusion in   English-Centric Large Language Models,1
+2505.16415v2,Attributing Response to Context A Jensen-Shannon Divergence Driven   Mechanistic Study of Context Attribution in Retrieval-Augmented Generation,1
+2505.23851v1,ASyMOB Algebraic Symbolic Mathematical Operations Benchmark,1
+2505.07899v1,DeltaEdit Enhancing Sequential Editing in Large Language Models by   Controlling Superimposed Noise,1
+2505.17374v1,Chart-to-Experience Benchmarking Multimodal LLMs for Predicting   Experiential Impact of Charts,1
+2505.12474v1,What are they talking about Benchmarking Large Language Models for   Knowledge-Grounded Discussion Summarization,1
+2505.10113v2,What Does Neuro Mean to Cardio Investigating the Role of Clinical   Specialty Data in Medical LLMs,1
+2505.18610v1,PM-KVQ Progressive Mixed-precision KV Cache Quantization for Long-CoT   LLMs,1
+2506.00871v1,Towards Predicting Any Human Trajectory In Context,1
+2505.12973v1,"Fast, Not Fancy Rethinking G2P with Rich Data and Rule-Based Models",1
+2505.10402v1,Rethinking Repetition Problems of LLMs in Code Generation,1
+2506.00363v1,Adapting General-Purpose Embedding Models to Private Datasets Using   Keyword-based Retrieval,1
+2505.06843v2,Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely   Breaks Safety,1
+2505.07293v1,AttentionInfluence Adopting Attention Head Influence for Weak-to-Strong   Pretraining Data Selection,1
+2505.23493v1,R2I-Bench Benchmarking Reasoning-Driven Text-to-Image Generation,1
+2505.13652v1,Guided Search Strategies in Non-Serializable Environments with   Applications to Software Engineering Agents,1
+2505.23856v1,OMNIGUARD An Efficient Approach for AI Safety Moderation Across   Modalities,1
+2505.21523v2,"More Thinking, Less Seeing Assessing Amplified Hallucination in   Multimodal Reasoning Models",1
+2505.17067v2,Unveil Multi-Picture Descriptions for Multilingual Mild Cognitive   Impairment Detection via Contrastive Learning,1
