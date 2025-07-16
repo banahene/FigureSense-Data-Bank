@@ -203,3 +203,202 @@ arxiv_id,paper_title,batch_number
 2409.05021v1,Vision-fused Attack Advancing Aggressive and Stealthy Adversarial Text   against Neural Machine Translation,3
 2311.09603v4,Self-Contradictory Reasoning Evaluation and Detection,3
 2501.12557v1,Understanding the LLM-ification of CHI Unpacking the Impact of LLMs at   CHI through a Systematic Literature Review,3
+2503.04787v1,Towards Anthropomorphic Conversational AI Part I A Practical Framework,4
+2505.24105v1,Training LLMs for EHR-Based Reasoning Tasks via Reinforcement Learning,4
+2303.11192v2,Multimodal Shannon Game with Images,4
+2504.19982v1,TD-EVAL Revisiting Task-Oriented Dialogue Evaluation by Combining   Turn-Level Precision with Dialogue-Level Comparisons,4
+2407.05721v3,PsycoLLM Enhancing LLM for Psychological Understanding and Evaluation,4
+2310.09044v1,KCTS Knowledge-Constrained Tree Search Decoding with Token-Level   Hallucination Detection,4
+2507.01541v1,Efficient Out-of-Scope Detection in Dialogue Systems via   Uncertainty-Driven LLM Routing,4
+2506.22049v2,GPAS Accelerating Convergence of LLM Pretraining via   Gradient-Preserving Activation Scaling,4
+2411.15999v1,Multi-ToM Evaluating Multilingual Theory of Mind Capabilities in Large   Language Models,4
+2506.02096v1,SynthRL Scaling Visual Reasoning with Verifiable Data Synthesis,4
+2407.17773v3,KiVA Kid-inspired Visual Analogies for Testing Large Multimodal Models,4
+2505.01944v1,Explainability by design an experimental analysis of the legal coding   process,4
+2304.03512v3,Hierarchical Catalogue Generation for Literature Review A Benchmark,4
+2312.08846v4,TiMix Text-aware Image Mixing for Effective Vision-Language   Pre-training,4
+2311.08702v1,Debate Helps Supervise Unreliable Experts,4
+2504.17052v1,Do Words Reflect Beliefs Evaluating Belief Depth in Large Language   Models,4
+2407.04752v3,SpikeLLM Scaling up Spiking Neural Network to Large Language Models via   Saliency-based Spiking,4
+2304.04187v3,Similarity-Aware Multimodal Prompt Learning for Fake News Detection,4
+2505.12938v2,Leveraging LLM Inconsistency to Boost Pass@k Performance,4
+2312.09241v1,TinyGSM achieving 80% on GSM8k with small language models,4
+2503.04957v1,SafeArena Evaluating the Safety of Autonomous Web Agents,4
+2505.17471v1,FinRAGBench-V A Benchmark for Multimodal RAG with Visual Citation in   the Financial Domain,4
+2407.20657v2,Prompt-Driven Contrastive Learning for Transferable Adversarial Attacks,4
+2502.19830v2,Revisiting Self-Consistency from Dynamic Distributional Alignment   Perspective on Answer Aggregation,4
+2303.07678v2,Query2doc Query Expansion with Large Language Models,4
+2303.13408v2,"Paraphrasing evades detectors of AI-generated text, but retrieval is an   effective defense",4
+2506.06812v1,Advancing Question Generation with Joint Narrative and Difficulty   Control,4
+2506.03206v1,Out-of-Vocabulary Sampling Boosts Speculative Decoding,4
+2411.14257v2,Do I Know This Entity Knowledge Awareness and Hallucinations in   Language Models,4
+2312.04350v3,CLadder Assessing Causal Reasoning in Language Models,4
+2502.20992v1,Capability Localization Capabilities Can be Localized rather than   Individual Knowledge,4
+2309.08316v3,How to Handle Different Types of Out-of-Distribution Scenarios in   Computational Argumentation A Comprehensive and Fine-Grained Field Study,4
+2505.13491v1,ProdRev A DNN framework for empowering customers using generative   pre-trained transformers,4
+2302.12979v1,Jointly Optimizing Translations and Speech Timing to Improve Isochrony   in Automatic Dubbing,4
+2311.08719v1,Think-in-Memory Recalling and Post-thinking Enable LLMs with Long-Term   Memory,4
+2312.07868v1,Graph vs. Sequence An Empirical Study on Knowledge Forms for   Knowledge-Grounded Dialogue,4
+2505.09659v1,LAS Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language   Models,4
+2310.15372v2,EpiK-Eval Evaluation for Language Models as Epistemic Models,4
+2304.07327v2,OpenAssistant Conversations -- Democratizing Large Language Model   Alignment,4
+2505.20309v1,Guiding Giants Lightweight Controllers for Weighted Activation Steering   in LLMs,4
+2308.01681v3,NBIAS A Natural Language Processing Framework for Bias Identification   in Text,4
+2411.18990v1,USTCCTSU at SemEval-2024 Task 1 Reducing Anisotropy for Cross-lingual   Semantic Textual Relatedness Task,4
+2304.10295v1,Decouple Non-parametric Knowledge Distillation For End-to-end Speech   Translation,4
+2501.10639v3,Latent-space adversarial training with post-aware calibration for   defending large language models against jailbreak attacks,4
+2308.14536v2,Spoken Language Intelligence of Large Language Models for Language   Learning,4
+2304.04590v1,LADER Log-Augmented DEnse Retrieval for Biomedical Literature Search,4
+2502.00602v2,Mitigating Heterogeneous Token Overfitting in LLM Knowledge Editing,4
+2506.07064v1,Com$^2$ A Causal-Guided Benchmark for Exploring Complex Commonsense   Reasoning in Large Language Models,4
+2507.00246v1,EfficientXLang Towards Improving Token Efficiency Through Cross-Lingual   Reasoning,4
+2505.17110v1,Multi-Modality Expansion and Retention for LLMs through Parameter   Merging and Decoupling,4
+2505.14178v1,Tokenization Constraints in LLMs A Study of Symbolic and Arithmetic   Reasoning Limits,4
+2503.22954v1,Can LLMs Support Medical Knowledge Imputation An Evaluation-Based   Perspective,4
+2504.21659v2,Ada-R1 Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization,4
+2309.08210v1,Investigating Answerability of LLMs for Long-Form Question Answering,4
+2504.01018v1,Self-Routing RAG Binding Selective Retrieval with Knowledge   Verbalization,4
+2304.03279v4,Do the Rewards Justify the Means Measuring Trade-Offs Between Rewards   and Ethical Behavior in the MACHIAVELLI Benchmark,4
+2506.03524v2,Seed-Coder Let the Code Model Curate Data for Itself,4
+2502.03382v2,High-Fidelity Simultaneous Speech-To-Speech Translation,4
+2303.16755v3,Training Language Models with Language Feedback at Scale,4
+2504.12682v1,WebLists Extracting Structured Information From Complex Interactive   Websites Using Executable LLM Agents,4
+2304.06767v4,RAFT Reward rAnked FineTuning for Generative Foundation Model Alignment,4
+2503.23163v1,The realization of tones in spontaneous spoken Taiwan Mandarin a   corpus-based survey and theory-driven computational modeling,4
+2505.00662v1,DeepCritic Deliberate Critique with Large Language Models,4
+2502.18583v1,What are Foundation Models Cooking in the Post-Soviet World,4
+2505.17598v1,One Model Transfer to All On Robust Jailbreak Prompts Generation   against LLMs,4
+2503.24376v1,Exploring the Effect of Reinforcement Learning on Video Understanding   Insights from SEED-Bench-R1,4
+2505.20959v1,Research Community Perspectives on Intelligence and Large Language   Models,4
+2411.18294v1,Aligning Pre-trained Models for Spoken Language Translation,4
+2307.08260v1,Extending the Frontier of ChatGPT Code Generation and Debugging,4
+2507.05660v1,TuneShield Mitigating Toxicity in Conversational AI while Fine-tuning   on Untrusted Data,4
+2309.07462v2,Are Large Language Model-based Evaluators the Solution to Scaling Up   Multilingual Evaluation,4
+2411.06790v2,Large-scale moral machine experiment on large language models,4
+2501.14002v3,"Advancing Mathematical Reasoning in Language Models The Impact of   Problem-Solving Data, Data Synthesis Methods, and Training Stages",4
+2312.00407v1,CoLLiE Collaborative Training of Large Language Models in an Efficient   Way,4
+2303.03948v1,A Meta-Evaluation of Faithfulness Metrics for Long-Form Hospital-Course   Summarization,4
+2408.00655v5,"SentenceVAE Enable Next-sentence Prediction for Large Language Models   with Faster Speed, Higher Accuracy and Longer Context",4
+2501.06785v1,3DCoMPaT200 Language-Grounded Compositional Understanding of Parts and   Materials of 3D Shapes,4
+2408.03290v1,SARA Singular-Value Based Adaptive Low-Rank Adaption,4
+2501.13297v1,RAMQA A Unified Framework for Retrieval-Augmented Multi-Modal Question   Answering,4
+2309.07034v2,"Sensitivity, Performance, Robustness Deconstructing the Effect of   Sociodemographic Prompting",4
+2408.04671v1,Prompt and Prejudice,4
+2506.01347v1,The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning,4
+2308.13191v2,"Chunk, Align, Select A Simple Long-sequence Processing Method for   Transformers",4
+2310.13011v2,Compositional preference models for aligning LMs,4
+2505.03501v1,BadLingual A Novel Lingual-Backdoor Attack against Large Language   Models,4
+2311.09677v3,R-Tuning Instructing Large Language Models to Say `I Don't Know',4
+2505.06698v2,From Rankings to Insights Evaluation Should Shift Focus from   Leaderboard to Feedback,4
+2501.18362v3,MedXpertQA Benchmarking Expert-Level Medical Reasoning and   Understanding,4
+2307.10666v1,A Dataset and Strong Baselines for Classification of Czech News Texts,4
+2310.18538v1,Evaluating Cross-Domain Text-to-SQL Models and Benchmarks,4
+2502.05887v1,MTPChat A Multimodal Time-Aware Persona Dataset for Conversational   Agents,4
+2501.12243v1,FOCUS First Order Concentrated Updating Scheme,4
+2502.17380v3,Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition   and Translation,4
+2407.19302v1,IBMEA Exploring Variational Information Bottleneck for Multi-modal   Entity Alignment,4
+2311.06694v3,Which One Leveraging Context Between Objects and Multiple Views for   Language Grounding,4
+2502.03945v1,Afrispeech-Dialog A Benchmark Dataset for Spontaneous English   Conversations in Healthcare and Beyond,4
+2505.11140v1,Scaling Reasoning can Improve Factuality in Large Language Models,4
+2407.11855v1,Scaling Sign Language Translation,4
+2407.16205v6,LLMs can be Dangerous Reasoners Analyzing-based Jailbreak Attack on   Large Language Models,4
+2506.02041v1,Enhancing Multimodal Continual Instruction Tuning with BranchLoRA,4
+2312.10638v2,HyperPIE Hyperparameter Information Extraction from Scientific   Publications,4
+2407.06324v1,B'MOJO Hybrid State Space Realizations of Foundation Models with   Eidetic and Fading Memory,4
+2303.15682v1,Pre-training Transformers for Knowledge Graph Completion,4
+2507.04416v1,RAT Bridging RNN Efficiency and Attention Accuracy in Language Modeling,4
+2407.03572v2,Core Robust Factual Precision with Informative Sub-Claim Identification,4
+2505.10202v1,VQ-Logits Compressing the Output Bottleneck of Large Language Models   via Vector Quantized Logits,4
+2311.00694v2,Unleashing the Creative Mind Language Model As Hierarchical Policy For   Improved Exploration on Challenging Problem Solving,4
+2506.14758v1,Reasoning with Exploration An Entropy Perspective,4
+2310.17233v1,EMMA-X An EM-like Multilingual Pre-training Algorithm for Cross-lingual   Representation Learning,4
+2310.08659v4,LoftQ LoRA-Fine-Tuning-Aware Quantization for Large Language Models,4
+2308.02463v5,Towards Generalist Foundation Model for Radiology by Leveraging   Web-scale 2D&3D Medical Data,4
+2505.24736v1,"Dyadosyncrasy, Idiosyncrasy and Demographic Factors in Turn-Taking",4
+2502.17591v2,Proactive Privacy Amnesia for Large Language Models Safeguarding PII   with Negligible Impact on Model Utility,4
+2311.03584v1,Dimensions of Online Conflict Towards Modeling Agonism,4
+2310.17284v1,Learning to Abstract with Nonparametric Variational Information   Bottleneck,4
+2310.06488v4,SpikeCLIP A Contrastive Language-Image Pretrained Spiking Neural   Network,4
+2311.09149v2,Temporal Knowledge Question Answering via Abstract Reasoning Induction,4
+2501.11873v2,Demons in the Detail On Implementing Load Balancing Loss for Training   Specialized Mixture-of-Expert Models,4
+2502.06855v2,Self-Supervised Prompt Optimization,4
+2506.00743v1,Assortment of Attention Heads Accelerating Federated PEFT with Head   Pruning and Strategic Client Selection,4
+2303.09395v1,Text-to-ECG 12-Lead Electrocardiogram Synthesis conditioned on Clinical   Text Reports,4
+2411.04965v1,BitNet a4.8 4-bit Activations for 1-bit LLMs,4
+2311.05661v3,Prompt Engineering a Prompt Engineer,4
+2407.09429v1,Open (Clinical) LLMs are Sensitive to Instruction Phrasings,4
+2302.04456v2,ERNIE-Music Text-to-Waveform Music Generation with Diffusion Models,4
+2504.07831v1,Deceptive Automated Interpretability Language Models Coordinating to   Fool Oversight Systems,4
+2408.03119v1,Evaluating the Translation Performance of Large Language Models Based on   Euas-20,4
+2503.01891v2,MMSciBench Benchmarking Language Models on Chinese Multimodal   Scientific Problems,4
+2505.11893v1,RLAP A Reinforcement Learning Enhanced Adaptive Planning Framework for   Multi-step NLP Task Solving,4
+2312.08901v3,Fewer is More Boosting LLM Reasoning with Reinforced Context Pruning,4
+2505.19598v2,Evaluating Robustness of Large Audio Language Models to Audio Injection   An Empirical Study,4
+2505.07409v1,Computational Fact-Checking of Online Discourse Scoring scientific   accuracy in climate change related news articles,4
+2302.07994v1,À-la-carte Prompt Tuning (APT) Combining Distinct Data Via Composable   Prompting,4
+2503.19800v1,SemEval-2025 Task 9 The Food Hazard Detection Challenge,4
+2411.05050v1,Selecting Between BERT and GPT for Text Classification in Political   Science Research,4
+2506.01115v2,"Attention Retrieves, MLP Memorizes Disentangling Trainable Components   in the Transformer",4
+2506.05227v1,Improving Low-Resource Morphological Inflection via Self-Supervised   Objectives,4
+2302.07739v1,Meta-Learning Triplet Network with Adaptive Margins for Few-Shot Named   Entity Recognition,4
+2407.21018v3,ThinK Thinner Key Cache by Query-Driven Pruning,4
+2310.06692v3,Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with   Large Language Models,4
+2312.11296v1,From Generalized Laughter to Personalized Chuckles Unleashing the Power   of Data Fusion in Subjective Humor Detection,4
+2505.18102v1,How Can I Publish My LLM Benchmark Without Giving the True Answers Away,4
+2506.21682v1,Do We Really Need GNNs with Explicit Structural Modeling MLPs Suffice   for Language Model Representations,4
+2505.20633v1,Test-Time Learning for Large Language Models,4
+2505.16022v1,NOVER Incentive Training for Language Models via Verifier-Free   Reinforcement Learning,4
+2506.11515v1,Manager Aggregating Insights from Unimodal Experts in Two-Tower VLMs   and MLLMs,4
+2507.08191v1,Overview of the TREC 2021 deep learning track,4
+2505.14685v1,Language Models use Lookbacks to Track Beliefs,4
+2505.21600v1,R2R Efficiently Navigating Divergent Reasoning Paths with Small-Large   Model Token Routing,4
+2312.04556v2,Large Language Models for Mathematicians,4
+2502.01210v2,Phonetic accommodation and inhibition in a dynamic neural field model,4
+2411.17993v4,DRS Deep Question Reformulation With Structured Output,4
+2303.07665v1,RenewNAT Renewing Potential Translation for Non-Autoregressive   Transformer,4
+2407.10795v1,Multilingual Contrastive Decoding via Language-Agnostic Layers Skipping,4
+2502.01083v1,Tool Unlearning for Tool-Augmented LLMs,4
+2505.16995v1,DecoupledESC Enhancing Emotional Support Generation via   Strategy-Response Decoupled Preference Optimization,4
+2505.15607v1,From Problem-Solving to Teaching Problem-Solving Aligning LLMs with   Pedagogy using Reinforcement Learning,4
+2505.17427v2,T$^2$ An Adaptive Test-Time Scaling Strategy for Contextual Question   Answering,4
+2505.24778v2,Revisiting Epistemic Markers in Confidence Estimation Can Markers   Accurately Reflect Large Language Models' Uncertainty,4
+2506.02264v1,CoDial Interpretable Task-Oriented Dialogue Systems Through Dialogue   Flow Alignment,4
+2304.04358v1,WebBrain Learning to Generate Factually Correct Articles for Queries by   Grounding on Large Web Corpus,4
+2504.05689v1,Separator Injection Attack Uncovering Dialogue Biases in Large Language   Models Caused by Role Separators,4
+2311.17946v1,DreamSync Aligning Text-to-Image Generation with Image Understanding   Feedback,4
+2311.06303v1,MatNexus A Comprehensive Text Mining and Analysis Suite for Materials   Discover,4
+2310.18364v1,From Heuristic to Analytic Cognitively Motivated Strategies for   Coherent Physical Commonsense Reasoning,4
+2408.06632v1,EditScribe Non-Visual Image Editing with Natural Language Verification   Loops,4
+2309.01398v2,Zero-shot information extraction from radiological reports using ChatGPT,4
+2302.12190v2,MCWDST a Minimum-Cost Weighted Directed Spanning Tree Algorithm for   Real-Time Fake News Mitigation in Social Media,4
+2407.03645v3,Continual Learning Optimizations for Auto-regressive Decoder of   Multilingual ASR systems,4
+2502.17717v1,Knowledge Distillation with Training Wheels,4
+2502.18125v1,HyperG Hypergraph-Enhanced LLMs for Structured Knowledge,4
+2505.04984v1,Rethinking the Relationship between the Power Law and Hierarchical   Structures,4
+2311.12022v1,GPQA A Graduate-Level Google-Proof Q&A Benchmark,4
+2311.01468v1,Remember what you did so you know what to do next,4
+2505.23038v1,EL4NER Ensemble Learning for Named Entity Recognition via Multiple   Small-Parameter Large Language Models,4
+2308.03883v1,Generative Benchmark Creation for Table Union Search,4
+2505.14667v3,SAFEPATH Preventing Harmful Reasoning in Chain-of-Thought via Early   Alignment,4
+2502.06766v2,Exploiting Sparsity for Long Context Inference Million Token Contexts   on Commodity GPUs,4
+2304.05302v3,RRHF Rank Responses to Align Language Models with Human Feedback   without tears,4
+2308.15226v1,CLIPTrans Transferring Visual Knowledge with Pre-trained Models for   Multimodal Machine Translation,4
+2506.15617v1,The Compositional Architecture of Regret in Large Language Models,4
+2503.00995v1,Evaluating Polish linguistic and cultural competency in large language   models,4
+2309.06415v4,Down the Toxicity Rabbit Hole A Novel Framework to Bias Audit Large   Language Models,4
+2507.04455v1,GradOT Training-free Gradient-preserving Offsite-tuning for Large   Language Models,4
+2503.23007v1,S2MoE Robust Sparse Mixture of Experts via Stochastic Learning,4
+2505.16178v1,Understanding Fact Recall in Language Models Why Two-Stage Training   Encourages Memorization but Mixed Training Teaches Knowledge,4
+2505.15684v2,ThinkLess A Training-Free Inference-Efficient Method for Reducing   Reasoning Redundancy,4
+2312.01823v1,Exchange-of-Thought Enhancing Large Language Model Capabilities through   Cross-Model Communication,4
+2502.19187v2,BIG-Bench Extra Hard,4
+2312.11983v1,Fluctuation-based Adaptive Structured Pruning for Large Language Models,4
+2505.17076v3,Impact of Frame Rates on Speech Tokenizer A Case Study on Mandarin and   English,4
+2311.09356v3,LePaRD A Large-Scale Dataset of Judges Citing Precedents,4
+2312.13871v2,"Evaluating Task-oriented Dialogue Systems A Systematic Review of   Measures, Constructs and their Operationalisations",4
+2506.22316v1,Evaluating Scoring Bias in LLM-as-a-Judge,4
+2407.04444v2,TokenVerse Towards Unifying Speech and NLP Tasks via Transducer-based   ASR,4
+2303.12528v4,MEGA Multilingual Evaluation of Generative AI,4
+2504.08247v1,Millions of States Designing a Scalable MoE Architecture with RWKV-7   Meta-learner,4
+2308.04346v1,Unmasking Nationality Bias A Study of Human Perception of Nationalities   in AI-Generated Articles,4
+2506.03292v1,HyperSteer Activation Steering at Scale with Hypernetworks,4
