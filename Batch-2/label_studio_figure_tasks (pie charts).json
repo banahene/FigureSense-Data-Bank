@@ -1,0 +1,93 @@
+[
+  {
+    "data": {
+      "arxiv_id": "2505.12116v1",
+      "paper_title": "A Multi-Task Benchmark for Abusive Language Detection in Low-Resource   Settings",
+      "figure_filename": "127_2505.12116v1_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/figures/127_2505.12116v1_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/127_2505.12116v1_A Multi-Task Benchmark for Abusive Language Detection in Low-Resource   Settings.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/127_2505.12116v1_A Multi-Task Benchmark for Abusive Language Detection in Low-Resource   Settings.pdf' title='Right-click \u2192 Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>\ud83d\udcc4 View Full PDF</a>",
+      "caption": ": Task-wise Class Distributions",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart illustrates the categorization of language around the term \"TiALD\" into abusive and non-abusive segments, presented in an outer ring divided into various slices. The total number of slices shown is twenty. The outermost layer is colored in shades ranging from teal to yellow, aiding in distinguishing between categories. The abusive section includes slices labeled \"Negative,\" \"Political,\" \"Mixed,\" \"Racial,\" and \"Sexist,\" primarily colored in teal and representing larger proportions. Within this section, \"Negative\" appears to occupy the largest portion, followed by \"Political,\" with smaller segments for \"Mixed,\" \"Racial,\" and \"Sexist.\" The non-abusive section features slices labeled \"Religious,\" \"Positive,\" \"Mixed,\" \"Neutral,\" and \"Negative,\" colored in yellow and occupying smaller proportions, with \"Positive\" appearing slightly larger than the others. The pie chart includes no specific legend, but each segment is labeled directly within the slice. The slices do not appear visually emphasized, such as being exploded or offset, and are not arranged in a descending order."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.00737v1",
+      "paper_title": "Narrative Media Framing in Political Discourse",
+      "figure_filename": "134_2506.00737v1_Figure6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/figures/134_2506.00737v1_Figure6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/134_2506.00737v1_Narrative Media Framing in Political Discourse.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/134_2506.00737v1_Narrative Media Framing in Political Discourse.pdf' title='Right-click \u2192 Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>\ud83d\udcc4 View Full PDF</a>",
+      "caption": "Distribution of articles across years",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart provides a visual representation of distribution across three distinct years: 2017, 2018, and 2019. It consists of three slices, each corresponding to a different year. The slice for 2019 is colored blue and accounts for 46.0% of the chart, as indicated inside the slice. The 2018 slice is orange, covering 33.0% of the chart. The 2017 slice is green, representing 21.0%. Each slice has percentage labels inside it, indicating the exact proportion, and the numbers of each category are also displayed within the slices in parentheses. There is no legend present, and the slices do not appear to be visually emphasized or arranged in a particular order."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.00737v1",
+      "paper_title": "Narrative Media Framing in Political Discourse",
+      "figure_filename": "134_2506.00737v1_Figure8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/figures/134_2506.00737v1_Figure8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/134_2506.00737v1_Narrative Media Framing in Political Discourse.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/134_2506.00737v1_Narrative Media Framing in Political Discourse.pdf' title='Right-click \u2192 Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>\ud83d\udcc4 View Full PDF</a>",
+      "caption": "Distribution of articles across political leanings of the outlets",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of bias among different categories of sources. It includes four slices: \"Right bias,\" \"Left bias,\" \"Left center bias,\" and \"Questionable source.\" The \"Right bias\" segment is blue and constitutes 30.0% of the chart. The \"Left bias\" section is orange, making up 28.0%. The \"Left center bias\" portion is red, accounting for 20.0%, while the \"Questionable source\" slice is green, representing 22.0%. Each slice is labeled with its respective percentage, and the numerical values are displayed both inside the slices and adjacent to the labels. The chart does not include a separate legend, but the labeling is clear and corresponds directly to the slices. The segments do not appear to be ordered in any particular way, such as by size, and no slices are visually emphasized or offset."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2409.04593v1",
+      "paper_title": "Paper Copilot A Self-Evolving and Efficient LLM System for Personalized   Academic Assistance",
+      "figure_filename": "173_2409.04593v1_Figure9.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/figures/173_2409.04593v1_Figure9.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/173_2409.04593v1_Paper Copilot A Self-Evolving and Efficient LLM System for Personalized   Academic Assistance.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/173_2409.04593v1_Paper Copilot A Self-Evolving and Efficient LLM System for Personalized   Academic Assistance.pdf' title='Right-click \u2192 Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>\ud83d\udcc4 View Full PDF</a>",
+      "caption": "Efficient deployment methods dramatically reduce the time cost. The average total time cost before efficient deployment is 87.1s (26.2s + 60.9s), which is reduced by 69.92% after efficient deployment.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the comparison of time spent in two categories: \"Efficient deployment\" and \"Reduction.\" There are two slices in total. The slice labeled \"Efficient deployment\" is colored blue and represents approximately 30.08% of the chart, while the slice labeled \"Reduction\" is colored orange and accounts for approximately 69.92%. Percentage labels are included inside each slice for clarity. The chart does not include a legend, and no slices are visually emphasized. The slices are ordered by descending size from \"Reduction\" to \"Efficient deployment.\""
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.13032v1",
+      "paper_title": "MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix",
+      "figure_filename": "371_2505.13032v1_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/figures/371_2505.13032v1_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/371_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/371_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf' title='Right-click \u2192 Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>\ud83d\udcc4 View Full PDF</a>",
+      "caption": ": Modality Distribution",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of various audio content categories, with a total of seven slices. The largest slice, labeled \"Speech,\" is a dark purple and constitutes approximately 29.4% of the chart. The \"Mix-Sound-Speech\" slice follows, colored in a medium purple, representing 21.8%. Next is \"Music,\" depicted in light purple, occupying 20.6% of the chart. The \"Sound\" category, also light purple, spans 16.5%. A darker purple segment labeled \"Mix-Music-Speech\" accounts for 8.2%. The slices labeled \"Mix-Sound-Music-Speech\" and \"Mix-Sound-Music,\" both in purple, represent 2.4% and 1.1% respectively. The chart includes percentage labels inside the slices and employs variations of purple to distinguish between categories. The slices appear to be ordered primarily by size but are not visually emphasized through explosion or offset techniques."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.13032v1",
+      "paper_title": "MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix",
+      "figure_filename": "371_2505.13032v1_Figure3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/figures/371_2505.13032v1_Figure3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/371_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/371_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf' title='Right-click \u2192 Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>\ud83d\udcc4 View Full PDF</a>",
+      "caption": ": Task Taxonomy",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents different analytical layers in a study of content analysis, breaking them into categories and subcategories. There are three main slices, each with further subcategories totaling 15 segments. The first main segment is the \"Perception Layer\" shown in dark blue, comprising 40.4% of the chart and includes subcategories like \"Environmental Perception & Reasoning\" and \"Counting & Statistics.\" The second main segment is the \"Semantic Layer\" in light blue, representing 41.2%, with subcategories such as \"Content Analysis,\" \"Emotion & Intention,\" and \"Speaker Analysis.\" The third main segment, the \"Cultural Layer,\" is also light blue and comprises 14.1%, with subcategories like \"Culture of Speaker\" and \"Imagination.\" Additionally, there is the \"Signal Layer,\" in the same shade, making up 4.3%, with categories like \"Anomaly Detection.\" The accompanying subcategories are labeled, and their arrangement visibly emphasizes the main analytical layers, though no segment appears to be offset or exploded. The chart includes percentage labels within the slices and the segments are presented in a descending order, without a specific legend provided."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.13032v1",
+      "paper_title": "MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix",
+      "figure_filename": "371_2505.13032v1_Figure8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/figures/371_2505.13032v1_Figure8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/371_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-3/downloaded_pdfs/371_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf' title='Right-click \u2192 Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>\ud83d\udcc4 View Full PDF</a>",
+      "caption": "Error distribution in Audio-Reasoner.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart illustrates various causes of errors, represented as categories, each shown as a distinct slice. There are seven slices in total. The categories are \"Perceptual Error\" at 37% in lavender, \"Reasoning Error\" at 20% in purple, \"Correct Answer but Wrong Choice\" at 15% in light purple, \"Repeat Thinking and No Answer\" at 12% in light blue, \"Lack of Knowledge\" at 9% in sky blue, \"Choice Format Error\" at 4% in light cyan, and \"Wrong Understanding of Instruction\" at 3% in very light cyan. The chart includes percentage labels inside the slices and features arrows pointing to three smaller segments outside the chart area for clarity. The slices are ordered in a sequence, starting with the largest segment descending to the smallest. There is no legend, and no slices are visually emphasized."
+    }
+  }
+]
