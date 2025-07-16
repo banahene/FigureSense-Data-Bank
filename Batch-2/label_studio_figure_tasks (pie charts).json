@@ -89,5 +89,31 @@
       "gpt-labeled_plot_type": "Pie Chart",
       "gpt_annotation": "The pie chart illustrates various causes of errors, represented as categories, each shown as a distinct slice. There are seven slices in total. The categories are \"Perceptual Error\" at 37% in lavender, \"Reasoning Error\" at 20% in purple, \"Correct Answer but Wrong Choice\" at 15% in light purple, \"Repeat Thinking and No Answer\" at 12% in light blue, \"Lack of Knowledge\" at 9% in sky blue, \"Choice Format Error\" at 4% in light cyan, and \"Wrong Understanding of Instruction\" at 3% in very light cyan. The chart includes percentage labels inside the slices and features arrows pointing to three smaller segments outside the chart area for clarity. The slices are ordered in a sequence, starting with the largest segment descending to the smallest. There is no legend, and no slices are visually emphasized."
     }
-  }
+  },
+  {
+    "data": {
+      "arxiv_id": "2304.03512v3",
+      "paper_title": "Hierarchical Catalogue Generation for Literature Review A Benchmark",
+      "figure_filename": "025_2304.03512v3_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-4/figures/025_2304.03512v3_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-4/downloaded_pdfs/025_2304.03512v3_Hierarchical Catalogue Generation for Literature Review A Benchmark.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-4/downloaded_pdfs/025_2304.03512v3_Hierarchical Catalogue Generation for Literature Review A Benchmark.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ": item number",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of three levels, labeled as Level1, Level2, and Level3, with corresponding values. There are three slices in total. The slice labeled \"Level1\" is light blue, representing approximately 30.04%. The slice labeled \"Level2\" is blue, representing approximately 44.32%, and the slice labeled \"Level3\" is dark blue, comprising approximately 25.64%. Percentage labels are placed inside each slice for clarity. No slices are visually emphasized, such as through offsetting or bolding, and the chart includes no external legend. The segments appear ordered by descending size based on the percentage values."
+        }
+    },
+    {
+    "data": {
+      "arxiv_id": "2304.07327v2",
+      "paper_title": "OpenAssistant Conversations -- Democratizing Large Language Model   Alignment",
+      "figure_filename": "094_2304.07327v2_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-4/figures/094_2304.07327v2_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-4/downloaded_pdfs/094_2304.07327v2_OpenAssistant Conversations -- Democratizing Large Language Model   Alignment.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-4/downloaded_pdfs/094_2304.07327v2_OpenAssistant Conversations -- Democratizing Large Language Model   Alignment.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Left: Relative share of the most frequent languages in the dataset. Right: Distribution of contributions among users.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart illustrates the distribution of various languages. It is comprised of nine slices, each representing a different language category. The largest slice is labeled \"English,\" shown in a dark blue color and accounting for 42.8% of the chart. Following this, \"Spanish\" is depicted in a medium blue color, comprising 31.4%. \"Russian\" is represented in a slightly lighter blue, covering 5.7%. The \"Other\" category, a white segment, includes multiple smaller languages summed to 5.8%. Additional languages featured are \"German\" at 3.6% in a light blue, \"French\" at 2.9% in a lighter shade, \"Chinese\" at 2.5% even lighter, \"Thai\" at 1.9% still lighter, \"Portuguese (Brazil)\" at 1.7% in a very light shade, and \"Catalan\" at 1.6% with the lightest discernible shade. Percentage labels are present inside each slice, but there is no separate legend. The sectors are arranged in descending order based on their size."
+        }
+    }
 ]
