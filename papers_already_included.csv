@@ -402,3 +402,147 @@ arxiv_id,paper_title,batch_number
 2504.08247v1,Millions of States Designing a Scalable MoE Architecture with RWKV-7   Meta-learner,4
 2308.04346v1,Unmasking Nationality Bias A Study of Human Perception of Nationalities   in AI-Generated Articles,4
 2506.03292v1,HyperSteer Activation Steering at Scale with Hypernetworks,4
+2403.09479v1,Laying the Foundation First Investigating the Generalization from   Atomic Skills to Complex Reasoning Tasks,5
+2409.04150v1,A Coin Has Two Sides A Novel Detector-Corrector Framework for Chinese   Spelling Correction,5
+2506.22808v1,MedEthicsQA A Comprehensive Question Answering Benchmark for Medical   Ethics Evaluation of LLMs,5
+2504.09639v1,Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model   Capability,5
+2305.04928v5,From Zero to Hero Harnessing Transformers for Biomedical Named Entity   Recognition in Zero- and Few-shot Contexts,5
+2412.13645v1,On the Role of Model Prior in Real-World Inductive Reasoning,5
+2406.18321v1,MathOdyssey Benchmarking Mathematical Problem-Solving Skills in Large   Language Models Using Odyssey Math Data,5
+2410.06682v2,Enhancing Multimodal LLM for Detailed and Accurate Video Captioning   using Multi-Round Preference Optimization,5
+2505.11861v1,Fair-PP A Synthetic Dataset for Aligning LLM with Personalized   Preferences of Social Equity,5
+2410.22257v2,FactBench A Dynamic Benchmark for In-the-Wild Language Model Factuality   Evaluation,5
+2503.19633v1,1.4 Million Open-Source Distilled Reasoning Dataset to Empower Large   Language Model Training,5
+2305.06311v2,Automatic Evaluation of Attribution by Large Language Models,5
+2407.17379v2,MMRA A Benchmark for Evaluating Multi-Granularity and Multi-Image   Relational Association Capabilities in Large Visual Language Models,5
+2507.00082v1,Federated Learning-Enabled Hybrid Language Models for   Communication-Efficient Token Transmission,5
+2507.08151v1,Distilling Empathy from Large Language Models,5
+2505.02550v2,Bielik v3 Small Technical Report,5
+2406.14721v1,1+12 Can Large Language Models Serve as Cross-Lingual Knowledge   Aggregators,5
+2403.11905v4,Tur[k]ingBench A Challenge Benchmark for Web Agents,5
+2410.18096v1,$M^3EL$ A Multi-task Multi-topic Dataset for Multi-modal Entity Linking,5
+2410.01744v3,Leopard A Vision Language Model For Text-Rich Multi-Image Tasks,5
+2507.05418v1,"Learn Globally, Speak Locally Bridging the Gaps in Multilingual   Reasoning",5
+2406.13340v2,SD-Eval A Benchmark Dataset for Spoken Dialogue Understanding Beyond   Words,5
+2505.02177v1,Measuring Hong Kong Massive Multi-Task Language Understanding,5
+2405.17977v2,Aligning to Thousands of Preferences via System Message Generalization,5
+2507.06539v2,Large Language Model for Extracting Complex Contract Information in   Industrial Scenes,5
+2403.02472v8,OffensiveLang A Community Based Implicit Offensive Language Dataset,5
+2407.21276v3,Knowledge Pyramid Construction for Multi-Level Retrieval-Augmented   Generation,5
+2407.09818v1,AraFinNLP 2024 The First Arabic Financial NLP Shared Task,5
+2408.07081v3,MathBridge A Large Corpus Dataset for Translating Spoken Mathematical   Expressions into $LaTeX$ Formulas for Improved Readability,5
+2407.12877v2,ReFeR Improving Evaluation and Reasoning through Hierarchy of Models,5
+2403.17848v1,ArabicaQA A Comprehensive Dataset for Arabic Question Answering,5
+2305.09645v2,StructGPT A General Framework for Large Language Model to Reason over   Structured Data,5
+2402.01622v4,TravelPlanner A Benchmark for Real-World Planning with Language Agents,5
+2406.16751v3,Towards Zero-Shot Text-To-Speech for Arabic Dialects,5
+2505.16429v1,Beyond Static Testbeds An Interaction-Centric Agent Simulation Platform   for Dynamic Recommender Systems,5
+2305.10892v2,EventNet-ITA Italian Frame Parsing for Events,5
+2506.22403v2,HyperCLOVA X THINK Technical Report,5
+2305.13582v3,Translation and Fusion Improves Zero-shot Cross-lingual Information   Extraction,5
+2412.15270v2,Baichuan4-Finance Technical Report,5
+2406.14137v2,MACAROON Training Vision-Language Models To Be Your Engaged Partners,5
+2409.05137v3,READoc A Unified Benchmark for Realistic Document Structured Extraction,5
+2505.14590v4,MCIP Protecting MCP Safety via Model Contextual Integrity Protocol,5
+2505.19549v1,Towards Multi-Granularity Memory Association and Selection for Long-Term   Conversational Agents,5
+2507.04569v1,Nile-Chat Egyptian Language Models for Arabic and Latin Scripts,5
+2405.17743v5,ORLM A Customizable Framework in Training Large Models for Automated   Optimization Modeling,5
+2505.17464v1,Hydra Structured Cross-Source Enhanced Large Language Model Reasoning,5
+2410.13611v1,H2OVL-Mississippi Vision Language Models Technical Report,5
+2504.10167v1,C-FAITH A Chinese Fine-Grained Benchmark for Automated Hallucination   Evaluation,5
+2406.16893v1,A Survey on Transformers in NLP with Focus on Efficiency,5
+2411.02538v3,MILU A Multi-task Indic Language Understanding Benchmark,5
+2305.13242v3,MAGE Machine-generated Text Detection in the Wild,5
+2408.04653v1,Batching BPE Tokenization Merges,5
+2506.12483v1,MALM A Multi-Information Adapter for Large Language Models to Mitigate   Hallucination,5
+2408.01262v5,RAGEval Scenario Specific RAG Evaluation Dataset Generation Framework,5
+2406.07967v1,Better than Random Reliable NLG Human Evaluation with Constrained   Active Sampling,5
+2305.14688v2,ExpertPrompting Instructing Large Language Models to be Distinguished   Experts,5
+2402.05138v1,SceMQA A Scientific College Entrance Level Multimodal Question   Answering Benchmark,5
+2407.03000v2,VIVA A Benchmark for Vision-Grounded Decision-Making with Human Values,5
+2406.12030v4,SPA-VL A Comprehensive Safety Preference Alignment Dataset for Vision   Language Model,5
+2505.07430v2,Comparative sentiment analysis of public perception Monkeypox vs.   COVID-19 behavioral insights,5
+2407.03778v1,From Data to Commonsense Reasoning The Use of Large Language Models for   Explainable AI,5
+2504.04717v4,Beyond Single-Turn A Survey on Multi-Turn Interactions with Large   Language Models,5
+2505.12886v1,Detection and Mitigation of Hallucination in Large Reasoning Models A   Mechanistic Perspective,5
+2410.14179v2,MultiChartQA Benchmarking Vision-Language Models on Multi-Chart   Problems,5
+2304.07987v4,Chinese Open Instruction Generalist A Preliminary Release,5
+2410.02712v2,LLaVA-Critic Learning to Evaluate Multimodal Models,5
+2505.07857v1,Enhanced Urdu Intent Detection with Large Language Models and   Prototype-Informed Predictive Pipelines,5
+2409.05840v5,MMEvol Empowering Multimodal Large Language Models with Evol-Instruct,5
+2406.00380v3,HonestLLM Toward an Honest and Helpful Large Language Model,5
+2410.15453v2,CROPE Evaluating In-Context Adaptation of Vision and Language Models to   Culture-Specific Concepts,5
+2506.02314v1,ResearchCodeBench Benchmarking LLMs on Implementing Novel Machine   Learning Research Code,5
+2407.01853v1,Improving Multilingual Instruction Finetuning via Linguistically Natural   and Diverse Datasets,5
+2406.02554v1,"Hear Me, See Me, Understand Me Audio-Visual Autism Behavior Recognition",5
+2407.09823v3,NativQA Multilingual Culturally-Aligned Natural Query for LLMs,5
+2406.05761v2,The BiGGen Bench A Principled Benchmark for Fine-grained Evaluation of   Language Models with Language Models,5
+2506.17046v1,MUCAR Benchmarking Multilingual Cross-Modal Ambiguity Resolution for   Multimodal Large Language Models,5
+2305.14592v2,Meta-Tuning LLMs to Leverage Lexical Knowledge for Generalizable   Language Style Understanding,5
+2407.00569v4,Investigating and Mitigating the Multimodal Hallucination Snowballing in   Large Vision-Language Models,5
+2504.01382v3,An Illusion of Progress Assessing the Current State of Web Agents,5
+2501.08197v1,OpenCSG Chinese Corpus A Series of High-quality Chinese Datasets for   LLM Training,5
+2408.06578v2,OpenEP Open-Ended Future Event Prediction,5
+2406.18365v2,Themis A Reference-free NLG Evaluation Language Model with Flexibility   and Interpretability,5
+2405.07615v1,ViWikiFC Fact-Checking for Vietnamese Wikipedia-Based Textual Knowledge   Source,5
+2504.03612v1,"AIR A Systematic Analysis of Annotations, Instructions, and Response   Pairs in Preference Dataset",5
+2305.11769v2,Enhancing Vision-Language Pre-Training with Jointly Learned Questioner   and Dense Captioner,5
+2409.03512v1,From MOOC to MAIC Reshaping Online Teaching and Learning through   LLM-driven Agents,5
+2504.17238v1,Crisp Cognitive Restructuring of Negative Thoughts through Multi-turn   Supportive Dialogues,5
+2504.14904v1,VLM as Policy Common-Law Content Moderation Framework for Short Video   Platform,5
+2506.00658v1,Sarc7 Evaluating Sarcasm Detection and Generation with Seven Types and   Emotion-Informed Techniques,5
+2412.05749v1,A Comparative Study on Code Generation with Transformers,5
+2505.15715v1,Beyond Empathy Integrating Diagnostic and Therapeutic Reasoning with   Large Language Models for Mental Health Counseling,5
+2408.08930v1,DePrompt Desensitization and Evaluation of Personal Identifiable   Information in Large Language Model Prompts,5
+2506.04131v1,CLAIM An Intent-Driven Multi-Agent Framework for Analyzing Manipulation   in Courtroom Dialogues,5
+2506.08277v1,Instruction-Tuned Video-Audio Models Elucidate Functional Specialization   in the Brain,5
+2305.14225v3,ManiTweet A New Benchmark for Identifying Manipulation of News on   Social Media,5
+2305.14202v2,"Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot   Sequence-to-Sequence Semantic Parsing over Wikidata",5
+2506.03949v2,"TableEval A Real-World Benchmark for Complex, Multilingual, and   Multi-Structured Table Question Answering",5
+2403.18327v2,$forall$uto$exists$val Autonomous Assessment of LLMs in Formal   Synthesis and Interpretation Tasks,5
+2504.17565v3,DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training,5
+2503.10883v1,Chat-TS Enhancing Multi-Modal Reasoning Over Time-Series and Natural   Language Data,5
+2405.17220v2,RLAIF-V Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness,5
+2403.11509v1,DEE Dual-stage Explainable Evaluation Method for Text Generation,5
+2506.05587v1,MMTU A Massive Multi-Task Table Understanding and Reasoning Benchmark,5
+2410.18889v1,Are LLMs Better than Reported Detecting Label Errors and Mitigating   Their Effect on Model Performance,5
+2503.16212v2,MathFusion Enhancing Mathematical Problem-solving of LLM through   Instruction Fusion,5
+2506.02454v1,Multimodal DeepResearcher Generating Text-Chart Interleaved Reports   From Scratch with Agentic Framework,5
+2505.20910v1,Automated Privacy Information Annotation in Large Language Model   Interactions,5
+2407.01505v1,Self-Cognition in Large Language Models An Exploratory Study,5
+2405.18357v2,Faithful Logical Reasoning via Symbolic Chain-of-Thought,5
+2406.09175v1,ReMI A Dataset for Reasoning with Multiple Images,5
+2505.23495v1,Diagnosing and Addressing Pitfalls in KG-RAG Datasets Toward More   Reliable Benchmarking,5
+2412.13375v2,Extending LLMs to New Languages A Case Study of Llama and Persian   Adaptation,5
+2406.03807v3,Tool-Planner Task Planning with Clusters across Multiple Tools,5
+2405.10128v3,Red Teaming Language Models for Processing Contradictory Dialogues,5
+2407.01929v3,What We Talk About When We Talk About LMs Implicit Paradigm Shifts and   the Ship of Language Models,5
+2505.20195v2,Monocle Hybrid Local-Global In-Context Evaluation for Long-Text   Generation with Uncertainty-Based Active Learning,5
+2310.07064v3,Large Language Models can Learn Rules,5
+2305.15028v2,ImageNetVC Zero- and Few-Shot Visual Commonsense Evaluation on 1000   ImageNet Categories,5
+2406.10819v2,GUI-World A Video Benchmark and Dataset for Multimodal GUI-oriented   Understanding,5
+2412.12447v2,PERC Plan-As-Query Example Retrieval for Underrepresented Code   Generation,5
+2306.03975v2,Revisiting Conversation Discourse for Dialogue Disentanglement,5
+2409.02813v3,MMMU-Pro A More Robust Multi-discipline Multimodal Understanding   Benchmark,5
+2305.14597v2,Voices of Her Analyzing Gender Differences in the AI Publication World,5
+2505.17144v1,MDIT-Bench Evaluating the Dual-Implicit Toxicity in Large Multimodal   Models,5
+2410.19168v1,MMAU A Massive Multi-Task Audio Understanding and Reasoning Benchmark,5
+2403.03163v3,Design2Code Benchmarking Multimodal Code Generation for Automated   Front-End Engineering,5
+2503.21888v1,RedditESS A Mental Health Social Support Interaction Dataset --   Understanding Effective Social Support to Refine AI-Driven Support Tools,5
+2411.02537v3,INQUIRE A Natural World Text-to-Image Retrieval Benchmark,5
+2505.24143v1,CrossICL Cross-Task In-Context Learning via Unsupervised Demonstration   Transfer,5
+2504.02403v1,DaKultur Evaluating the Cultural Awareness of Language Models for   Danish with Native Speakers,5
+2410.14255v2,Nova An Iterative Planning and Search Approach to Enhance Novelty and   Diversity of LLM Generated Ideas,5
+2507.10548v1,EmbRACE-3K Embodied Reasoning and Action in Complex Environments,5
+2403.18058v2,COIG-CQIA Quality is All You Need for Chinese Instruction Fine-tuning,5
+2505.24195v2,WikiGap Promoting Epistemic Equity by Surfacing Knowledge Gaps Between   English Wikipedia and other Language Editions,5
+2410.06638v4,Subtle Errors in Reasoning Preference Learning via Error-injected   Self-editing,5
+2403.00896v3,DiaHalu A Dialogue-level Hallucination Evaluation Benchmark for Large   Language Models,5
+2505.14038v1,ProMind-LLM Proactive Mental Health Care via Causal Reasoning with   Sensor Data,5
+2506.04078v2,LLMEval-Med A Real-world Clinical Benchmark for Medical LLMs with   Physician Validation,5
+2409.03810v1,How Do Your Code LLMs Perform Empowering Code Instruction Tuning with   High-Quality Data,5
+2504.18058v1,Exploring Personality-Aware Interactions in Salesperson Dialogue Agents,5
+2507.11939v1,POLYCHARTQA Benchmarking Large Vision-Language Models with Multilingual   Chart Question Answering,5
+2412.05210v1,Evaluating and Aligning CodeLLMs on Human Preference,5
+2403.03170v1,SNIFFER Multimodal Large Language Model for Explainable Out-of-Context   Misinformation Detection,5
+2505.16514v2,AppealCase A Dataset and Benchmark for Civil Case Appeal Scenarios,5

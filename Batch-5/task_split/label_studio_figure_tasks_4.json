@@ -1,0 +1,522 @@
+[
+  {
+    "data": {
+      "arxiv_id": "2409.03512v1",
+      "paper_title": "From MOOC to MAIC Reshaping Online Teaching and Learning through   LLM-driven Agents",
+      "figure_filename": "2920_2409.03512v1_Figure6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/2920_2409.03512v1_Figure6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/2920_2409.03512v1_From MOOC to MAIC Reshaping Online Teaching and Learning through   LLM-driven Agents.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/2920_2409.03512v1_From MOOC to MAIC Reshaping Online Teaching and Learning through   LLM-driven Agents.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Ratio of student activities.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents different types of student activities, highlighting various categories they participate in. There are seven slices in total. The categories include \"Managing Progress\" in pink, accounting for 9.6%; \"Managing Members\" in grey, with 0.7%; \"Expressing Opinion\" in light orange, with 18.1%; \"Discussing or Verifying\" in beige, with 1.5%; \"Asking Questions\" in dark grey, with 3.9%; \"Others\" in purple, being the largest slice at 60.9%; and \"Answering or Responding\" in blue, comprising 5.3%. The chart includes a legend on the side, and percentage labels are placed inside the slices for clarity. The segments are not in any visible order such as descending size. There is no visual emphasis like exploded or offset slices."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2504.17238v1",
+      "paper_title": "Crisp Cognitive Restructuring of Negative Thoughts through Multi-turn   Supportive Dialogues",
+      "figure_filename": "2924_2504.17238v1_Figure3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/2924_2504.17238v1_Figure3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/2924_2504.17238v1_Crisp Cognitive Restructuring of Negative Thoughts through Multi-turn   Supportive Dialogues.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/2924_2504.17238v1_Crisp Cognitive Restructuring of Negative Thoughts through Multi-turn   Supportive Dialogues.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distributions of mental health situations in our Crisp, with 10 categories across 54 sub-categories.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart visually represents various categories related to personal and social challenges, subdivided into specific topics within each category. It includes a total of eight main slices, each labeled as follows: \"Romantic\" in a teal color, \"Family\" in light blue, \"Lifestyle\" in pale yellow, \"Technology\" in green, \"Neighborhood\" in pink, \"Health\" in grey, \"Finance\" in purple, and \"Friendship\" in orange. Each main slice is further divided into smaller segments addressing different issues such as communication, generational gaps, and financial anxiety. The chart includes a legend through labels directly on the slices, with no specific percentages given, but individual segments are labeled, suggesting a diverse range of topics being addressed. No slices are visually emphasized, and the order does not appear to follow a particular pattern such as size or alphabetical order. The chart offers a comprehensive view of various stressors and challenges across multiple facets of life."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2504.14904v1",
+      "paper_title": "VLM as Policy Common-Law Content Moderation Framework for Short Video   Platform",
+      "figure_filename": "3010_2504.14904v1_Figure1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3010_2504.14904v1_Figure1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3010_2504.14904v1_VLM as Policy Common-Law Content Moderation Framework for Short Video   Platform.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3010_2504.14904v1_VLM as Policy Common-Law Content Moderation Framework for Short Video   Platform.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ": An overview of  benchmark.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart illustrates different categories related to content moderation issues by KuaiMod. It displays a total of fifteen slices, each categorized and color-coded. The categories are as follows: \"Omission of AI Labeling\" with 7% in brown, \"Fraudulent Hype Marketing\" with 8% in light brown, \"Fake Engagement\" with 4% in beige, \"Extern Link\" with 34% in yellow, \"Deceptive Advertising\" with 9% in mustard, \"Minors Dangerous Act\" with 10% in teal, \"Child Abuse\" with 2% in light blue, \"Rumors & Misinformation\" with 54% in gray, \"Sexually Explicit & Vulgar Material\" with 14% in greenish-gray, \"Violent Extremism\" with 11% in purple, \"Hazardous Materials Trafficking\" with 1% in plum, \"Offensive & Cyberbullying Speech\" with 52% in pinkish-purple, \"Crimes Against Humanity\" with 56% in lavender, \"Criminal Behavior\" with 50% in pink, and \"Unauthorized Reproduction & Plagiarism\" with 10% in rose. The chart includes both a legend and percentage labels inside each slice. The slices appear to be visually arranged by theme, grouped into five broader categories: Intellectual Property, Commercial Behavior, Content Ethics, Law & Society Safety, and others with varied color coordination."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.00658v1",
+      "paper_title": "Sarc7 Evaluating Sarcasm Detection and Generation with Seven Types and   Emotion-Informed Techniques",
+      "figure_filename": "3032_2506.00658v1_Figure1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3032_2506.00658v1_Figure1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3032_2506.00658v1_Sarc7 Evaluating Sarcasm Detection and Generation with Seven Types and   Emotion-Informed Techniques.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3032_2506.00658v1_Sarc7 Evaluating Sarcasm Detection and Generation with Seven Types and   Emotion-Informed Techniques.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of annotation labels in the dataset.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents different categories of tone or mood, with a total of seven slices. The largest slice is labeled \"Not Sarcasm,\" shown in a teal color, representing approximately 344 units. The next slice is \"Deadpan,\" in a light blue color, accounting for about 109 units. Following that is \"Polite,\" in a dark blue color, with 88 units. The \"Obnoxious\" category, in a light aqua color, comprises 68 units. \"Self-Deprecating,\" in cyan, accounts for 34 units. \"Brooding,\" in a greenish color, represents 23 units, and finally, \"Manic,\" in a greyish tone, constitutes 15 units. A small slice marked \"Raging\" in a darker green includes 8 units. The chart includes a legend matching each color to its label and percentage labels inside the slices. The slices are not visually emphasized, and they appear to be ordered by descending size."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2412.05749v1",
+      "paper_title": "A Comparative Study on Code Generation with Transformers",
+      "figure_filename": "3061_2412.05749v1_Figure1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3061_2412.05749v1_Figure1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3061_2412.05749v1_A Comparative Study on Code Generation with Transformers.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3061_2412.05749v1_A Comparative Study on Code Generation with Transformers.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Training Dataset Distribution",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of different categories related to a topic, potentially computational or algorithmic topics. It consists of six slices. The \"Arithmetic\" category, colored in orange, accounts for approximately 34.09% of the chart. The \"Array\" section, in light blue, represents about 31.43%. The \"String\" slice, colored green, makes up 24.66%, while the \"Sorting\" category, shown in pink, covers 8.96%. The \"Others\" section, in magenta, comprises 6.03%, and the \"Data Structures\" category, represented in black, takes up 0.85% of the chart. The chart displays percentage labels inside each slice and does not have a legend or visually emphasized segments. The slices appear to be ordered in descending size based on their percentage."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.15715v1",
+      "paper_title": "Beyond Empathy Integrating Diagnostic and Therapeutic Reasoning with   Large Language Models for Mental Health Counseling",
+      "figure_filename": "3066_2505.15715v1_Figure5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3066_2505.15715v1_Figure5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3066_2505.15715v1_Beyond Empathy Integrating Diagnostic and Therapeutic Reasoning with   Large Language Models for Men.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3066_2505.15715v1_Beyond Empathy Integrating Diagnostic and Therapeutic Reasoning with   Large Language Models for Men.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Analysis of OpenR1-Psy Dataset: (Left) Distribution of Psychotherapy Approaches; (Middle) Distribution of Scene Categories; (Right) Distribution of Severity Levels.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of different severity levels within a certain context, with a total of four slices. The slices are labeled and color-coded as follows: \"Moderate\" which occupies 48% of the chart and is shown in pink, \"Severe\" covering 41% and depicted in red, \"Mild\" which takes up 10% and is presented in a very light pink, and \"Critical\" comprising 1% and is indicated in a dark red. Each slice includes a label with the number and percentage values inside them. The slices are visually ordered in descending size from \"Moderate\" to \"Critical.\" There is no external legend present, but the chart provides clear labeling within each segment to convey the data proportions."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2408.08930v1",
+      "paper_title": "DePrompt Desensitization and Evaluation of Personal Identifiable   Information in Large Language Model Prompts",
+      "figure_filename": "3094_2408.08930v1_Figure1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3094_2408.08930v1_Figure1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3094_2408.08930v1_DePrompt Desensitization and Evaluation of Personal Identifiable   Information in Large Language Mod.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3094_2408.08930v1_DePrompt Desensitization and Evaluation of Personal Identifiable   Information in Large Language Mod.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Public prompt dataset PII leakage situation.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents different categories of information and their proportions. There are six slices in total. The categories are labeled as follows: \"Disease Symptom Information\" with 521 strips, \"Prescribing Information\" with 345 strips, \"Fund Code\" with 145 strips, \"Income Tax Information\" with 456 strips, \"Basic Personal Information\" with 412 strips, and \"Educational Information\" with 312 strips. The chart includes color-coded segments around the circumference corresponding to different scenes: green for \"Medical Health Scene\" at 39.52%, orange for \"Daily Life Scenes\" at 33.05%, and blue for \"Financial Economic Scenes\" at 27.43%. A legend with these scenes and corresponding percentages is included outside the chart. The segments inside the pie do not have percentage labels but are clearly marked with the number of strips. The slices do not appear to be ordered by size, and none are visually emphasized such as being exploded or offset."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.04131v1",
+      "paper_title": "CLAIM An Intent-Driven Multi-Agent Framework for Analyzing Manipulation   in Courtroom Dialogues",
+      "figure_filename": "3105_2506.04131v1_Figure3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3105_2506.04131v1_Figure3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3105_2506.04131v1_CLAIM An Intent-Driven Multi-Agent Framework for Analyzing Manipulation   in Courtroom Dialogues.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3105_2506.04131v1_CLAIM An Intent-Driven Multi-Agent Framework for Analyzing Manipulation   in Courtroom Dialogues.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Pie Chart of Primary Manipulator distribution and Scatter Plot of Words Counts in Dialogues in LegalCon.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart illustrates the distribution of the primary manipulator between two categories. The chart includes two slices: one labeled \"Plaintiff,\" represented in a light yellow color, which accounts for 20.0% of the total, and the other labeled \"Defendant,\" shown in blue, comprising 80.0%. A visual emphasis is placed on the \"Plaintiff\" slice, which is slightly offset from the main pie, distinguishing it from the \"Defendant.\" Each slice has a percentage label inside, and the chart is accompanied by a legend at the bottom identifying the colors associated with each category. The segments appear to be arranged with the larger proportion first, in descending size order."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.08277v1",
+      "paper_title": "Instruction-Tuned Video-Audio Models Elucidate Functional Specialization   in the Brain",
+      "figure_filename": "3119_2506.08277v1_Figure76.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3119_2506.08277v1_Figure76.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3119_2506.08277v1_Instruction-Tuned Video-Audio Models Elucidate Functional Specialization   in the Brain.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3119_2506.08277v1_Instruction-Tuned Video-Audio Models Elucidate Functional Specialization   in the Brain.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Shared and Unique Variance: Narrative Understanding vs. Linking Events Dark orange (left) shows variance unique to Narrative Understanding, indigo (right) shows variance unique to Linking Events, and the overlap indicates shared variance between both tasks.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart is a Venn diagram representing the distribution of elements between two categories: Narrative Understanding and Linking Events. There are three distinct sections in the diagram. The left circle, labeled “Narrative Understanding,” is colored orange and accounts for 44.09% as a unique category. The right circle, labeled “Linking Events,” is colored purple with 22.13% as its unique portion. The overlapping area between the two circles, labeled “Shared,” is colored pink and represents 33.78%. Percentage labels are provided within each section, and the chart does not include a separate legend. The circles are not visually emphasized beyond their overlapping nature, and no specific order of size is visually apparent beyond the proportions stated."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2305.14225v3",
+      "paper_title": "ManiTweet A New Benchmark for Identifying Manipulation of News on   Social Media",
+      "figure_filename": "3197_2305.14225v3_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3197_2305.14225v3_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3197_2305.14225v3_ManiTweet A New Benchmark for Identifying Manipulation of News on   Social Media.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3197_2305.14225v3_ManiTweet A New Benchmark for Identifying Manipulation of News on   Social Media.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distributions of errors. The error type definition is shown in <Ref>.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart depicts the distribution of different types of errors or failures related to span and detection tasks. There are five slices in total, each with a specific label and color. \"Pristine Span Extraction Failure\" is represented in the darkest blue color, covering 40.0% of the chart. \"Opinion Identification Error\" is shown in a slightly lighter blue, accounting for 25.0%. \"Manipulation Detection False Alarm\" is a lighter blue shade, comprising 15.0%. Both \"Manipulating Span Extraction Failure\" and \"Manipulation Detection False Negative\" are represented in the lightest blue shade, each making up 10.0% of the chart. The pie chart includes percentage labels inside each slice for clarity and the segments are ordered in descending size from \"Pristine Span Extraction Failure\" to the two 10.0% categories. No legend is present, and no slices are visually emphasized beyond their differences in color."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2305.14202v2",
+      "paper_title": "Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot   Sequence-to-Sequence Semantic Parsing over Wikidata",
+      "figure_filename": "3241_2305.14202v2_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3241_2305.14202v2_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3241_2305.14202v2_Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot   Sequence-to-Sequence Semantic Parsing ov.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3241_2305.14202v2_Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot   Sequence-to-Sequence Semantic Parsing ov.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of correct, incomplete, and incorrect answers for the dev set, when GPT-3 is used alone and when combined with .",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The first pie chart illustrates the distribution of GPT-3 output categories labeled as \"Correct GPT,\" \"Incomplete GPT,\" and \"Incorrect GPT,\" with a total of three slices. The \"Correct GPT\" slice is colored green and represents 66% of the chart. The \"Incomplete GPT\" slice, marked in yellow, accounts for 27%, while the \"Incorrect GPT\" slice, shown in red, constitutes 7%. Percentage labels are displayed inside the slices, but no legend is present, and no slices are visually emphasized. The second pie chart depicts categories for \"WikiSP + GPT-3\" output, also with three slices. The \"Verified from WikiSP\" portion, in blue, covers 76% of the chart. The \"Correct GPT\" segment, shown in green, comprises 15%, while the \"Incomplete GPT\" and \"Incorrect GPT\" sections are colored yellow and red, representing 6% and 4% respectively. Similar to the first chart, percentage labels are included within the slices, without a legend or emphasis on specific portions. The segments in both charts are visually ordered in descending percentage size."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2305.14202v2",
+      "paper_title": "Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot   Sequence-to-Sequence Semantic Parsing over Wikidata",
+      "figure_filename": "3241_2305.14202v2_Figure5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3241_2305.14202v2_Figure5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3241_2305.14202v2_Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot   Sequence-to-Sequence Semantic Parsing ov.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3241_2305.14202v2_Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot   Sequence-to-Sequence Semantic Parsing ov.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of correct, incomplete, and incorrect answers for the QALD-7 test set, when GPT-3 is used alone and when combined with .",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart on the left illustrates the categorization of responses from \"GPT-3 only,\" featuring a total of three slices. The largest slice is labeled \"Correct GPT,\" colored in green, and represents 62% of the chart. The next slice, labeled \"Incomplete GPT,\" is yellow and accounts for 20%. The smallest slice, labeled \"Incorrect GPT,\" is orange and comprises 18% of the pie. This chart includes percentage labels inside each slice. On the right, the \"WikiSP + GPT-3\" chart displays four slices. The largest segment is \"Verified from WikiSP,\" colored in blue, making up 38%. \"Correct GPT,\" in green, follows with 34%. The \"Incomplete GPT\" portion is yellow, representing 16%, while \"Incorrect GPT\" is orange, accounting for 12%. This chart also has percentage labels inside each segment. The slices in both charts appear to be ordered in descending size, and no slices are visually emphasized."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.03949v2",
+      "paper_title": "TableEval A Real-World Benchmark for Complex, Multilingual, and   Multi-Structured Table Question Answering",
+      "figure_filename": "3318_2506.03949v2_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3318_2506.03949v2_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3318_2506.03949v2_TableEval A Real-World Benchmark for Complex, Multilingual, and   Multi-Structured Table Question An.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3318_2506.03949v2_TableEval A Real-World Benchmark for Complex, Multilingual, and   Multi-Structured Table Question An.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Task distribution of our TableEval.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart visually represents the distribution of categories within a set of data, focusing on different types of tasks. There are a total of sixteen slices shown. The largest segment is \"Information Retrieval\" in dark blue, comprising 27.40%. Following this, \"Data Analysis\" in red makes up 29.55%, and \"Numerical Analysis\" in green accounts for 23.48%. Other slices include \"Reasoning\" at 12.30%, \"Simple Lookup\" in a lighter blue at 15.87%, \"Conditional Lookup\" in light blue at 10.28%, \"Sorting\" in green at 9.59%, and \"Statistics\" at 9.46%. Additional smaller slices include \"Table Size Detection\" at 1.33%, \"Rejection\" at 12.82%, \"Correlation Judgement\" at 3.35%, \"Anomaly Detection\" at 1.94%, \"Trend Analysis\" at 2.32%, \"Comparative Analysis\" at 5.98%, \"Causal Analysis\" at 3.14%, \"Multi-hop Question\" at 5.94%, \"Merged Cell Detection\" at 5.72%, and \"Ellipsis or Reference\" at 6.58%. A legend is included, and each segment is labeled with its respective percentage. The segments appear to be ordered by size, with larger segments positioned adjacent to each other."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2403.18327v2",
+      "paper_title": "$forall$uto$exists$val Autonomous Assessment of LLMs in Formal   Synthesis and Interpretation Tasks",
+      "figure_filename": "3383_2403.18327v2_Figure5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3383_2403.18327v2_Figure5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3383_2403.18327v2_$forall$uto$exists$val Autonomous Assessment of LLMs in Formal   Synthesis and Interpretation Tasks.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3383_2403.18327v2_$forall$uto$exists$val Autonomous Assessment of LLMs in Formal   Synthesis and Interpretation Tasks.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Count of the number of examples for each metric value for the regular expression datasets. The pie charts increase in values counter-clockwise while going from lighter to darker.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The image presents three pie charts comparing different aspects related to regular expressions, specifically \"Density,\" \"# of Edges,\" and \"# of Nodes.\" The chart labeled \"Density\" contains five slices. The slices are labeled as 0, 0.1, 0.2, 0.3, and 0.5, with a gradual color gradient from light to darker blue; precise percentages are not displayed. The \"# of Edges\" chart also includes five slices labeled 2, 3, 4, 5, and 6, with a seventh category labeled \"7+.\" The slices follow a range of blue shades similar to the first chart. The \"# of Nodes\" chart has six slices labeled 1, 2, 3, 4, 5, 6, and \"7+,\" showing a similar color progression. All three charts feature a legend that is incorporated implicitly through the labels on each slice. The segments appear to be ordered in a manner that suggests they are sorted by size or value, but no slice is visually emphasized through techniques such as exploding or bolding."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2504.17565v3",
+      "paper_title": "DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training",
+      "figure_filename": "3418_2504.17565v3_Figure3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3418_2504.17565v3_Figure3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3418_2504.17565v3_DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3418_2504.17565v3_DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of training data types in Supervised Fine-Tuning (SFT) Stage I. The left pie chart illustrates the proportion at the instance-level, while the right pie chart shows the distribution at the answer token-level.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The two pie charts represent the distribution of data instances and tokens across different categories. The chart on the left displays the \"Instance Level Distribution,\" consisting of five slices. The categories are \"code\" in green at 25.7%, \"math\" in blue at 29.1%, \"other\" in red at 35.5%, \"science\" in orange at 7.4%, and \"instruction follow\" in purple at 2.3%. The chart includes a legend for category labels and counts, and the percentages are labeled inside the slices. The chart on the right shows the \"Token Level Distribution,\" also comprised of five categories. Here, \"code\" is green at 40.7%, \"math\" is blue at 40.0%, \"other\" is red at 14.6%, \"science\" is orange at 4.0%, and \"instruction follow\" is purple at 0.7%. As with the first chart, this one includes a legend indicating category labels and total numbers, with percentage labels present within the slices. Both charts have their slices arranged in descending order of size."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2504.17565v3",
+      "paper_title": "DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training",
+      "figure_filename": "3418_2504.17565v3_Figure4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3418_2504.17565v3_Figure4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3418_2504.17565v3_DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3418_2504.17565v3_DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of training data types in Supervised Fine-Tuning (SFT) Stage II. The left pie chart illustrates the proportion at the instance-level, the right pie chart shows the distribution at the answer token-level.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The left pie chart represents the instance level distribution across five categories, with a total of five slices. These categories include \"math\" occupying 33.6% in blue, \"code\" at 27.6% in green, \"other\" at 26.9% in red, \"science\" accounting for 7.9% in orange, and \"instruction follow\" making up 4.0% in purple. A legend is provided to match colors with categories and includes instance counts. Each slice is labeled with percentages, and the chart visually orders slices by size in descending order. The right pie chart illustrates the token level distribution also across the same five categories. The segments are distributed with \"math\" covering 46.7% in blue, \"code\" at 43.0% in green, \"other\" at 5.1% in red, \"science\" at 4.6% in orange, and \"instruction follow\" at 0.7% in purple. There is a legend that aligns categories with their respective colors and token counts, alongside percentage labels within each slice. The slices are sorted in descending proportion order. No slices are visually emphasized through techniques such as explosion or offsetting."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2504.17565v3",
+      "paper_title": "DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training",
+      "figure_filename": "3418_2504.17565v3_Figure8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3418_2504.17565v3_Figure8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3418_2504.17565v3_DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3418_2504.17565v3_DeepDistill Enhancing LLM Reasoning Capabilities via Large-Scale   Difficulty-Graded Data Training.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of query types in the dataset. Math queries constitute 24.8%, code 14.7%, science 2.7%, instruction following 2.3%, and other 55.5%.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart provides a visual representation and comparison of different categories: \"other,\" \"math,\" \"code,\" \"science,\" and \"instruction follow.\" It consists of five slices. The \"other\" category, labeled in pink, occupies approximately 55.5% of the chart. The \"math\" category is shown in blue and constitutes about 24.8%. The \"code\" category, represented in green, makes up approximately 14.7%. The \"science\" category is shown in orange, taking up around 2.7%, and the \"instruction follow\" category is depicted in purple, constituting about 2.3% of the chart. The chart includes a legend identifying each category with its corresponding color and count. Percentage labels are present inside each slice, and the slices appear to be ordered by size in descending order from \"other\" to \"instruction follow.\""
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.13032v1",
+      "paper_title": "MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix",
+      "figure_filename": "3425_2505.13032v1_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3425_2505.13032v1_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3425_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3425_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ": Modality Distribution",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of different audio categories in a dataset. There are seven slices in total. The largest segment is labeled \"Speech\" and is colored in light purple, accounting for 29.4% of the chart. Following this is the \"Mix-Sound-Speech\" slice, also in a shade of purple, comprising 21.8%. The \"Music\" category is a slightly darker shade of purple, making up 20.6% of the total. The \"Sound\" segment is similarly colored, representing 16.5%. “Mix-Music-Speech” is in a deeper purple hue and constitutes 8.2%. Smaller slices include \"Mix-Sound-Music-Speech\" and \"Mix-Sound-Music,\" accounting for 2.4% and 1.1%, respectively, both annotated in shades of purple. The chart includes percentage labels inside each slice, but no legend is present. No slices are visually emphasized, and the segments appear ordered in descending size based on their proportions."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.13032v1",
+      "paper_title": "MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix",
+      "figure_filename": "3425_2505.13032v1_Figure8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3425_2505.13032v1_Figure8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3425_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3425_2505.13032v1_MMAR A Challenging Benchmark for Deep Reasoning in Speech, Audio,   Music, and Their Mix.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Error distribution in Audio-Reasoner.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart illustrates the distribution of different types of errors. It contains seven slices, each representing a specific error category. The slices are as follows: \"Perceptual Error\" is a large purple section, occupying 37% of the chart; \"Reasoning Error\" is another purple section, making up 20%; \"Correct Answer but Wrong Choice,\" in a lighter purple, accounts for 15%; \"Repeat Thinking and No Answer,\" in blue, represents 12%; \"Lack of Knowledge,\" in a bright cyan, covers 9%; \"Choice Format Error,\" in a lighter shade of cyan, is 4%; and \"Wrong Understanding of Instruction,\" a small light blue slice, constitutes 3% of the chart. Percentage labels are included within each slice. The chart does not include a legend, and no slices are visually emphasized. The segments are not ordered by size."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2503.10883v1",
+      "paper_title": "Chat-TS Enhancing Multi-Modal Reasoning Over Time-Series and Natural   Language Data",
+      "figure_filename": "3538_2503.10883v1_Figure5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3538_2503.10883v1_Figure5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3538_2503.10883v1_Chat-TS Enhancing Multi-Modal Reasoning Over Time-Series and Natural   Language Data.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3538_2503.10883v1_Chat-TS Enhancing Multi-Modal Reasoning Over Time-Series and Natural   Language Data.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Breakdown of sample types in the TS Instruct dataset. In total we have 18306 total samples in our dataset.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart represents the distribution of tasks among four categories, providing a visual comparison of the proportions each category occupies. There are four slices in total. The categories are Math, colored red, comprising 13.7% of the chart; Classification, shown in purple, making up 16.1%; Decision, displayed in yellow, accounting for 17.1%; and Reasoning, represented in teal, which occupies the largest portion at 53.1%. The chart includes percentage labels inside each slice for clarity. There is no visible legend, and none of the slices are visually emphasized or offset. The slices appear to be ordered based on descending size."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2405.17220v2",
+      "paper_title": "RLAIF-V Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness",
+      "figure_filename": "3545_2405.17220v2_Figure7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3545_2405.17220v2_Figure7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3545_2405.17220v2_RLAIF-V Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3545_2405.17220v2_RLAIF-V Open-Source AI Feedback Leads to Super GPT-4V Trustworthiness.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "figure",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of different categories under two main sections: Reasoning and Perception. The chart features a total of seven slices. The Reasoning category, shown in yellow, contains several subcategories: Attribute Reasoning (12.2%), Relation Reasoning (14.4%), OCR (10.8%), Creative Generation (12.5%), Time Series Reasoning (4.2%), and Logical Reasoning (3.1%). The Perception category, shown in blue, includes two subcategories: Fine-grained Perception (23.6%) and Coarse Perception (19.2%). Each slice has a label and percentage within it, showing the proportion of each category. The chart does not include a legend, and no slices appear to be visually emphasized beyond their color differentiation. The segments are visually organized to present an overall view of the contributions to Reasoning and Perception, based on the colors used for each group."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2403.11509v1",
+      "paper_title": "DEE Dual-stage Explainable Evaluation Method for Text Generation",
+      "figure_filename": "3572_2403.11509v1_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3572_2403.11509v1_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3572_2403.11509v1_DEE Dual-stage Explainable Evaluation Method for Text Generation.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3572_2403.11509v1_DEE Dual-stage Explainable Evaluation Method for Text Generation.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Left: The distribution of error categories in AntEval. The inner circle depicts the principle categories and the outer circle depicts the corresponding sub-error categories. Right: Error distribution in each task, calculated by $N_\\text{error}$ / $N_\\text{example}$. Here we count the number of sub-errors, which may occur more than once in one example.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart illustrates different categories of issues, specifically focusing on aspects of basic, reliability, misalignment, and toxicity & bias. There are a total of sixteen slices. The \"basic\" category includes slices labeled \"incoherent,\" \"inconsistent,\" and \"not fluent,\" all in shades of blue. The \"reliability\" category encompasses \"misinformation,\" \"non-factual,\" \"intrinsic hallucination,\" and \"extrinsic hallucination,\" depicted in varying shades of red and pink. The \"misalignment\" section is a single larger slice in a bold red color. The \"toxicity & bias\" category consists of five slices: \"stereotype,\" \"offensive language,\" \"hatred,\" \"sexual discrimination,\" \"region discrimination,\" and \"racial discrimination\" in purple hues. There is no legend present, and percentages or proportions are not shown explicitly within the slices. The chart appears visually balanced, with no slices emphasized differently through explosion or offsetting."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.05587v1",
+      "paper_title": "MMTU A Massive Multi-Task Table Understanding and Reasoning Benchmark",
+      "figure_filename": "3580_2506.05587v1_Figure1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3580_2506.05587v1_Figure1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3580_2506.05587v1_MMTU A Massive Multi-Task Table Understanding and Reasoning Benchmark.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3580_2506.05587v1_MMTU A Massive Multi-Task Table Understanding and Reasoning Benchmark.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "table : Question distribution by task category",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart visually represents the distribution of various tasks within a given context. There are ten slices in total. The \"Column Relationship\" category is blue and comprises 6.2% of the chart. \"Table Understanding\" is light blue, representing 6.5%. \"Table Transform\" is a mustard yellow color with a proportion of 3.3%. The \"Table QA\" slice is gray, covering 11.2%. The pink segment labeled \"Table Matching\" occupies 19.8% of the chart. \"Table Join\" is brown and represents 2.1%. \"NL-2-code\" is purple with a proportion of 10.7%. The red segment labeled \"KB mapping\" covers 9.8%. \"Data Cleaning\" is green, comprising 16.3%, and \"Column Transform\" is orange with 14.1%. Percentage labels are included inside each slice. The chart does not highlight or emphasize any segment visually, and the segments are not clearly ordered by size. A legend is not present."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2410.18889v1",
+      "paper_title": "Are LLMs Better than Reported Detecting Label Errors and Mitigating   Their Effect on Model Performance",
+      "figure_filename": "3627_2410.18889v1_Figure7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3627_2410.18889v1_Figure7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3627_2410.18889v1_Are LLMs Better than Reported Detecting Label Errors and Mitigating   Their Effect on Model Performa.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3627_2410.18889v1_Are LLMs Better than Reported Detecting Label Errors and Mitigating   Their Effect on Model Performa.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ": Distribution of crowd-source annotators. Each example was annotated by 3 workers. Plain segments are unanimous annotation, while dotted segments indicate examples where some annotators labeled as inconsistent, and other as consistent. For example, 19.8% of the examples had two inconsistent annotation, and one consistent annotation.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of a certain dataset into four slices, distinguished by patterns and shading to indicate different categories. The chart includes four slices with the following details: the largest slice, labeled \"39.5%,\" is represented with a blue polka dot pattern; the next slice, \"36.3%,\" is in solid dark blue; the slice labeled \"19.8%\" is in a light blue polka dot pattern; and the smallest slice, \"4.5%,\" is in light blue. There is a legend present on the chart indicating \"Mix\" for the patterned styles and \"All\" for the solid colors. Percentage labels are included within each slice, providing a clear numerical representation of each category. The slices are not visually emphasized with techniques such as exploding. There is no apparent order to the arrangement of the slices. Additionally, a vertical bar on the right side of the chart shows a color gradient labeled from \"consistent\" to \"inconsistent.\""
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2410.18889v1",
+      "paper_title": "Are LLMs Better than Reported Detecting Label Errors and Mitigating   Their Effect on Model Performance",
+      "figure_filename": "3627_2410.18889v1_Figure8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3627_2410.18889v1_Figure8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3627_2410.18889v1_Are LLMs Better than Reported Detecting Label Errors and Mitigating   Their Effect on Model Performa.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3627_2410.18889v1_Are LLMs Better than Reported Detecting Label Errors and Mitigating   Their Effect on Model Performa.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ": How experts annotations have changed after the reconciliation phase. Most changes occur from 1 (consistent) to 0 (inconsistent).",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents data regarding categories labeled \"0 → 1\" and \"1 → 0,\" and the contributions of two annotators, \"Annotator #1\" and \"Annotator #2.\" There are four slices in total. The first slice, labeled \"0 → 1\" with a solid pink fill, occupies approximately 17.9% of the chart. The second slice, labeled \"1 → 0\" with a striped pink fill, makes up about 12.8%. The third slice, labeled \"0 → 1\" with a solid blue fill, accounts for roughly 23.1%. The fourth slice, labeled \"1 → 0\" with a dotted blue fill, constitutes approximately 46.2% of the chart. A legend is included in the chart to indicate the labels and their corresponding colors and patterns; percentage labels are provided inside each slice. The slices are organized in descending order with no visual emphasis such as explosion or offset employed."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2503.16212v2",
+      "paper_title": "MathFusion Enhancing Mathematical Problem-solving of LLM through   Instruction Fusion",
+      "figure_filename": "3661_2503.16212v2_Figure9.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3661_2503.16212v2_Figure9.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3661_2503.16212v2_MathFusion Enhancing Mathematical Problem-solving of LLM through   Instruction Fusion.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3661_2503.16212v2_MathFusion Enhancing Mathematical Problem-solving of LLM through   Instruction Fusion.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of combination types of problems in MATH dataset.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents various mathematical categories and their proportions. It includes 17 slices, each labeled with a different mathematical discipline. The categories are (Algebra, Algebra) at 17.4% in mint green, (Intermediate Algebra, Intermediate Algebra) at 13.5% in peach, (Prealgebra, Prealgebra) at 9.2% in light yellow, both (Geometry, Geometry) in gray and (Geometry, Prealgebra) in a lighter gray at 9.1% and 2.9% respectively, and (Counting & Probability, Prealgebra) at 2.9% also in gray. Other categories include (Precalculus, Precalculus) at 8.4% in light beige, (Number Theory, Number Theory) at 8.2% in pale pink, (Counting & Probability, Counting & Probability) in blue at 7.9%, (Algebra, Prealgebra) at 3.8% in pink, (Algebra, Intermediate Algebra) and (Others) both at 4.9%, with the former in orange and the latter in gray, (Intermediate Algebra, Precalculus) at 1.2% in light blue, (Counting & Probability, Number Theory) at 1.5% in yellow, and (Algebra, Number Theory) at 1.1% in lavender. Additionally, (Number Theory, Prealgebra) appears in green at 3.1%. The chart includes percentage labels within each slice, but no legend is provided. The chart is organized in a descending order starting from the largest segment, with no slices visually emphasized."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2506.02454v1",
+      "paper_title": "Multimodal DeepResearcher Generating Text-Chart Interleaved Reports   From Scratch with Agentic Framework",
+      "figure_filename": "3704_2506.02454v1_Figure4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3704_2506.02454v1_Figure4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3704_2506.02454v1_Multimodal DeepResearcher Generating Text-Chart Interleaved Reports   From Scratch with Agentic Fram.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3704_2506.02454v1_Multimodal DeepResearcher Generating Text-Chart Interleaved Reports   From Scratch with Agentic Fram.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of visualization charts generated with DataNarrative and Multimodal DeepResearcher (Ours). The first column in the legend (denoted by red and yellow colors) represents conventional chart types.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart presents a comparison of chart types used in two categories: \"DataNarrative\" and \"Multimodal DeepResearcher.\" The \"DataNarrative\" chart consists of five slices. The largest slice is labeled \"Bar chart\" in red, accounting for 43.9%. Following this is the \"Line chart\" in orange with 28.5%, the \"Dashboard\" in green at 10.4%, the \"Pie chart\" in yellow at 5.9%, and the \"Scatter chart\" in light orange at 5.8%. The \"Multimodal DeepResearcher\" chart contains eight slices. The largest is the \"Bar chart\" in red, representing 31.1%, followed closely by the \"Dashboard\" in green at 30.9%, and the \"Line chart\" in orange at 23.0%. Additional slices include \"Pie chart\" in yellow at 5.9%, \"Choropleth map\" in lighter blue at a smaller percentage, \"Scatter chart\" in light orange at 5.8%, \"Sankey diagram\" in purple, and \"Others\" in blue, each with smaller percentages. Both charts include percentage labels inside the slices and use a legend to distinguish colors, without any slices being visually emphasized or ordered by size."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.20910v1",
+      "paper_title": "Automated Privacy Information Annotation in Large Language Model   Interactions",
+      "figure_filename": "3721_2505.20910v1_Figure4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3721_2505.20910v1_Figure4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3721_2505.20910v1_Automated Privacy Information Annotation in Large Language Model   Interactions.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3721_2505.20910v1_Automated Privacy Information Annotation in Large Language Model   Interactions.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Top 20 privacy categories in ShareGPT.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents various categories of information, possibly related to personal or professional attributes. It contains a total of 17 slices, each labeled with a distinct category. The slices are colored in varying shades of blue, gray, and black. The categories, in clockwise order starting from the top, are: \"Purpose/Activity Claim\" in dark gray, \"Behavioral Preference\" in a lighter gray, \"Identification Information\" in light gray, \"Service/Platform\" in a very light gray, \"Field of Study\" in very light blue, \"Project/Business Name\" in a slightly darker light blue, \"Programming Task\" in light blue, \"Financial Data/Identifiers\" in medium blue, \"Interests\" in dark gray, \"Professional Affiliation/Context\" in medium gray, \"Request\" in light gray, \"Data Tools and Methods\" in very light gray, \"Personal Mindset/Opinions\" in grayish white, \"Skills/Expertise\" in white, \"Address\" in grayish white, \"Technology/Product\" in light blue, \"Professional Involvement\" in medium blue, \"Community Affiliation\" in dark blue, and \"Status\" in navy blue. This chart does not include a legend, percentage labels inside the slices, or any visual emphasis such as exploded or offset slices. The segments do not appear to be ordered by size or any discernible pattern."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2407.01505v1",
+      "paper_title": "Self-Cognition in Large Language Models An Exploratory Study",
+      "figure_filename": "3740_2407.01505v1_Figure3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3740_2407.01505v1_Figure3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3740_2407.01505v1_Self-Cognition in Large Language Models An Exploratory Study.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3740_2407.01505v1_Self-Cognition in Large Language Models An Exploratory Study.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ": Evaluation of LLMs for self-cognition.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart is a pie chart with a hollow center, representing different levels, and includes five segments in total. The slices are labeled as Level 0, Level 1, Level 2, Level 3, and Level 4. The Level 0 slice is colored light blue and appears to take up a small proportion of the chart. Level 1 is pink and also occupies a small part. Level 2 is shown in a light red color and is the largest segment. Level 3 is light green and medium-sized, while Level 4 is pale pink and similar in size to Level 1. The chart includes labels placed outside the slices with lines connecting to each slice, but does not provide exact percentages or a legend. The segments are not ordered in any obvious size sequence and there does not appear to be any visual emphasis, such as slices being exploded or offset."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2304.07327v2",
+      "paper_title": "OpenAssistant Conversations -- Democratizing Large Language Model   Alignment",
+      "figure_filename": "3792_2304.07327v2_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3792_2304.07327v2_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3792_2304.07327v2_OpenAssistant Conversations -- Democratizing Large Language Model   Alignment.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3792_2304.07327v2_OpenAssistant Conversations -- Democratizing Large Language Model   Alignment.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Left: Relative share of the most frequent languages in the dataset. Right: Distribution of contributions among users.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of different languages. It comprises eleven slices in total. The largest slice is labeled \"English,\" colored in dark blue, and accounts for 42.8% of the chart. Following this, \"Spanish\" is represented in a slightly lighter blue and constitutes 31.4%. The \"Russian\" slice also appears lighter and represents 5.7%. The \"Other\" category holds 5.8% and is in the lightest blue. Smaller slices include \"German\" at 3.6% and \"French\" at 2.9%, with slightly varied shades of blue. Further divisions are \"Chinese\" at 2.5%, \"Thai\" at 1.9%, \"Portuguese (Brazil)\" at 1.7%, and \"Catalan\" at 1.6%, each with incrementally lighter shades. A legend is not present, but the percentages are labeled inside each slice. The slices are ordered in descending size based on their proportions."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2304.07327v2",
+      "paper_title": "OpenAssistant Conversations -- Democratizing Large Language Model   Alignment",
+      "figure_filename": "3792_2304.07327v2_Figure5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3792_2304.07327v2_Figure5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3792_2304.07327v2_OpenAssistant Conversations -- Democratizing Large Language Model   Alignment.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3792_2304.07327v2_OpenAssistant Conversations -- Democratizing Large Language Model   Alignment.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Left: Relative share of the most frequent languages in the dataset. Right: Distribution of contributions among users.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart illustrates the distribution of various languages used within a given dataset. It contains a total of eleven slices. The largest slice is labeled \"English,\" colored in dark blue, representing 42.8% of the total. The second largest is \"Spanish,\" with a blue color, comprising 31.4%. Following this is \"Russian,\" also in blue, accounting for 5.7%. \"Other,\" colored in light blue, forms 5.8%. Additional slices include \"German\" (3.6%), \"French\" (2.9%), \"Chinese\" (2.5%), \"Thai\" (1.9%), \"Portuguese (Brazil)\" (1.7%), and \"Catalan\" (1.6%), all in progressively lighter shades of blue. The chart includes percentage labels inside each slice but does not provide a legend. The slices are visually ordered in descending size from largest to smallest, and no slices appear to be visually emphasized through exploding or offsetting."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2405.18357v2",
+      "paper_title": "Faithful Logical Reasoning via Symbolic Chain-of-Thought",
+      "figure_filename": "3821_2405.18357v2_Figure7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3821_2405.18357v2_Figure7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3821_2405.18357v2_Faithful Logical Reasoning via Symbolic Chain-of-Thought.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3821_2405.18357v2_Faithful Logical Reasoning via Symbolic Chain-of-Thought.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "The proportion of faithful, unfaithful, and false answers. Faithful/unfaithful denotes whether the predicated correct answer is derived from valid&reaonsable logical reasoning.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The image presents three pie charts comparing the distribution of \"Faithful,\" \"Unfaithful,\" and \"False\" outcomes for three distinct methods: CoT, w/o Verifier, and SymbCoT. Each pie chart is divided into three slices. In the CoT chart, the slices are labeled as \"Faithful\" in green at 65%, \"Unfaithful\" in orange at 6%, and \"False\" in blue at 29%. The w/o Verifier chart shows \"Faithful\" in green at 74%, \"Unfaithful\" in orange at 2%, and \"False\" in blue at 24%. Finally, the SymbCoT chart has \"Faithful\" in green at 84%, \"Unfaithful\" not shown explicitly, and \"False\" in blue at 16%. A legend below the charts identifies the colors for each category. Percentage labels are included within each slice of the charts, and the segments are presented without any noticeable ordering pattern."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2405.18357v2",
+      "paper_title": "Faithful Logical Reasoning via Symbolic Chain-of-Thought",
+      "figure_filename": "3821_2405.18357v2_Figure9.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3821_2405.18357v2_Figure9.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3821_2405.18357v2_Faithful Logical Reasoning via Symbolic Chain-of-Thought.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3821_2405.18357v2_Faithful Logical Reasoning via Symbolic Chain-of-Thought.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "The proportion of predicting True, False, and Unknown on FOLIO.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The image presents three pie charts depicting the distribution of responses labeled as \"True,\" \"False,\" and \"Unknown\" for three different models: CoT, Logic-LM, and SymbCoT. Each pie chart contains three slices. In the CoT chart, a blue slice labeled \"True\" represents 32%, an orange slice labeled \"False\" accounts for 27%, and a green slice labeled \"Unknown\" is 41%. The Logic-LM pie chart has a blue slice labeled \"True\" at 25%, an orange slice labeled \"False\" at 24%, and a green slice labeled \"Unknown\" at 51%. For the SymbCoT chart, the blue slice \"True\" is shown at 32%, the orange \"False\" segment is 28%, and the green \"Unknown\" covers 39%. A legend beneath the pie charts specifies the colors associated with each label but there are no exploded or visually emphasized slices. The segments are not ordered in a descending pattern within each chart."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2406.09175v1",
+      "paper_title": "ReMI A Dataset for Reasoning with Multiple Images",
+      "figure_filename": "3887_2406.09175v1_Figure4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3887_2406.09175v1_Figure4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3887_2406.09175v1_ReMI A Dataset for Reasoning with Multiple Images.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3887_2406.09175v1_ReMI A Dataset for Reasoning with Multiple Images.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ":",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The image contains two pie charts, labeled Chart 1 and Chart 2. Both charts appear to categorize segments of a population or data set. Chart 1 has four slices labeled as Lower Middle, Low, Upper Middle, and Middle. Lower Middle is dark green and represents 31.6%, Low is purple at 4.8%, Upper Middle is green at 19.7%, and Middle is orange at 43.7%. Chart 2 also has four slices labeled as Low, Upper Middle, Middle, and Lower Middle. Low, in purple, covers 21.0%, Upper Middle is light green and accounts for 3.5%, Middle is represented in dark yellow with 12.9%, and Lower Middle is green at 62.6%. Both charts include percentage labels inside the slices. The slices do not seem to be ordered by size or visually emphasized with effects like explosion or bolding. There is no legend present for either chart."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2505.23495v1",
+      "paper_title": "Diagnosing and Addressing Pitfalls in KG-RAG Datasets Toward More   Reliable Benchmarking",
+      "figure_filename": "3895_2505.23495v1_Figure2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3895_2505.23495v1_Figure2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3895_2505.23495v1_Diagnosing and Addressing Pitfalls in KG-RAG Datasets Toward More   Reliable Benchmarking.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3895_2505.23495v1_Diagnosing and Addressing Pitfalls in KG-RAG Datasets Toward More   Reliable Benchmarking.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Topic Distribution",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart illustrates the distribution across different academic and activity categories, totaling 10,787 units. There are nine slices depicted in the chart, each represented by a specific color. The slice for Arts is dark blue and constitutes 42.3% of the total. Astronomy is in light blue with 17.3%, Biology is a lighter blue with 8.1%, and Physics is a lighter shade of blue with 4.6%. Sports is in orange making up 3.7%, Philosophy in a darker orange at 3.3%, Geography in peach contributing 3.2%, Others is a lighter peach color representing 12.4%, and Chemistry is green with 5.1%. The chart includes a legend indicating the color corresponding to each category and percentage labels inside the slices for clarity. The slices are visually ordered in decreasing size from Arts to Geography, with none of the slices emphasized beyond their color differentiation."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2412.13375v2",
+      "paper_title": "Extending LLMs to New Languages A Case Study of Llama and Persian   Adaptation",
+      "figure_filename": "3897_2412.13375v2_Figure1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3897_2412.13375v2_Figure1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3897_2412.13375v2_Extending LLMs to New Languages A Case Study of Llama and Persian   Adaptation.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3897_2412.13375v2_Extending LLMs to New Languages A Case Study of Llama and Persian   Adaptation.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": ": Persian pre-training data sizes: 12.96GB monolingual and 279MB parallel.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of different data sources, categorized into six slices. The sources included are \"common-crawl,\" \"wikipedia,\" \"social media,\" \"parallel data,\" \"news,\" and \"poetry.\" The slice for \"common-crawl\" is colored blue and constitutes 63.6% of the chart. \"News\" is represented in green, accounting for 18.1%. \"Social media\" is shown in orange with a proportion of 10.4%. \"Wikipedia\" appears in pink, making up 5.1%. The slice labeled \"parallel data\" is purple, representing 2.3% of the total. Finally, \"poetry\" is highlighted in red, with a share of 0.5%, and this slice is visually emphasized by being slightly offset from the rest of the chart. The chart includes a legend to the side that corresponds each slice with its respective label and color. Additionally, percentage labels are placed inside each slice for clarity. The slices are arranged in descending order of size, starting with \"common-crawl\" as the largest."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2406.03807v3",
+      "paper_title": "Tool-Planner Task Planning with Clusters across Multiple Tools",
+      "figure_filename": "3933_2406.03807v3_Figure5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3933_2406.03807v3_Figure5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3933_2406.03807v3_Tool-Planner Task Planning with Clusters across Multiple Tools.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3933_2406.03807v3_Tool-Planner Task Planning with Clusters across Multiple Tools.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Distribution of reasoning errors.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of different error types in a system. It includes six slices, each labeled with a specific error type and percentage. The \"Invalid Input Parameters\" slice is pink and constitutes 29.8% of the chart, visually offset from the center. \"API Hallucinated\" is in blue and accounts for 18.9%. The light green slice labeled \"False API Call Format\" makes up 18.4%, while the light orange \"Cluster Incomplete\" segment covers 13.5%. \"Miss Input Parameters\" is in purple, comprising 11.6%, and \"Decision Failure\" appears in light pink, representing 7.8%. The chart includes percentage labels inside each slice, but no legend is present. The segments appear to be ordered in descending size, starting from the largest slice."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2405.10128v3",
+      "paper_title": "Red Teaming Language Models for Processing Contradictory Dialogues",
+      "figure_filename": "3944_2405.10128v3_Figure3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3944_2405.10128v3_Figure3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3944_2405.10128v3_Red Teaming Language Models for Processing Contradictory Dialogues.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3944_2405.10128v3_Red Teaming Language Models for Processing Contradictory Dialogues.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a): Topics distribution of contradictory dialogues; (b): Training set and test set statistics.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The scientific pie charts aim to represent and compare distinct categories within two different datasets. The first chart (a) contains eight slices, each labeled with different topics: \"cuisine\" (16%, green), \"tourism\" (15%, dark teal), \"movie\" (12%, light yellow), \"others\" (11%, dark red), \"games\" (11%, teal), \"school\" (9%, peach), \"music\" (9%, orange), and \"photography\" (9%, light green). The colors are distinguishable and each slice is annotated with percentage values. The slices are not arranged in any particular order. The second chart (b) consists of four slices, each representing a category labeled with quantities: \"Train-Con\" (4,839, teal), \"Train-Non\" (4,820, dark teal), \"Test-Non\" (1,437, light yellow), and \"Test-Con\" (1,291, orange). The chart includes labels within the slices, but lacks an external legend. The slices seem to be ordered by decreasing size based on the numerical values indicated. No slice is visually emphasized in either chart."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2407.01929v3",
+      "paper_title": "What We Talk About When We Talk About LMs Implicit Paradigm Shifts and   the Ship of Language Models",
+      "figure_filename": "3950_2407.01929v3_Figure4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3950_2407.01929v3_Figure4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3950_2407.01929v3_What We Talk About When We Talk About LMs Implicit Paradigm Shifts and   the Ship of Language Models.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3950_2407.01929v3_What We Talk About When We Talk About LMs Implicit Paradigm Shifts and   the Ship of Language Models.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Compositions of model names in the main conference papers at EMNLP 2020 (left) and 2023 (right), arranged counterclockwise by their size. Branches indicate dependency, e.g., GPT-3.5 is based on and fine-tuned from GPT-3. Each group of models with the same root is represented by a unique color shared between graphs.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The pie chart represents the distribution of various language models used in EMNLP 2020. It comprises a total of 12 slices. The largest is labeled \"BERT\" in blue, occupying 55% of the chart. Following BERT, the \"XLM-R\" slice in blue accounts for 24%, while \"RoBERTa\" also in blue represents 13%. \"mBERT\" is in blue with 5%. The \"RNN\" category in orange forms 20%, with a sub-category, \"LSTM,\" in orange representing 79% of the RNN portion. \"CNN\" is in green with 6%, and the \"GPT\" slice highlighted in red comprises 5%, with \"GPT-2,\" also in red, constituting 76% of that segment. The \"ELMo\" portion in orange accounts for 8%. Smaller direct subdivisions include \"BART,\" \"GLoVe,\" and others with lesser values ranging around 2%. The chart includes percentage labels inside the slices, and some slices appear visually emphasized, such as \"GPT-2\" with an exploded effect. The segments are visually arranged in what seems a descending order by size within distinct categories, and the chart does not include a legend."
+    }
+  },
+  {
+    "data": {
+      "arxiv_id": "2407.01929v3",
+      "paper_title": "What We Talk About When We Talk About LMs Implicit Paradigm Shifts and   the Ship of Language Models",
+      "figure_filename": "3950_2407.01929v3_Figure5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/figures/3950_2407.01929v3_Figure5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3950_2407.01929v3_What We Talk About When We Talk About LMs Implicit Paradigm Shifts and   the Ship of Language Models.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-5/downloaded_pdfs/3950_2407.01929v3_What We Talk About When We Talk About LMs Implicit Paradigm Shifts and   the Ship of Language Models.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Compositions of model names in the main conference papers at EMNLP 2020 (left) and 2023 (right), arranged counterclockwise by their size. Branches indicate dependency, e.g., GPT-3.5 is based on and fine-tuned from GPT-3. Each group of models with the same root is represented by a unique color shared between graphs.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "The chart illustrates the distribution of models discussed in the 2023 EMNLP. There are multiple slices representing various models. The largest slice is labeled \"GPT\" with a percentage of 30% and is marked in a dominant red color. This is followed by \"RoBERTa\" at 27% in dark blue, \"BERT\" at 25% in a lighter blue, and \"T5\" at 12% in a beige color. \"LLaMA\" is shown at 7% in brown. Additional smaller slices include \"BART\" at 4% in dark purple, \"CLIP/OPT\" at 3% in bright magenta, and several others with diminishing percentages. Each slice is labeled with its respective name and percentage, clearly marked. The diagram includes a legend within the slices. The chart visually orders slices by size in descending order, and no slices are visually emphasized or offset."
+    }
+  }
+]
