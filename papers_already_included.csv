@@ -546,3 +546,61 @@ arxiv,2507.11939v1,POLYCHARTQA Benchmarking Large Vision-Language Models with Mu
 arxiv,2412.05210v1,Evaluating and Aligning CodeLLMs on Human Preference,5
 arxiv,2403.03170v1,SNIFFER Multimodal Large Language Model for Explainable Out-of-Context   Misinformation Detection,5
 arxiv,2505.16514v2,AppealCase A Dataset and Benchmark for Civil Case Appeal Scenarios,5
+aclanthology,2024.ccl-1.33,融合领域词汇扩充的低资源法律文书命名实体识别,6
+aclanthology,2024.ccl-1.38,基于双图注意力网络的篇章级散文情绪变化分析方法,6
+aclanthology,2024.ccl-1.39,基于主题模型与图神经网络的突发公共卫生事件国际舆情演化分析研,6
+aclanthology,2024.ccl-1.42,AutoRG：一种大小模型协同的自动报告生成框架,6
+aclanthology,2024.ccl-1.43,基于本体信息增强的人类表型概念识别,6
+aclanthology,2024.ccl-1.50,近三十年域外汉籍研究的现状与展望—基于文献计量分析和知识图谱绘制,6
+aclanthology,2024.ccl-1.29,多机制整合的中文医疗命名实体识别,6
+aclanthology,2024.ccl-1.11,文本样式和主题框架引导下的大模型辅助儿童新闻生成,6
+aclanthology,2024.ccl-1.13,基于两种新颖辅助任务的端到端语音翻译,6
+aclanthology,2024.ccl-1.17,Ko-LLaMA:基于LLaMA的朝鲜语大语言模型,6
+aclanthology,2024.ccl-1.1,MITF：基于图像映射文本特征的跨模态图文检索方法,6
+aclanthology,2024.ccl-1.9,基于思维链的跨语言多文档摘要生成技术研究,6
+aclanthology,2024.ccl-1.51,面向中文多方对话的机器阅读理解研究,6
+aclanthology,2024.ccl-1.60,大语言模型故事理解能力评价数据集,6
+aclanthology,2024.ccl-1.63,面向“以A为B”构式语义场景的汉语框架识别数据集构建,6
+aclanthology,2024.ccl-1.66,英语科技论文摘要语步结构语料库构建研究,6
+aclanthology,2024.ccl-1.72,面向小规模大语言模型推理优化的推理路径排序方法,6
+aclanthology,2024.ccl-1.74,银瞳：基于自适应语义空间学习的中文金融多任务大模型,6
+aclanthology,2024.ccl-1.56,汉语中介语词同现网络研究,6
+aclanthology,2024.ccl-3.10,CCL24-Eval任务3系统报告：基于参数高效微调与半监督学习的空间语义理解,6
+aclanthology,2024.ccl-3.26,CCL24-Eval任务6系统报告：基于深度学习模型的中小学作文修辞识 别与理解评测,6
+aclanthology,2023.ccl-1.32,大规模语言模型增强的中文篇章多维度阅读体验量化研究,6
+aclanthology,2023.ccl-1.2,基于不完全标注的自监督多标签文本分类,6
+aclanthology,2023.ccl-1.3,融合汉越关联关系的多语言事件观点对象识别方法,6
+aclanthology,2023.ccl-1.4,基于网络词典的现代汉语词义消歧数据集构建,6
+aclanthology,2023.ccl-1.7,基于语音文本跨模态表征对齐的端到端语音翻译,6
+aclanthology,2023.ccl-1.10,基于端到端预训练模型的藏文生成式文本摘要,6
+aclanthology,2023.ccl-1.16,融合预训练模型的端到端语音命名实体识别,6
+aclanthology,2023.ccl-1.18,基于句法特征的事件要素抽取方法,6
+aclanthology,2023.ccl-1.19,相似音节增强的越汉跨语言实体消歧方法,6
+aclanthology,2023.ccl-1.23,数字人文视域下的青藏高原文旅知识图谱构建研究——以塔尔寺为例,6
+aclanthology,2023.ccl-1.25,基于语义任务辅助的方面情感分析,6
+aclanthology,2023.ccl-1.27,动词视角下的汉语性别表征研究——基于多语体语料库与依存分析,6
+aclanthology,2023.ccl-1.28,基于多任务多模态交互学习的情感分类方法,6
+aclanthology,2023.ccl-1.29,基于动态常识推理与多维语义特征的幽默识别,6
+aclanthology,2023.ccl-1.37,基于结构树库的补语位形容词语义分析及搭配库构建∗,6
+aclanthology,2023.ccl-1.38,基于BiLSTM聚合模型的汉语框架语义角色识别,6
+aclanthology,2023.ccl-1.43,基于深加工语料库的《唐诗三百首》难度分级,6
+aclanthology,2023.ccl-1.44,基于RoBERTa的中文仇恨言论侦测方法研究,6
+aclanthology,2023.ccl-1.48,SpaCE2022中文空间语义理解评测任务数据集分析报告,6
+aclanthology,2022.ccl-1.2,一个适合汉语的带有范畴转换的组合范畴语法,6
+aclanthology,2022.ccl-1.4,单项形容词定语分布考察及“的”字隐现研究∗,6
+aclanthology,2022.ccl-1.7,基于语料的“一+形容词+量词+名词”构式语义考察,6
+aclanthology,2022.ccl-1.13,融合知识的多目标词联合框架语义分析模型,6
+aclanthology,2022.ccl-1.18,基于SoftLexicon和注意力机制的中文因果关系抽取,6
+aclanthology,2022.ccl-1.22,基于框架语义映射和类型感知的篇章事件抽取*,6
+aclanthology,2022.ccl-1.30,面向Transformer 模型的蒙古语语音识别词特征编码方法,6
+aclanthology,2022.ccl-1.31,基于注意力的蒙古语说话人特征提取方法,6
+aclanthology,2022.ccl-1.33,基于预训练及控制码法的藏文律诗自动生成方法,6
+aclanthology,2022.ccl-1.36,中文糖尿病问题分类体系及标注语料库构建研究,6
+aclanthology,2022.ccl-1.38,CoreValue：面向价值观计算的中文核心价值-行为体系及知识库,6
+aclanthology,2022.ccl-1.39,基于《同义词词林》的中文语体分类资源构建,6
+aclanthology,2022.ccl-1.40,《二十四史》古代汉语语义依存图库构建,6
+aclanthology,2022.ccl-1.45,基于知识迁移的情感-原因对抽取,6
+aclanthology,2022.ccl-1.51,基于相似度进行句子选择的机器阅读理解数据增强,6
+aclanthology,2022.ccl-1.56,篇章级小句复合体结构自动分析,6
+aclanthology,2022.ccl-1.61,基于多源知识融合的领域情感词典表示学习研究,6
+aclanthology,2022.ccl-1.62,俄语网络仇恨言论语料库研究与构建,6

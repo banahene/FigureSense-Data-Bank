@@ -1,0 +1,1982 @@
+[
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.33",
+      "paper_language": "Chinese",
+      "paper_title": "融合领域词汇扩充的低资源法律文书命名实体识别",
+      "figure_filename": "2024.ccl-1.33_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.33_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.33.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.33.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "新增词汇量大小对模型性能的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了三个性能指标（精度、召回率和F1分数）在不同模型词汇量条件下的变化。x轴标签是“模型词汇量”，具有线性刻度，范围从mBERT-0到mBERT-100，以mBERT-10为增量。y轴标签为“性能指标 (%)”，也是线性刻度，范围从82到90，以2为增量。蓝色线条代表精度，使用圆形标记和实线样式。精度从mBERT-0的约82上升到mBERT-100的约87。红色线条代表召回率，使用圆形标记和实线样式，变化范围从初始的约84增加到约90。绿色线条代表F1分数，使用圆形标记和实线样式，在x轴上从mBERT-0的约83增加到mBERT-100的约88。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "基于双图注意力网络的篇章级散文情绪变化分析方法",
+      "figure_filename": "2024.ccl-1.38_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.38_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "篇章情绪变化分析图",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了情绪变化与句子的关系。x轴为“句子”，采用线性刻度，数值范围为1到20，刻度间隔为1。y轴为“情绪”，同样采用线性刻度，数值范围由顶部至底部无具体标注。图中有一条红色实线，起始于情绪较低的位置，并从x轴的1处开始上升。在x轴的4附近达到一个较高的水平，此处标有“喜爱”字样，随后于x轴的13附近出现波峰，接着快速下降至x轴的16处，达到最低位置，与“厌恶”字样相邻。情绪线继续下降，直至x轴的20附近。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "基于双图注意力网络的篇章级散文情绪变化分析方法",
+      "figure_filename": "2024.ccl-1.38_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.38_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "DualGAT层数的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "此图表展示了DualGAT层数与F1得分之间的关系。x轴表示DualGAT层数，刻度为线性，范围从1到6，单位间隔为1。y轴表示F1得分，以百分比为单位，范围从47%到52%，间隔为1%。图中唯一一条线是红色的，使用带有\"x\"形标记的实线表示。这条线在x轴上从1开始上升，在x=2时达到大约51.2%的峰值，然后持续下降，到x=6时降至约48.5%。各数据点显示出一个先上升后下降的趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.39",
+      "paper_language": "Chinese",
+      "paper_title": "基于主题模型与图神经网络的突发公共卫生事件国际舆情演化分析研",
+      "figure_filename": "2024.ccl-1.39_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.39_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.39.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.39.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "新闻报道与新增病例数目统计",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了每日新增患者人数与相关新闻媒体报道数量的变化趋势。水平轴标示日期，从2022年7月1日到2022年8月26日，以每周为间隔，反映了时间的线性顺序。垂直轴左侧代表每日新增患者人数，刻度范围为0至1800000，以200000为间隔。垂直轴右侧代表相关新闻数量，刻度范围为0至6000，以1000为间隔。柱状图显示为蓝绿色，表示“该日全球确诊数量”，而折线图为蓝色，表示“有关COVID-19新闻数量”。柱状图的高度随时间变化，最短和最长的柱代表的数值近似分别为200000和1600000。图中的柱状图按照时间顺序排列，没有特别的视觉强调或附加注释。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.42",
+      "paper_language": "Chinese",
+      "paper_title": "AutoRG：一种大小模型协同的自动报告生成框架",
+      "figure_filename": "2024.ccl-1.42_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.42_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.42.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.42.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "人为评估投票结果",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该饼图展示了两种类型之间的比例分布，分别为“半模板式”和“AutoRG”。图表中共有两个切片。第一个切片标记为“半模板式”，颜色为粉红色，占整个饼图的35.23%。第二个切片标记为“AutoRG”，颜色为浅蓝色，占饼图的64.77%。图表中包含一个位于右上角的图例，用于标识切片的标签和对应的颜色。此外，每个切片的内部都有显示百分比的标签。视觉上，“半模板式”切片被略微偏移，以强调其在图表中的存在。各切片按比例的大小从大到小顺时针排列。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于本体信息增强的人类表型概念识别",
+      "figure_filename": "2024.ccl-1.43_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.43_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "人类表型概念同义词数量分析",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示的是存在同义词的个数与相应概念数量之间的关系。图表的水平轴代表类别，标签为“存在同义词个数”，以线性顺序从0到15标记。垂直轴表示数值，标签为“概念数量”，范围从0到6000，以线性刻度进行标记，数值刻度间隔为1000。每个柱状图代表一个具体的同义词数量级别，柱状图的颜色为蓝色。高度最高的柱状图位于位置0，对应的概念数量接近6000，而最低的柱状图位于位置15，对应的数量接近0。柱状图在视觉上显示为单一颜色，没有分组或堆叠，各柱状图按同义词个数从0到15依次排列，没有特别的视觉强调效果。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于本体信息增强的人类表型概念识别",
+      "figure_filename": "2024.ccl-1.43_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.43_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同维度的本体向量在GSC+数据集上对模型的性能影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了不同矩阵维度下F1值的变化关系。x轴表示“矩阵维度”，采用线性刻度，范围从64到768，间隔为64。y轴表示“F1值”，也是线性刻度，范围从0.746到0.756，间隔为0.002。图表中有一条蓝色实线，线上的点使用圆形标记。线条从矩阵维度64处的F1值0.746开始，随着维度增加，在128处上升至大约0.748，接着在256处上升至约0.751，达到512处的最高值0.754，然后在768处下降到大约0.749。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于本体信息增强的人类表型概念识别",
+      "figure_filename": "2024.ccl-1.43_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.43_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同知识表示方法在GSC+数据集上对模型的性能影响",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同基座模型在不同方法下的F1值表现。横轴代表类别标签，标识为“基座模型”，分别列出“BioBERT”、“Bioformer”和“PubMedBERT”三个类别。纵轴是值轴，标签为“F1值”，刻度范围从0.71到0.77，间隔均为0.01，采用线性刻度。每个基座模型下有一组颜色不同的柱状图，分别代表不同的方法：粉色为“Original”、红色为“Random”、黄色为“TransE”、绿色为“TransR”、蓝色为“ConvE”、浅蓝色为“SemNE”。在“BioBERT”下，“TransR”方法的柱状图最高，约为0.757，而“Random”是最低的，约为0.739。对于“Bioformer”，“TransR”达到最高值约为0.748，而“Random”最低为0.720。在“PubMedBERT”下，最高的同样是“TransR”，约为0.753，而“Random”最低，为0.734。所有柱状图按基座模型分类排列，每组内按方法用颜色区分，没有特别的排序方式或强调效果。图例在顶部，用不同的颜色标识每种方法，以帮助区分各柱状图的对应关系。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.50",
+      "paper_language": "Chinese",
+      "paper_title": "近三十年域外汉籍研究的现状与展望—基于文献计量分析和知识图谱绘制",
+      "figure_filename": "2024.ccl-1.50_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.50_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.50.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.50.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "发文前十机构逐年发文量",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了从1994年至2023年间各大学发表论文数量的年度变化情况。横轴表示年份，标签从1994年到2023年，按年代顺序排列，刻度类型为线性。纵轴则代表发表论文的数量，刻度范围从0到45，单位为篇，数值刻度间隔为5篇。柱状图主要以分组堆叠方式展示不同大学的发表情况，颜色各异的部分代表不同的大学：南京大学为蓝色、复旦大学为橙色、山东大学为灰色、上海师范大学为黄色、北京大学为深蓝色、中山大学为绿色、中国社会科学院为浅蓝色、四川大学为棕色、北京外国语大学为深灰色、南开大学为浅灰色。每个年份的柱状图由不同颜色的部分堆叠在一起，表示该年不同大学的发表数量。整体现无特定顺序排列，部分年份如2020年和2021年的柱状图相对较高，未见特意视觉强调的样式，如加粗或阴影。这些数据的具体数值需根据柱子的高度近似估计。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.50",
+      "paper_language": "Chinese",
+      "paper_title": "近三十年域外汉籍研究的现状与展望—基于文献计量分析和知识图谱绘制",
+      "figure_filename": "2024.ccl-1.50_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.50_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.50.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.50.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "刊文量前二十期刊分布图",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该饼图展示了不同类别在某一特定领域中的百分比分布情况。图中共有18个切片，每个切片代表一个类别。最大的一部分是“域外汉籍研究集刊”，绿色，占据了67%。其次是“汉籍与汉学”，用浅绿色表示，占7%。其他类别如“文献”（橙色）和“图书馆杂志”（红色），分别占3%和3%。此外，还有许多更小的切片，如“图书馆论坛”（深青色）、“文学遗产”（紫色）、“中国典籍与文化”（绿色）等，占2%到3%。剩下类别分别占1%或更少，使用各异的颜色进行区分。如“学习与探索”（红色）和“大学图书馆学报”（蓝色）等。图表包括一个图例，位于图表的右侧，清晰标示了每个切片的标签和颜色。各个切片上均有百分比标签显示，视觉上没有特定切片被强调或偏移。切片按大小递减顺序排列。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.29",
+      "paper_language": "Chinese",
+      "paper_title": "多机制整合的中文医疗命名实体识别",
+      "figure_filename": "2024.ccl-1.29_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.29_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.29.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.29.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "CTDD数据集实体类型分布图",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了不同实体类型的百分比分布。水平轴表示实体类型，包含类别标签：“Operation”、“Time”、“Disease”、“Medicine”、“Examination”和“Symptom”。垂直轴为百分比值，标签为百分比，范围从0%至40%，以5%的等间隔刻度标示。图中的柱状图各自使用不同的颜色进行区分：例如，“Operation”以浅蓝色表示，其高度约为10%，“Time”以粉色表示，高度也是约10%；“Disease”以灰绿色表示，约为12%，“Medicine”以淡蓝色表示，约为9%，“Examination”以浅橙色表示，约为15%，而“Symptom”以淡绿色表示，接近最高的35%。柱状图按实体类型的自然顺序排列，视觉上没有明显的突出强调或排序方式。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.29",
+      "paper_language": "Chinese",
+      "paper_title": "多机制整合的中文医疗命名实体识别",
+      "figure_filename": "2024.ccl-1.29_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.29_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.29.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.29.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "模型推理速度对照结果图",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了不同方法在训练过程中F1分数的演变，比较了lattice、FLAT、OURS三种方法的表现。x轴表示训练的迭代次数（epoch），标签为“epoch(次)”，刻度为线性，数值范围从0到18，每2个单位有一个刻度。y轴表示F1分数，标签为“F1分数”，刻度为线性，数值范围从0.55到0.90，每0.05个单位有一个刻度。红色实线带方形标记表示lattice方法，其分数从大约0.60开始，在epoch=10达到大约0.82。蓝色实线带圆形标记表示FLAT方法，在epoch=2时的分数约为0.78，并逐步上升至epoch=14时约为0.86。黄色实线带三角形标记表示OURS方法，其初始分数约为0.79，在epoch=16时稳定在约0.87。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.11",
+      "paper_language": "Chinese",
+      "paper_title": "文本样式和主题框架引导下的大模型辅助儿童新闻生成",
+      "figure_filename": "2024.ccl-1.11_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.11_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.11.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.11.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "儿童长新闻数量饼图",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该饼图展示了有关儿童长新闻数量的各个类别的比例分布。图中总共有七个切片，每个切片代表一个不同的类别。这些类别包括：标签为“体育”的切片，颜色为蓝色，占21%；“社会”类别，橘色，占20%；“榜样”类别，黄色，占19%；“政治”类别，浅绿色，占6%；“文化”类别，红色，占2%；“经济”类别，青色，占14%；以及“环境保护”类别，棕色，占14%。图表中包含一个图例，帮助识别各个类别的颜色对应关系，并且所有切片上都标注了各自的百分比。此外，图表中的切片按比例大小递减顺序排列，没有切片被视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.13",
+      "paper_language": "Chinese",
+      "paper_title": "基于两种新颖辅助任务的端到端语音翻译",
+      "figure_filename": "2024.ccl-1.13_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.13_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.13.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.13.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "在MuST-C英语謭德语验证集上知识蒸馏权重α謨左謩、掩码概率p謨右謩对语音翻译性能的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "图表展示了不同参数对BLEU分数的影响。x轴在左图中标记为“α”，范围从0.1到0.9，以0.2为固定间隔；在右图中标记为“p”，范围从0.05到0.45，以0.1为固定间隔。y轴在两个图中均标记为“BLEU”，范围从28.0到28.5，以0.1为间隔，线性刻度。\n\n在左图中，实线与蓝色圆形标记代表BLEU分数随“α”的变化。当“α”从0.1开始时，BLEU值约为28.0，随后在“α”达到0.5时升至峰值约28.5，然后在“α”达到0.9时下降到接近28.1。在右图中，实线与蓝色圆形标记显示了BLEU分数随“p”的变化。在“p”值为0.05时，BLEU分数约为28.2，随后在“p”约为0.15时达到顶峰28.5，之后在“p”增加到0.45时略有下降，接近28.4。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.13",
+      "paper_language": "Chinese",
+      "paper_title": "基于两种新颖辅助任务的端到端语音翻译",
+      "figure_filename": "2024.ccl-1.13_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.13_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.13.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.13.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "在MuST-C英语謭德语训练过程中目标端预测概率分布的不一致程度",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了两个数据集在不同世代次数下目标端概率分布不一致程度的变化。x轴标记为“迭代次数”，采用线性刻度，范围从0到30，间隔为5。y轴标记为“目标端概率分布不一致程度”，也为线性刻度，范围从0到1.2，刻度间隔为0.2。图中有两条折线：蓝色实线表示“语音增强前”，从x轴的0开始值约为1.2，随着迭代次数增加逐渐下降，在第30次迭代时达到约0.5；橙色实线表示“语音增强后”，起始值略低于1.0，整体下降趋势和蓝色实线类似，但在各个迭代次数上的值始终低于蓝色实线，最终在第30次迭代时下降至约0.4。在整个过程中，橙色线的下降幅度比蓝色线稍缓和。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.13",
+      "paper_language": "Chinese",
+      "paper_title": "基于两种新颖辅助任务的端到端语音翻译",
+      "figure_filename": "2024.ccl-1.13_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.13_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.13.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.13.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "在MuST-C英语謭德语测试集tst-COMMON上的文本翻译任务性能对比",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了外部机器翻译数据规模与BLEU评分之间的关系。x轴表示外部机器翻译数据规模，标记为“0M”到“4M”，以百万为单位，范围从0M到4M，数值间隔为1M。y轴表示BLEU评分，范围从27.0到29.5，数值间隔为0.5。图中有一条蓝色实线，标记为圆形，表示随着外部数据规模增加，BLEU评分的变化。在x轴为0M时，BLEU值约为27.0；在1M时，约为27.5；在2M时，约为28.0；在3M时，约为28.5；在4M时，约为29.0。这条线显示了一个持续上升的趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.17",
+      "paper_language": "Chinese",
+      "paper_title": "Ko-LLaMA:基于LLaMA的朝鲜语大语言模型",
+      "figure_filename": "2024.ccl-1.17_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.17_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.17.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.17.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "继续预训练Loss下降图",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了在维持预训练过程中损失值的变化情况。x轴被标记为“Step”，具有线性刻度，范围从0到300，刻度间隔为50。y轴被标记为“Loss”，同样为线性刻度，范围从0到10，刻度间隔为1。图中有一条蓝色的实线，表示损失随步数的变化。在x轴开始处，损失值在接近10的位置，然后迅速下降。在大约x=30位置，损失值接近2的水平，并在之后逐步趋于稳定，最终在x=300处保持稳定在接近0的水平。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.17",
+      "paper_language": "Chinese",
+      "paper_title": "Ko-LLaMA:基于LLaMA的朝鲜语大语言模型",
+      "figure_filename": "2024.ccl-1.17_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.17_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.17.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.17.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同数据量指令微调模型的F1-Score图",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图旨在展示不同训练集数据量比例下模型的F1-score变化趋势。x轴表示训练集数据量比例，刻度是线性的，范围从1%到100%，数值刻度间隔分别是1%、5%、10%、20%、50%、80%和100%。y轴表示F1-score，刻度是线性的，范围从80到94，数值刻度间隔为2个单位。图中有一条蓝色线，标记形状为圆点，线条样式为实线。在x轴上从1%开始，F1-score值为80.42；在5%处为86.39；在10%时达到90.88；接着在20%时上升至91.96；在50%和80%之间略微升高至92.83和92.98；在100%处达到93.01。总体趋势显示，随着训练集数据量比例的增加，F1-score逐渐上升并趋于稳定。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.1",
+      "paper_language": "Chinese",
+      "paper_title": "MITF：基于图像映射文本特征的跨模态图文检索方法",
+      "figure_filename": "2024.ccl-1.1_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.1_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "图像映射文本特征网络规模",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了3个数据集的平均值，旨在比较不同数据集的MR百分比与参数量之间的关系。水平轴（X轴）代表MR（百分比），其标记为“MR（%）”，刻度从80%到85%，为线性刻度，每个刻度间隔为1%。垂直轴（Y轴）显示参数量（M），标签标记为“参数量（M）”，顺序从下至上分别为17、19、22和25。图中的三个柱状图以浅蓝色表示，分别与不同的参数量刻度线对齐。每个柱状图的长度表示相应MR的百分比值，值依次增加。每个柱状图的高度在视觉上表现一致，表明数据集中MR的分布。柱状图的排列未按特定顺序进行排序，且没有任何柱状图被视觉上突出显示。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.1",
+      "paper_language": "Chinese",
+      "paper_title": "MITF：基于图像映射文本特征的跨模态图文检索方法",
+      "figure_filename": "2024.ccl-1.1_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.1_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "提示词自动学习文本长度",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "这张图展示了“3个数据集平均值”在不同文本长度下MR（百分比）的变化。x轴代表“文本长度”，刻度是线性的，从0到50，刻度间隔为10。y轴代表“MR（%）”，刻度是线性的，范围从83.0到84.0，刻度间隔为0.2。图中有一条黑色折线，标记为实心圆点，呈现波动变化。在x轴位置为0时，MR大约为83.4%，在x轴位置为10时下降到约83.3%，在x轴位置为20时达到约83.35%。接着在x轴位置为30时线条略有回升至约83.3%，随后在x轴位置为40时上升至约83.4%，最终在x轴位置为50时达到大约83.8%。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.1",
+      "paper_language": "Chinese",
+      "paper_title": "MITF：基于图像映射文本特征的跨模态图文检索方法",
+      "figure_filename": "2024.ccl-1.1_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.1_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "伪语言标记token数",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了不同仿标记token数下MR（百分比）的变化。x轴表示仿标记token数，刻度为线性类型，范围从0到4，间隔为1。y轴表示MR（百分比），刻度同样为线性类型，数值范围从82.0%到84.0%，间隔为0.4%。图中有一条黑色实线，标记为实心圆点。线条从x轴起始的0位置开始，y值大约为83.0%；在x轴为1的位置，y值上升接近83.5%；在x轴为2时达到峰值y值83.6%；然后在x轴为3时下降到约83.1%，最后在x轴为4时稳定在相似的y值位置。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.9",
+      "paper_language": "Chinese",
+      "paper_title": "基于思维链的跨语言多文档摘要生成技术研究",
+      "figure_filename": "2024.ccl-1.5_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.5_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.9.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.9.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "医学领域单文档摘要生成结果的人工评分",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "此柱状图展示了一项关于Medical_SDS的人工评估结果，比较了不同模型在多个指标上的得分表现。图表的水平轴列出了四个评价类别：Fluency、Coherence、Consistency和Relevance，按字母顺序排列。垂直轴代表得分，标记为“Scores”，其值范围从6.0到10.0，以0.5为间隔，刻度为线性。每个类别下的柱状图分为六个组，分别具有不同的颜色和标签，这些标签通过图例说明：蓝色代表ChatGLM3-6b，浅蓝色代表ChatGLM3-6b-COT，橙色代表GPT3.5-turbo，黄色代表GPT3.5-turbo-COT，绿色代表Llama2-7b，深绿色代表Llama2-7b-COT，粉色代表QWen1.5-7b，红色代表QWen1.5-7b-COT。柱状图在各类别中均以相同的顺序排列，可观察到不同模型在各个类别中的得分情况，得分大致在7.0到9.5之间，没有特别明显的排序或视觉上的强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.9",
+      "paper_language": "Chinese",
+      "paper_title": "基于思维链的跨语言多文档摘要生成技术研究",
+      "figure_filename": "2024.ccl-1.5_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.5_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.9.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.9.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "人工智能领域单文档摘要生成结果的人工评分",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "此图表展示了在 AI_SDS 上人类对不同模型的评估结果，包括流利度、一致性、连贯性和相关性四个方面的评分。水平轴上显示的是四个评估类别：Fluency、Coherence、Consistency 和 Relevance。垂直轴标记为“Scores”，范围从 6.0 到 10.0，刻度以 0.5 为间隔，表示线性分布。图表中包含八组柱状图，每组以不同颜色代表不同模型，这些模型通过标签和颜色在右侧图例中标识，包括浅蓝色、深蓝色、橙色、绿色、浅绿色、深绿色、粉色和红色。每组内柱状图的高度不同，表示它们在不同评估项目中的得分。值得注意的是，最高分接近 9.5，最低分接近 7.5，各组柱状图显示的模型性能存在一定差异，并无显著的排序趋势。没有任何柱状图被特殊视觉强调，所有模型在每个评估项目中都按照相同顺序排列。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.51",
+      "paper_language": "Chinese",
+      "paper_title": "面向中文多方对话的机器阅读理解研究",
+      "figure_filename": "2024.ccl-1.51_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.51_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.51.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.51.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "5W1H问题类型分布图",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这幅柱状图展示了不同的5W1H类别中问题数量的情况。水平轴代表5W1H类别，分别是“who”、“what”、“when”、“where”、“why” 和 “how”，按照字母顺序排列。垂直轴显示问题的数量，标签为“Number of Questions”，采用线性刻度，范围从0到1400，数值刻度间隔为200。图中每个柱状图代表一个类别的问题数量。具体来说，“who”类别的柱状图是紫色，数量为1400；“what”类别是淡紫色，为1403；“when”类别是较浅的紫色，为1362；“where”类别是粉紫色，为1371；“why”类别是粉红色，数量为1386；“how”类别是浅粉色，为1383。各类别的数量在1350到1405之间，显示了一致的趋势。图中没有特定的视觉强调，例如阴影或加粗处理。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.51",
+      "paper_language": "Chinese",
+      "paper_title": "面向中文多方对话的机器阅读理解研究",
+      "figure_filename": "2024.ccl-1.51_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.51_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.51.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.51.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "问题与上下文的词汇重叠率分布图",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这个柱状图展示了“Overlap Ratio”的频率分布情况，用于显示不同“Overlap Ratio”值在数据集中出现的次数。水平轴代表类别，标记为“Overlap Ratio”，范围从0到1，刻度以0.1为间隔，采用线性刻度。垂直轴表示频率，标记为“Frequency”，从0起始，最高达到2000，以250为固定间隔。柱状图以浅蓝色呈现，展示了频率的不同。各柱状图的高度显示了相应“Overlap Ratio”值的频数，例如，最短的柱状图出现于接近1的位置，而最高的柱状图约在0.2位置。柱状图没有明显分组或堆叠结构，没有特定顺序和强调，按照“Overlap Ratio”值的自然顺序排列。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.60",
+      "paper_language": "Chinese",
+      "paper_title": "大语言模型故事理解能力评价数据集",
+      "figure_filename": "2024.ccl-1.60_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.60_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.60.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.60.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "CRMUS常识推理问题中的常识类型分布占比(%)",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该饼图展示了不同常识类别所占的比例。图表共分为五个切片，分别用不同颜色标识。社会常识切片为蓝色，占比47.23%；生物常识切片为绿色，占比19.2%；时间常识切片为深蓝色，占比13.88%；空间常识切片为浅蓝色，占比11.67%；物理常识切片为黄色，占比8.02%。图表底部提供了图例，对应切片的颜色与类别。所有切片内部均标有百分比标签，便于识别。图表未对某一切片进行视觉上的强调，切片顺序无特定模式。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.63",
+      "paper_language": "Chinese",
+      "paper_title": "面向“以A为B”构式语义场景的汉语框架识别数据集构建",
+      "figure_filename": "2024.ccl-1.63_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.63_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.63.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.63.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "框架数量频数分布直方图",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了出现次数与频数（框架数）的关系。水平轴为类别轴，标签为“出现次数”，刻度为指数型，按 \\(2^0\\) 到 \\(2^{10}\\) 排列。垂直轴为值轴，标签为“频数（框架数）”，采用线性刻度，范围从0到60，每个刻度间隔为10。柱状图为单一系列的蓝色柱体，代表各出现次数的频数。最高柱状图对应于 \\(2^0\\) 出现次数，频数约为50，最低柱状图对应于 \\(2^{10}\\) 出现次数，频数接近0。图表中没有明显的排序模式或视觉强调特征。整体来看，图表意在呈现随着出现次数增加，频数减少的趋势。此外，图表中叠加了一条红色曲线，用于更直观地表示该变化趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.66",
+      "paper_language": "Chinese",
+      "paper_title": "英语科技论文摘要语步结构语料库构建研究",
+      "figure_filename": "2024.ccl-1.66_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.66_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.66.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.66.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "三个模型整体识别所有语步的平均F1值",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了三个类别在两个不同领域的表现百分比。水平轴表示三种不同的类别，分别为“Ours”、“GPT-4”和“Claude3”。这些类别按词序排列，不具有特定的顺序。垂直轴代表百分比值，范围从0%到100%，以10%的均匀间隔递增。图表中有两种颜色的柱状图，蓝色表示“人工智能领域”，橙色表示“工程领域”。在“Ours”类别中，蓝色柱状图为89.49%，橙色柱状图为86.22%。对于“GPT-4”，蓝色柱状图为73.23%，橙色柱状图为50.32%。在“Claude3”类别中，蓝色柱状图为62.91%，橙色柱状图为52.71%。颜色通过图例标识，与领域相对应。柱状图没有采用任何特定排序方式，也没有突出显示或注明其他视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.72",
+      "paper_language": "Chinese",
+      "paper_title": "面向小规模大语言模型推理优化的推理路径排序方法",
+      "figure_filename": "2024.ccl-1.72_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.72_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.72.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.72.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "在ChatGLM3上的推理路径选择方法的比较",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了四个不同测试任务中三种方法的准确率表现。横轴表示类别，包括GSM8K、MultiArith、SVAMP和CommonsenseQA，而纵轴则标示为“Accuracy”，其值范围从40到100，单位为百分比，刻度线性分布，每10个单位标记一次。对于每个类别，有三种方法的准确率分别由不同颜色的柱状图表示：蓝色代表“ChatGLM3 Random”、橙色代表“ChatGLM3 SVRP”、绿色代表“ChatGLM3 SSVRP”。在GSM8K分类中，准确率分别是40.9、53.4和54.3；在MultiArith中，分别为87.8、90.6和90.6；在SVAMP中，分别为58.0、62.0和64.3；在CommonsenseQA中，分别为62.4、63.6和63.7。各组柱状图按照类别顺序排列，无特定的排序规则或视觉强调。图例位于图表的右上角，清晰标识每种方法对应的颜色。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.74",
+      "paper_language": "Chinese",
+      "paper_title": "银瞳：基于自适应语义空间学习的中文金融多任务大模型",
+      "figure_filename": "2024.ccl-1.74_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.74_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "CFLEB数据集对于聚类和预定义模型系统的评测结果",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图用于比较两个数据集“Cluster”和“Raw”在不同类别下的表现。水平轴上显示类别，包括“FinFE”、“FinQA”、“FinNA”、“FinRE”、“FinNSP1”、“FinNSP2”、“FinNL”和“AVG”。这些类别按标签顺序排列。纵轴表示值，未给定具体标签，跨度从0到100，刻度间隔为20，似乎采用线性刻度。每个类别中都有一对柱状图，其中紫色代表“Cluster”，橙色代表“Raw”。在“FinNSP1”类别中，“Cluster”柱的高度最大，接近90，而“FinRE”类别中的“Raw”柱最短，略高于40。柱状图未按特定顺序排序，也没有图形的视觉强调，如阴影或加粗。每组的柱并列排列，图例在右上方标明了颜色对应的类别。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.74",
+      "paper_language": "Chinese",
+      "paper_title": "银瞳：基于自适应语义空间学习的中文金融多任务大模型",
+      "figure_filename": "2024.ccl-1.74_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.74_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "CFLEB评估数据集",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同算法在多个测试项中的表现。横轴列出了各类别标签，包括FinFE、FinQA、FinNA、FinRE、FinNSP1、FinNSP2、FinNL和AVG。纵轴是数值轴，未明确标出单位，范围从0到100，线性刻度，间隔为20。每个类别下有三组柱状图，分别对应“A-DBSCAN”、“Random”和“K-Center-Greedy”三种算法，颜色分别为紫色、橙色和绿色。柱状图的高度表示各类别中的值，“A-DBSCAN”在FinQA中达到最高值约80，而FinRE中高度较短，接近20。没有明显的排序方式，也没有特别的视觉强调。分组柱状图的排列是并排的，按照图例标示的颜色对应各算法。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.74",
+      "paper_language": "Chinese",
+      "paper_title": "银瞳：基于自适应语义空间学习的中文金融多任务大模型",
+      "figure_filename": "2024.ccl-1.74_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.74_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "FinEval评估数据集",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了不同算法在多个类别中的表现水平。水平轴代表类别，包括“Accounting”、“Certificate”、“Economy”、“Finance”和“AVG”，按照字母顺序排列。垂直轴是值轴，标记为从0到100，采用线性刻度，以20为单位间隔。图例中有三组柱状图，分别用蓝色、棕色和绿色代表“A-DBSCAN”、“Random”和“K-Center-Greedy”算法。每个类别中都有三个分组柱状图，这些柱状图的高度在约60至80之间。各组中，“Certificate”类别的柱状图高度接近最高，而“Accounting”类别的高度则相对较低。柱状图在每组中并排排列，没有明显的视觉强调方式。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.74",
+      "paper_language": "Chinese",
+      "paper_title": "银瞳：基于自适应语义空间学习的中文金融多任务大模型",
+      "figure_filename": "2024.ccl-1.74_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.74_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "CFLEB评估数据集",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图用于展示和比较不同类别在“Utility”和“Random”两种条件下的数值表现。水平轴显示各类别标签，包括“FinFE”、“FinQA”、“FinNA”、“FinRE”、“FinNSP1”、“FinNSP2”、“FinNL”以及“AVG”。这些类别按特定顺序排列，水平轴类型为线性刻度。垂直轴代表测量值，刻度从0到100，步长为10，未注明具体单位。每个类别下有两根柱状图，分别用蓝色和橙色代表“Utility”和“Random”。其中，“FinNSP1”在“Utility”条件下达到最大值，接近90，而“FinRE”在“Random”条件下的值则最低，大约在40附近。“Utility”条件下的柱以蓝色显示，“Random”条件下的柱以橙色显示。柱状图未按特定方式排序，没有任何柱状图使用特别的视觉效果来强调。图例位于图表上方，明确指示了每种颜色对应的条件。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.74",
+      "paper_language": "Chinese",
+      "paper_title": "银瞳：基于自适应语义空间学习的中文金融多任务大模型",
+      "figure_filename": "2024.ccl-1.74_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.74_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.74.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "FinEval评估数据集",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了“Utility”和“Random”两种类型在不同类别下的测量值。水平轴显示类别标签，这些类别包括“Accounting”、“Certificate”、“Economy”、“Finance”和“AVG”，以线性顺序排列。垂直轴表示数值，标签为无单位，范围从0到100，刻度间隔为20。图中包含两组柱状图，每组表示一种类型：蓝色代表“Utility”，棕色代表“Random”。每个类别下有两根柱，展示该类别下各类型的测量结果。“Utility”和“Random”的值在各类别中大致相近，数值接近70。柱状图未按特定顺序排序，也没有明显的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "汉语中介语词同现网络研究",
+      "figure_filename": "2024.ccl-1.56_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.56_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 平均路径长度 | 小世界属性统计结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该线图展示了“中介网络”和“随机网络”在不同样本（从A1到母语）中的数值表现。x轴标记为不同的样本类别，分别为A1、A2、B1、B2、C1、C2和母语，是以类别为单位的间隔刻度。y轴代表数值，范围从3.0到5.5，没有特定单位，采用线性刻度，以0.5为间隔。图中有两条线，一条是红色的三角形标记的实线，代表“中介网络”，其数值从A1开始为3.254，在A2稍微上升到3.278，在B1降至3.179，然后逐步上升，至母语时达到3.685。另一条线是蓝色的星形标记的实线，表示“随机网络”，起始于A1的4.189，经A2小幅上升到4.233，B1略微下降至4.030，随后平稳提升，最终在母语时达到峰值5.204。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "汉语中介语词同现网络研究",
+      "figure_filename": "2024.ccl-1.56_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.56_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 聚集系数  | 小世界属性统计结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "图表展示了中介语网络与随机网络在不同条件下的数值对比。x轴为不同条件的标签，从A1、A2、B1、B2、C1、C2到母语，刻度为类别型。y轴表示数值范围，从0至0.20，刻度为线性，间隔为0.05单位。图中有两条线：一条为红色三角形标记的实线，代表中介语网络，从A1的0.166开始，在B1达到峰值0.175，然后逐渐减少到母语的0.103。另一条为蓝色星形标记的实线，代表随机网络，数值稳定，在所有条件下始终接近0.004。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "汉语中介语词同现网络研究",
+      "figure_filename": "2024.ccl-1.56_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.56_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "同配系数",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了中介网络和随机网络在不同分组条件下的表现变化。x轴标签为各分组，从A1、A2、B1、B2、C1、C2到母语，刻度类型为类别变量，没有具体的数值范围。y轴表示某指标的数值，范围从-0.20到0.05，单位未指定，使用线性刻度，每个主要刻度间隔为0.05。红色三角形标记和实线表示中介网络，从位置A1的-0.167逐渐上升至母语位置的-0.114。蓝色星形标记和带有交叉符号的线代表随机网络，起始于位置A1的0.015，稍微下降到C1的-0.022，然后在C2达到了0.019的峰值，最后下降到母语位置的-0.015。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "汉语中介语词同现网络研究",
+      "figure_filename": "2024.ccl-1.56_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.56_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 节点数 | 纠正语言错误后的网络参数",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了两组数据在不同点的数值变化情况，分别代表去除偏误和未去除偏误的情况。x轴标记为类别，包括A1、A2、B1、B2、C1和C2，刻度类型为分类刻度。y轴的标签没有注明具体单位，数值范围为1000到1600，刻度均匀，每隔50单位。图中有两条线。红色实线用三角形标记表示去除偏误的数值，起始于A1的1115，并在A2达到1207，在B1和B2分别为1210和1248，随后在C1升至1306，最后在C2达到顶点1563。蓝色实线用叉号标记表示未去除偏误的数值，起始于A1的1193，随后在A2达到峰值1244，依次在B1和B2为1225和1290，接着在C1上升到1342，并在C2达到最高点1563。两条线均显示出随着类别变动数值逐步上升的趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "汉语中介语词同现网络研究",
+      "figure_filename": "2024.ccl-1.56_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.56_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 网络密度 | 纠正语言错误后的网络参数",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了“去除偏误”和“未去除偏误”数据的变化情况。x轴用字母和数字标注，范围从“A1”到“C2”，刻度均匀分布，未体现单位。y轴表示一个数值范围，从0.003到0.006，刻度是线性的，间隔为0.001，没有标注单位。图表中有两条线：一条为红色，使用实线和三角形标记，表示“去除偏误”的数据；另一条为蓝色，使用实线和叉形标记，表示“未去除偏误”的数据。红线在x轴起始的“A1”处值为0.0055，逐渐下降，在“C2”处达到最低值0.0033。蓝线则在x轴起始的“A1”处值为0.0049，经过小幅波动后也在“C2”处达到最低值0.0033。两个数据集在“B1”处均达到一个局部最高点，红线为0.0051，蓝线为0.0051。在“C1”和“C2”处，两条线的数值趋于相同。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "汉语中介语词同现网络研究",
+      "figure_filename": "2024.ccl-1.56_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.56_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(c) 平均路径长度 | 纠正语言错误后的网络参数",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "图表展示了“去除偏误”和“未去除偏误”两种情境下的数值变化。x轴为分类变量，标签为A1、A2、B1、B2、C1、C2，刻度为线性。y轴表示数值范围，从3.00到3.45，以0.05为间隔。红色三角形标记的实线代表“去除偏误”，在A1处数值为3.164，随后略微下降至A2的3.127，并在B1达到3.146，然后逐渐增加至B2的3.183和C1的3.242，最终在C2达到最高值3.420。蓝色叉号标记的虚线代表“未去除偏误”，从A1的3.254起始，然后在A2达到3.278，接着在B1下降到3.179，并在B2回升至3.235，随后进一步上涨至C1的3.304，最终在C2达到最高的3.438。此图表用于比较两种情境下随x轴分类变量变化的数值走势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "汉语中介语词同现网络研究",
+      "figure_filename": "2024.ccl-1.56_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-1.56_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(d) 聚集系数 | 纠正语言错误后的网络参数",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了“去除偏误”和“未去除偏误”两种情况下数值随类别变化的走势。x轴表示类别，标签为A1、A2、B1、B2、C1和C2，刻度为类别型，因此没有数值范围或单位。y轴代表某个数值范围为0.075到0.225，刻度均匀，间隔为0.025。图中有两条线，红色实线带有三角形标记表示“去除偏误”，在A1处开始于0.200，至C2结束于0.119。在B1处，数值为0.175，为最高点，随后继续下降。蓝色虚线带有叉形标记表示“未去除偏误”，在A1处开始于0.166，至C2结束于0.113。在B1处数值为0.162，在C1处出现最小值0.143。两条线走势大体相似，但在特定点数值存在细微差异。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-3.10",
+      "paper_language": "Chinese",
+      "paper_title": "CCL24-Eval任务3系统报告：基于参数高效微调与半监督学习的空间语义理解",
+      "figure_filename": "2024.ccl-3.10_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-3.10_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "大模型语义空间的推理过程",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这个柱状图展示了不同识别和推理任务中，训练集数量、验证集数量以及准确率。图表的水平轴表示类别，包括实体识别、角色识别、异常识别、空间推理和同义识别，按照逻辑顺序排列。垂直轴代表数量和准确率，分为两个部分：左轴是数量，以线性刻度表示，范围从0到1200，标记间隔为200；右轴是准确率，也为线性刻度，范围从0到1，标记间隔为0.1。每个类别包含两组柱状图，分别用蓝色和橙色表示训练集数量和验证集数量。同时，还有一条灰色折线显示准确率。柱状图中，实体识别的训练集数量最高为1102，最短的是同义识别的训练集，仅有5。验证集数量最高的是空间推理，为675，最短的为异常识别，仅有40。准确率最高的是角色识别，达到0.8714。同义识别的准确率最低，为0.3769。图表中的数据无特定排序或视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2024.ccl-3.26",
+      "paper_language": "Chinese",
+      "paper_title": "CCL24-Eval任务6系统报告：基于深度学习模型的中小学作文修辞识 别与理解评测",
+      "figure_filename": "2024.ccl-3.26_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2024.ccl-3.26_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-3.26.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2024.ccl-3.26.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "各类别对应的训练集数量",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了不同语言类别的总数与其对应的F1得分。水平轴（x轴）包含了不同的类别，这些类别有明确的标签，从左到右分别是“明喻”、“暗喻”、“借喻”、“名词”、“动词”、“形容词”、“副词”、“直接客体”、“间接客体”、“融合客体”、“成分壮状”以及“句子壮状”。纵轴有两个：左侧的纵轴表示总数，其刻度是线性的，范围从0到160，标记间隔为20；右侧的纵轴表示F1得分，其刻度也是线性的，范围从0到0.8。柱状图以蓝色显示每个类别的总数，数值标签位于每个柱状图的顶部，最高值为“明喻”147，最低值为“名词”、“形容词”和“成分壮状”，均为0。而F1得分用橙色折线表示，在“明喻”类别中达到最高值0.74，而在多个类别中，包括“借喻”、“名词”、“形容词”、“成分壮状”则为0。柱状图按照类别的自然顺序排列，没有明显的视觉强调或排序。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.32",
+      "paper_language": "Chinese",
+      "paper_title": "大规模语言模型增强的中文篇章多维度阅读体验量化研究",
+      "figure_filename": "2023.ccl-1.32_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.32_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.32.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.32.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "多任务基础架构和标签线性化方法下各指标结果的F1值",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "此图表展示了五个不同类别的F1值，通过比较Bert多任务和Bert+线性两种方法的表现来进行分析。水平轴包含类别，依次为理解性、文采性、道德性、思维性和情感性。垂直轴代表F1值，刻度为线性，范围从0到1，间隔为0.2。每个类别包含两个柱状图，分别对应Bert多任务（灰色）和Bert+线性（蓝色）。在理解性中，Bert多任务的F1值为0.72，而Bert+线性为0.78。在文采性中，Bert多任务为0.77，Bert+线性为0.86。在道德性中，Bert多任务为0.49，Bert+线性为0.6。在思维性中，Bert多任务为0.75，Bert+线性为0.73。在情感性中，Bert多任务为0.53，Bert+线性为0.64。在所有类别中，柱状图按照类别顺序排列，并无明显视觉强调或排序。图表通过颜色区分Bert多任务和Bert+线线性，以便清晰地比较其F1值表现。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "基于不完全标注的自监督多标签文本分类",
+      "figure_filename": "2023.ccl-1.2_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.2_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同模型在CCKS-IMLTC上Few标签的实验结果",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同方法或模型在“Few F1”得分上的表现。图表的横轴展示了类别，即不同的方法或模型，包括CLS、TextCNN、LSAN、FL、RFL、CB、DB、HTTN、LACO、FLEM和TextCNN-CB。纵轴为数值轴，标记为“Few F1”，范围从20到60，刻度以线性方式从20、30、40、50到60，每个刻度间隔为10。每个类别由三个柱状图组成，使用不同的斜线填充表示“Teacher”、“Self-Training”和“PST”，分别对应浅色、稍深色和深色。柱状图的高度从近似20到略高于60，具体在模型如TextCNN-CB中的“PST”栏达到最大值。柱状图没有特定排序方式，也没有明显的视觉强调，例如加粗或阴影效果。不过通过图例可以看出不同斜线填充方式对应的类别。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "基于不完全标注的自监督多标签文本分类",
+      "figure_filename": "2023.ccl-1.2_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.2_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 方案一F1曲线 | 不同标签缺失方案下人工合成数据AAPD上的实验结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了三种不同方法在不同“漏标率”条件下的F1得分。横轴表示漏标率，刻度是线性的，范围从0到约0.585，数值刻度间隔为0.1。纵轴表示F1得分，刻度也是线性的，范围从52.5到72.5，数值刻度间隔为2.5。图中包含三条线：红色实线带圆形标记代表“Teacher”，从漏标率0时的F1得分72.0开始，逐渐下降至漏标率约0.585时的F1得分54.0；蓝色实线带方形标记代表“Self-Training”，从漏标率0时的F1得分68.5开始，下降至漏标率约0.585时的F1得分54.0；绿色实线带圆形标记代表“PST”，从漏标率0时的F1得分71.5起始，最终下降至漏标率约0.585时的F1得分56.5。在漏标率为0.3时，共同观测到这些线的F1得分均有下降趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "基于不完全标注的自监督多标签文本分类",
+      "figure_filename": "2023.ccl-1.2_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.2_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 方案一退化率曲线图 | 不同标签缺失方案下人工合成数据AAPD上的实验结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了不同方法在漏标率（x轴）增加时退化率（y轴）的变化情况。x轴标签为“漏标率”，采用线性刻度，数值范围从0到0.585，间隔为0.1。y轴标签为“退化率”，同样采用线性刻度，数值范围从0到0.08，间隔为0.02。图中有三条线，分别代表不同的方法。红色线使用实线连接带箭头标记，代表“Teacher”方法，起始于(0, 0.0)，并在x轴终点接近(0.585, 0.08)。蓝色线以实线连接方形标记，代表“Self-Training”方法，初始于(0, 0.0)，在x轴终点处接近(0.585, 0.06)。绿色线使用实线连接圆形标记，代表“PST”方法，从(0, 0.0)出发，终点处于(0.585, 0.05)。三条线均在x轴为0.5附近出现明显上升趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "基于不完全标注的自监督多标签文本分类",
+      "figure_filename": "2023.ccl-1.2_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.2_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(c) 方案一误导率曲线图 | 不同标签缺失方案下人工合成数据AAPD上的实验结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了不同方法在漏标率变化下的错误率变化。x轴表示\"漏标率\"，刻度为线性，数值范围从0到0.585，间隔约为0.1。y轴表示\"错误率\"，刻度为线性，数值范围从0到0.20，间隔为0.05。图中有三条线，各自反映不同方法的表现。红色线使用三角形标记，为实线，代表\"Teacher\"方法。从x轴起点0处的错误率几乎为0，逐渐增长，到x轴终点0.585时达到约0.19。蓝色线使用方形标记，为实线，代表\"Self-Training\"方法，起始错误率为0，随漏标率增加呈上升趋势，到终点时错误率接近0.20。绿色线使用圆形标记，为实线，代表\"PST\"方法，起始错误率几乎为0，终点错误率约为0.05，在整个范围内增长幅度较小。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "基于不完全标注的自监督多标签文本分类",
+      "figure_filename": "2023.ccl-1.2_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.2_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(d) 方案二F1曲线图 | 不同标签缺失方案下人工合成数据AAPD上的实验结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该线图展示了不同方法在漏标率变化下的F1得分表现。x轴表示漏标率，标签为“漏标率”，采用线性刻度，范围从0到0.9，刻度间隔为0.1。y轴表示F1得分，标签为“F1”，也是线性刻度，范围从0到70，刻度间隔为10。图中有三条线。红色实线带有实心三角形标记代表“Teacher”方法，起始F1值约为70，在x轴从0到0.9的范围内逐渐下降，泛起主要减少出现于x轴约为0.6处。蓝色实线带有实心方形标记代表“Self-Training”方法，起始值类似于“Teacher”，并在x轴相同范围内下降，下降趋势略低于红线，主要变动同样在x轴约为0.6处。绿色实线带有实心圆形标记代表“PST”方法，起始值也为70，在整个x轴范围内下降速度较其他两条线缓慢，较显著下降出现在x轴约为0.7处。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "基于不完全标注的自监督多标签文本分类",
+      "figure_filename": "2023.ccl-1.2_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.2_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(e) 方案二退化率曲线图 | 不同标签缺失方案下人工合成数据AAPD上的实验结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "这张科学线图比较了在不同漏标率下的退化率。x轴表示漏标率，采用线性刻度，数值范围从0到0.9，数值刻度间隔为0.1。y轴表示退化率，刻度同样为线性，数值范围从0到1，数值刻度间隔为0.2。图中共有三条线：红色实线带三角形标记代表“Teacher”，蓝色实线带方形标记代表“Self-Training”，绿色实线带圆形标记代表“PST”。“Teacher”从漏标率0的退化率0开始，稳步上升，在漏标率0.9达到约0.8。“Self-Training”从漏标率0的退化率0开始，略微上升，在0.9处约为0.6。“PST”也从漏标率0处的退化率0开始，将在0.9处达到约0.5。这些线条展示了随漏标率增加而退化率上升的趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "基于不完全标注的自监督多标签文本分类",
+      "figure_filename": "2023.ccl-1.2_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.2_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(f) 方案二误导率曲线图 | 不同标签缺失方案下人工合成数据AAPD上的实验结果",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了不同方法（Teacher、Self-Training 和 PST）在不同漏标率下的错误率变化。x轴表示“漏标率”，标签为线性刻度，范围是从0到0.9，数值刻度间隔为0.1。y轴表示“错误率”，同样为线性刻度，范围从0到0.8，数值刻度间隔为0.1。红色曲线代表“Teacher”方法，标记为三角形，实线。在x轴从0开始，随着漏标率增加，其错误率逐渐增高，在0.9处达到大约0.8。蓝色曲线代表“Self-Training”方法，标记为方形，实线。起始于x轴0点，与红线趋势相似，但上升幅度稍小，最终在0.9漏标率处达到约0.6。绿色曲线表示“PST”方法，标记为圆形，实线。其起始点同样为x轴0，在整个范围内上升最缓，在0.9漏标率处达到约0.2。整体来看，不同方法的错误率随漏标率增加呈上升趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.3",
+      "paper_language": "Chinese",
+      "paper_title": "融合汉越关联关系的多语言事件观点对象识别方法",
+      "figure_filename": "2023.ccl-1.3_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.3_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "GCN层数设定对模型结果的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了与GCN层数相关的F1值变化，比较了两种不同情境的表现。x轴表示GCN层数，标签为“GCN层数”，采用线性刻度，范围是0到7，刻度均匀分布，每一单位间隔为1。y轴表示F1值，标签为“F1值”，采用线性刻度，范围为0到1，刻度均匀分布，每0.1为一单位间隔。\n\n图表中包含两条线。第一条线为蓝色，代表“新冠疫情”，使用实线和圆形标记。该线从x轴值为0的F1值0.6416开始，在x=1处达到0.7012的峰值，随后在x=2时下降到F1值0.5963，而后继续降低至x=4的F1值0.2122，在x=5和x=6时保持不变。第二条线为红色，代表“亚裔歧视”，也为实线和三角形标记。此线从x=0的F1值0.8459开始上升，在x=1时达到0.9179的峰值，然后逐渐下降，至x=4时降至0.3904，并在x=6时降至0.3331。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.4",
+      "paper_language": "Chinese",
+      "paper_title": "基于网络词典的现代汉语词义消歧数据集构建",
+      "figure_filename": "2023.ccl-1.4_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.4_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.4.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.4.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "数据集中各义项分布情况",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了“义项出现次数”与相应“义项数量”之间的关系。水平轴代表“义项出现次数”，标记从1到25+，以整数量级线性增长。垂直轴为“义项数量”，标记范围从0到800，同样采用线性刻度，每隔100标注一个刻度值。图中每个柱状图都有相应的蓝色条柱，不同条柱对应不同的出现次数。最高的柱状图对应“1次出现”，其值约为700。相对较高的还有“2次出现”和“3次出现”，分别约为415和278。最低的柱状图是出现在第20至24次之间，值大约在21到41之间。最后“25+次出现”的条柱明显较高，达到了大约218。数据按照出现次数的顺序排列，而“25+”的条柱在视觉上具有一定突出效果，通过其高度不同于其它多数条柱以提示其特别关注。通过这种视觉方式为观者提供了直观的数量分布关系。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.7",
+      "paper_language": "Chinese",
+      "paper_title": "基于语音文本跨模态表征对齐的端到端语音翻译",
+      "figure_filename": "2023.ccl-1.7_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.7_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.7.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.7.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "JSD权重系数对英语-越南语翻译结果影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了不同的JSD权重系数对BLEU得分的影响。x轴表示JSD权重系数，其标签为“JSD权重系数”，采用线性刻度，数值范围从0到5，间隔为1。y轴表示BLEU得分，其标签为“BLEU”，亦采用线性刻度，数值范围从23.4到25，间隔为0.2。图表中只有一条线，颜色为蓝色，标记形状为圆点，线条样式为实线。线条在x轴从0开始，最初的BLEU得分为23.4，然后逐步上升，在x=1时达到24.3，x=2和x=3时稳定在24.4和24.5。在x=4时，BLEU得分达到24.7为最高值，随后在x=5轻微下降到24.4。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.10",
+      "paper_language": "Chinese",
+      "paper_title": "基于端到端预训练模型的藏文生成式文本摘要",
+      "figure_filename": "2023.ccl-1.10_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.10_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "CMPT模型在微调训练过程中的Loss曲线",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了训练过程中损失值随步骤变化的趋势，标题为“Loss Curve”。x轴表示“Step”，其刻度为线性类型，范围从0到45000，数值以5000为间隔进行标注。y轴表示“Loss”，刻度也是线性类型，范围从0到5，以1为间隔标注。图中仅有一条蓝色的实线，没有标记形状，显示了损失值从步骤0到45000的变化。损失值在最初接近5，然后随着训练步骤的增加逐渐减小。在5000步附近，损失值约为2.5左右，至45000步时，损失值接近于0，并呈现出趋于稳定的状态。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.10",
+      "paper_language": "Chinese",
+      "paper_title": "基于端到端预训练模型的藏文生成式文本摘要",
+      "figure_filename": "2023.ccl-1.10_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.10_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同数据量的ROUGE-1得分",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了不同数据量与ROUGE-2评分之间的关系。x轴标签为“数据量”，采用线性刻度，数值范围从0到40,000，刻度间隔为5,000。y轴标签为“ROUGE-2”，同样采用线性刻度，数值范围从38到48，刻度间隔为2。图中有一条蓝色实线，无标记。最初，数据量为0时，ROUGE-2的值约为38.71。随着数据量增加到10,000，ROUGE-2迅速上升到46.87。在20,000时达到47.52，然后在30,000数据量处略微下降至47.48，接着在40,000时再次上升到49.16，显示出逐渐增加的趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.10",
+      "paper_language": "Chinese",
+      "paper_title": "基于端到端预训练模型的藏文生成式文本摘要",
+      "figure_filename": "2023.ccl-1.10_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.10_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同数据量的ROUGE-2得分",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "这张图表展示了不同数据量对ROUGE-2分数的影响。x轴表示“数据量”，采用线性刻度，范围从0到40000，单位未注明，数值刻度间隔为5000。y轴表示“ROUGE-2”分数，亦采用线性刻度，范围从21到34，单位未注明，数值刻度间隔为2。图中有一条蓝色的实线，展示的是不同数据量下ROUGE-2分数的变化趋势。起始数据量为0时，ROUGE-2分数为21.49，随着数据量增加到10000，分数上升到峰值31.55。随后，随着数据量的再增加到20000，分数略微下降至31.31。在30000数据量时，分数小幅上升至31.57，最后在40000数据量时，达到33.43。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.10",
+      "paper_language": "Chinese",
+      "paper_title": "基于端到端预训练模型的藏文生成式文本摘要",
+      "figure_filename": "2023.ccl-1.10_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.10_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "重要句子在文中的位置所占比例",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了不同类别在某一总集合中所占比例。水平轴代表类别，标记为“重要句子在文中的位置”，从1到11按自然数顺序排列。垂直轴显示“所占比例”，范围从0.00到0.16，刻度采用线性类型，间隔为0.02。图中的柱状图均为蓝色，表示各类别的比例值。最高的柱状图对应类别3，接近0.16，而最低的是类别11，约为0.02。柱状图按序号排列，没有特殊的视觉强调或排序。此外，图中各个柱状图的长度显示出随着类别编号增大而减小的趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.16",
+      "paper_language": "Chinese",
+      "paper_title": "融合预训练模型的端到端语音命名实体识别",
+      "figure_filename": "2023.ccl-1.16_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.16_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.16.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.16.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "验证集的F1值随λ的变化情况(以Conformer + GPT2 lm为例)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了F1值随某变量变化的趋势。x轴标记为无单位的数值范围，从0到1，采用线性刻度，刻度间隔为0.1。y轴标记为F1值，范围从75到83，刻度间隔为1。图中唯一的曲线为橙色实线，表示F1值。在线条的左端，x轴0处的F1值约为77.52。曲线首先上升，达到第一个明显的高峰值82.04，大约位于x轴0.4处，然后继续略微上升至另一个峰值82.13，在x轴0.5处。之后曲线下降，至x轴0.6处F1值为81.71，最终在x轴1处降至77.65。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.18",
+      "paper_language": "Chinese",
+      "paper_title": "基于句法特征的事件要素抽取方法",
+      "figure_filename": "2023.ccl-1.18_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.18_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.18.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.18.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "模型的F1值随𝜆趋势变化图",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该科学线图展示了F1分数与λ值之间的关系。x轴标记为“λ值”，采用线性刻度，范围从0到1，间隔为0.2。y轴标记为“F1 (%)”，也采用线性刻度，范围从57.0到60.5，间隔为0.5。图中有一条黑色的折线，表示F1分数随λ值变化的趋势。线条从左至右显示出，在λ值为0时，F1分数约为58.5%，随后随着λ值的增加逐渐上升，并在λ值约为0.5时达到峰值约为60.5%。随后，线条呈下降趋势，并在λ值接近1时降至约57.0%。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.18",
+      "paper_language": "Chinese",
+      "paper_title": "基于句法特征的事件要素抽取方法",
+      "figure_filename": "2023.ccl-1.18_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.18_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.18.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.18.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "模型F1值随主客体距离变化图",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了不同方法在三个类别“近”、“中”和“远”元素距离下的F1评分百分比。图表的水平轴代表类别，即“元素距离”，标签按照“近”、“中”、“远”的顺序排列。纵轴表示F1分数，标签为“F1 (%)”，数值范围从52%到62%，以2%的间隔线性分布。每个类别下有两个柱状图，用不同的填充方式和颜色区分，代表“本文方法”和“基线模型”。在“近”类别中，两个柱状图的值接近59%。在“中”类别中，“本文方法”的值略高于“基线模型”。在“远”类别中，“本文方法”明显高于“基线模型”，分别为约59%和54%。图例在右上角，以不同的阴影填充样式区分柱状图。柱状图按类别词序排列，没有特别的视觉强调效果。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.19",
+      "paper_language": "Chinese",
+      "paper_title": "相似音节增强的越汉跨语言实体消歧方法",
+      "figure_filename": "2023.ccl-1.19_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.19_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.19.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.19.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同比例的相似音节对模型准确率的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图显示了“音节的相似比例”与“准确率%”之间的关系。x轴表示“音节的相似比例”，范围从0到1，采用线性刻度，间隔为0.25。y轴表示“准确率%”，范围从45到85，采用线性刻度，间隔为5。图中有一条蓝色实线，标记为圆形。线条起始于0-0.25区间的约48%，然后在0.25-0.5区间下降至约45%。随后的区间，0.5-0.75，准确率上升至约60%，最后在0.75-1区间达到约85%。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.23",
+      "paper_language": "Chinese",
+      "paper_title": "数字人文视域下的青藏高原文旅知识图谱构建研究——以塔尔寺为例",
+      "figure_filename": "2023.ccl-1.23_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.23_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.23.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.23.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "对比实验关系抽取结果",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同模型在三个性能指标上的表现。图表的水平轴显示三个模型：“Bert+MLP”、“GPLinker” 和“本文模型”。这些类别按字母顺序排列。垂直轴为性能指标，包括“准确率”、“召回率”和“F1”，其范围从0到100，刻度为10的线性单位。图中每组有三个柱状图，分别用蓝色、粉色和黄色表示“准确率”、“召回率”和“F1”。在“Bert+MLP”中，蓝色、粉色、黄色柱状图的高度分别约为66.7、72.7和69.5。在“GPLinker”组中，三个柱状图均为77.7，表示一致的数值。在“本文模型”组中，柱状图为80.6（蓝色）、83.3（粉色）和81.9（黄色），为最高值。图例在图表底部，从左到右依次指示颜色与性能指标的对应关系。没有柱状图被特别强调，视觉上没有特殊注释或样式。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.25",
+      "paper_language": "Chinese",
+      "paper_title": "基于语义任务辅助的方面情感分析",
+      "figure_filename": "2023.ccl-1.25_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.25_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "窗口大小对准确率的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了三个不同组别（Lap14、Rest14和Twitter）的准确率随窗口大小变化的情况。x轴表示窗口大小，标签为“window size”，采用线性刻度，数值范围为1到10，刻度间隔为1。y轴表示准确率，标签为“Acc(%)”，采用线性刻度，范围从74到94，刻度间隔为2。图中的红色实线代表Lap14，标记为圆形。该线在窗口大小从1到10时，大致保持在80%至82%之间，显示出轻微波动。绿色实线代表Rest14，标记为倒三角形。该线在整个范围内保持在约84%至86%之间，也显示出轻微波动。蓝色实线代表Twitter，标记为三角形。在x轴上，从1到10的位置上，其准确率分布在大约75%到77%之间。总体而言，各组别的准确率在变化过程中有轻微波动，但基本保持在各自的值域内。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.25",
+      "paper_language": "Chinese",
+      "paper_title": "基于语义任务辅助的方面情感分析",
+      "figure_filename": "2023.ccl-1.25_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.25_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "窗口大小对F1值的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了不同数据集（Lap14、Rest14、Twitter）在不同窗口尺寸下的F1评分百分比。x轴表示“window size”，刻度为线性，范围从1到10，间隔为1。y轴表示“F1 (%)”，刻度为线性，范围从76到82，间隔为2。图中有三条线。红色实线带圆形标记代表Lap14，从窗口尺寸1开始，F1评分约为78%，在尺寸3时达到约79.5%，然后有所波动，在尺寸10处为约77.5%。绿色实线带倒三角形标记代表Rest14，从窗口尺寸1开始，F1评分约为78%，在尺寸3处达到高峰约为81%，然后下降并在尺寸7时降至约77.5%，之后有所回升，在尺寸10处接近78%。蓝色实线带三角形标记代表Twitter，从窗口尺寸1开始，F1评分约为75.5%，在尺寸9达到约76.5%的峰值，然后在尺寸10降至约75.5%。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.25",
+      "paper_language": "Chinese",
+      "paper_title": "基于语义任务辅助的方面情感分析",
+      "figure_filename": "2023.ccl-1.25_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.25_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Rest14数据集上捕捉句法依存距离的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了两个不同指标（F1和Acc）随着“captured_distance”变化的趋势。x轴表示“captured_distance”，采用线性刻度，范围从1到8，刻度间隔为1。y轴表示百分比，数值范围从72%到94%，刻度间隔为2%。\n\n红色实线使用圆形标记代表F1指标，随着“captured_distance”的增加，该线起始于大约83%，在第4个刻度达到峰值约86%，之后逐渐下降至第8个刻度的约82%。蓝色实线使用三角形标记代表Acc指标，起始于约74%，在第4个刻度达到约78%的峰值，然后开始下降，在第8个刻度处降至约74%。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.25",
+      "paper_language": "Chinese",
+      "paper_title": "基于语义任务辅助的方面情感分析",
+      "figure_filename": "2023.ccl-1.25_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.25_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Lap14数据集上捕捉句法依存距离的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了与捕捉距离相关的两个不同性能指标的百分比变化。x轴表示捕捉距离，以整数标记，从1到8，刻度间隔为1。y轴表示百分比，范围从70%到84%，刻度间隔为2%。红色实线使用圆形标记代表“F1”指标。该线从起始值约78%变化到结束值约77%，在距离5处达到峰值约80%。蓝色实线使用三角形标记表示“Acc”指标。从起始值约74%到相比下降的结束值约73%，在距离4处达到峰值约75%。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.25",
+      "paper_language": "Chinese",
+      "paper_title": "基于语义任务辅助的方面情感分析",
+      "figure_filename": "2023.ccl-1.25_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.25_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.25.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Twitter数据集上捕捉句法依存距离的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "这张图展示了捕获距离与两个指标（F1和Acc）之间的关系。x轴表示为“captured_distance”，是线性刻度，范围从1到8，没有单位，数值刻度的间隔为1。y轴标记为“%”，也是线性刻度，范围从74到80，间隔为1%。图中有两条线：红色实线带圆形标记代表F1指标，随捕获距离变化，起始值和结束值大约为76.5%，在捕获距离5时达到约78%的峰值。蓝色实线带三角形标记代表Acc指标，起始值约为75.5%，结束于约76%，在捕获距离6达到约76.5%的峰值。两条线均呈现出波动的趋势，随着捕获距离的变化而升降。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.27",
+      "paper_language": "Chinese",
+      "paper_title": "动词视角下的汉语性别表征研究——基于多语体语料库与依存分析",
+      "figure_filename": "2023.ccl-1.27_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.27_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "男性动词语义域分布",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该图表展示了两组饼图，每个饼图展示了不同类别的分布。左侧饼图有十个类别，标签包括“生活工作”23.3%（蓝色）、“生产”16.91%（绿色）、“身体动作”9.9%（浅蓝）、“生理活动”9.48%（深蓝色）、“文教”5.57%（深灰色）、“战争”8.87%（紫色）、“其他”19.38%（蓝绿色）、“社交”6.6%（浅蓝色）。而右侧饼图也有十个类别，标签包括“物态事态”23.4%（红紫色）、“心理活动”10.64%（深紫色）、“争斗”9.57%（桃红色）、“帮助”4.26%（浅橙色）、“表情”5.32%（橙色）、“方位改变”18.09%（橘色）、“际遇”5.32%（紫色）、“交通”4.26%（淡青色）、“司法”10.64%（深紫色）、“判断”8.51%（青色）。图表中包括一个图例，标识了每个类别对应的颜色，两张饼图的百分比均显示在各个切片内部。此外，没有任何切片被特别强调或以不同方式展示。切片按不同的类别随机排列。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.27",
+      "paper_language": "Chinese",
+      "paper_title": "动词视角下的汉语性别表征研究——基于多语体语料库与依存分析",
+      "figure_filename": "2023.ccl-1.27_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.27_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "女性动词语义域分布",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该图表主要展示了不同类别在特定主题中的比例分布。左侧饼图包括八个切片，标签分别是“生活工作”（74.74%，蓝色）、“生理活动”（10.56%，深蓝色）、“其他”（5.64%，暗灰色）、“判断”（4.06%，淡绿色）、“物态事态”（2.62%，粉色）、“身体动作”（2.38%，绿色）、“心理活动”（0.6%，紫色）、“战争”（0.6%，红色）、“争斗”（0.6%，红褐色）。右侧饼图有13个切片，标签分别是“心理活动”（15.44%，粉紫色）、“社交”（15.44%，青蓝色）、“司法”（14.57%，深灰色）、“文教”（10.98%，灰色）、“方位改变”（9.85%，橙色）、“物态事态”（6.72%，浅红色）、“管理”（4.13%，红色）、“帮助”（2.93%，浅橙色）、“交流”（1.6%，棕色）、“身体动作”（1.6%，浅绿）、“经济”（0.33%，蓝绿色）、“体验”（0.27%，红褐色）、“灾难”（0.27%，暗色）。每个切片内标有相应的百分比，且图表右侧附有图例说明颜色对应的类别名称。整体上，切片按大小比例展示，部分切片有不同颜色区分。没有视觉强调如放大或偏移。在视觉上，左图由一个大型切片主导，而右图的切片近似等分。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.27",
+      "paper_language": "Chinese",
+      "paper_title": "动词视角下的汉语性别表征研究——基于多语体语料库与依存分析",
+      "figure_filename": "2023.ccl-1.27_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.27_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "各语体中的动词一级语义域分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这组图表由两部分组成，展示了“各语体中变量词的词频及分布”。第一个图表（a）中，水平轴表示不同的语体类别，包括“新闻”、“学术”、“网络小说”和“微博”，使用线性刻度排列。垂直轴展示词频值，范围从0至7000，单位为绝对词频值，刻度以1000为间隔。每个柱状图展示了在不同语体下特定变量词的词频分布。柱状图以分段形式表现，不同颜色的分段通过图例标识，代表不同的变量词类别。新闻类具有最高的词频值，与学术、网络小说和微博相比，具有不同的分段比例。最短的柱状图出现在“学术”类别中，词频较低。整体上，柱状图中无明显视觉强调，如阴影或加粗处理。\n\n第二个图表（b）同样以水平轴表示相同的语体类别，轴标签与第一个图表相似。垂直轴亦为词频，刻度、单位和间隔一致。每个柱状图也按分段方式呈现，不同颜色对应不同变量词的词频。此图表中特定语体的词频显著高于其他语体，尤其在“网络小说”类别中，达到最高值，显示出最大的突出分段，而“微博”类别的柱状图较短。图表排序依旧是按语体类别自然顺序排列，并未对任何柱状图进行额外的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.27",
+      "paper_language": "Chinese",
+      "paper_title": "动词视角下的汉语性别表征研究——基于多语体语料库与依存分析",
+      "figure_filename": "2023.ccl-1.27_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.27_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.27.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "各语体中筜生活工作笢与筜生理活动笢类动词的二级语义域分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这两幅图展现了各体样本变化期间的二道变头义类分布情况。图 (a) 和图 (b) 都使用柱状图来表示不同类别在特定时间段的分布。水平轴代表类别，包括“前极端”、“尾极端”和“前等值”，依次排列，并标注相应名称。水平轴上的刻度为线性的，无数值刻度。垂直轴代表频次，标记从0到6000，数值刻度间隔为1000的线性尺度。图 (a) 中的每个堆叠柱状图包含多个颜色区域，每个区域代表不同的二道变头义类，颜色依图例不同而异。在“前极端”和“尾极端”类别中，大部分频次集中在顶部为粉色的部分，占比分别为53%和92%，总频次分别为4356和5636，而“前等值”类别的总频次较少，为586，各组成部分频次分布相对平均。图 (b) 中的柱状图亦为堆叠格式，类别与图 (a) 相同，但不同体样为背景调整，主要体现在“尾极端”，其最高总频次为5714，53%的粉色区域占主导。图表中的颜色按照图例标注，每种颜色对应一个特定的义类。这些柱状图是否按某种特定顺序排序未有明确标示，也未有视觉强调特定的柱状图。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.28",
+      "paper_language": "Chinese",
+      "paper_title": "基于多任务多模态交互学习的情感分类方法",
+      "figure_filename": "2023.ccl-1.28_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.28_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.28.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.28.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同层数下ACC-2与F1-Score的性能展示",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了ACC-2和F1-Score两项指标在多个数据点上的变化趋势。x轴以数值表示，从1到6，刻度为线性，数值间隔为1单位。y轴代表分数，以线性刻度范围从82.5到86.5，刻度间隔为0.5。图中包含两条线，第一条蓝色的线代表ACC-2，使用实线绘制。它从x=1时约84开始，上升到x=3时的峰值约86.5，然后下降至x=6时约84。第二条红色线代表F1-Score，同样使用实线绘制。该线从x=1时约84开始，达到x=3时的峰值约86.5，随后下降，最后在x=6时降至约84。两条线在整个范围内变化趋势相似，且数值接近。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.28",
+      "paper_language": "Chinese",
+      "paper_title": "基于多任务多模态交互学习的情感分类方法",
+      "figure_filename": "2023.ccl-1.28_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.28_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.28.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.28.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同层数下MAE与Corr的性能展示",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了两个数据集的指标表现。横轴（x轴）标签为简单数值，从1到6，刻度为线性，且间隔为1。纵轴（y轴）范围为0.660至0.820，刻度同样为线性，间隔为0.020。图中有两条线，第一条为蓝色线，代表“MAE”，使用实线连接数据点。起始于x=1时y约为0.765，随后在x=3时降至约0.715，然后逐步上升在x=6时达到约0.755。第二条为红色线，代表“Corr”，也是实线。起始于x=1时y约为0.790，在x=3时略微升至约0.800，最后在x=6时下降至约0.775。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.29",
+      "paper_language": "Chinese",
+      "paper_title": "基于动态常识推理与多维语义特征的幽默识别",
+      "figure_filename": "2023.ccl-1.29_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.29_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.29.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.29.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同数量的知识候选对模型性能的影响",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了三条线分别代表不同数据集在五个阶段的F1评分变化。x轴表示阶段，此轴为线性刻度，范围从1到5，标记间隔为1。y轴表示F1评分，此轴也为线性刻度，范围从88到98，标记间隔为2。\n\n第一条线是蓝色，代表“Pun of The Day”数据集，使用菱形标记和实线风格。起始值为89，在阶段3的值下降至低点90，然后上升至阶段5的值92。\n\n第二条线是橙色，代表“SemEval”数据集，使用方形标记和实线风格。起始值为92，在阶段3的值下降至低点91，然后上升至阶段5的值93。\n\n第三条线是灰色，代表“ColBERT”数据集，使用三角形标记和实线风格。起始值为91，在阶段3的值上升至高点96，然后在阶段5的值进一步上升至97。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.37",
+      "paper_language": "Chinese",
+      "paper_title": "基于结构树库的补语位形容词语义分析及搭配库构建∗",
+      "figure_filename": "2023.ccl-1.37_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.37_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.37.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.37.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 分类结果一级类分布情况 | 分类结果分布情况",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图显示了不同类别的数据值。横轴展示了类别，包括“程度”、“空间”、“时间”、“形态”、“频数”、“情绪”、“状态”、“评价”和“性格”，采用线性刻度且按顺序排列。纵轴代表数值，以线性刻度标示，范围从0到250，刻度间隔为50个单位。每个柱状图对应一个类别，并用黑色点状填充。具体来看，“评价”的柱状图最高，约为210；“状态”约为146；“空间”约为112；“形态”约为74；“性格”约为44。其余类别值较小，分别为“程度”约22、“时间”和“频数”均为13、“情绪”为20。柱状图没有特定顺序排列，也未见明显的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.37",
+      "paper_language": "Chinese",
+      "paper_title": "基于结构树库的补语位形容词语义分析及搭配库构建∗",
+      "figure_filename": "2023.ccl-1.37_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.37_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.37.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.37.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 分类结果二级类分布情况 | 分类结果分布情况",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "柱状图展示了若干类别的数值分布情况。水平轴显示类别标签，包括“强度”、“过程”、“声量”等，共有22个类别。垂直轴为数值轴，标注为0到80，刻度间隔为10，数值呈线性分布。每个类别由一个灰色柱状图表示，各柱状图的长度展示了对应类别的数值高低。最长的柱状图对应“特定类别1”，高度约为75，其次是“特定类别2”与“特定类别3”，高度分别约为60和70。最短的柱状图如“特定类别4”，高度约为5。虽然图表并未标注排序规则，但“特定类别5”以及“特定类别6”呈现出一致的中等高度，约为20到30之间。所有柱状图的颜色和样式一致，无额外视觉强调元素或注释。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "基于BiLSTM聚合模型的汉语框架语义角色识别",
+      "figure_filename": "2023.ccl-1.38_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.38_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "基于最优超参数配置的聚合模型的性能",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "这张图表展示了三个不同系列的F值：30个模型的F值、30个模型的F值的均值和投票后的F值。x轴表示模型编号，标签为从1到30，刻度类型为线性，数值范围从1到30，刻度间隔为1。y轴表示F值，刻度类型也是线性，数值范围从67到77，刻度间隔为2。图中有三条线。第一条线表示30个模型的F值，颜色为实线黑色，x轴开始值约为70，结束值约为69，期间多次波动，最高点约为71。第二条线为30个模型的F值的均值，使用黑色虚线表示，整体保持在71左右，几乎没有波动。第三条线为投票后的F值，使用黑色点划线表示，保持稳定于75。每条线条都有其特定的标记形状和线条样式来区分。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "基于BiLSTM聚合模型的汉语框架语义角色识别",
+      "figure_filename": "2023.ccl-1.38_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.38_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "模型投票前后TP的对比",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "这张图表展示了30个模型分别对应的TP值与投票得到的TP值之间的比较。x轴代表模型编号，标签为“30个模型分别对应的TP”，范围从1到30，刻度类型为线性，间隔均匀为1。y轴显示TP值，标签为“TP”，数值范围从5700到6700，刻度类型为线性，间隔均匀为200。图中有两条线，一条是实线，代表“30个模型分别对应的TP”，呈现锯齿状的波动，从大约6150开始，在模型1出现第一次下降，到模型18附近有一个显著的下降，然后在模型22达到峰值，最后在模型30结束于略低于6200的位置。另一条线是虚线，代表“投票得到的TP”，从头到尾保持稳定，TP值大约为6500，没有明显的波动或变化。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "基于BiLSTM聚合模型的汉语框架语义角色识别",
+      "figure_filename": "2023.ccl-1.38_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.38_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "模型投票前后FP的对比",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了30个模型分别对应的FP值和投票得到的FP值之间的对比。x轴显示的是模型编号，标签为“模型”，采用线性刻度，范围从1到30，刻度以1为间隔。y轴表示FP值，刻度同样为线性，范围从1500到3000，刻度间隔为500。图中包含两条线，第一条线为实线，颜色较深，表示“30个模型分别对应的FP”，在x轴上显示出不规则的波动，从大约2500开始，在整个范围内各个数据点之间有高峰和下降，例如，x轴为2时值最低，而x轴为20时值达到峰值。另一条线为虚线，颜色较浅，表示“投票得到的FP”，开始和结束值均在2100左右，显示为一条水平线，表明此FP值在所有模型中保持不变。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "基于BiLSTM聚合模型的汉语框架语义角色识别",
+      "figure_filename": "2023.ccl-1.38_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.38_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "置信区间宽度值对比",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "图表展示了置信区间宽度值随投票数的变化关系。x轴代表投票数，标签为“投票”，以线性刻度显示，范围从0到28，刻度为每2单位一个间隔。y轴表示置信区间宽度值，范围从1.3到1.9，以线性刻度显示，刻度间隔为0.1。图中的线为灰色实线，标记为蓝色圆点。线上数据从x轴起始处的值1.8迅速下降，在x=2处降至1.6，然后呈现稳定的下降趋势。线在整个x轴范围内，逐渐减少，尾部在x=28处降至1.4。在x=10到x=26区间，中间段落维持在约1.5至1.6之间的小幅变动。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "基于BiLSTM聚合模型的汉语框架语义角色识别",
+      "figure_filename": "2023.ccl-1.38_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.38_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "10次重复实验结果",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了10个类别中两个数据集的数值情况，用于比较30个模型结果的均值与投票结果。水平轴表示类别，其标记为1至10的数字，使用线性顺序。垂直轴表示数值，其刻度范围从60到80，每隔5个单位标记一个刻度。图中包含一组双柱状图，每个类别下有两个柱子，用不同的灰色和深灰色分别代表“30个模型结果的均值”和“30个模型的投票结果”。在颜色上，较浅的灰色表示均值，而较深的灰色表示投票结果。所有柱状图的高度总体较为一致，投票结果柱状图的高度接近于75，而均值柱状图则稍低。没有柱状图按照数值或字母顺序进行排序，且其间无特别的视觉强调。分组柱状图紧挨着排列，每组下方的数字为其类别标识符。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于深加工语料库的《唐诗三百首》难度分级",
+      "figure_filename": "2023.ccl-1.43_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.43_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "《唐诗三百首》不同特殊句式类型的数量图",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了《唐诗三百首》中不同特殊句式类型的数量。水平轴表示数量，标签为“数量”，刻度为线性类型，从0到120，间隔为10。垂直轴包含类别，显示不同的句式类型，依次为“主宾倒装”、“因果倒装”、“省略动词”、“主谓倒装”、“省略比喻词”、“定语后置”、“省略关联词”、“状语后置”、“省略介词”和“宾语前置”。每个柱状图均为蓝色，代表相应句式的数量。最大值为“宾语前置”对应的106，最小值为“主宾倒装”，为4。柱状图的顺序按垂直排列，不特殊强调某个柱状图，整体未按特定方式排序。该图没有分组或堆叠的元素，所有信息平铺展示，清晰直观。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于深加工语料库的《唐诗三百首》难度分级",
+      "figure_filename": "2023.ccl-1.43_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.43_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "《唐诗三百首》诗歌长度统计",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这幅柱状图标题为《唐诗三百首》诗歌长度统计，展示了不同长度的唐诗数量分布情况。水平轴代表诗歌的长度，标签为“诗歌长度”，从20到840，以固定的不规则间隔标示。垂直轴表示诗歌数量，标签为“诗歌数量”，范围从0到100，刻度间隔为10，采用线性刻度。柱状图中每个柱体对应一种诗歌长度，并以统一的蓝色填充。最长的柱状图代表诗歌长度为40的诗，其数量为91，而长度为70的诗数量为55，这几个长度的诗数量最多。相对而言，诗歌长度在200以上的数量非常少，通常为1至2首，显示出明显的稀少趋势。图中没有柱状图分组或堆叠，所有柱状图按照诗歌长度由小到大排列。整个图表没有视觉上的强调元素，比如阴影或注释，数据的展示非常直观。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于深加工语料库的《唐诗三百首》难度分级",
+      "figure_filename": "2023.ccl-1.43_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.43_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "《唐诗三百首》标题长度统计",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了《唐诗三百首》标题长度的统计情况。水平轴为《唐诗三百首》中的诗歌数量，其刻度为线性类型，值范围从0到80，数值刻度间隔均匀为10。垂直轴表示标题长度，刻度为线性，标签从1到50，未按数值顺序间隔均匀分布。每个水平条形表示特定标题长度的诗歌数量，颜色为浅蓝色。从图中可见，标题长度为5和7的诗歌数量最多，分别为60和69。最短和最长标题的诗歌数量均较少，例如长度为1的诗歌仅有1首。柱形图按标题长度的数值顺序排列，没有额外的视觉强调特征。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于深加工语料库的《唐诗三百首》难度分级",
+      "figure_filename": "2023.ccl-1.43_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.43_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "《唐诗三百首》典故数量统计",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了与不同典故数量相关的诗歌数量，具体以首为单位进行计数。水平轴表示“每首诗的典故数量（个）”，以一、二、三、四、五、九为类别，按从左到右的顺序排列。垂直轴代表“诗数量（首）”，采用线性刻度，其范围从0到45，每隔5个单位有一个刻度标记。每个柱状图用浅绿色表示，代表不同典故数量的诗歌数量。第一个柱状图（典故数量为“一”）高度大约为41，是所有柱状图中最高的。接下来的柱状图高度分别为21、4、2、2以及1，显示的典故数量依次为二、三、四、五和九。柱状图没有特定的排序方式和视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于深加工语料库的《唐诗三百首》难度分级",
+      "figure_filename": "2023.ccl-1.43_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.43_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "《唐诗三百首》难度最高前十首",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了《唐诗三百首》中难度排名前十的诗歌。水平轴表示难度值，刻度为线性，以0.5为间隔，范围从5到7.5。垂直轴列出了诗歌名称和类型，标注顺序从上到下分别是《庐山谣寄卢侍御虚舟》、《长恨歌》、《石鼓歌》、《梦游天姥吟留别》、《秋登兰山寄张五》、《与高适薛据同登慈恩寺浮图》、《蜀道难》、《宣州谢眺楼饯别校书叔云》、《无题二首二》和《白雪歌送武判官归京》。各柱状图均为蓝色，长度代表对应诗歌的难度值。最短的柱状图代表《庐山谣寄卢侍御虚舟》，难度值为约5.717，而最长的柱状图代表《白雪歌送武判官归京》，难度值约为7.191。柱状图按难度值从小到大排序，图中无视觉强调的元素。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.43",
+      "paper_language": "Chinese",
+      "paper_title": "基于深加工语料库的《唐诗三百首》难度分级",
+      "figure_filename": "2023.ccl-1.43_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.43_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.43.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "《唐诗三百首》难度最低前十首",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了《唐诗三百首》中难度最低的前十首诗。图表的横轴表示难度数值，标签从11.1到11.8，刻度是线性的，数值范围从11.1到11.8，刻度间隔为0.1。纵轴包含诗的标题，按顺序排列，从上至下依次列出。这些诗的标题包括“长干行二首二”、“江南曲”、“杂诗”、“新嫁娘词”等，共十项。每个柱状图代表一首诗，用浅蓝色填充，并标注了确切的难度值。最长的柱为“长干行二首二”，难度为11.75123582，而最短的柱为“塞下曲四首一”，难度为11.33133804。柱状图按难度数值降序排列，从难度最大的诗到最小的诗顺序展示。所有柱状图长度和颜色保持一致，没有特别的视觉强调。图例未显示，难度值直接标注在每根柱状图的末端。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.44",
+      "paper_language": "Chinese",
+      "paper_title": "基于RoBERTa的中文仇恨言论侦测方法研究",
+      "figure_filename": "2023.ccl-1.44_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.44_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.44.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.44.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "不同模型的单个类别分类性能对比",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同模型在侮恨言论和非侮恨言论两类中的F1值，以比较RoBERTa模型和CHSDETECTOR模型的性能。图表的水平轴表示类别，包含“侮恨言论”和“非侮恨言论”两个标签。垂直轴为“F1值/%”，范围从85.0到89.5，以线性刻度显示，数值刻度间隔为0.5。图中每种言论类别下都有两个相应的柱状图，分别代表两种模型。RoBERTa模型的柱状图为实色填充，其中“侮恨言论”的F1值约为86.93，而“非侮恨言论”为87.54。CHSDETECTOR模型的柱状图则为线条填充，“侮恨言论”的F1值约为89.02，“非侮恨言论”为89.21。图例位于顶部，标示不同的填充方式对应哪种模型。柱状图按类别排列，没有特定的顺序，也没有柱状图被视觉上特别强调或突出显示。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2023.ccl-1.48",
+      "paper_language": "Chinese",
+      "paper_title": "SpaCE2022中文空间语义理解评测任务数据集分析报告",
+      "figure_filename": "2023.ccl-1.48_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2023.ccl-1.48_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.48.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2023.ccl-1.48.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "子任务三数据集的标签分布图",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同类别在三个集合中的百分比分布，包括“训练集”、“验证集”和“测试集”。图表的水平轴表示类别，从“空间实体”到“隐式距离”的不同类别按字母顺序排列。垂直轴为百分比刻度，范围从0%到40%，刻度以5%的间隔递增。不同集合的数据以不同颜色的柱状图展示，“训练集”用蓝色表示，“验证集”用橙色表示，“测试集”用灰色表示。最高的柱状图属于“空间实体”类别，其中训练集、验证集和测试集的百分比分别约为31.5%、30.6%和30.8%。最小的柱状图属于多个类别，如“部件距离”、“隐式距离”等，其中每个集合中的百分比均低于1%。柱状图以分组方式排列，每个类别三个不同颜色的柱状图紧邻在一起，没有视觉强调，如阴影或加粗。整体上，数据在各类别间呈现不同的分布模式，具体数值如图中所示。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "一个适合汉语的带有范畴转换的组合范畴语法",
+      "figure_filename": "2022.ccl-1.2_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.2_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "华水树库圱圮地中范畴转换规则的使用次数",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同“范畴转换规则”的使用次数。水平轴表示“范畴转换规则”，包括Ols', Ajs, Sis', A/n等多个类别。类别以不规则的顺序排列，每个类别都有一个对应的短标签。垂直轴为“使用次数”，标注范围从1到1000，采用对数刻度，数值间隔为对数级别。每个类别对应一个蓝色的柱状图，表现其使用次数。某些类别有较高的使用次数，例如Dld和Civ等接近或超过100，而许多类别的使用次数则低于10，表现为较短的柱状。在视觉上并没有特定的排序方式或强调某个柱状图。整体上，各个柱状图的排列和长度提供了关于不同范畴转化规则使用频次的直观展示。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.2",
+      "paper_language": "Chinese",
+      "paper_title": "一个适合汉语的带有范畴转换的组合范畴语法",
+      "figure_filename": "2022.ccl-1.2_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.2_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "华水树库圱圮地中短语类型的出现次数比例",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了各种短语结构在特定语料库中出现的比例。水平轴表示不同的短语结构类别，从左到右依次排列，类别名称包括AHn、VO、DHy等，如同图例中所示。垂直轴代表出现次数比例，标记为“出现次数比例”，刻度为线性，范围从0到0.3，以0.05为间隔。单个柱状图的颜色为蓝色，每个柱状图显示的短语结构及其比例，最高的是AHn，约为0.27，而最低的多个短语结构如HCm、U3P、EM等，接近0。柱状图按照出现次数比例的降序排列，最左侧的为比例最高的短语结构，依次递减。没有柱状图被视觉上额外强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.4",
+      "paper_language": "Chinese",
+      "paper_title": "单项形容词定语分布考察及“的”字隐现研究∗",
+      "figure_filename": "2022.ccl-1.4_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.4_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.4.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.4.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "粘合式与组合式词例数据对比",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了两个类别“词例数量”和“使用频数”在两个不同条件“粘合式”和“组合式”下的数据对比。水平轴包含类别标签，依次是“词例数量”和“使用频数”。垂直轴表示数值，标签为数据的数值大小，范围从0到700000，刻度为线性，间隔为100000。图中包含四个柱状图。对于“词例数量”类别，“粘合式”显示为蓝色，近似值为34805；“组合式”显示为橙色，近似值为43040。对于“使用频数”类别，“粘合式”柱状图为蓝色，近似值为637859，而“组合式”显示为橙色，近似值为143454。柱状图按类别分组排列，相同类别中不同条件的柱状图并排放置。图例显示右侧，有助于区分不同条件的柱状图。没有特定的排序方式，所有柱状图都采用正常的填充，无视觉强调效果。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.4",
+      "paper_language": "Chinese",
+      "paper_title": "单项形容词定语分布考察及“的”字隐现研究∗",
+      "figure_filename": "2022.ccl-1.4_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.4_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.4.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.4.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "单音名词作中心语的粘合式结构音节组配",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "此图表展示了粘合式“an”结构的构成。图表中共有两个主要饼图，第一个饼图包含两个切片，第二个包含两个切片。第一个饼图有一个占据较大部分的黄色切片，标记为“单音形容词+单音名词”，占据约69.39%，以及一个较小的蓝色切片，标记为“双音形容词+单音名词”，占约30.61%。第二个饼图中，较大的橙色切片标示为“‘的’字只隐不显”，占81.66%，以及一个较小的绿色切片标示为“‘的’字只显不隐”，占18.34%。图表右侧的饼图是对第一个饼图中黄色切片的进一步分解。图表包含简单的切片内百分比和说明标签，并放置了一个图例，帮助区分不同的部分。表示数据的切片以明显的颜色区分，使得每个组分的信息一目了然。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.4",
+      "paper_language": "Chinese",
+      "paper_title": "单项形容词定语分布考察及“的”字隐现研究∗",
+      "figure_filename": "2022.ccl-1.4_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.4_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.4.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.4.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "单音名词作中心语的组合式结构音节组配",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该图表展示了组合式 “a的n” 结构的构成。左侧圆形饼图包含两个切片，一个标记为“双音形容词+单音名词”，用蓝色表示，占据了约73.93%的比例。另一个切片标记为“单音形容词+单音名词”，用橙色表示，约占26.07%。右侧圆形饼图同样包含两个切片，其中标记为“‘的’ 字只现不隐”的切片为黄色，占96.71%。另一切片标记为“‘的’ 字只隐不现”，使用绿色表示，约占3.29%。图表包括图例，并在切片内部直接展示百分比数据。两个饼图内部的切片未见明显视觉上的特殊强调或顺序安排。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.7",
+      "paper_language": "Chinese",
+      "paper_title": "基于语料的“一+形容词+量词+名词”构式语义考察",
+      "figure_filename": "2022.ccl-1.7_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.7_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.7.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.7.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "名词词频",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了名词的出现频率，标题为“名词词频图（剔除集合量词对应名词）”。水平轴表示类别，标注为不同的名词，如“路”、“路方”、“地”、“时”等，排列顺序从左到右。垂直轴表示频率，标签为“词频”，其刻度呈线性排列，从0到200，数值间隔为25。其中，最高的柱状图代表“路”，其频率接近150，颜色为蓝色；最低的名词如“文”和“物”等，其频率接近0。整体上，蓝色柱状图呈左高右低的趋势，并未特意采用降序或字母顺序排序，且没有任何柱状图被视觉强调，如使用阴影或加粗等效果。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.13",
+      "paper_language": "Chinese",
+      "paper_title": "融合知识的多目标词联合框架语义分析模型",
+      "figure_filename": "2022.ccl-1.13_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.13_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.13.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.13.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "FN1.5训练集中不同目标词个数的句子数量分布情况。",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了四个不同类别的数据分布情况，图表的整体目的是显示这些类别的数据值。水平轴代表类别，标签为“<=1”、“2~5”、“6~9”和“>=10”。这些标签按照数值大小顺序排列。垂直轴则是表示数值的轴，未标注具体单位，刻度是线性的，刻度范围从0到1400，间隔为200。图中共有四个蓝色柱状图，每个柱状图对应一个类别。第一个柱状图“<=1”的值约为164，第二个柱状图“2~5”是最高的，值约为1161。第三个柱状图“6~9”值约为899，第四个柱状图“>=10”值约为492。柱状图并未按特定方式排序，例如字母顺序或数值顺序，也没有任何柱状图被突出显示。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.18",
+      "paper_language": "Chinese",
+      "paper_title": "基于SoftLexicon和注意力机制的中文因果关系抽取",
+      "figure_filename": "2022.ccl-1.18_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.18_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.18.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.18.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) BiLSTM层数对F1值的影响 | 模型参数设置对F欱值的影响",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图显示了不同BiLSTM层数对F1值（%）的影响，意在展示或比较随层数变化的模型性能。水平轴表示BiLSTM的层数，标签从1到4顺序排列。垂直轴则为F1值的百分比，采用线性刻度，范围从70%到75%，并以每个单位1%的等间距标记。图中共有四个独立的柱状图，每个柱状图代表一种特定的层数，其颜色为浅蓝色。柱状图的具体F1值分别为：1层时为70.80%，2层时为74.04%，3层时为73.19%，4层时为73.13%。最短的柱状图为1层对应的柱，其F1值最低为70.80%，而最长的柱状图为2层对应的柱，其F1值最高为74.04%。这些柱状图按层数递增排序，且无特殊视觉强调（如阴影或加粗等）。图表旨在通过简单明了的方式呈现数值的差异。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.18",
+      "paper_language": "Chinese",
+      "paper_title": "基于SoftLexicon和注意力机制的中文因果关系抽取",
+      "figure_filename": "2022.ccl-1.18_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.18_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.18.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.18.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "并行头数(head)对F1值的影响 | 模型参数设置对F欱值的影响",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同并行头数对应的F1值百分比。水平轴表示类别轴，标有“并行头数（head）”，类别为2、4、5、8，以数值顺序排列。垂直轴为值轴，标记为“F1值（%）”，刻度范围从70到75，以1为间隔，刻度均匀。柱状图的颜色为浅蓝色，分别表示不同并行头数的F1值。具体来看，并行头数为2的F1值约为73.89%，为4时约为74.04%，为5时约为72.27%，为8时约为72.13%。柱状图的高度显示出不同头数的F1值，没有特别的视觉排序处理或强调，如阴影或加粗，信息直接由数值标签呈现。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.22",
+      "paper_language": "Chinese",
+      "paper_title": "基于框架语义映射和类型感知的篇章事件抽取*",
+      "figure_filename": "2022.ccl-1.22_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.22_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.22.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.22.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "DuEE-fin训练集各事件类型分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了与“训练集”相关的不同类别的分布情况。水平轴代表类别标签，包括“股份回购”、“亏损”、“裁员”、“企业收购”、“中标”、“高管变动”等，共计13个类别。每个类别的标签以汉字表示，按照顺序从左到右排列。垂直轴显示数值数据，轴标签隐含，刻度为线性，范围从0到1400，以200为刻度间隔单位。图中每个类别对应一根蓝色的柱状图，代表不同类别的值。最左侧的“股份回购”柱状图是最高的，接近1200，而最右侧的“被约谈”是最低的，约为200左右。所有柱状图的颜色为一致的蓝色，图例标注为“训练集”。柱状图按类别排序而非数值大小，且没有任何柱状图被特别强调，如加粗或阴影处理。图表整体上均匀地呈现了每个类别的值量，并无任何明确的分组或堆叠结构。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.22",
+      "paper_language": "Chinese",
+      "paper_title": "基于框架语义映射和类型感知的篇章事件抽取*",
+      "figure_filename": "2022.ccl-1.22_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.22_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.22.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.22.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "DuEE-fin验证集各事件类型分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了标签为“验证集”的多类别比较情形。横轴是类别轴，标有不同类别的标签，依次为“股份回购”、“亏损”、“质押”、“股东减持”、“企业收购”、“商誉变动”、“中标”、“解除质押”、“公司上市”、“企业融资”、“股东增持”、“企业破产”及“被约谈”。纵轴是数值轴，标签为无单位纯数值，范围从0到300，刻度线性，间隔为50。每个类别对应一个橙色的柱状图。柱子的高度表示数量或值，具体数值从图中得知，“股份回购”大约为250，是最高的柱状图，而“被约谈”大约为50，是最低的。柱状图按从高到低的顺序排列，没有分组或堆叠的视觉设计，也没有任何柱状图经过特别的视觉强调如阴影或加粗。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.30",
+      "paper_language": "Chinese",
+      "paper_title": "面向Transformer 模型的蒙古语语音识别词特征编码方法",
+      "figure_filename": "2022.ccl-1.30_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.30_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 训练的loss 值的变化 | 基于注意力的蒙古语语音识别模型的收敛情况",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该线图展示了训练和开发集在不同训练轮次（epoch）上的损失变化情况。x轴代表训练轮次，标签为“epoch”，刻度是线性的，范围从0到21，数值间隔为3。y轴表示损失，标签为“loss”，同样为线性刻度，范围从0到60，数值间隔是10。图中有两条线：绿色线表示训练集（train），为实线，标记为小圆点，红色线表示开发集（dev），也是实线，标记为小圆点。训练集的损失从第0轮次的约60开始，快速下降至第3轮次的低于10，并缓慢进一步降低并趋于平稳，最后几个值保持在2以下。开发集的损失起始于约40左右，在第3轮次也快速下降至接近训练集的水平，并在后续轮次保持稳定状态，接近于训练集的最终水平。两个集的损失在后期逐渐趋于一致。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.30",
+      "paper_language": "Chinese",
+      "paper_title": "面向Transformer 模型的蒙古语语音识别词特征编码方法",
+      "figure_filename": "2022.ccl-1.30_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.30_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 训练过程中识别准确率 | 基于注意力的蒙古语语音识别模型的收敛情况",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图展示了训练和开发集在不同训练轮次中的准确率变化情况。x轴表示训练轮次（epoch），范围从0到21，采用线性刻度，每个刻度间隔为3。y轴表示准确率（acc），范围从0到1，采用线性刻度，每个刻度间隔为0.2。图中有两条线，分别代表训练集和开发集的准确率。绿色实线带圆形标记代表训练集，起始于x轴值为0时y轴上约为0.1，在x轴值为3时达到约0.9，然后逐渐在x轴值为6到21之间趋于稳定，接近y轴值为1。红色实线带圆形标记代表开发集，起始于x轴值为0时y轴上约为0.1，在x轴值为3时达到约0.85，然后在x轴值为6到21之间趋于稳定，接近y轴值为0.95。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.30",
+      "paper_language": "Chinese",
+      "paper_title": "面向Transformer 模型的蒙古语语音识别词特征编码方法",
+      "figure_filename": "2022.ccl-1.30_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.30_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 使用字母特征 | 消融实验的HWER、WER 和SER 的下降值",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了三个不同类别（HWER-Dov、WER-Dov 和 SER-Dov）在不同编码条件下的表现。水平轴显示类别标签，每个类别下方有一组柱状图，标签是“HWER-Dov”、“WER-Dov”和“SER-Dov”。垂直轴为数值轴，标有从-2到12的线性刻度，刻度间隔为2。每组柱状图由三个颜色不同的柱子组成，分别代表图例中的“-”（蓝色）、“绝对位置编码”（橙色）和“相对位置编码”（绿色）。在“HWER-Dov”类别中，橙色柱状图的高度约为12，是此组中最高的，绿色柱状图的高度略低一些约为11，而蓝色柱状图接近0。在“WER-Dov”类别中，蓝色柱的值为负约-1.5，橙色柱约为正1.5，绿色柱亦为正稍低于1.5。在“SER-Dov”类别中，蓝色柱约为-1.5，橙色柱与绿色柱接近1.每个类别的柱状图并未按特定顺序排列，各个类别的柱形高度也没有特别标注或视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.30",
+      "paper_language": "Chinese",
+      "paper_title": "面向Transformer 模型的蒙古语语音识别词特征编码方法",
+      "figure_filename": "2022.ccl-1.30_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.30_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.30.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 使用字母与词的混合特征 | 消融实验的HWER、WER 和SER 的下降值",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了三种不同编码方式在三个指标上的表现。水平轴表示类别，包括“HWER-Dov”，“WER-Dov”和“SER-Dov”，类别按该顺序排列。垂直轴是数值轴，标记为无单位数值，范围从0到25，刻度以5为间隔均匀增加。图表中每个主类别下有三组柱体，这些柱体通过颜色来表示特定的编码方式：蓝色代表“-”，橙色代表“绝对位置编码”，绿色代表“相对位置编码”。在“HWER-Dov”类别中，三种编码的柱状图均较高，蓝色柱约为21，橙色略高于21，而绿色最高，接近22。在第二个类别“WER-Dov”中，蓝色柱较短约为3，橙色和绿色柱较为接近，分别约为5和6。在“SER-Dov”类别中，蓝色柱最短，约为1.5，橙色和绿色柱体在3附近。图例在右上角，明确标识每种颜色所对应的编码方式。柱状图未按特定方式排序，无柱状图有视觉上强调的特殊处理。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 训练的 loss 值的变化 | 基于注意力的蒙古语语音识别模型的收敛情况",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了训练和验证过程中损失值随迭代次数（epoch）的变化。x轴表示迭代次数（epoch），带有线性刻度，范围从0到30，刻度间隔为5。y轴表示损失值（loss），也是线性刻度，范围从0到8，刻度间隔为1。图中包括两条线：一条是蓝色实线，代表训练损失（Train），从大约（0, 7.8）开始，随迭代次数增加逐渐降低，最终在30次迭代时接近于0.3附近；另一条是橙色实线，代表验证损失（Valid），从大约（0, 6.4）开始，同样逐渐降低，在30次迭代时降至约0.2。两条线在初期都快速下降，并在较高的迭代次数下保持平稳。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 训练过程中识别准确率 | 基于注意力的蒙古语语音识别模型的收敛情况",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图显示了训练集和验证集在不同迭代次数（epoch）下的精度（accuracy）变化情况。x轴表示epoch，刻度类型为线性，数值范围从0到30，标注间隔为5。y轴表示accuracy，刻度类型为线性，数值范围从0到1，标注间隔为0.2。图中有两条线，蓝色实线代表训练集的精度变化，从epoch 0开始的精度约为0.1，逐步上升，在epoch 10附近达到约0.85，并在epoch 30时趋于稳定在0.9以上。橙色实线代表验证集的精度变化，在epoch 0处也约为0.1，随后快速上升，在epoch 10附近达到约0.8，并在epoch 30时趋于稳定在0.85左右。两条线在x轴的早期阶段有重叠，随后在高值精度阶段分开。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 在DNN-HMM 上WER 结果 | 不同说话人特征提取方法在不同声学模型上的WER",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "此柱状图展示了在不同测试集（Test1 至 Test5）上四种不同向量类型在语音错误率（WER, Word Error Rate）方面的表现。这些向量类型分别标记为“无”（绿色）、“i-vector”（蓝色）、“d-vector”（黄色）和“s-vector”（深绿色）。水平轴表示测试集，标签按照Test1到Test5的顺序排列。垂直轴为数值轴，表示WER，单位是百分比，范围从0%到45%，刻度为线性刻度，每5%为一间隔。在每个测试集下，四个柱状图并排放置，代表不同向量类型的WER，各自的高度表示其WER值，例如，“无”向量在Test1中的WER高于其他类型，接近40%左右，而最短的柱状图一般保持在25%左右。在图例中，各种颜色与向量类型一一对应。柱状图是按照测试集的默认顺序排列，无明显视觉强调效果。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 在TDNN-HMM 上WER 结果 | 不同说话人特征提取方法在不同声学模型上的WER",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同测试集下几种方法的词错误率（WER）。水平轴代表类别，标记为“测试集”，包括Test1到Test5五个类别。这些类别按照顺序线性排列。垂直轴为值轴，标签为“WER(%)”，刻度从0%到40%，数值间隔为5%。图中包含四组颜色不同的柱状图，分别表示不同的方法：浅绿色表示“无”，蓝色表示“i-vector”，黄色表示“d-vector”，深绿色表示“s-vector”。在每个测试集中，这些柱状图并排排列，以便比较不同方法在各个测试集中的WER表现。在Test1中，浅绿色柱状图（“无”方法）是最高的，将近35%，而深绿色（“s-vector”方法）相对较短。在Test2到Test5中，黄色柱状图（“d-vector”方法）普遍较短，但各组内部的具体高度有细微差异。柱状图排列没有明显的特定顺序或视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(c) 在LSTM-HMM 上WER 结果 | 不同说话人特征提取方法在不同声学模型上的WER",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同测试集在多种条件（无、i-vector、d-vector 和 s-vector）下的词错误率（WER）百分比。水平轴为类别轴，标记为“测试集”，依次排列为 Test1 到 Test5。垂直轴为数值轴，标记为“WER(%)”，刻度为线性，范围从0%到30%，数值间隔为5%。图中每个测试集有四个分组柱状图，分别对应四种条件：无（绿色）、i-vector（蓝色）、d-vector（黄色）和 s-vector（深绿色）。每个柱状图的高度不同，显示各测试集在不同条件下的WER值。Test1中无条件的WER最高，接近25%；Test3的i-vector WER最低，接近15%。柱状图按测试集顺序排列，各条件的颜色一致，不存在特殊的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(d) 在End-to-End 上WER 结果 | 不同说话人特征提取方法在不同声学模型上的WER",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同测试集(Test1到Test5)在不同方法下的词错误率(WER)。水平轴表示测得的测试集，每个类别以相同的间隔排列，标签包括Test1到Test5。垂直轴表示WER，单位为百分比，范围从0%到25%，刻度为线性，以5%的间隔递增。每个测试集对应一组柱状图，分别代表四种不同的方法：无、i-vector、d-vector和s-vector，这些方法通过颜色区分为浅绿色、蓝色、黄色和深绿色。图中所有测试集均有一组由四个柱状图组成的方法，并且这些柱状图相互平行排列。没有特别的排序或视觉强调，每组的柱状图在高度上各不相同，但并未按特定顺序排列。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 在WER 上的结果 | 说话人提取单元的错误下降率",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了五种不同的测试集（Test1 到 Test5）中四种模型（DNN-HMM、TDNN-HMM、LSTM-HMM、End-to-End）的ERD百分比表现。水平轴表示测试集，标签为“测试集”，以Test1至Test5为顺序。垂直轴表示ERD值，标签为“EDR(%)”，刻度是线性的，范围从0%到35%，以5%为间隔。每种测试集包含四个不同颜色的柱状图，其中蓝色代表DNN-HMM，橙色代表TDNN-HMM，灰色代表LSTM-HMM，黄色代表End-to-End。就四种模型在各测试集中的表现而言，TDNN-HMM（橙色柱状图）在所有测试集中表现出明显较高的ERD值，大约在30%左右，而LSTM-HMM（灰色柱状图）的ERD值相对较低。柱状图按测试集顺序排列，没有特别的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.31",
+      "paper_language": "Chinese",
+      "paper_title": "基于注意力的蒙古语说话人特征提取方法",
+      "figure_filename": "2022.ccl-1.31_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.31_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.31.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 在SER 上的结果 | 说话人提取单元的错误下降率",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该图表展示了在不同测试集上几种模型的EDR百分比（错误识别率）。图表的水平轴为类别轴，标记为“测试集”，包括Test1到Test5。纵轴为数值轴，标记为“EDR(%)”，采用线性刻度，从0到45，数值刻度以5为间隔。图表中包含四组分组柱状图，每组对应一个测试集。各组柱状的组成部分分别表示不同模型，每种模型用不同颜色区分：DNN-HMM为蓝色，TDNN-HMM为橙色，LSTM-HMM为灰色，End-to-End为黄色。每个测试集内，柱状图的高度略有不同，在Test1至Test5中，DNN-HMM的柱状图高度在大约35%到40%之间，TDNN-HMM的高度约在30%左右，LSTM-HMM的高度约在15%左右，End-to-End的高度约在10%。这些柱状图并未按任何特定顺序排序，各组内的柱状图排列方式保持一致。没有任何柱状图被视觉上特别强调。图例标示在图表顶部，帮助区分各模型对应的颜色。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.33",
+      "paper_language": "Chinese",
+      "paper_title": "基于预训练及控制码法的藏文律诗自动生成方法",
+      "figure_filename": "2022.ccl-1.33_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.33_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.33.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.33.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "生成结果中关键词的完全覆盖率",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同模型在关键词覆盖率百分比方面的表现。图表的横轴列出了类别标签，包括“单个关键词”、“两个关键词”、“三个关键词”和“四个关键词”，它们以线性顺序排列。纵轴表示“关键词覆盖率”，以百分比为单位，范围从30%到100%，刻度间隔为14%。图表包含分组柱状图，每个类别中有三个不同颜色的柱状图，分别代表Transformer、GPT和TiPLMT模型。Transformer用蓝色表示，关键词覆盖率分别为73.45%、64.39%、51.76%和45.46%。GPT用绿色表示，覆盖率分别为87.34%、73.09%、62.02%和54.89%。TiPLMT用橙色显示，覆盖率为91.65%、76.34%、64.83%和57.63%。整体看来，TiPLMT常常表现出相对较高的覆盖率，而三种模型在每个关键词数量下的覆盖率各有不同。柱状图按关键词数量的增加顺序排列，没有额外的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.36",
+      "paper_language": "Chinese",
+      "paper_title": "中文糖尿病问题分类体系及标注语料库构建研究",
+      "figure_filename": "2022.ccl-1.36_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.36_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.36.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.36.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "语料库大类标注结果分布",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "这张饼图展示了与某一领域相关的多个类别及其占比，目的是比较这些类别在整体中的比例。图表包含六个主要切片，分别标记为“A: 诊断”、“B: 治疗”、“C: 常识”、“D: 健康生活方式”、“E: 流行病学”和“F: 其他”，其比例分别为9%、25.3%、20.7%、27.8%、10.1%和7.1%。这些切片按照逆时针方向由大到小排列。图表还包含一个子图，进一步细分“健康生活方式”中的具体分项，共有四个切片，分别是“D0: 其他”占0.5%，“D1: 饮食”占26.6%，“D2: 锻炼”占0.6%和“D3: 减肥”占0.1%。这些切片使用不同的蓝色阴影来呈现，图中设有图例及切片内标签，以帮助识别。部分切片通过被偏移的方式进行了视觉强调。总体而言，图表通过色彩和布局直观展示了各个类别在整体中的比例分布。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "CoreValue：面向价值观计算的中文核心价值-行为体系及知识库",
+      "figure_filename": "2022.ccl-1.38_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.38_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "次类分布（文明-行为类）",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "这个饼图展示了有关四种不同文明类别的比例分布。图表中总共有四个切片，每个切片代表不同的类别。切片包括：标签为“公共文明”的部分，颜色为黄色，约占63%；“思想文明”的部分，颜色为绿色，约占28%；“语言文明”的部分，颜色为白色，约占6%；以及“仪表文明”的部分，颜色为橙色，约占3%。所有切片均标有百分比标签，以帮助识别每一部分的比例。图表的设计中将切片按从大到小的顺序排列。此外，没有任何切片被特别视觉强调且未包含图例。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "CoreValue：面向价值观计算的中文核心价值-行为体系及知识库",
+      "figure_filename": "2022.ccl-1.38_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.38_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "激活抑制占比（文明-行为类）",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了与几项活动相关的激活和抑制百分比。图表的水平轴展示了百分比，从0%到100%，标注为线性刻度，数值刻度间隔为20%。纵轴显示了类别标签，包括“穿着服饰”、“个人卫生”、“用语礼貌”、“积极参与”、“遵守秩序”、“爱护环境”、“爱护公物”和“宣传学习”。每一类别都有两种不同颜色的柱状图，黄色表示“激活”，灰色表示“抑制”。在这些类别中，某些类别如“积极参与”和“爱护公物”显示出较高的激活比例，而其他类别如“个人卫生”和“用语礼貌”中抑制比例较大。这些柱状图并没有按特定顺序排列，同时也没有特殊的视觉强调，如阴影或注释。图例说明颜色对应的含义。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.38",
+      "paper_language": "Chinese",
+      "paper_title": "CoreValue：面向价值观计算的中文核心价值-行为体系及知识库",
+      "figure_filename": "2022.ccl-1.38_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.38_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.38.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.38.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "基于RoBERTa的价值类别方向联合判别个价值方向别性能比较（F1）",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了八个不同类别在两种不同条件下的值，分别标记为“激活”和“抑制”。图表的横轴包括类别，依次是文明、公正、平等、法治、爱国、敬业、诚信、友善。纵轴表示的是数值范围，从0到1的线性刻度，每个刻度间隔为0.1。每个类别下都有两个柱状图，分别对应“激活”和“抑制”状态。激活状态的柱状图用黄色表示，而抑制状态则用黑色表示。在该图中，爱国的抑制状态显示为最长，接近于1，而法治中的激活状态最短，大约为0.6。柱状图未显示特定的排序规则，数据的视觉强调仅通过颜色区分，无其他特殊注释。整体来看，各类别在激活和抑制状态下的数值有所不同。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.39",
+      "paper_language": "Chinese",
+      "paper_title": "基于《同义词词林》的中文语体分类资源构建",
+      "figure_filename": "2022.ccl-1.39_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.39_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.39.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.39.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "《词表》中同义词簇语体差异情况",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该饼图展示了不同类型同义词簇的比例分布，总共包括八个切片。第一个切片标签为“具备三类语体的同义词簇”，颜色为蓝色，占16.4%。第二个切片为“具备两类语体的同义词簇，仅具备口语词和通用词语的词簇”，橙色，占20.8%。第三个切片为“具备两类语体的同义词簇，仅具备口语词和书面语词的词簇”，灰色，占5.0%。第四个切片为“具备两类语体的同义词簇，仅具备通用词语和书面词语的词簇”，黄色，占4.7%。第五个切片标签为“具备一类语体的同义词簇，仅具备口语词的词簇”，绿色，占1.5%。第六个切片标记为“具备一类语体的同义词簇，仅具备通用词语的词簇”，浅蓝色，占10.2%。第七个切片是“具备一类语体的同义词簇，仅具备书面语词的词簇”，深蓝色，占32.5%。最后一个切片为“具备两类语体的同义词簇，具备口语词和通用词的词簇”，橙色，占41.4%。图表中配有图例，并在每个切片内标注了百分比标签。有些切片通过拉出或加粗标签来进行视觉强调。切片按比例的大小排列。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.39",
+      "paper_language": "Chinese",
+      "paper_title": "基于《同义词词林》的中文语体分类资源构建",
+      "figure_filename": "2022.ccl-1.39_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.39_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.39.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.39.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "语体链条分布",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "该饼图展示了四种语言转换类型在总体转换中的比例。图表中共有四个切片：第一个切片标记为“口语->通用语->书面语”，颜色为蓝色，占15.7%；第二个切片为“口语->通用语”，颜色为橙色，占13.9%；第三个切片为“口语->书面语”，颜色为灰色，占6.4%；最后一个大型切片为“通用语->书面语”，颜色为黄色，占63.9%。图表中包含一个图例，以帮助区分各个切片的颜色和标签。此外，饼图中的每个切片上都显示了具体的百分比标签。这些切片按大小递减的顺序排列，视觉上较大者较为显眼。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.40",
+      "paper_language": "Chinese",
+      "paper_title": "《二十四史》古代汉语语义依存图库构建",
+      "figure_filename": "2022.ccl-1.40_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.40_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.40.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.40.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "现汉古汉周边角色标签占比",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示和比较了不同类别中“古汉比例”和“现代汉比例”的百分比。水平轴列出了类别，如Agt、Exp、Alt等，以线性方式排列。垂直轴显示百分比范围，从-6%到6%，以1%的刻度间隔均匀分布。图表中每个类别下都有两部分的堆叠柱状图。蓝色带点图案表示“古汉比例”，橙色斜纹图案代表“现代汉比例”。在Agt类别下，蓝色部分约为4.86%，橙色部分为3.85%，形成视觉上的最高柱状图。另一端，Host类别的蓝色部分为0.50%，橙色为2.07%，形成最低的组合。各部分的排列方式为堆叠，显示每个类别中两个比例的总和。图例清楚地标明了蓝色和橙色图案代表的含义。柱状图未显示按照特定顺序排序，且没有使用加粗或阴影等方式对某一柱状图进行视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.40",
+      "paper_language": "Chinese",
+      "paper_title": "《二十四史》古代汉语语义依存图库构建",
+      "figure_filename": "2022.ccl-1.40_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.40_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.40.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.40.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "现汉古汉依附标签占比",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了古汉比例与现汉比例在多个类别上的表现差异。图表的水平轴是类别轴，标签依次为 mPrep、mMod、mTone、mRang、mAux、mTime、mDegr、mDir 和 mRept。垂直轴是值轴，其标签为百分比，范围从 -6% 到 6%，标度为线性，每个刻度单位间隔为 1%。柱状图由两种颜色代表不同的比例，蓝色实心方块代表古汉比例，橙色斜线图案代表现汉比例。各类别的柱状图以堆叠的方式呈现。例如，mPrep 类别中古汉比例约为 2.41%，现汉比例约为 -2.96%；mMod 类别古汉比例为 1.86%，现汉比例为 -4.56%。最短的柱状图是 mRept 类别，其古汉比例约为 0.01%，现汉比例为 0.22%。柱状图按照字母顺序排列，没有任何柱状图被特别强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.40",
+      "paper_language": "Chinese",
+      "paper_title": "《二十四史》古代汉语语义依存图库构建",
+      "figure_filename": "2022.ccl-1.40_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.40_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.40.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.40.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "现汉古汉语义结构关系标签占比",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了多个类别之间的比例，具体比较了标签为 \"古汉比例\" 和 \"现汉比例\" 的数值。在图表中，水平轴代表类别，标有 eSucc、eCoo、ePurp 和 eEqu，这些类别以线性方式排列。垂直轴为值轴，标记范围从 0% 到 8%，以百分比为单位，数值刻度以 2% 为间隔。每个类别由堆叠的柱状图表示，其中 \"古汉比例\" 用蓝色虚线填充，\"现汉比例\" 用橙色斜线填充。eSucc 类别的柱状图最高，\"古汉比例\" 大约为 6.77%，\"现汉比例\" 大约为 2.92%。eCoo 的 \"古汉比例\" 大约为 3.89%，而 \"现汉比例\" 为 1.73%。ePurp 和 eEqu 的柱状图较短，其中 ePurp 的 \"古汉比例\" 为 1.05%，\"现汉比例\" 为 0.40%，eEqu 的 \"古汉比例\" 为 0.92%，\"现汉比例\" 为 0.36%。这些柱状图按照类别标签的顺序展示，没有特别的视觉强调或排序。图例说明了不同填充样式对应的比例类别。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.45",
+      "paper_language": "Chinese",
+      "paper_title": "基于知识迁移的情感-原因对抽取",
+      "figure_filename": "2022.ccl-1.45_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.45_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.45.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.45.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "ECPE方法评测",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同方法类型的三个指标：Precision (P)、Recall (R) 和 F1-score (F1)，比较了每种方法在这些指标上的表现。图表的水平轴代表不同的方法类型，包括“Indep”、“Inter-CE”等，各个方法按照类别顺序从左到右排列。垂直轴是表示指标的数值，标签为无单位数值，范围从0.5到0.75，刻度间隔为0.05，呈现线性刻度。这些方法根据柱状图被分为不同的类型，如“2阶段笛卡尔积”、“矩阵变换”等，每种类型下包含多个方法。每种方法用三种颜色的柱体表示，其中蓝色代表P，橙色代表R，黑色代表F1。可以观察到不同方法在这三个指标上的表现差异。柱状图未按特定顺序排序，也未有任何通过阴影、加粗或其他视觉效果强调的柱状图，各个柱状图在视觉上整洁排列。图例位于图表的右上方，标明了各颜色所对应的具体指标。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.51",
+      "paper_language": "Chinese",
+      "paper_title": "基于相似度进行句子选择的机器阅读理解数据增强",
+      "figure_filename": "2022.ccl-1.51_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.51_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.51.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.51.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "两种相似度方法在k值不同时的准确率",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "该图表展示了不同相似性测量方法在不同参数 \\(k\\) 下的表现。x轴表示参数 \\(k\\)，采用线性刻度，值域范围从1到7，以1为单位间隔。y轴表示精度（ACC），同样采用线性刻度，值域从65.5到68，以0.5为单位间隔。图中有两条线，代表不同的相似性测量方法。蓝色实线带圆形标记代表“Cosine Similarity”，从起始的65.8在 \\(k=1\\) 处开始，随着 \\(k\\) 的增加趋势变化，到达 \\(k=7\\) 时达到66.9。橙色虚线带五角星标记代表“SimCSE Similarity”，在 \\(k=1\\) 处开始于66.4，并在 \\(k=2\\) 时达到峰值68.0，随后略有波动，最后在 \\(k=7\\) 处稳定在67.3。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.56",
+      "paper_language": "Chinese",
+      "paper_title": "篇章级小句复合体结构自动分析",
+      "figure_filename": "2022.ccl-1.56_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.56_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.56.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.56.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "缺失成分待预测点的错误类型",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "这组图表展示了滑动窗口缺失和NTC缺失分别在多个预测误点错误类别中的比例分布。每个图表包含八个不同的切片类别。在左侧的图表(a)中，\"预测为空\"占据37%，由浅灰色表示；\"一个为0\"的比例为0%；\"预测过长\"占18%；\"预测过短\"为16%；\"下一层级\"为17%；\"上一层级\"为6%；\"超出NTC\"和\"其他\"各占3%，用深色表示。右侧的图表(b)中，\"预测为空\"和\"预测过短\"各占21%，用浅色显示；\"一个为0\"占8%；\"预测过长\"比例为29%，用中等灰色表示；\"下一层级\"为6%；\"上一层级\"和\"其他\"分别占9%和6%，用较深的颜色表示。这两个图表均包含图例和在切片内部附有百分比标签。在视觉呈现中，切片按顺序排列，没有明显的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.61",
+      "paper_language": "Chinese",
+      "paper_title": "基于多源知识融合的领域情感词典表示学习研究",
+      "figure_filename": "2022.ccl-1.61_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.61_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.61.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.61.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "表示学习维度-准确率变化关系图",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "这张图表展示了不同方法在不同维度下的准确率变化。x轴表示“维度”，采用线性刻度，范围从0到300，刻度间隔为50。y轴表示“准确率 %”，也采用线性刻度，范围从81.0到84.0，刻度间隔为0.5。图中有两条线，蓝色线代表“TF-IDF”方法，是一条带有‘x’标记的实线，红色线代表“MFDLS”，带有‘+’标记的实线。蓝色线从接近维度0时的81.0%开始，随着维度增加逐渐上升，在维度150处达到83.8%左右，并在维度300处稳定在接近84.0%。红色线从维度0时的82.0%开始，迅速上升，并在维度100处接近84.0%，在此后的各个维度保持稳定。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.62",
+      "paper_language": "Chinese",
+      "paper_title": "俄语网络仇恨言论语料库研究与构建",
+      "figure_filename": "2022.ccl-1.62_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.62_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(a) 攻击性 | 仇恨程度1-4级在各标注项中的分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "这张柱状图展示了“仇恨程度”和“攻击性”之间的关系，使用不同颜色区分“无、弱、强”三个类别。在图表中，水平轴标记为“仇恨程度”，分为1到4的离散类别。垂直轴表示“攻击性”，其刻度是线性的，从0到120，刻度间隔为20。柱状图中包含三种颜色：蓝色代表“无”、橙色代表“弱”、灰色代表“强”。在第一个类别中，“无”的值约为80，“弱”的值约为70，“强”的值较低。第二个类别的“无”和“弱”值较接近，“强”显著较低。在第三个类别中，灰色柱状图显著较高，超过80，而其他类别的值远低于此。在第四个类别中，仅有“强”显示出很高的值，接近120，其他两个类别较低。柱状图按“仇恨程度”的数值顺序排列，从1到4，未见任何柱状图的特殊视觉强调，分组依据图例进行了明确标识。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.62",
+      "paper_language": "Chinese",
+      "paper_title": "俄语网络仇恨言论语料库研究与构建",
+      "figure_filename": "2022.ccl-1.62_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.62_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(b) 辱骂性 | 仇恨程度1-4级在各标注项中的分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了在不同仇恨程度下的“厌恶性”数值，比较了“无”和“有”两种分类。图表的水平轴是类别轴，标记为“仇恨程度”，以线性顺序排列，从1到4。垂直轴是数值轴，标记为“厌恶性”，范围从0到160，刻度以20为间隔递增。每个仇恨程度有两个柱状图，分别表示“无”和“有”两种分类，根据图例，“无”用蓝色柱表示，“有”用橙色柱表示。在仇恨程度1，橙色柱的值接近140，为最高值，而蓝色柱约为20。在仇恨程度2和3，橙色柱的值介于60到80之间，而蓝色柱维持在20左右。在仇恨程度4，橙色柱的值约为140，而蓝色柱接近0。柱状图按仇恨程度的顺序排列，并没有明显的视觉强调，同时柱状图在两个系列中显示出橙色柱普遍高于蓝色柱的趋势。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.62",
+      "paper_language": "Chinese",
+      "paper_title": "俄语网络仇恨言论语料库研究与构建",
+      "figure_filename": "2022.ccl-1.62_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.62_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(c) 冒犯性 | 仇恨程度1-4级在各标注项中的分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了不同仇恨程度下的冒犯性分布情况。水平轴代表“仇恨程度”，从1到4进行标示，显示了离散的类别。垂直轴表示“冒犯性”，刻度从0到160，以线性方式标记，数值刻度的间隔为20。图表中包含三种颜色的柱状图，依据图例说明，蓝色代表“无”，橙色代表“弱”，灰色代表“强”。在每个仇恨程度类别中，三个颜色的柱状图并排排列。具体表现为，在仇恨程度为1时，灰色柱状图高度约为140，为所有类别中最高，而蓝色和橙色柱状图较短。相似地，在其他仇恨程度的类别中，灰色柱状图也相对较高，尤其在程度2和4时，其高度明显高于蓝色和橙色柱状图。柱状图按仇恨程度的数值顺序排列，并未显示出特别的视觉强调。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.62",
+      "paper_language": "Chinese",
+      "paper_title": "俄语网络仇恨言论语料库研究与构建",
+      "figure_filename": "2022.ccl-1.62_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.62_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(d) 讽刺性 | 仇恨程度1-4级在各标注项中的分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了“仇恨程度”与“讽刺性”之间的关系。水平轴表示不同的“仇恨程度”类别，其标签为1到4，呈线性排列。垂直轴代表“讽刺性”，从0到160，数值之间的间隔为20，刻度为线性类型。图表中使用了分组柱状图进行表示，其中每组包含两个柱状图，分别以蓝色和橙色表示，图例中标识为“无”和“有”。在每个仇恨程度类别中，蓝色柱状图的高度总体上较高，例如，类别1中代表的讽刺性大约为140，而橙色柱状图则较低，大约为20。没有发现特定的排序方式，所有柱状图的排列均未显示特殊的视觉强调，如阴影或加粗。该图表通过颜色和高度显示了各类别在有无某种条件下的讽刺性值。"
+    }
+  },
+  {
+    "data": {
+      "source": "aclanthology",
+      "source_id": "2022.ccl-1.62",
+      "paper_language": "Chinese",
+      "paper_title": "俄语网络仇恨言论语料库研究与构建",
+      "figure_filename": "2022.ccl-1.62_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/figures/2022.ccl-1.62_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-6/downloaded_pdfs/2022.ccl-1.62.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "(e) 刻板印象 | 仇恨程度1-4级在各标注项中的分布",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "该柱状图展示了刻板印象在不同仇恨程度下的分布情况。水平轴表示仇恨程度，从1到4进行标记，类别间的间隔一致，按照仇恨程度的递增顺序排列。垂直轴是值轴，标签为“刻板印象”，采用线性刻度，从0增加到160，间隔为20。图表中包括两组柱状图，分别用不同颜色表示：“无”刻板印象用蓝色表示，“有”刻板印象用橙色表示。这些柱状图在相应的仇恨程度下成对出现。例如，在仇恨程度1下，蓝色柱状图达到160，而橙色的不到20。在仇恨程度2和3时，蓝色柱状图的高度分别约为100和80，橙色柱状图分别在20左右。在仇恨程度4时，蓝色柱状图升至120以上，而橙色柱状图维持在20左右。整体而言，蓝色柱状图通常比橙色柱状图长。图表中没有柱状图被视觉强调，例如使用阴影或加粗。"
+    }
+  }
+]
