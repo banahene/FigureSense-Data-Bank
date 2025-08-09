@@ -1,0 +1,1262 @@
+[
+  {
+    "data": {
+      "source": "uctm",
+      "source_id": "2025",
+      "paper_language": "Bulgarian",
+      "paper_title": "ОПТИМИЗИРАНЕ НА АВТОМАТИЧНО ГЕНЕРИРАНИ ДАННИ ОТ АГРОМЕТЕОРОЛОГИЧНА СТАНЦИЯ",
+      "figure_filename": "figure_1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/figure_1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ИТА 2025-Сборник.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ИТА 2025-Сборник.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Графика на валежите за определен период от време, автоматично генерирана от Meteobot®.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира количеството валежи в литри на квадратен метър за различни дати през март 2024 година. Хоризонталната ос съдържа категориите, които представляват датите от 1-ви до 15-ти март 2024 година. Тези дати са подредени в хронологичен ред. Вертикалната ос показва стойностите на валежите, обозначени в литри на квадратен метър (л/м²), с диапазон от 0 до 12, като числата са разположени на равни интервали от 2 единици. Стълбчетата показват височината на валежите за всяка дата. Най-ниските стълбове са около 0 литра на квадратен метър на 3-ти и 4-ти март, докато най-високият стълб е близо до 12 литра на квадратен метър на 7-ми март. Стълбчетата не са визуално подчертани или групирани, а просто представят индивидуалните измервания на валежите за посочените дати."
+    }
+  },
+  {
+    "data": {
+      "source": "uctm",
+      "source_id": "2025",
+      "paper_language": "Bulgarian",
+      "paper_title": "ОПТИМИЗИРАНЕ НА АВТОМАТИЧНО ГЕНЕРИРАНИ ДАННИ ОТ АГРОМЕТЕОРОЛОГИЧНА СТАНЦИЯ",
+      "figure_filename": "figure_2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/figure_2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ИТА 2025-Сборник.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ИТА 2025-Сборник.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Хистограма на активна киселинност на почви, рН автоматично генерирана от агрометео станцията.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира разпределението на pH стойностите в почвата, представено като хистограма с относителна честота. Хоризонталната ос съдържа категориите, отбелязани с диапазони на pH стойности от 4 до 7, подредени в възходящ ред. Вертикалната ос е означена с \"Relative frequency\" и представя относителната честота с линейна скала, варираща от 0 до 0.5, разделена на равномерни интервали от 0.05. Баровете в хистограмата показват различни височини, като най-високият бар е около стойността 6 на хоризонталната ос, с относителна честота малко над 0.45. Останалите барове варират по височина и са разположени на различни позиции по отношение на честотните стойности, но конкретните числа не са обозначени в този контекст. Хистограмата е представена с еднородно засенчени зелени барове, без допълнителни визуални акценти или разширени бележки."
+    }
+  },
+  {
+    "data": {
+      "source": "uctm",
+      "source_id": "2025",
+      "paper_language": "Bulgarian",
+      "paper_title": "ОПТИМИЗИРАНЕ НА АВТОМАТИЧНО ГЕНЕРИРАНИ ДАННИ ОТ АГРОМЕТЕОРОЛОГИЧНА СТАНЦИЯ",
+      "figure_filename": "figure_3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/figure_3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ИТА 2025-Сборник.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ИТА 2025-Сборник.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Диаграма на активна киселинност на почви, рН автоматично генерирана от агрометео станцията.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промените в стойностите на pH на почвата за Profile 3. Oста X е обозначена с числови стойности, вариращи от 1 до 21, със стъпка на интервалите от 2 единици. Скалата е линейна и няма посочени единици. Оста Y е обозначена с \"pH\", също с линейна скала, варираща от 0.0 до 8.0, с етикети на всеки 2 единици. Графиката съдържа една синя линия без специфични маркери, която е представена с плътен стил. Линията започва при около 5.9 на ос X = 1 и представя колебания около тази стойност, със спускане малко под 5.0 и последващи колебания. Наблюдават се върхове до стойности около 6.0 и спадове до близо 4.5, като крайният участък от линията показва относително стабилизиране около стойностите 5.0 – 5.5."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативните фирми – фактор за икономически растеж на националната икономика",
+      "figure_filename": "ISA.2022.3.01_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.01_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разходи за НИРД в България (% от БВП) за 10-годишен период",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в процента на разходите за научноизследователска и развойна дейност (НИРД) като част от брутния вътрешен продукт (БВП) за Европейския съюз (ЕС) и България. Оста X не е обозначена, така че не могат да се определят стойности или интервали. Оста Y е линейна и обозначена като процент на НИРД от БВП, варираща от 0 до 2,5, с интервали от 0,5. \n\nСинята линия представлява данните за ЕС (28 страни). Линията е плътна, започва от стойност малко под 2 през първата стойност по оста X и плавно се покачва до около 2 през последната стойност.\n\nОранжевата линия представлява данните за България. Тя също е плътна, започва от стойност малко над 0,5 и бележи постепенно покачване до пик от около 0,95, след което има спад и стига до около 0,8 в края на оста X."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативните фирми – фактор за икономически растеж на националната икономика",
+      "figure_filename": "ISA.2022.3.01_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.01_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Изменение и тренд на иновативните фирми в % за петгодишен период (Иновативните фирми обхващат такива с продуктови, процесни, организационни и маркетингови иновации)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промени в индустрията без строителството по време. Оста X не е обозначена с етикет, и типът на скалата не е указан. Оста Y е означена с етикет \"Индустрия (с изкл. на строителството) Общо\" и има линейна скала с диапазон от 0 до 40,0, разположена през интервали от 5,0. Графиката съдържа една синя линия, представена с помощта на пунктиран стил. Линията започва близо до стойност 35,0 по оста Y, спада до около 30,0 и след това леко се покачва обратно към стойността от 35,0. Няма посочени конкретни стойности по оста X."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативните фирми – фактор за икономически растеж на националната икономика",
+      "figure_filename": "ISA.2022.3.01_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.01_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разходи за НИРД и иновации (в хил.лв.) по някои сектори на националната икономика за петгодишен период",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промените в различни икономически сектори през времето. Оста X е маркирана със стойности, които изглеждат като години или времеви периоди, започващи вероятно от 2008 и завършващи около 2017, със стъпка от една година. Скáлата е линейна и няма отбелязани единици. Оста Y е маркирана в числови стойности, започващи от 0 и достигащи до 200000, през равномерни интервали от 50000, като липсват конкретни единици.\n\nСивата линия, обозначена като „Селско, горско и рибно стопанство“, започва около 50000, след което претърпява малко увеличение в началото и след това рязък растеж, надминавайки 150000 към края на периода.\n\nОранжевата линия, обозначена като „Преработваща промишленост“, показва стабилно движение около 0 през целия период без значителни изменения.\n\nЖълтата линия, представяща „Търговия; ремонт на автомобили и мотоциклети“, започва малко под 50000, остава стабилна и накрая леко надминава 50000 в края на периода.\n\nСинята линия, обозначена с „Създаване и разпространение на информация и творчески продукти; далекосъобщения“, започва малко над 0, със стабилна стойност в началото, последвана от рязко увеличение след средата на периода, достигайки близо до 100000 в края."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативните фирми – фактор за икономически растеж на националната икономика",
+      "figure_filename": "ISA.2022.3.01_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.01_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Ефектите, които се търсят от реализирането на иновациите във фирмите",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентно разпределение на различни категории, които вероятно са свързани с икономически или промишлени аспекти. Хоризонталната ос съдържа категориите, обозначени с наклонен текст, като те са подредени в произволен ред. Категориите включват \"Увеличени работни места\", \"Увеличен износ и...\", \"Заместване на вносни...\", \"Заместване на опасни за...\", \"Използване на...\" и \"Енергийна ефективност и...\". Вертикалната ос представя процентни стойности с етикет \"0,0%\" до \"25,0%\", като стойностите са разположени на равни интервали от 5%. Стълбите, представляващи всяка категория, показват съответните процентни стойности: \"Увеличени работни места\" със стойност 22,9%, \"Увеличен износ и...\" с 21,8%, \"Заместване на вносни...\" с 10,1%, \"Заместване на опасни за...\" с 14,0%, \"Използване на...\" с 14,5% и \"Енергийна ефективност и...\" с 16,8%. Стойностите са визуално представени чрез височината на стълбите, но няма очевидно визуално подчертаване на определени стълби."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативните фирми – фактор за икономически растеж на националната икономика",
+      "figure_filename": "ISA.2022.3.01_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.01_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Дял от персонала на фирмата, който участва в иновационния процес",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представлява разпределение на проценти в четири категории според дадените описания. Включва четири сектора: секторът с етикет \"До 5%\" е оцветен в синьо и заема 22,1% от диаграмата; секторът \"Между 5% и 15%\" е в оранжево и заема 42,6%; секторът \"Между 15% и 30%\" е в сиво с дял от 23,5%; секторът \"Повече от 30%\" е в жълто и представлява 11,8% от диаграмата. Диаграмата съдържа легенда, предоставяща информация за цветовете и съответните категории. Частите изглеждат подредени по низходящ размер, започвайки с най-големия дял. Няма визуално подчертаване или изместване на секторите."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативните фирми – фактор за икономически растеж на националната икономика",
+      "figure_filename": "ISA.2022.3.01_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.01_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Предприятия с данни за три последователни години (в хил.лв.)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промените в трите различни финансови метрики: печалба, оборт и стойност на активите. Оста X не е обозначена с конкретен етикет или числови стойности и липсва информация за нейния диапазон и интервали. Оста Y е обозначена с числови стойности, вариращи от 0 до 800,000, без използване на единици. Стойностите са маркирани на интервали от 100,000.\n\nПървата линия представлява печалба, изобразена със син цвят и плътна линия. Тази линия започва малко под 200,000 на оста Y, след което показва лек спад преди да се увеличи обратно близо до началната си стойност към края на оста X.\n\nВтората линия изобразява оборот, използвайки оранжев цвят и плътна линия. Тя започва около и малко над 400,000 и последователно се увеличава в рамките на диаграмата, достигайки стойност малко над 500,000.\n\nТретата линия показва стойността на активите, която е маркирана със сив цвят и плътна линия. Тя започва около 700,000 и постепенно намалява към края на оста X, завършвайки малко под началната си стойност."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативните фирми – фактор за икономически растеж на националната икономика",
+      "figure_filename": "ISA.2022.3.01_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.01_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Предприятия с данни за две последователни години (в хил.лв.)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във финансови показатели. Оста X е необозначена и не съдържа конкретни стойности или интервали. Оста Y е обозначена с числови стойности от 0 до 80,000, с интервали от 10,000, използвайки линейна скала. Единици не са посочени.\n\nСинята линия представлява \"Печалба\" и е плътна с леки маркери. Започва около стойност 10,000 и показва леко намаляване по оста X, завършвайки с малко по-ниска стойност.\n\nОранжевата линия представлява \"Оборот (приходи от обичайна дейност)\" и е плътна, без маркери. Започва малко над 60,000 и се издига равномерно нагоре по оста X, достигайки малко под 70,000.\n\nСивата линия представлява \"Стойност на активите\" и е плътна, без маркери. Започва малко под 70,000 и се издига нагоре, завършвайки малко над 75,000.\n\nНяма ясно видими върхове или спадове, а линиите показват устойчиви тенденции без резки промени."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Инвестиции в условия на циклична икономика и инвестиционен растеж",
+      "figure_filename": "ISA.2022.3.02_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.02_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Общо безработица",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промени в общата безработица за период от 2003 до 2021 година. Оста X е обозначена с тримесечия и години, отбелязани от 2003 Q1 до 2021 Q4, като има равномерни интервали на всяко тримесечие. Типът на скалата е линейна, а етикетите на оста X са разположени на равни интервали от всяко тримесечие. Оста Y е обозначена с числови стойности, вариращи от 0,0 до 600,0, със стъпка от 100 единици между етикетите, отново използвайки линейна скала. Линията на графиката е плътна и синя, започваща от над 500 през 2003 Q1 и намаляваща до под 200 през 2021 Q4. Забелязват се значителни спадове и възходи, като например пик в началото на 2009 година около 400 и спадове под 200 около 2018 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Инвестиции в условия на циклична икономика и инвестиционен растеж",
+      "figure_filename": "ISA.2022.3.02_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.02_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Общо наети лица",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в броя на общо наетите лица през определен период. Оста X е обозначена с периода от време, показан като тримесечия от 2003 Q1 до 2021 Q4, с линейна скала и числови етикети, разположени през равни интервали от три месеца. Оста Y е обозначена с броя на наетите лица, като е също с линейна скала и обхваща диапазона от 0 до 3500, като етикетите са на интервали от 500.\n\nЛинията на графиката е в син цвят и е представена с плътна линия без маркери. Започва около 2500 през 2003 Q1 и показва постепенен растеж, достигайки пик около 3200 между 2008 и 2009 година. След този период следва спад, който е последван от циклични колебания около стойността 3000 от 2010 година до края на 2021 година, завършвайки близо до 2800. Видими са леки върхове и спадове през разглеждания период."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Инвестиции в условия на циклична икономика и инвестиционен растеж",
+      "figure_filename": "ISA.2022.3.02_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.02_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Общо индекс на потребителските цени (инфлация)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази графика илюстрира промените в Общия индекс на потребителските цени (ИПЦ) през различни тримесечни периоди. Оста X е обозначена с времевите маркери за тримесечията, обхващащи периода от 2003 година до третото тримесечие на 2021 година (2021 Q3). Тя е с линейна скала без ясно обозначени единици, като етикетите са разположени на интервали от по едно тримесечие. Оста Y е обозначена с числови стойности, простиращи се от -4,0 до 14,0, с линейна скала и през интервал от 2,0 единици, които вероятно представляват проценти.\n\nГрафиката включва една синя линия без маркери, която е представена с плътен стил. Линията започва през 2003 Q1 на стойност около 4,0 и се променя нагоре и надолу в различни периоди. Видими връхни точки се наблюдават около периода 2008 Q2, когато стойността достига приблизително 14,0. След този връх, линията рязко спада до стойност малко под 0 между 2009 Q4 и 2010 Q1. Забелязва се сравнително стабилно движение със леки колебания между 2010 и 2020 година, като в периода около 2015 Q1 стойността е близо до минималното -2,0. В периода след 2020 година има леко покачване на стойността, като завършва на ниво около 4,0 през 2021 Q3."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Инвестиции в условия на циклична икономика и инвестиционен растеж",
+      "figure_filename": "ISA.2022.3.02_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.02_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Фази на икономическия цикъл по тримесечия за периода 2003-2021 година",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата илюстрира дяловете на различни икономически фази, визуализирани чрез кръгова диаграма. Включени са четири сектора: \"депресия\" в синьо с дял от 4%, \"пик\" в оранжево също с 4%, \"рецесия\" в жълто с 13% и \"растеж\" в сиво, който заема 77% от диаграмата. Диаграмата съдържа легенда, която посочва етикетите и съответстващите им цветове. Всеки сектор съдържа етикети, включващи стойността в проценти, разположени вътре в секторите. Нито един от секторите не е визуално подчертан чрез удебеляване или изместване. Секторите не изглеждат подредени по низходящ или възходящ размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.06",
+      "paper_language": "Bulgarian",
+      "paper_title": "Здравните неравенства в българското общество: социоикономическа детерминираност",
+      "figure_filename": "ISA.2022.3.06_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.06_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.06.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.06.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Оценки на пълнолетното население за различията в достъпа до здравеопазване в България",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира разликите в достъпа до здравеопазване в България по отношение на различни социални групи. Хоризонталната ос съдържа категориите, които са описани като социални демографски групи: възрастни спрямо млади хора, жени спрямо мъже, и български граждани спрямо хора без българско гражданство. Вертикалната ос показва проценти, с диапазон от стойности от 0 до 100%, с линейна скала на интервали от 10%. Квадратните етикети идентифицират различните категории в съответствие с легендата: \"Много по-лесен,\" \"Малко по-лесен,\" \"Приблизително същия,\" \"Малко по-труден,\" \"Много по-труден,\" и \"Не може да прецени,\" представени с цветово кодирани ивици. Например, за категорията \"възрастни спрямо млади хора,\" процентите са 3,6% за \"Много по-лесен,\" 6,6% за \"Малко по-лесен,\" 38,6% за \"Приблизително същия,\" 29,5% за \"Малко по-труден,\" 16,6% за \"Много по-труден,\" и 5,1% за \"Не може да прецени.\" За категорията \"жени спрямо мъже,\" 85,3% отговарят, че достъпът е \"Приблизително същия,\" като никой не е избрал опцията \"Много по-труден.\" Стълбите не са подредени по конкретен ред на стойностите, но са групирани вертикално по категориите, а осъщественото подреждане следва формат, в който по-значимите стойности в категорията са измествани визуално напред."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.06",
+      "paper_language": "Bulgarian",
+      "paper_title": "Здравните неравенства в българското общество: социоикономическа детерминираност",
+      "figure_filename": "ISA.2022.3.06_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.06_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.06.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.06.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Оценки за достъпа до здравеопазване по критерия „богат“-„беден“",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата представя мненията относно достъпността на здравеопазването в България за богатите в сравнение с бедните. Хоризонталната ос съдържа категориите на мненията, които са описани като: \"Много по-лесен\", \"Малко по-лесен\", \"Приблизително същия\", \"Малко по-труден\", \"Много по-труден\" и \"Не може да прецени\". Те са подредени във вертикален ред. Вертикалната ос репрезентира стойностите, представени в проценти. Диапазонът от стойности е от 0 до над 70 процента, без ясно обозначени скала или интервали, но с маркирани стойности до всеки стълб. Най-високият стълб представлява категорията \"Много по-лесен\" с стойност 71,4%, а най-ниските стълбове са за категориите \"Малко по-труден\" и \"Много по-труден\" със стойности 0,6% и 0,8%. Данните се представят с различни цветове за всяка категория, но без допълнителни визуални акценти или подреждане по определен ред."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.06",
+      "paper_language": "Bulgarian",
+      "paper_title": "Здравните неравенства в българското общество: социоикономическа детерминираност",
+      "figure_filename": "ISA.2022.3.06_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.06_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.06.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.06.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Оценки за това дали е справедливо да има различия в достъпа до здравеопазване според равнището на доходите",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира мненията на хората относно справедливостта на това дали хора с по-високи доходи могат да си позволят по-добри здравни грижи в сравнение с хората с по-ниски доходи. Хоризонталната ос съдържа категориите, като те са подредени в ред: \"Много справедливо\", \"Донякъде справедливо\", \"Нито справедливо нито не\", \"Донякъде несправедливо\", \"Много несправедливо\", и \"Не знае/Не може да прецени\". Вертикалната ос етикетира стойностите, изразени в проценти, с диапазон от 0 до 50, записвани на равномерни интервали от 10 процента. Най-късата стълба представлява категорията \"Не знае/Не може да прецени\" с 2,1%, докато най-високата е категорията \"Много несправедливо\" с 38,3%. Стълбите са с различни цветове, което ги отличава едни от други."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ролята на новото поколение батерии при изграждане на устойчива енергийна среда за градска мобилност",
+      "figure_filename": "ISA.2022.3.07_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.07_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Намаляване на цената на Литиево-йонни батерии по години за KWh",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промените в цените на литиево-йонни батерии за KWh в периода от 2010 до 2030 година. Оста X е обозначена с „Година“ и има линейна скала, като обхваща диапазона от 2010 до 2030 година с интервали на етикетите на всеки две години. Оста Y е обозначена с „USD“ и също има линейна скала, обхващаща диапазона от 0 до 1400 USD с интервали от 200 USD. На графиката е изобразена една линия в светлосин цвят, която показва тенденциите в цената за USD/KWh. Линията започва от приблизителна стойност от 1200 USD през 2010 година и постепенно намалява до около 100 USD през 2030 година. Линията е плътна без маркери и описва намаляваща крива с видими спадове през 2012, 2016 и 2020 година, след което се стабилизира с леко намаление до 2030 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ролята на новото поколение батерии при изграждане на устойчива енергийна среда за градска мобилност",
+      "figure_filename": "ISA.2022.3.07_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.07_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Сравнение на енергийната плътност на различни видове батерии",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира енергийна плътност на различни видове батерии, представяйки настоящи и бъдещи стойности. Хоризонталната ос съдържа категориите на батериите, които са подредени по следния ред: Pb-Acid, Ni-Cd, Ni-MH, Li-Ion, и Solid State. Вертикалната ос е етикетирана като енергийна плътност и измерва стойности в интервал от 0 до 350. Скалата на вертикалната ос е линейна, с равномерни интервали от 50 единици. За всяка категория батерии са представени два стълба: синият стълб показва наличната енергийна плътност, докато оранжевият стълб изобразява бъдеща енергийна плътност. Стойностите варират в зависимост от категорията: например, най-високите стойности за бъдеща енергийна плътност са при Solid State батериите с около 300 единици, докато наличната стойност е около 150 единици. При Pb-Acid батериите и двата стълба са значително по-ниски, около 50 единици. Стълбовете за другите видове батерии показват различни комбинации от настоящи и бъдещи стойности, но са ясно обозначени с легенда, където синият цвят е за налично, а оранжевият за бъдещо."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ролята на новото поколение батерии при изграждане на устойчива енергийна среда за градска мобилност",
+      "figure_filename": "ISA.2022.3.07_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.07_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Брой регистрации на електрически превозни средства",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промените в броя на регистрациите на електрически превозни средства през годините. Оста X е обозначена като \"Година\" и използва линейна скала с диапазон от 2010 до 2021 година, с етикети на всеки две години. Оста Y е обозначена като \"Регистрации в милиони\" и също използва линейна скала с диапазон от 0 до 8 милиона, с етикети на всеки 1 милион. На графиката е представена една линия в син цвят, използваща плътен стил без маркери. Линията започва от 2010 година с приблизително 0.5 милиона регистрации и показва постепенен растеж до 2018 година, когато достига около 2 милиона. След 2018 година се наблюдава по-значително увеличение, като достига около 3 милиона през 2020 година и достига близо 7 милиона през 2021 година. Линията показва плавно нарастване с ускоряване след 2018 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ролята на новото поколение батерии при изграждане на устойчива енергийна среда за градска мобилност",
+      "figure_filename": "ISA.2022.3.07_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.07_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Емисии на парникови газове в ЕС за периода 1900-2040 година",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в емисиите на парникови газове от транспорта в Европа във времето. Оста X е обозначена с години, обхващащи периода от 1990 до 2040 г., със стойности, разположени на равни интервали от две години. Скалата е линейна. Оста Y представлява емисиите, като стойностите са представени от 0 до 140, с числови етикети на всеки 20 единици. Скалата също е линейна.\n\nСинята линия, обозначена като \"Вътрешен транспорт\", започва около стойност 100 през 1990 г. и показва постепенно нарастване до около 2008 г., когато достига приблизително 130. След това следва лек спад с известни колебания след 2012 г. до около 2020 г.\n\nОранжевата линия, представляваща \"EU-27 Прогноза на база съществуващите мерки\", започва от около 2020 г. със стойност около 125 и показва леко намаление, достигащо до под 100 през 2040 г.\n\nСивата линия, означена като \"EU-27 Прогноза на база добавени политики\", също започва от около 2020 г. с подобна начална стойност, но показва по-значителен спад, достигайки близо 60 през 2040 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценяване на реални опции при различна динамика на базовия актив",
+      "figure_filename": "ISA.2022.3.10_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.10_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Корелация между двете Браунови движения",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Трите графики илюстрират промени в две корелирани броунови движения при различни стойности на коефициента на корелация (rho). \n\nЗа първата графика, оста X е обозначена с числови стойности от 0 до 1000, без посочена единица, и следва линейна скала с етикети на всеки 200 единици. Оста Y е обозначена с числови стойности от -30 до 30, също на линейна скала, и етикети през 10 единици. Синята линия е плътна и започва около стойност 0 на оста Y, като се движи нагоре и надолу с видими върхове около 800, където достига около 20, и спадове около 300, спускайки се до около -30. Оранжевата линия също е плътна, като започва около -10 на оста Y и има сходни движения, с върхове около 500 и спадове около 700, движейки се в рамките на същите граници.\n\nЗа втората графика, осите X и Y са същите като в първата графика. Синята линия започва на 0 и показва редуващи се върхове и спадове, като достига върхова стойност от около 25 при 800 и спада до около -10 при 200. Оранжевата линия следва подобен модел, започвайки около -10, с върхове около 600 при стойности около 20 и спадове около 200, спускайки се до -10.\n\nВ третата графика, осите X и Y отново са идентични с предишните. Синята линия започва близо до 0 и показва върхове около 800 с максимална стойност 25 и спадове около 300 до около -5. Оранжевата линия започва от начало около 0 и има върхове около 600 със стойности малко над 15 и спадове около 300 с минимални стойности малко под -10."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценяване на реални опции при различна динамика на базовия актив",
+      "figure_filename": "ISA.2022.3.10_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.10_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Сравнение между реалните дневни цени и възвръщаемости на нефта и прогнозни симулирани дневни цени и възвръщаемост при корелиран модел на Хестон",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Първата фигура илюстрира промени в дневните цени на нефта сорт \"Брент\" за период от 250 дни. Оста X е обозначена с дати, вариращи от \"15-Apr-21\" до \"15-Mar-22\", с интервали от приблизително един месец. Скалата е линейна и няма посочени единици. Оста Y е обозначена с \"Цена\", с диапазон от 50 до 130, с числови интервали през 10 единици. Линията е черна и плътна, без използване на маркери. Цените започват около 65, достигат връх около 130, и завършват малко над 100, с видими върхове и спадове през целия период.\n\nВтората фигура илюстрира симулация на ценова траектория чрез корелиран модел на Хестон при дневна честота. Оста X е обозначена с дни, вариращи от 1 до 250, с числови интервали през 18 или 19 единици. Скалата е линейна и няма посочени единици. Оста Y е обозначена с \"Цена\", също с диапазон от 50 до 130 и интервали през 10 единици. Линията в тази графика е черна и плътна. Започва около 100, достигайки върхове над 120 и спадове под 80, с видими колебания по протежение на целия период."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценяване на реални опции при различна динамика на базовия актив",
+      "figure_filename": "ISA.2022.3.10_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.10_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Сравнение между реалните дневни цени и възвръщаемости на нефта и прогнозни симулирани дневни цени и възвръщаемост при корелиран модел на Хестон",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Двете фигури илюстрират промени в дневната възвръщаемост на цените на нефта чрез реални данни и симулирани данни по модела на Хестон. \n\nНа първата графика оста X не е етикетирана с конкретни обозначения, което предполага, че е времева ос без отбелязани интервали. Оста Y е обозначена като процентна дневна възвръщаемост, представена в проценти, с линейна скала. Диапазонът на оста Y варира от -15.00% до 10.00%, с равномерно разположени етикети на всеки 5%. Линията е черна, плътна и показва значителни колебания без маркировки, пресичащи оста X в различни точки. Видими са стойности около и над 5.00% и под -10.00%.\n\nВтората графика следва същия формат на остите като първата. Оста X отново няма етикети, а оста Y също е процентна, с идентичен диапазон и интервали от -15.00% до 10.00%, с етикети на всеки 5%. Черната плътна линия също показва колебания, но с видимо различно разпределение на амплитудите. Линията остава в диапазон около 5.00% и -10.00%, с по-малко значителни отклонения в сравнение с първата графика."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценяване на реални опции при различна динамика на базовия актив",
+      "figure_filename": "ISA.2022.3.10_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.10_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Сравнителен анализ между реалната дневна динамика в рамките на една година и симулираната посредством модела на Мъртон динамика",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "## Лява графика:\n\nГрафиката илюстрира промени в дневните цени на нефт сорт \"Брент\" за период от 250 дни. Оста X е обозначена с дати, които са равномерно разпределени приблизително на всеки две седмици, започвайки от 15 април 2021 до 15 март 2022. Скалата е линейна и няма изрично посочени единици, освен датите. Оста Y е обозначена като цена и има линейна скала с диапазон от 50 до 130, без единици. Интервалите по Y оста са през 10 единици. Линията е черна и плътна, маркирана в легендата като \"Real price data\". В началото на периода стойността започва от около 65, показващи постепенно покачване с няколко спадове и пикове, достигайки до максимална стойност около 125. В последните дни се наблюдава леко понижение до около 110.\n\n## Дясна графика:\n\nТази графика илюстрира симулация на ценова траектория посредством скоково-дифузния модел при дневна честота. Оста X е обозначена с числа (оцифрования) от 1 до 250, които са равномерно разпределени през интервали от по 8 единици. Скалата е линейна. Оста Y показва цената с линейна скала от 50 до 130, през интервали от по 10. Линията е черна и плътна, обозначена в легендата като \"Jump-diffusion simulated price\". Началната стойност е около 110, следвана от видимо колебание и тенденция към намаляване, достигайки до стойност от около 60 в края на периода."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценяване на реални опции при различна динамика на базовия актив",
+      "figure_filename": "ISA.2022.3.10_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.3.10_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Сравнителен анализ между реалната дневна динамика в рамките на една година и симулираната посредством модела на Мъртон динамика",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата се състои от два графики, които илюстрират дневната възвръщаемост на цените на нефта. Лявата графика показва реалната дневна възвръщаемост на цените на нефта сорт \"Брент\". Оста X не е обозначена с конкретно име и изглежда представя времева редица с равномерно разпределени точки. Оста Y е обозначена като процентна промяна, варираща от -15.00% до 10.00%, със стъпка от 5.00%. Линията е черна, без маркери и представлява плътна линия, която се колебае около оста от 0.00%, с видима волатилност. \n\nДясната графика показва симулирана дневна възвръщаемост на цените на нефта при скоково-дифузен модел. Отново, оста X не е наименувана и е подобна на времева редица с равномерно разпределени точки. Оста Y също варира от -15.00% до 10.00%, с интервали от 5.00%, показвайки процентна промяна. Линията е черна, без маркери и плътна. Тя демонстрира редуващи се върхове и спадове около 0.00%, подобно на реалната графика, но с видими разлики в структурата на волатилност."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "„Профил“ на изследваните административни единици Източник: Национално представително проучване",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "На предоставената диаграма са представени проценти, отнасящи се до два критерия: големина на общината според населението и тип район. Хоризонталната ос съдържа различни категории за тези критерии, като за населението са: \"До 10 000 души\", \"От 10 001 до 20 000 души\", \"От 20 001 до 50 000 души\", \"От 50 001 до 100 000 души\" и \"Над 100 000 души\", а за тип район: \"Градски\" и \"Селски\". Категориите са изброени в произволен ред, без специална скала. Вертикалната ос показва проценти, илюстрира стойности от 0% до 100%, като конкретните проценти са изобразени до всяка стълба. Най-високите стойности са за \"Селски\" райони с 68,9%, а най-ниската стойност е за население \"Над 100 000 души\" с 11,1%. Стълбите за всеки тип район и големина на населението са визуално разделени чрез различен цвят: син за населението и жълт за типа на района. Тази визуална организация помага за различаване на двете категории в диаграмата."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на общините относно разработването и изпълнението на собствена политика в областта на дигитализацията",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представлява кръгова диаграма, сравняваща две категории: \"Да\" и \"Не\". Тя включва общо два сектора. Категорията \"Да\" е представена с оранжев цвят и заема приблизително 46,7% от диаграмата. Категорията \"Не\" е оцветена в синьо и обхваща приблизително 53,3%. На диаграмата са налични етикети с проценти вътре в секторите, но няма легенда. Няма и визуално подчертани сектори, като всички сегменти изглеждат подредени според заявените проценти."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на административните единици по продължителност на периода, от който те развиват дигитализация на процесите",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процента на различни възрастови групи в рамките на определен контекст. Хоризонталната ос представя процента, означава се с етикет от 0% до 40%, със стъпки от 5%, използвайки линейна скала. Вертикалната ос съдържа категориите, които са възрастовите групи, подредени в специфичен ред: \"Под 3 г.\", \"3 – 5 г.\" и \"Над 5 г.\". Височината на стълбите показва величини, като най-кратката стълба достига до 27%, а най-високата - до приблизително 37%. Стълбите не са групирани или наслагвани и нямат видими визуални подчертавания или допълнителни бележки."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на общините по брой експерти, участващи в дигитализацията Източник: Национално представително проучване",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентното разпределение на някаква категория по възрастови групи. Хоризонталната ос съдържа категориите с етикети „Под 5 г.“, „5 – 10 г.“ и „Над 5 г.“, които са подредени в нарастващ ред по възраст. Вертикалната ос представя стойностите в проценти, вариращи от 0% до 100%. Скалата е линейна, като стойностите са ясно изразени до един знак след десетичната запетая. Най-високият стълб е за категорията „Под 5 г.“ с процент от 84,4%, следван от категорията „Над 5 г.“ с 11,1%, и най-късия стълб е „5 – 10 г.“ с 4,4%. Няма визуално подчертани стълби или специални бележки за разликите в процентите между категориите."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на общините според необходимостта от външна помощ при дигитализацията",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представлява кръгова диаграма, сравняваща две категории отговори: \"Да\" и \"Не\". Включва общо два сектора. Секторът, обозначен като \"Да\", заема приблизително 53,3% от диаграмата и е оцветен в червено. Секторът \"Не\" заема приблизително 46,7% и е оцветен в лилаво. Процентите са ясно отбелязани до съответните сектори, а диаграмата не съдържа легенда. Сегментите не са визуално подчертано разделени или разширени."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на общините според основните предизвикателства пред дигитализацията",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира различни пречки или фактори, влияещи върху определен процес или ситуация, като използва хоризонтални стълбове за визуализиране на проценти. Вертикалната ос съдържа категориите, всяка от които е етикетирана с текстове, описващи различни фактори като „Ограничени финансови средства“ или „Липса на достатъчно висококвалифицирани специалисти“. Подредбата на категориите е произволна, без видим специфичен ред. Хоризонталната ос представлява стойностите в проценти, започвайки от 0% и достигайки до 100%, като стойностите се увеличават с доста големи интервали, което позволява ясното разграничаване на различните стойности. Стойностите на стълбовете варират от 6,7% до 77,8%, където най-дългият стълб е „Ограничени финансови средства“ с 77,8%, а най-късият е „Нито едно от посочените“ с 6,7%. Стълбовете не са подредени по големина, но са ясно обозначени с процентите си в края на всеки стълб, в еднакво светлосиньо оцветяване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на общините според честотата на провеждане на анализ на кибер-рисковете",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва честотата на провеждане на определено действие или събитие, разпределено в шест категории. Включени са следните сегменти: „Да, веднъж годишно“ с дял от 26,7%, „Да, веднъж на шест месеца“ с дял от 22,2%, „Не се провежда“ с дял от 20,0%, „Да, веднъж на няколко месеца“ с дял от 13,3%, „Да, непрекъснато“ с дял от 8,9%, и „Да, веднъж месечно“ също с дял от 8,9%. Цветовете на сегментите варират в различни нюанси на лилавото, като не се забелязва значимо открояване на нито един от тях. Диаграмата съдържа етикети с проценти във външната страна на секторите. Сегментите изглеждат подредени в низходящ ред спрямо размера на техния дял. Легенда не се забелязва в диаграмата."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на дигиталните административни услуги в Република България",
+      "figure_filename": "ISA.2022.4.01_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.01_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на общините според наличието на собствени мобилни приложения",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира резултатите от анкета, отнасяща се до нещо, което се свързва с броя на случаите или явленията. Хоризонталната ос представя категориите от отговори, които са \"Не\", \"Да, между 1-3 бр.\" и \"Да, между 4-6 бр.\", подредени отгоре надолу в произволен ред. Вертикалната ос съдържа проценти, които показват честотата на всеки отговор, като стойностите са представени в проценти. Най-високата стойност е 82,2% за категорията \"Не\", следвана от 15,6% за \"Да, между 1-3 бр.\" и 2,2% за \"Да, между 4-6 бр.\" Стълбовете не са подредени нито по азбучен ред, нито по величина, а са визуално разграничени чрез различната дължина, съответстваща на различните процентни стойности."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Българската икономика по пътя на екологичната трансформация",
+      "figure_filename": "ISA.2022.4.02_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.02_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Въглеродни емисии (%) за България и EU-27 – индекс (1990=100)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира сравнение между стойностите за България и ЕС-27 през годините 2010 до 2020. Оста X е обозначена с години, използва линейна скала, варираща от 10 до 20, представяйки годините 2010 до 2020, без единици, с интервали през една година. Оста Y е неназована, използва линейна скала с диапазон от 45 до 85, с интервали на всеки 5 единици.\n\nСинята линия представлява стойностите за България. Линията започва при около 60 за 2010 г., достига пик над 70 през 2011 г., след което се колебае между 60 и 70 до 2020 г., където завършва при около 60. Линията е плътна и не показва използване на маркери.\n\nЧервената линия представя стойностите за ЕС-27. Тя започва близо до 85 през 2010 г., намалява постепенно до средата на периода, слабо се повишава около 2015 г. и 2016 г., след което отново спада до малко над 70 през 2020 г. Линията е плътна, без видими маркери."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Българската икономика по пътя на екологичната трансформация",
+      "figure_filename": "ISA.2022.4.02_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.02_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Коефициент на вторично използване на материалите (%) за България и EU-27",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените във времето на две линии, представляващи различни съвкупности. Оста X е означена с числови стойности от 10 до 20, според които е модулът на интервала, като стойностите са с междинно оформление на интервал 1 и представляват последователност във времето. Стойностите на оста Y варират от 0 до 14, като са линейно разпределени със стъпка от 2, без конкретно обозначени единици.\n\nПървата линия, представена в син цвят, обозначава данните за България. Тази линия показва начална позиция малко над 2 на оста Y при X стойност 10. Синият график е с плътна линия без маркери и гради в диапазон от малко над 2 до малко над 4. Първоначално прави леко трептене около 2,5 и достига пик при малко над 4 около стойността 16 на оста X, след което намалява и остава близо до стойност 2 до краен X на 20.\n\nВторият график, представен в червен цвят, илюстрира данните за ЕС-27. Тази линия започва при стойност малко над 10 на оста Y и е с равномерна плътна форма без маркери. Линията показва плавно нарастване от 10 до малко над 12 в края на периода, дефиниран от X оста, което се осъществява също при X ≈ 20."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Българската икономика по пътя на екологичната трансформация",
+      "figure_filename": "ISA.2022.4.02_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.02_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Коефициент на рециклиране на отпадъците общо (%) за България и EU-27",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени в стойностите на данни за България и ЕС-27 през годините. Оста X е обозначена с години, включваща линейна скала от 2010 до 2020 година, на равни интервали от по една година. Оста Y е също с линейна скала и обхваща диапазон от 10 до 60 единици, с етикети на интервали от 10 единици.\n\nСинята линия представлява данни за България, има плътен стил без използване на маркери. В началото на периода стойността е около 30 единици през 2010 година, след което има спад до около 15 единици през 2012 година. Следва сравнително равномерно покачване до достигане на пик от около 28 единици през 2016 година. След този пик, стойността намалява до около 22 единици през 2020 година, със сравнително равномерни вариации между 2016 и 2020 година.\n\nЧервената линия илюстрира данните за ЕС-27 и е също плътна, без маркери. Тя започва на около 50 единици през 2010 година и показва леко покачване през периода, достигайки около 54 единици през 2020 година, без значителни върхове или спадове."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Българската икономика по пътя на екологичната трансформация",
+      "figure_filename": "ISA.2022.4.02_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.02_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Коефициент на рециклиране на битови отпадъци (%) за България и EU-27",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази фигура илюстрира промени в стойностите през времеви период за два различни групи данни. Оста X е обозначена с числови стойности от 10 до 20, като използва линейна скала и етикетите са разположени на равномерни интервали от 1 единица. Няма посочени единици за оста X. Оста Y също е числова, с етикети от 20 до 50, използвайки линейна скала с интервали от 5 единици. Няма посочени единици за оста Y.\n\nНа графиката са представени две линии. Първата линия е синя, с плътен стил без маркери, и представлява данни за България. Започва от приблизителна стойност 25 на оста Y при X = 10, достига върхове около стойност 35 при X = 17 и завършва около стойност 35 при X = 20. Втората линия е червена, също с плътна форма, и представлява данни за EU-27. Тази линия започва от приблизителна стойност 40 на оста Y при X = 10 и се издига до стойност около 47 при X = 20, като се характеризира с постоянен ръст без видими спадове."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Българската икономика по пътя на екологичната трансформация",
+      "figure_filename": "ISA.2022.4.02_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.02_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Рециклиране на био отпадъци (кг/човек) за България и EU-27",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в стойностите на неуточнена величина за България и ЕС-27 във времето. Оста X е обозначена с числата от 10 до 20, като маркировките са равномерни и в цяло число, което предполага линейна скала без посочени единици. Оста Y е обозначена с числени стойности от 0 до 100, също равномерно разположени, без посочени единици и представена на линейна скала. \n\nСинята линия представлява данните за България. Тя започва от стойност 0 при X=10 и завършва при приблизително 40 при X=20. Между X=14 и X=15, линията достига пик с максимална стойност около 40. Виждат се колебания, с ясно изразено спадане между X=16 и X=18, след което се наблюдава покачване към X=20. Линията е плътна с остри ъгли в места на промяна.\n\nЧервената линия представя данните за ЕС-27. Тя започва приблизително от 70 при X=10 и се изкачва до около 90 при X=20. Линията показва леки и постепенни покачвания през целия период с пунктирани участъци, характерни за смяна на наклона. Флуктуациите са плавни, без резки промени в дължината на периода."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос „Какъв е общият брой на работещите във Вашата организация?“",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва разпределението на броя на служителите в различни организации според броя на получените отговори. Тя включва четири сегмента, всеки означен с различен цвят и процент. Първият сегмент, оцветен в синьо, представлява \"До 9 човека\" и заема 40,9% от диаграмата. Вторият сегмент, в червено, обхваща 36,4% и представлява \"От 10 до 49 човека\". Третият сегмент е жълт и представлява \"От 50 до 249 човека\" с дял от 13,6%. Последният сегмент, в зелен цвят, е \"250 и повече човека\" и заема 9,1% от диаграмата. Диаграмата съдържа легенда, която показва съответствието между цветовете и категориите, както и проценти в самите сектори. Сегментите не изглеждат визуално подчертано."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос „В какъв тип населено място Вашата организация осъществява основно дейността си?“",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата илюстрира разпределението на местата, където дадена организация осъществява основната си дейност, въз основа на 22 отговора. Включени са общо четири сектора. Секторът за \"Столица\" е оцветен в синьо и съставлява 81,8% от диаграмата. Секторът за \"Областен град\" е в червено и представлява 9,1%. \"Друг град\" е оранжев и също заема 9,1% от диаграмата. \"Село\" е представено в зелено и няма отбелязан процент. Диаграмата включва легенда и етикети с проценти вътре в секторите. Секторите не изглеждат подредени в определен ред по големина, а секторът за \"Столица\" визуално доминира по размер спрямо останалите."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос „От колко време Вашата организация осъществява дейността си?“",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва разпределението на организациите според времето, през което осъществяват дейността си, базирано на 22 отговора. Диаграмата включва пет сектора. Първият сектор е син и етикетиран като \"Под 1 година,\" като липсва конкретен процент. Вторият сектор е червен, обозначен с \"Над 1 до 5 години,\" със стойност 13,6%. Третият сектор е зелен с етикет \"От 6 до 15 години,\" и представлява 18,2% от диаграмата. Четвъртият сектор е оранжев с надпис \"От 16 до 30 години,\" като заема 36,4%. Последният сектор е лилав с надпис \"Над 31 години,\" и възлиза на 31,8%. Диаграмата разполага с легенда отдясно, а повечето сектори съдържат етикети с проценти вътре в тях. Сегментите не изглежда да са подредени в специфичен ред."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос „Преди колко време организирахте първото обучение по лидерство?“ Фигура 5. Получени отговори на въпрос „Преди колко време организирахте първото",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя разпределението на отговорите на въпроса \"Преди колко години организирахте първото обучение по лидерство?\" с общо шест категории. Категорията \"Под 1 година\" е обозначена със син цвят и няма ясно посочен процент. Категорията \"От 1 до 5 години\" е в червен цвят и съдържа 36.4% от отговорите. \"От 6 до 15 години\" е показана в жълт цвят и също заема 36.4% от отговорите. Категорията \"От 16 до 30 години\" е отбелязана в зелен цвят с 13.6%. \"Над 30 години\" е в лилав цвят, без ясно отбелязан процент, както и \"Не сме организирали обучения по лидерство\" в светлосин цвят. Диаграмата включва легенда, а процентите са показани вътре в секторите. Сегментите изглеждат подредени без конкретен ред по големина."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос Получени отговори на въпрос „Колко често организир",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва честотата на организиране на обучения по лидерство, базирана на 22 отговора. Тя включва шест категории, всяка с различен цвят и процент. Първата категория, обозначена в тъмносин цвят, е „Няколко пъти месечно“ с дял от 9,1%. Следващата категория, в червено, „Всеки месец“, също заема 9,1%. Третата категория, в зелен цвят, „Няколко пъти в годината“, има дял от 36,4%. Оранжевата категория, „Всяка година“, отбелязва също 36,4%. Петата категория, в лилав цвят, „Веднъж на няколко години“, и последната категория, в светлосин цвят, „Не сме организирали обучения по лидерство“, заемат по 9,1% всяка. В диаграмата е налична легенда, която обяснява цветовото обозначение за всяка категория. Сегментите не изглеждат визуално подчертавани и не са подредени по размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос „Кои са лекторите по лидерство, които провеждат обучителните курсове?“",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира отговорите на въпроса за това кои са лекторите по лидерство, които провеждат обучителните курсове, въз основа на 22 отговора. Хоризонталната ос съдържа категориите, които описват различните източници на лектори: \"Лекторите по лидерство са водещи експерти от нашата организация,\" \"Лекторите се канят според заявката на потребителите,\" \"Лекторите са постоянни сътрудници на нашата организация,\" \"Не сме участвали,\" и \"Външни утвърдени експерти.\" Категориите не изглежда да следват определен подред, като са изброени в произволен ред. Вертикалната ос представя числовите стойности, обозначени от 0 до 10 с равномерни интервали от 2 единици. Стойностите на стълбите са: 6 (27.3%) за \"Лекторите по лидерство са водещи експерти от нашата организация,\" 10 (45.5%) за \"Лекторите се канят според заявката на потребителите,\" 7 (31.8%) за \"Лекторите са постоянни сътрудници на нашата организация,\" и 1 (4.5%) за \"Не сме участвали\" и \"Външни утвърдени експерти.\" Няма визуално подчертани стълби."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос „Обучението по лидерство е насочено към“",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира резултати от анкета, фокусирана върху насочеността на обучението по лидерство. Хоризонталната ос представлява броя на отговорите, като тя е линейна и етикетирана с числата от 0 до 20 на равни интервали от 5 единици. Вертикалната ос съдържа категориите отговори и етикетите са подредени в произволен ред: \"Придобиване на знание за лидерството\", \"Придобиване на умения за лидерството\" и \"Придобиване и на знания и на умения\". Най-късата стълба представя категорията \"Придобиване на знание за лидерството\" с 1 отговор, равняващ се на 4,5%. Следва по височина стълбата за \"Придобиване на умения за лидерството\" с 2 отговора, което е 9,1%. Най-високата стълба е \"Придобиване и на знания и на умения\", с 19 отговора, или 86,4%. Стълбите не са подредени по височина, а визуално са представени по един и същ начин без допълнително подчертани елементи."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.07",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред обучението по лидерство",
+      "figure_filename": "ISA.2022.4.07_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.07_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.07.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Получени отговори на въпрос Получени отговори на въпрос „Каква е основната цел",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя отговорите на въпрос относно основната цел на предлаганото обучение по лидерство, съдържащи общо два сектора. Първият сектор, който е в син цвят, представлява \"Подобряване на индивидуалното представяне на всеки участник сам по себе си\" и заема приблизително 18,2% от диаграмата. Вторият сектор е в червен цвят и представлява \"Подобряване на индивидуалното представяне на участниците в курса с оглед специфики на колектива, целите и средата\", заемащ 81,8% от диаграмата. Диаграмата включва легенда, която обяснява значението на цветовете, както и процентни етикети вътре в секторите. Секторите са подредени по низходящ размер, като червеният сектор е значително по-голям от синия."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.08",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ на реторичните фигури в рекламните слогани в сферата на храните и напитките",
+      "figure_filename": "ISA.2022.4.08_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.08_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.08.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.08.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Честота на реторичните фигури",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя честотата на използване на реторични фигури в рекламните слогани. Общо са включени два сектора. Първият сектор е обозначен като \"Рекламни слогани с реторични фигури\" и е оцветен в синьо, като заема 87,61% от диаграмата. Вторият сектор е обозначен като \"Рекламни слогани без реторични фигури\" и е оцветен в червено, заемайки 12,39%. Диаграмата включва легенда, която пояснява значението на цветовете. Етикетите с проценти са изписани вътре в секторите, което улеснява визуалното възприемане на стойностите. Секторите не са визуално подчертавани или подреждани по специфичен начин."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Държавата и сегментацията на пазара на труда в България – какво разкриват резултатите от изпълнението на мярката 60/40?",
+      "figure_filename": "ISA.2022.4.10_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.10_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на съотношението между работните места по мярка 60/40 и общия брой на наетите в икономиката (март 2020 г. – юни 2022 г.)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във времето, конкретно в дела на общия брой наетите в икономиката. Оста X е обозначена като \"Година и месец, за които се отнася подкрепата\" и обхваща периода от март 2020 г. до юни 2022 г., със стойности, представени на линейна скала без ясно изразени единици. Диапазонът на числата е от 3 до 12 за 2020 и 2021 г., и от 1 до 6 за 2022 г., представени на неравномерни интервали. Оста Y е озаглавена \"Дял от общия брой наети в икономиката\" и използва линейна скала с диапазон от 0% до 8%, представен в проценти, с равномерни интервали на 1%.\n\nГрафиката включва една линия, оцветена в синьо и е плътна, без маркери. Линията започва от приблизително 6.5% през март 2020 г., достига бързо до около 7% през април 2020 г., след това преминава през различни колебания, отбелязвайки спадове около 5% през май 2020 г. През 2021 г. линията започва около 6%, с пик от над 7% през юни, след което показва спад до около 4.5% в края на годината. През 2022 г. трендът продължава с понижение, достигайки до около 3% през юни. Видимо има няколко върха и спадове, като общата тенденция е намаляваща през разгледания период."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.4.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Държавата и сегментацията на пазара на труда в България – какво разкриват резултатите от изпълнението на мярката 60/40?",
+      "figure_filename": "ISA.2022.4.10_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.4.10_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.4.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на работодателите по дял на запазените при тях работни места по мярката 60/40 (март 2020 г. – юни 2022 г.)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира кумулативното разпределение на честотата между работодатели и запазени работни места. Оста X е обозначена като \"Работодатели - кумулативна относителна честота (%)\", с линейна скала и диапазон от 0% до 100%, разпределена на интервали от 10%. Оста Y е означена като \"Запазени работни места - кумулативна относителна честота (%)\", също с линейна скала и диапазон от 0% до 100%, с етикети на всеки 10%.\n\nГрафиката съдържа една линия, която е синя, плътна и без маркери. Тя започва от координата (0%, 0%) и бързо нараства със стръмна крива до приблизително (10%, 60%). След това увеличението нараства по-бавно, като в крайна сметка достига до (100%, 100%). Линията няма ясни върхове или спадове, но в началото се наблюдава значителен наклон, който постепенно намалява, като създава постепенна крива към горния десен ъгъл на графиката."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2023.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Макроикономическите здравни шокове и динамиката на бизнес цикъла",
+      "figure_filename": "ISA.2023.4.02_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2023.4.02_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Негативно отражение на епидемията от EVD (в млрд. щ.д.)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойности, свързани с три различни категории, представени на хоризонталната ос. Хоризонталната ос съдържа етикета за стойности, като е обозначена с числени стойности, вариращи от 0 до 2 с линейна скала, която е структурирана с интервали на всеки 0,25. Вертикалната ос представя категориите \"Сиера Леоне,\" \"Либерия\" и \"Гвинея\" в произволен ред. Стълбовете са хоризонтални и представляват количествени стойности за всяка от тези категории. Сиера Леоне има стойност, отбелязана като 1,9, което я прави най-висока сред категориите, докато Либерия има най-ниската стойност 0,3. Средната стойност е при Гвинея с 0,6. Стълбовете не са визуално подчертани с изключение на цифрови стойности в края им, които илюстрират точните числа."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2023.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Макроикономическите здравни шокове и динамиката на бизнес цикъла",
+      "figure_filename": "ISA.2023.4.02_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2023.4.02_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Процентно изменение на реалния БВП спрямо предходното тримесечие за избрани азиатски икономики",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира промените в определени стойности (възможно брутен вътрешен продукт или друг икономически показател) за първото и второто тримесечие на 2020 година, като сравнява данните за пет държави: Китай, Япония, Индия, Индонезия и Южна Корея. Хоризонталната ос представя категориите държави, подредени в произволен ред, тъй като няма очевидна азбучна или друга последователност. Вертикалната ос изобразява стойностите, със скала от -25 до 15 единици, отбелязани през интервал от 5 единици. Стълбовете, наподобяващи барове за всяка държава, са двойни: едни са щриховани, представляващи първото тримесечие на 2020 година, а други са плътно сини, представляващи второто тримесечие на същата година. В диаграмата има изменение в стойностите, като най-значително понижение се наблюдава при Индия за второто тримесечие, достигащо около -23 единици, докато Китай показва рязко подобрение през второто тримесечие със стойност около 11 единици. Стойностите на Япония и Южна Корея са около -5 или малко под 0 за второто тримесечие, като при тях липсват положителни стълбове. Индонезия показва падащи стойности и през двете тримесечия, със стойност за второто тримесечие около -7. Подобно изменение е отбелязано във визуалното представяне с различно засенчване и наслагване на цветовете за различните тримесечия."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2023.4.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Макроикономическите здравни шокове и динамиката на бизнес цикъла",
+      "figure_filename": "ISA.2023.4.02_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2023.4.02_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Процентно изменение на реалния БВП спрямо предходното тримесечие за избрани европейски икономики",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира сравнение на стойностите между първото и второто тримесечие на 2020 година за различни страни и региони. Хоризонталната ос съдържа категориите, които представляват различни страни и региони, като Франция, Германия, Италия, Испания, България, Еврозоната, ЕС, Обединеното кралство, Турция и Русия. Категориите са подредени в произволен ред, без видима скала. Вертикалната ос е етикетирана с числови стойности от -25 до 5 и представя стойности, които не са придружени от конкретни единици. Скала е линейна и стойностите са разположени на редовни интервали, в инкременти от 5. В диаграмата са представени две групи стълбове за всяка категория, които съответстват на първото и второто тримесечие на 2020 година, като първото тримесечие е обозначено чрез изштриховани стълбове, а второто тримесечие е обозначено с плътни стълбове. Най-късите стълбове са в близост до 0, а най-дългите достигат до -20 и повече. Стълбовете не са ясно подредени по-височина, но има видимо понизяване на стойностите през второто тримесечие."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2023.4.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ на двустранната търговия между България и Украйна",
+      "figure_filename": "ISA.2023.4.04_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2023.4.04_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2023.4.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Делът в % на България в износа/вноса на Украйна за периода 2016-2022 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Стълбовидната диаграма илюстрира дела на България в украинския износ и внос за периода от 2016 до 2022 година. Хоризонталната ос представя годините, като те са подредени хронологично от 2016 до 2022. Вертикалната ос показва стойностите на дяловете, като диапазонът е от 0 до 4, с равномерни интервали от 0.5. Диаграмата съдържа две групи стълбове за всяка година: сини стълбове, обозначаващи дела на България в украинския износ, и червени стълбове, показващи дела на България в украинския внос. Най-високите стълбове са през 2022 година, с максимална стойност от 3.72 за украинския износ и 3.21 за украинския внос. Стойностите на всеки стълб са отбелязани в горната част на стълбовете. Подреждането на стълбовете следва хронологичния ред на годините и не са визуално подчертани или удебелени."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Класически и съвременни възгледи за бедността",
+      "figure_filename": "ISA.2022.1.02_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.02_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Окрупнени данни за неравенството в разпределението на доходите за държавите – членки на Европейския съюз, за периода 2016-2020 година",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Тази стълбовидна диаграма илюстрира разпределението на данни по държави за пет различни години: 2016, 2017, 2018, 2019, и 2020 година. Хоризонталната ос съдържа категориите, които са отделни държави, и са подредени по нарастващ ред на стойностите. Вертикалната ос представя стойностите с линейна скала, като са посочени числени интервали на равни стъпки. Всеки стълб е групиран и разделен на части, обозначаващи годините, като е използвана различна цветова схема: зелено за 2016 г., оранжево за 2017 г., синьо за 2018 г., сиво за 2019 г. и жълто за 2020 г. Диапазонът от стойности на вертикалната ос не е конкретно посочен, но стълбите достигат различни височини, като България има най-високият стълб. Няма специфично визуално подчертани стълби, но всяка година е отбелязана с различен цвят, за да се разграничат периодите."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Класически и съвременни възгледи за бедността",
+      "figure_filename": "ISA.2022.1.02_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.02_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Линия на бедност и относителен дял на лица, които живеят под нея в България за периода 2016-2020 година",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира промените в месечната линия на бедност и процента на бедност след социалните трансфери за периода от 2016 до 2020 година. Хоризонталната ос съдържа категориите, обозначени с години от 2016 до 2020, подредени хронологично. Вертикалната ос отляво показва стойностите на линията на бедност в лева, обхващаща диапазон от 0 до 500 лева, с равномерни интервали от 50 лева. Вертикалната ос отдясно представя процента на населението в бедност, с диапазон от 5% до 25%, също с равномерни интервали от 2%. Стълбите са в сиво и показват средномесечната линия на бедност, като през 2016 година е 308 лева, през 2017 става 351 лева, остава същата и през 2018, през 2019 е 413 лева и се покачва до 451 лева през 2020. Червената линия илюстрира процента на бедни след социалните трансфери, като стойностите не са посочени на координатната ос, но са отбелязани върху самата линия за 2017, 2018 и 2019 година, съответно 23.4%, 23.4% и 23.4%. Табличните компоненти не са подредени по низходящ или азбучен ред, а следват хронологична последователност."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Класически и съвременни възгледи за бедността",
+      "figure_filename": "ISA.2022.1.02_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.02_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "България и ЕС по Коефициент на Джини преди и след социалните трансфери за периода 2016-2020 година",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира данни за няколко показателя през различни години, свързани с Европейския съюз (ЕС) и България, като използва групирани стълбове за визуализация. Категориите са разположени на хоризонталната ос и са обозначени с години, като редът им е хронологичен от 2016 до 2020 година. Вертикалната ос съдържа стойностите, които са обозначени в проценти; те варират от около 29.5 до 44.1 по равномерна линейна скала. Всяка група стълбове за отделна година включва четири различни категории: ЕС (преди социалните трансфери), ЕС, България (преди социалните трансфери) и България, всяка с различен цвят според легендата. Например, през 2016 година стойностите са съответно 35.7 за ЕС (преди социалните трансфери), 30.6 за ЕС, 40.3 за България (преди социалните трансфери) и 37.7 за България. Стълбовете не следват определен ред по големина, а са подредени по описаните категории, без визуално подчертани елементи."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.02",
+      "paper_language": "Bulgarian",
+      "paper_title": "Класически и съвременни възгледи за бедността",
+      "figure_filename": "ISA.2022.1.02_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.02_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.02.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Риск от бедност и бедност в България преди и след социалните трансфери за периода 2016-2020 година",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентното разпределение на хората в три различни категории, свързани с бедността и социалното изключване за различни години. Хоризонталната ос съдържа три категории: \"Бедни (преди социалните трансфери)\", \"Лица в риск от бедност или социално изключване\" и \"Бедни (след социалните трансфери)\". Категориите са подредени в произволен ред. Вертикалната ос представя стойностите в проценти, с диапазон от 0 до 50, като скалата е линейна и етикетирана с \"В проценти (%)\". Всяка от категориите е представена със стълбове за пет различни години: 2016, 2017, 2018, 2019 и 2020, както е указано чрез цветовете съответно синьо, оранжево, сиво, жълто и светлосиньо. Най-високите стойности се наблюдават в категорията \"Бедни (преди социалните трансфери)\", където стойностите за отделните години варират между приблизително 42% и 48%. В категорията \"Лица в риск от бедност или социално изключване\" стойностите са по-ниски, вариращи около 30% до 35%. В случая с категорията \"Бедни (след социалните трансфери)\" стойностите са около 18% до 22%. Стълбовете не са визуално подчертани или подредени по друг начин, освен по години."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Методи за определяне на енергийната сигурност в бизнеса",
+      "figure_filename": "ISA.2022.1.04_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.04_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Основни източници на отопление по видове населено място в Република България",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира източниците на отопление по тип населено място, като категоризира данните в три групи: \"Общо\", \"Градове\" и \"Села\". Хоризонталната ос съдържа категориите населени места в произволен ред. Вертикалната ос представлява процента на използваните източници за отопление с диапазон от 0% до 100%, маркиран с равномерна линейна скала на интервали от 10%. Всяка група е разделена на цветни сегменти, обозначаващи различни видове източници: газ (червен), отопление от централен източник (жълт), въглища (оранжев), електричество (зелен) и дърва (син). В групата \"Общо\" най-голям принос имат дървата с 34.1%, следвани от електричеството с 28.6%. При \"Градове\" преобладава електричеството с 32.4%, а при \"Села\" доминират дървата с 62.8%. Газът заема най-малък дял, вариращ от 0.2% до 0.9%."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Методи за определяне на енергийната сигурност в бизнеса",
+      "figure_filename": "ISA.2022.1.04_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.04_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Измерена енергийна бедност на държавите – членки на ЕС",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процента домакинства от най-ниския квинтил по доходи, които срещат затруднения да поддържат адекватна топлина в домовете си през зимата през 2017 г., изразени в проценти. Хоризонталната ос съдържа категориите, представляващи различни държави и ЕС 28, подредени в произволен ред. Вертикалната ос е етикетирана с процентите и започва от 0, като достига до 60, разположена на равномерни интервали от 10. Най-ниската стойност е при Финландия, докато най-високата е при България. Барът за ЕС 28 е оцветен в различен цвят (зелен), което го подчертава от останалите лилави барове за отделните държави. Диаграмата не указва специално подредени стълбове или допълнителни визуални акценти освен оцветяването."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Методи за определяне на енергийната сигурност в бизнеса",
+      "figure_filename": "ISA.2022.1.04_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.04_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разходи за енергия на най-бедните домакинства (без транспорт) по дял на горивата и енергията в общите им разходи (2018 г.)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира разходите за различни видове енергия за домакинствата в различни държави. Хоризонталната ос представя различни държави идентифицирани чрез техните съкращения, подредени отляво надясно, без видима конкретна подредба, различна от азбучния ред. Вертикалната лява ос е обозначена в евро и представя стойностите на разходите, със стойности, вариращи от 0 до 3000 евро, в линейна скала с интервали на етикетиране на всеки 500 евро. На вертикалната дясна ос са показани проценти, свързани с дела на енергията за домакинствата, вариращи от 0% до 25% с интервали през 5%. Стълбовете са разпределени в групи и всеки от тях е разбит на различни компоненти, обозначени в легендата: синьо за \"Енергия за отопление\", лилаво за \"Твърди горива\", кафяво за \"Течни горива\", зелено за \"Природен газ\", червено за \"Електроенергия\". Оранжевите ромбчета представят дела на енергията за домакинствата в процентно отношение. Най-високите стойности се наблюдават в държави като Дания и Ирландия, докато най-ниските са в Латвия и Румъния."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Методи за определяне на енергийната сигурност в бизнеса",
+      "figure_filename": "ISA.2022.1.04_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.04_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Република България спрямо ОИСР – средни нива",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в индексите на риска за България и ОИСР (OECD) през периода от 1980 до 2015 година. Оста X е обозначена с години и използва линейна скала, като диапазонът е от 1980 до 2015 година. Интервалите между етикетите на оста X са през приблизително 5 години. Оста Y е обозначена с \"Risk Index Score\" и също използва линейна скала. Диапазонът на стойностите на оста Y е от 400 до 2900, като етикетите са през интервали от 500 единици.\n\nГрафиката съдържа две линии. Първата линия, представляваща България, е в светлосин цвят и е плътна. Тя започва около стойност 2400 през 1980 година и показва тенденция към намаляване със значителни колебания и видими върхове и спадове. Видимо намалява до стойности близо до 1100 през 2015 година. Втората линия, представляваща ОИСР, е в светлокафяв цвят и също е плътна. Тази линия започва около стойност 900 през 1980 година и остава относително стабилна с леки намаления, достигайки малко над стойност 800 през 2015 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Методи за определяне на енергийната сигурност в бизнеса",
+      "figure_filename": "ISA.2022.1.04_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.04_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Отклонение на нивата на риска на Република България спрямо ОИСР",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в показателя за риск за България в сравнение с ОИСР в периода от 1980 до 2015 година. Оста X е обозначена с години и използва линейна скала, като диапазонът е от 1980 до 2015 година. Етикетите за годините са на интервали от приблизително 5 години. Оста Y е обозначена с \"Percent\" и също е с линейна скала. Диапазонът на стойностите е от -25 до 225, с интервали между етикетите на всеки 25 единици. \n\nПървата линия, представляваща България, е в син цвят и е плътна. Началната стойност за 1980 година е около 100, като линията се издига до около 175 през началото на 90-те години. След това тя продължава с няколко върха и спадове, достигайки най-висока стойност от около 225 в средата на 90-те години. След този период, линията започва устойчиво да намалява, достигайки стойност около 25 в края на графиката през 2015 година.\n\nВтората линия, представляваща ОИСР, е в кафяв цвят. Линията започва от стойност около 0 през 1980 година и остава почти непроменена през целия период, разположена малко под 0, като показва незначителни изменения."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.11",
+      "paper_language": "Bulgarian",
+      "paper_title": "Търговия и икономическа сигурност",
+      "figure_filename": "ISA.2022.1.11_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.11_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.11.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.11.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Съотношение между износа на стоки и услуги от България през 2019 година (по данни на НСИ)",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя сравнението между два сектора: стоки и услуги. Общият брой категории е две. Секторът обозначен като \"стоки\" е оцветен в синьо и заема 75,4% от диаграмата. Другият сектор, обозначен като \"услуги\", е оцветен в червено и заема 24,6%. Диаграмата включва легенда, която обозначава цветовете и съответстващите им означения, както и проценти, посочени вътре в секторите. Сегментите изглеждат подредени, така че секторът с по-голям дял е по-изразен визуално."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.1.11",
+      "paper_language": "Bulgarian",
+      "paper_title": "Търговия и икономическа сигурност",
+      "figure_filename": "ISA.2022.1.11_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.1.11_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.11.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.1.11.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Дял на конкретните ресурси от общия износ на стоки от България за 2019 година (по данни на НСИ)",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата изобразява разпределението на различни категории от някаква обща стойност. В нея са включени общо четири сектора. Първият сектор, обозначен като \"потребителски стоки\", е в син цвят и заема 25,4% от диаграмата. Вторият сектор е \"суровини и материали\", оцветен в червено, и представлява 39,0% от диаграмата. Третият сектор се нарича \"инвестиционни блага\", оцветен е в зелено и обхваща 24,3% от диаграмата. Последният сектор, \"енергийни ресурси\", е в лилав цвят и заема 11,3% от цялата диаграма. Диаграмата включва легенда, която указва категорията на всеки сектор чрез съответния цвят, и етикети с проценти вътре в секторите. Секторите са подредени по низходящ размер, започвайки от \"суровини и материали\" и завършвайки с \"енергийни ресурси\". Няма визуално подчертани или изместени сектори."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Икономически аспекти на модели за оценка на киберсигурност в умни градове",
+      "figure_filename": "ISA.2022.2.04_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.04_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Оценка на компетентността от потребителите",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира мненията на анкетираните относно компетентността на хората в киберсигурността, с които са взаимодействали. Хоризонталната ос представя категориите отговори, които включват: \"Да, напълно.\", \"Не мога да преценя.\", \"Не, изобщо.\", \"По-скоро да.\", \"По-скоро не.\", и празно поле, обозначено като \"(blank)\". Тези категории са подредени в азбучен ред, с изключение на празното поле, което е в края. Вертикалната ос е етикетирана със стойности, които варират от 0 до 50, без конкретни единици, и са маркирани с равномерни интервали от 5 единици. От диаграмата се вижда, че стълбът за \"По-скоро да.\" е най-висок с 43, а за \"Не, изобщо.\" е най-нисък с 1. Стълбовете \"Да, напълно.\" и \"По-скоро не.\" имат съответно стойности 12 и 9, докато \"Не мога да преценя.\" има стойност 40. Няма визуално подчертани стълбове или специални бележки."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Икономически аспекти на модели за оценка на киберсигурност в умни градове",
+      "figure_filename": "ISA.2022.2.04_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.04_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Отношение към потребителите",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира резултатите от анкета, свързана с отношението на хората от киберсигурността при възникнал проблем. Хоризонталната ос представя категориите от отговори със следните етикети: \"Да, напълно.\", \"Не мога да преценя.\", \"Не, изобщо.\", \"По-скоро да.\", \"По-скоро не.\" и \"(blank)\". Тези категории са подредени по специфичен ред, който не изглежда да следва азбучен или числов ред. Вертикалната ос показва числени стойности, вариращи от 0 до 40, с равномерни интервали от 5 единици. Най-ниската стойност е за категорията \"Не, изобщо.\" със стойност 3, докато категориите \"Не мога да преценя.\" и \"По-скоро да.\" имат най-високи стойности от 37. Стълбовете не са визуално подчертани или групирани по специфичен начин."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Икономически аспекти на модели за оценка на киберсигурност в умни градове",
+      "figure_filename": "ISA.2022.2.04_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.04_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Субективна оценка на потребителите за ефективността",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя резултатите от анкета относно ефективността на взаимодействието с хората от киберсигурността. Тя включва общо пет сектора. Секторът с етикет \"По-скоро да\" е оцветен в жълто и представлява 41% от кръга. Следва секторът \"Не мога да преценя\", който е оранжев и съставлява 30%. Секторът \"Да, напълно\" е син и обхваща 17%. След него е секторът \"По-скоро не\", също син, който заема 10%. Най-малкият сектор е \"Не, изобщо\" в сиво, който е 2% от кръга. Диаграмата включва етикети с проценти вътре в всеки сектор и секторите изглеждат подредени по големина от най-голям към най-малък. Легенда не е предоставена и никой от секторите не е визуално подчертан."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.04",
+      "paper_language": "Bulgarian",
+      "paper_title": "Икономически аспекти на модели за оценка на киберсигурност в умни градове",
+      "figure_filename": "ISA.2022.2.04_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.04_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.04.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Субективна оценка на потребителите за резултати спрямо очаквания",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя отговори на въпрос относно удовлетвореността от киберсигурността. Тя включва пет сектора. Първият сектор е етикетиран като \"Да, напълно\" и е оцветен в светло синьо, заемащ приблизително 17%. Вторият сектор е \"По-скоро да\", оцветен в жълто, също заемащ 35%. Третият сектор е \"Не мога да преценя\", с оранжев цвят, заемащ 35%. Четвъртият сектор е \"По-скоро не\", оцветен в синьо и представляващ 9%. Последният сектор е \"Не, изобщо\", сив на цвят, обхващащ 4%. Диаграмата включва етикети с проценти вътре в секторите, но не се наблюдава визуално подчертаване на нито един от тях. Секторите са подредени без видима последователност по големина."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Бедността и безработицата в Северозападна България – състояние, тенденции и регионални различия",
+      "figure_filename": "ISA.2022.2.05_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.05_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Коефициент на безработица в периода 2016-2020 г. (15-64 г., %)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в коефициента на безработица за възрастовата група 15-64 години в различни региони и области в България за периода от 2016 до 2020 година. Оста X е обозначена с „Коефициент на безработица (15-64 г., %)” и използва линейна скала. Диапазонът на оста X покрива годините от 2016 до 2020, с равномерно разположени етикети за всяка година. Оста Y е обозначена с „%” и също използва линейна скала, като обхваща стойности от 0 до 30 с интервали от 5 единици.\n\nПървата линия е в син цвят, с плътна форма и без маркери, обозначаваща „общо за страната“. Тя започва от стойност около 9% през 2016 и леко се понижава до около 8% през 2020 година.\n\nВтората линия е в кафяв цвят, плътна и без маркери, представяща „Северозападен район“. Започвайки от около 14% през 2016, тя показва лека тенденция на намаляване, достигайки приблизително 13% през 2020.\n\nТретата линия е в зелен цвят, с триъгълни маркери, изобразяваща „област Видин“. Започва с ниво 18% през 2016 и остава относително стабилна, с лека промяна до около 19% през 2020.\n\nЧетвъртата линия е в лилав цвят с кръстовидни маркери, обозначаваща „област Враца“. Стартовата стойност е 11% през 2016 и се променя минимално, завършвайки на около 10% през 2020 година.\n\nПетата линия е в светлосин цвят с Х-образни маркери, представляваща „област Ловеч“. Тя варира от 13% през 2016 до малко над 12%"
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Бедността и безработицата в Северозападна България – състояние, тенденции и регионални различия",
+      "figure_filename": "ISA.2022.2.05_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.05_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Относителен дял на продължително безработните лица на областите Видин, Враца, Монтана, Ловеч и Плевен през периода 2016-2020 г. (%)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира относителния дял на продължително безработни лица в различни области за периода от 2016 до 2020 година. Хоризонталната ос представя времевата скала и етикетира годините в хронологичен ред: 2016, 2017, 2018, 2019 и 2020. Вертикалната ос показва процента на продължително безработните лица, като започва от 0% и достига до 70%, с интервали от 10%. Стълбите са групирани по области: Видин, Враца, Ловеч, Монтана и Плевен, като всяка група съдържа по пет стълба за съответните години. Всяка област е представена с различен цвят, обозначен в легендата вдясно: Видин – синьо, Враца – червено, Ловеч – зелено, Монтана – лилаво и Плевен – светлосиньо. Диаграмата не съдържа визуални акценти или специални бележки, освен цветовата кодировка за различните области."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Бедността и безработицата в Северозападна България – състояние, тенденции и регионални различия",
+      "figure_filename": "ISA.2022.2.05_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.05_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Линия на бедност – средномесечен размер в левове през периода 2016-2020 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Тази стълбовидна диаграма илюстрира средномесечния размер на линията на бедност в лева (лв.) за различни региони в България през периода от 2016 до 2020 година. Хоризонталната ос съдържа категориите, които представляват различни географски региони, включително \"Общо за страната\", \"Северозападен район\", \"Видин\", \"Враца\", \"Ловеч\" и \"Монтана\". Тази ос етикетирана с имената на регионите и е подредена в произволен ред. Вертикалната ос представя стойностите в лева, с диапазон от 0 до 500, и етикетирана с \"лв.\" Скалата е линейна, като числата са разположени на равномерни интервали от 50 лева. Диаграмата включва стълбове за всяка година в различен цвят, според приложената легенда: 2016 е син, 2017 е червен, 2018 е зелен, 2019 е лилав и 2020 е светло син. Най-късите стълбове обикновено са за региона \"Северозападен район\", докато най-високите стълбове по правило са за \"Общо за страната\". Стълбовете не са подредени по височина, а са групирани според годините в категориите региони, без специални визуални акценти като засенчване или удебеляване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Бедността и безработицата в Северозападна България – състояние, тенденции и регионални различия",
+      "figure_filename": "ISA.2022.2.05_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.05_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Брутен вътрешен продукт на човек от населението (лв.) за периода 2016-2019 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира брутния вътрешен продукт (БВП) в левове за различни региони и за страната като цяло за периода 2016-2019 г. Хоризонталната ос представя категориите, които са различните региони: \"Общо за страната\", \"Северозападен\", Видин, Враца, Ловеч, Монтана и Плевен, подредени в произволен ред. Вертикалната ос е означена с \"лв.\", като диапазонът на стойностите варира от 0 до 200,000 на стъпки от 50,000 лв., което предполага линейна скала. Стълбовете са групирани в серии по години, всяка обозначена с различен цвят според легендата: синьо за 2016 г., червено за 2017 г., зелено за 2018 г. и лилаво за 2019 г. Диаграмата показва значително по-високи стойности на БВП за страната като цяло, изразени със значително по-високи стълбове в първата категория, следвани от значително по-ниски стойности за отделните региони. Стълбовете на регионалните данни не са визуално подчертани и са относително сходни по височина."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Бедността и безработицата в Северозападна България – състояние, тенденции и регионални различия",
+      "figure_filename": "ISA.2022.2.05_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.05_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Изменение на комбинирания индикатор „Население в риск от бедност или социално изключване“, представен чрез относителния дял на населението, попадащо в риск от бедност или социално изключване (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира сравнения на процентни стойности за различни области в България през петте години от 2016 до 2020 година. Оста X е означена с категории за различни области: \"Общо за страната\", \"Видинска област\", \"област Враца\", \"Ловешка област\", \"област Монтана\" и \"Плевенска област\". По оста X няма числови етикети с конкретни интервали, тъй като тя представлява дискретни категорийни стойности. Оста Y е означена с процентен символ (%), като скалата е линейна, варираща от 0 до 60 с числови етикети на всеки 10 единици. Няма конкретни единици, освен процента.\n\nЛинията за 2016 година е синя с X-маркер и плътна линия. В стойността за \"Общо за страната\" започва около 34%, покачва се до около 44% за \"Видинска област\" и след това варира близо до тази стойност до 2020 година.\n\nЛинията за 2017 година е червена с квадратни маркери и плътна линия. Започва от около 34% за \"Общо за страната\", покачва се до пик при \"Ловешка област\" на около 50%, след което намалява до стойност близо до началната.\n\nЛинията за 2018 година е зелена с триъгълни маркери и плътна линия. Започва около 35%, с пик при \"Ловешка област\" около 48%, след което спада и остава сравнително постоянна между 45% и 35%.\n\nЛинията за 2019 година е лилава със звездовидни маркери и плътна линия. Започва близо до 34%, има малък пик около \"Видинска област\", след което остава около 44%.\n\nЛинията за 2020 година е светло синя с X-маркер и плътна линия. Започва от около 34% и след това следва подобни вариации като линията за другите години, приключвайки близо"
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Степен на енергийна зависимост НА ЕС – 27, 2008-2018 г. (% процент от общата стойност на база тонове нефтен еквивалент).",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в енергийния зависимостен коефициент за ЕС-27 в периода от 2008 до 2018 година, изразен като проценти на нетните вносове в общодостъпната енергия, базирана на тонове петролен еквивалент. Оста X е обозначена с години, с линейна скала, обхващаща периода от 2008 до 2018 година, с етикети на интервали от една година. Оста Y е обозначена като процент на енергийна зависимост, с линейна скала и обхват от 30 до 100 процента, с етикети през интервал от 10 процента.\n\nГрафиката съдържа четири различни линии. Първата линия е в светлосин цвят и представлява \"Oil and petroleum products\". Линията е плътна и започва от около 90 процента през 2008 година, с малки колебания около тази стойност през целия период, като достига около 90 процента и през 2018 година.\n\nВтората линия е в розово и представлява \"Natural gas\". Линията е плътна и започва около 60 процента през 2008 година, след което показва постепенно нарастване до около 77 процента през 2018 година, с видимо увеличение през последните години.\n\nТретата линия е в син цвят и представлява \"All products\". Линията също е плътна и започва около 52 процента през 2008 година. Наблюдава се леко увеличение до около 55 процента през 2018 година, с минимални колебания през периода.\n\nЧетвъртата линия е в червен цвят и представлява \"Solid fossil fuels\". Линията е плътна и започва около 40 процента през 2008 година. През целия период стойностите остават относително стабилни, завършвайки около 39 процента през 2018 година с минимални колебания."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Степен на енергийна зависимост за всички продукти, ЕС – 27, 2008-2018 г. (% процент от общата стойност на база тонове нефтен еквивалент)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира нивото на енергийна зависимост за всички продукти през 2008 и 2018 година, изразено като процент на нетен внос в брутната налична енергия в тонове петролен еквивалент. Хоризонталната ос съдържа категориите, които са държави или групи от държави в произволен ред, а вертикалната ос показва процентите на енергийна зависимост с линейна скала от -75 до 100 на стъпки от 25. Стълбовете представляват две различни години, отбелязани с различни цветове: синьо за 2008 и лилаво за 2018 година. Най-високи нива на енергийна зависимост се наблюдават за Малта и Люксембург през двете години, докато най-нисък показател е отчетен за Норвегия през 2018. Стълбовете за 2008 за Норвегия и за 2018 за Турция са с отрицателни стойности, което е визуално отразено чрез разположение под хашта. Легенда и бележки под линията обясняват специални обстоятелства за някои геополитически зони."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Производство на първична енергия, ЕС – 27, 2018 година (% процент от общата стойност на база тонове нефтен еквивалент)",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва производството на основна енергия в ЕС-27 за 2018 година, представено като процент от общото количество, базирано на тонове нефтен еквивалент. Включени са седем сектора. Секторът \"Възобновяема енергия\" заема 34.2% и е в светъл аква цвят. \"Ядрена енергия\" представлява 30.8% и е показан в циан. \"Твърдите изкопаеми горива\" заемат 18.3%, маркирани в наситено розово. \"Природен газ\" е 9.3% и е в тюркоаз. \"Суров нефт\" е 3.4% в лавандулов цвят. \"Други\" са 3.9%, отбелязани в светло синьо. Секторите са подредени в низходящ ред по процент. От дясната страна на диаграмата има колонен график, който детайлизира възобновяемата енергия с шест категории: \"Геотермална\" (3.1%, в бледо синьо), \"Топлина от околната среда\" (5.3%, в светло лилаво), \"Соларна\" (6.3%, в розово), \"Вятърна\" (12.7%, в мента), \"Хидро\" (13.6%, в тюркоаз) и \"Биоенергия и отпадъци\" (58.9%, в аква). Диаграмата включва легенда с цветове и проценти за възобновяемата енергия и разширяването на сектора \"Възобновяема енергия\" визуално го акцентира в диаграмата."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Производство на първична енергия по видове източници, ЕС – 27, 2008-2018 година (2008 г. = 100 на база тонове нефтен еквивалент)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени в производството на първична енергия по тип гориво в ЕС-27 за периода 2008-2018 г. Оста X е означена с години, от 2008 до 2018, и е представена чрез линейна скала, с равномерни интервали от 1 година. Оста Y е обозначена с индекса на продукцията (2008 = 100), също с линейна скала, обхващаща диапазона от 50 до 150, с етикети през интервали от 10.\n\nЛинията за възобновяема енергия е в светлосин цвят и е плътна. Започва от 100 през 2008 година и показва общо нарастване през периода, достигайки малко над 140 през 2018 година с видими колебания през 2014 година.\n\nЛинията обозначена като \"Other\" е в син цвят и е плътна. Тя представлява малки колебания около 100 от 2008 до 2018 година, като завършва малко под 100.\n\nОбщото производство е представено с тъмносиня линия. Тази линия остава близо до 100 от 2008 до 2018 година, с малки спадове след 2013 година, завършвайки около 95.\n\nЛинията за ядрена енергия е в червен цвят и е плътна. Започва от малко под 100 през 2008 година и показва лек спад до 2018 година, завършвайки под 90.\n\nЛинията за твърди изкопаеми горива е в жълт цвят и е плътна. Тя започва от малко над 100 и намалява значително до 2018 година, завършвайки около 60.\n\nЛинията за суров петрол е в червен цвят и е плътна. Започва от около 100 и намалява до 2018 г., завършвайки под 70.\n\nЛинията за природен газ е в син цвят и е плътна. Започва"
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Внос на горива и енергия, %",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва дяловете на различни видове енергийни източници. Тя включва пет сектора. Секторът за течни горива е в червено и съставлява 69.8% от цялата диаграма. Природният газ е представен в зелено и заема 22.3%. Твърдите горива са отбелязани в синьо с дял от 5.1%. Въглеродните и биогорива имат 1.2% и са в лилав цвят, а електрическата енергия е показана в светлосиньо с дял от 1.6%. Диаграмата разполага с легенда и етикети с процентите извън всеки сектор. Секторите изглеждат подредени по низходящ ред на дяловете."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Износ на горива и енергия, %",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва дела на различни видове горива или източници на енергия. Тя включва общо пет категории, всяка от които е обозначена с етикет и различен цвят. Категорията \"Течни горива\" заема 76.9% и е оцветена в червено. \"Електрическа енергия\" е с дял от 18.5% и е оцветена в синьо. \"Въздоб. и биогорива\" са представени с 4.0% в лилаво. \"Твърди горива\" имат дял от 0.4% и са в светлосиньо, а \"Природен газ\" заема 0.2% и е оцветен в зелено. Диаграмата включва легенда, която показва цветовете и процентите за всяка категория. Процентите са изписани също така и вътре в секторите на диаграмата. Сегментите изглеждат подредени по низходящ размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Структура на производство на първична енергия по видове източници, %",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва разпределението на различни източници на енергия в проценти. Тя съдържа общо пет сектора. Първият сектор е обозначен като \"Твърди горива\" и е показан в син цвят с дял от 43.1%. Вторият сектор е \"Ядрена енергия\", оцветен в тюркоазен цвят с дял от 35.0%. Третият сектор е \"Възобн. и биогорива\", изобразен в лилав цвят с дял от 21.5%. Четвъртият сектор е \"Течни горива\" в червен цвят с дял от 0.2%. Последният сектор е \"Природен газ\", който е в зелен цвят също с дял от 0.2%. Диаграмата включва легенда и процентни етикети, поставени извън секторите. Сегментите са подредени в низходящ ред по размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Структура на брутното производство на електрическа енергия, по видове централи",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представлява разпределението на енергийни източници според дял в проценти. Тя включва общо шест сектора. Най-големият сектор е маркиран като \"ТЕЦ\" и е оцветен в синьо, като заема 40% от диаграмата. Следва секторът \"АЕЦ\" в оранжево с 35%. В секторa \"ВИ\" са посочени 16% и е представен в светлосиньо. Секторът \"ТФЕЦ\" е в зелено, заемайки 5%. Най-малките сектори са \"ЗТЕЦ\" и \"ПАВЕЦ\", всеки заемащ по 2%, като \"ЗТЕЦ\" е оцветен в лилаво, а \"ПАВЕЦ\" в червено. Диаграмата има легенда, в която са посочени имената и цветовете на съответните сектори, както и процентите, които те представляват. Процентите са отбелязани вътре в секторите, а данните в диаграмата са подредени в низходящ ред според размера на дяловете."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig9.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig9.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Структура на крайното енергийно потребление, %",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя дяловете на различни енергийни източници, използвани в даден контекст. Тя включва шест сектора. Първият сектор представлява \"Твърди горива\" с дял от 4.1%, обозначен в син цвят. Вторият сектор е \"Течни горива\" с дял от 36.3%, обозначен в червен цвят. Третият сектор е \"Природен газ\" с дял от 13.3%, обозначен в зелен цвят. Четвъртият сектор е \"Електрическа енергия\", който заема 26.4% и е обозначен в светлосин цвят. Петият сектор представлява \"Възобновяема и биогорива\" с дял от 14.4%, обозначен в лилав цвят. Шестият сектор е \"Топлинна енергия\" с дял от 5.5%, обозначен в оранжев цвят. Диаграмата включва легенда със съответните етикети и проценти, изписани извън секторите, като секторите не са подчертавани или измествани визуално. Сегментите изглеждат подредени в низходящ ред по размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2022.2.09",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ и политика на състоянието на енергетиката по икономическия индикатор енергийна зависимост",
+      "figure_filename": "ISA.2022.2.09_fig10.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/figures/ISA.2022.2.09_fig10.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-9/downloaded_pdfs/ISA.2022.2.09.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Структура на крайното потребление на енергия по сектори, %",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя разпределението на определени категории по процент от общото. Тя включва пет сектора. Секторът за индустрията е обозначен в синьо и заема 28.0%. Транспортът е представен в червено с дял от 34.6%. Секторът за услугите е в зелено и заема 12.6%. В лилаво е секторът на домакинствата, който се равнява на 22.9%. Накрая, селското стопанство е маркирано в светлосиньо с 1.9%. Диаграмата включва легенда и етикети с проценти вътре в секторите. Сегментите са подредени в низходящ ред на процентите."
+    }
+  }
+]
