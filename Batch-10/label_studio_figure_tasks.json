@@ -1513,5 +1513,335 @@
       "gpt-labeled_plot_type": "Pie Chart",
       "gpt_annotation": "Диаграмата илюстрира различните категории на нормативен контрол (контролни файлове) и съдържа общо пет сектора. Те са както следва: секторът обозначен с \"контрол и верификация на данните\" е светлосин и представлява една пета от диаграмата; секторът с етикет \"имена\" е син и също представлява една пета от диаграмата; секторът, обозначен като \"рубруки\", е червен и заема една пета от диаграмата; секторът \"идентификатори на имена (ORCID, ResearcherID и др.)\" е зелен и заема една пета; и накрая, секторът \"друго\" е лилав, възлиза на по-малка част от останалите, представляваща приблизително една десета от кръга. Диаграмата е снабдена с етикети, които отбелязват числовите стойности за отделните категории. Сегментите не изглеждат подредени по определена характеристика."
     }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Формиране на общия индекс EGDI",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представлява кръгова диаграма, която сравнява три различни индекса: индекс на човешкия капитал, индекс за развитие на електронните услуги и индекс за развитие на телекомуникационната инфраструктура. Общо са включени три сектора. Първият сектор, обозначен с \"индекс на човешкия капитал\", е оцветен в светло синьо. Вторият сектор, наречен \"индекс за развитие на електронните услуги\", е със средно син цвят. Третият сектор, с етикет \"индекс за развитие на телекомуникационната инфраструктура\", е в по-светъл син нюанс. Диаграмата няма отбелязани проценти директно в нея. Легенда не е налична, но етикетите с имената на индексите са разположени вътре в съответните сектори. Секторите изглеждат равнопоставени и не се наблюдава визуално подчертаване или специална подредба на сегментите."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Стойности на EGDI за периода 2012-2020 г. (брой страни)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Стълбовидната диаграма илюстрира разпределението на страните по определени категории на индекса за електронно управление (EGDI) за годините 2012, 2014, 2016, 2018 и 2020. Хоризонталната ос съдържа четири категории: \"Ниско EGDI (по-малко от 0.25)\", \"Средно EGDI (между 0.25 и 0.50)\", \"Високо EGDI (между 0.50 и 0.75)\" и \"Много високо EGDI (повече от 0.75)\". Категориите са подредени в нарастващ ред според стойностите на индекса. Вертикалната ос представя броя на страните в диапазона от 0 до 80, с линейна скала, разграфена на интервали по 10. Всяка група от стълбове е разделена по години и е представлявана със специфичен цвят според легендата: 2012 - светло синьо, 2014 - средно синьо, 2016 - светло виолетово, 2018 - тъмно виолетово, и 2020 - тъмно синьо. За категорията \"Ниско EGDI\", най-високата стойност е 32 за години 2014 и 2016, а най-ниската е 8 за 2020. В категорията \"Средно EGDI\", стойностите варират, като най-високата е 74 през 2014, а най-ниската е 66 през 2020. \"Високо EGDI\" показва увеличение, като стойността достига до 71 през 2018, спрямо 62 през 2012. В последната категория \"Много високо EGDI\", стойностите също нарастват, достигайки 57 през 2020 в сравнение с 24 през 2012. Стълбите не изглеждат визуално подчертани или подредени по другом."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Държави с много високи стойности на EGDI",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във времето на броя държави в света и в Европа. Оста X е обозначена с \"Година\" и представлява линейна скала с диапазон от 2003 до 2023 година, като етикетите са поставени на интервали от приблизително пет години. Оста Y е обозначена с \"Брой държави\" и също е линейна, с диапазон от 0 до 60, като етикетите са през 10 единици.\n\nПървата графика представлява броя на държавите в света и е изобразена със синя плътна линия. В началото на периода, през 2003 година, стойността е 10. Линията показва плавно увеличение и приключва през 2023 година със стойност 57. Забелязват се върхове през 2008, 2013 и 2018 година, като последният връх достига стойност от 40 през 2018 година.\n\nВтората графика представлява броя на държавите в Европа и е показана с оранжева плътна линия. Започва с 10 през 2003 година и се покачва до 33 през 2023 година. В периода между 2008 и 2013 година стойностите са близки, около 16, като след това следва постепенно увеличение.\n\nИ двете графики имат линии на тренд с различен стил. Синята линия на тренд е представена с пунктир и показва нарастваща тенденция, докато оранжевата пунктирна линия на тренд също показва нарастваща тенденция."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Страни с много високи стойности на EGDI в Европа",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира промените в някакви количествени данни за различни райони на Европа през определени години от 2003 до 2020 г. Хоризонталната ос показва категориите години, като са подредени по нарастващ хронологичен ред. Вертикалната ос представя стойностите, като етикетирана с числова скала от 0 до 10 на равномерни интервали от 1 единица. В диаграмата са представени данни за четири региона: Северна Европа, Западна Европа, Южна Европа и Източна Европа, всяка от които с различен цвят. Стълбите са групирани по години, като всяка група съдържа стълби със стойности за четирите региона. През 2003 г., Северна Европа има стойност 5, а Западна Европа – 2, докато стойностите за Южна и Източна Европа са 0. В 2020 г., Северна Европа показва стойност 10, Западна Европа – 8, а Южна Европа и Източна Европа – 8 и 7 съответно. Стълбите следват ясна последователност от промени през годините, а различията в стойностите между регионите са визуализирани чрез височината на баровете за всяка отделна година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Страните от Европейския съюз според EGDI за 2012 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойности за различни европейски държави през 2012 година. Хоризонталната ос съдържа имената на държавите, подредени в низходящ ред според височината на стълбовете. Тези държави са означени с текстови етикети, подредени линейно отляво надясно, започвайки с Нидерландия и завършвайки с Румъния. Вертикалната ос представлява стойностите, като етикетът започва от 0,0000 и достига до 1,0000. Скалата на тази ос е линейна, с равномерни интервали от 0,1000. Най-високият стълб, представен от Нидерландия, достига стойност над 0,9000, докато най-ниският стълб, на Румъния, е малко над 0,5000. Стълбовете за България и Словакия са подчертани с червен цвят, което визуално ги отличава от останалите, които са оцветени в синьо."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Страни от Европейския съюз според стойностите на EGDI за 2014 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойности за различни държави през 2014 година. На хоризонталната ос са изобразени категориите, представени чрез имената на държави, подредени по низходящ ред на стойностите на вертикалната ос. Вертикалната ос показва числови стойности в диапазона от 0,000 до 1,000, с линейна скала представена чрез интервали от 0,100. Стълбовете са оцветени в синьо, с изключение на този за България, който е в червено, което го прави визуално подчертан. Най-високите стойности на стълбовете са близки до 0,900, докато най-ниската стойност, представена от България, приближава 0,400. Стойностите плавно намаляват отляво надясно, като визуалната разлика между тях е ясно изразена чрез спада в височината на стълбовете."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig9.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig9.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Страни от Европейския съюз според стойностите на EGDI за 2016 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира данни за различни страни през 2016 година. Хоризонталната ос съдържа категориите и представлява имената на страните, подредени по азбучен ред на кирилица. Вертикалната ос представя стойностите с етикет от 0,000 до 1,000, като стойностите са разположени на равномерни интервали от 0,100. Стълбовете представляват данни за стойностите в отделните страни, като най-високият стълб е за Обединеното кралство, а най-ниският за Румъния. Всеки стълб има различна височина, което отразява съответните стойности за всяка страна. България е представена с червен стълб, който визуално се отличава от останалите сини стълбове."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig11.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig11.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Страни от Европейския съюз според стойностите на EGDI за 2020 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойности за различни страни през 2020 година, представени чрез стълби. Хоризонталната ос съдържа категориите, които са имената на страните, изписани в произволен ред, без видим етикет на ос. Вертикалната ос е етикетирана с числови стойности, вариращи от 0 до 1.2, с равномерни интервали от 0.2, като стойностите нямат обозначени единици. Всички стълби са еднакви по височина освен тази за България, която е подчертана в червен цвят и има малко по-ниска стойност. Обозначението на отделните стълби подчертава визуално различията между страните."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig12.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig12.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Средни стойности на EGDI на страните от ЕС и за България през периода 2012-2020 г.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в стойностите на EGDI за България и Европейския съюз през определен период. Оста X е обозначена с \"Година\", използва линейна скала с диапазон от 2012 до 2020 година, разделена на интервали от две години. Оста Y е обозначена с \"Стойности на EGDI\" и също използва линейна скала с диапазон от 0,5000 до 0,9500, маркирана на интервали от 0,0500.\n\nПървата линия е червена, пунктирана и представлява данните за Европейския съюз. Линията започва от стойност 0,7483 през 2012 година, следва леко изкачване със стойности 0,7300 през 2014, 0,7556 през 2016 и 0,8015 през 2018, завършвайки с 0,8525 през 2020 година.\n\nВтората линия е оранжева и плътна, представляваща данните за България. Линията започва с 0,6132 през 2012 година, спуска се до 0,5421 през 2014, след което се покачва на 0,5766 през 2016 и 0,7177 през 2018, завършвайки с 0,798 през 2020 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig13.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig13.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Стойности на TTI за България през периода 2012-2020 г.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промени във времето на стойностите на ТТИ за България. Оста X е обозначена с години и има линейна скала с диапазон от 2012 до 2020 година. Етикетите са разположени на интервали от две години. Оста Y е обозначена с числата от 0 до 0,9 и също използва линейна скала. Диапазонът е от 0 до 0,9, като етикетите са на интервали от 0,1. На графиката има една линия, която е в син цвят със стил плътна линия. Линията започва от около 0,5 през 2012 година и достига до около 0,6 през 2014 година, като след това остава относително стабилна до около 2018 година. От 2018 година започва да се покачва и достига около 0,8 през 2020 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig14.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig14.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Стойности на HCI за България през периода 2012-2020 г.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира измененията в стойностите на даден индекс за България през годините. Оста X е обозначена с години, като скалата е линейна и обхваща диапазона от 2012 до 2020 година, с интервали на всеки две години. Оста Y е обозначена с числови стойности от 0,75 до 0,86, също със значими подделения през 0,01 единица, като скалата е линейна.\n\nГрафиката се състои от една синя линия без маркери, представена с плътен стил. През 2012 година стойността започва от около 0,85. Линията показва спад до около 0,79 през 2014 година, след което следва леко понижение и достигна минимум около 0,78 през 2016 година. След това линията започва да се изкачва, достигайки приблизително 0,84 през 2020 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на развитието на електронното правителство в страните от Европейския съюз",
+      "figure_filename": "ISA.2020.4.01_fig15.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.01_fig15.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Стойности на OSI за България през периода 2012-2020 г.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази графика илюстрира промените в стойностите на OSI за България в периода от 2012 до 2020 година. Оста X е обозначена с години и използва линейна скала, показваща диапазон от 2012 до 2020 година с интервали на всеки две години. Оста Y е обозначена с числови стойности без конкретни единици, също разположена по линейна скала, с диапазон от 0 до 0,9 и интервали през 0,1. Линията на графиката е светлосиня, без маркиращи точки, а стилът ѝ е плътна линия. В началото на графиката през 2012 година стойността е 0,4902, след което се наблюдава спад до 0,2362 през 2014 година. Следва възходящ тренд, достигайки 0,5652 през 2016 година и 0,7639 през 2018 година. Към края на периода, през 2020 година, стойността е 0,7706, което показва леко повишение спрямо предходната точка."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Структурни промени в земеделските кооперации след интеграцията на България в Европейския съюз",
+      "figure_filename": "ISA.2020.4.05_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.05_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на производствената структура в растениевъдния сектор на земеделските кооперации в България (2007-2016)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Тази стълбовидна диаграма илюстрира земеделски площи в хектари за различни категории култури през четири различни години (2007, 2010, 2013, 2016). Хоризонталната ос съдържа категориите култури, подредени в следния произволен ред: зърнено-житни култури, зърнено-бобови, маслодайни култури, етерично-маслени и фуражни култури. Вертикалната ос представя площта в хектари с линейна скала, започваща от 0 до 500,000 хектара, с отбелязани интервали на всеки 100,000 хектара. Диаграмата включва групирани стълби за всяка година с различен цвят: синьо за 2007, оранжево за 2010, сиво за 2013 и жълто за 2016. Най-високите стойности са при зърнено-житните култури, като през 2007 година те достигат малко над 400,000 хектара. Фуражните култури имат най-ниските стойности, под 100,000 хектара за всяка година. Стълбите не са визуално подчертани."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Структурни промени в земеделските кооперации след интеграцията на България в Европейския съюз",
+      "figure_filename": "ISA.2020.4.05_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.05_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на структурата в животновъдния сектор на земеделските кооперации в България (2007-2016)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промените в броя на четири различни вида животни за периода от 2007 до 2016 година. Оста X е обозначена с години и има линейна скала, обхващаща диапазона от 2007 до 2016 година, с отбелязани и равномерно разпределени интервали през 3 години. Оста Y е обозначена с броя на животните и има линейна скала, като диапазонът на стойностите е от 0 до 20 000, с единици в хиляди и интервали от 2 000.\n\nПървата линия представлява \"говеда\" и е оцветена в синьо с кръгли маркери. Линията е плътна и започва от около 18 000 през 2007 година, като постепенно намалява до около 14 000 през 2013 година и след това остава постоянна до 2016 година.\n\nВтората линия, обозначена като \"крави\", е оранжева с овални маркери. Линията също е плътна и започва от около 10 000 през 2007 година, намалява до около 9 000 до 2013 година и след това остава стабилна до 2016 година.\n\nТретата линия представлява \"кози\" и е сива с квадратни маркери. Тази линия е плътна и остава почти постоянна през целия период, варирайки около 2 000.\n\nПоследната линия, обозначена като \"овце\", е жълта с триъгълни маркери. Тя започва от около 16 000 през 2007 година, спада значително до 2010 година до около 8 000, след което запазва тази стойност до 2016 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.4.08",
+      "paper_language": "Bulgarian",
+      "paper_title": "Дигиталните технологии в дистанционното обучение и перспективите при идентифицирането и валидирането на знанията и уменията",
+      "figure_filename": "ISA.2020.4.08_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.4.08_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.08.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.4.08.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Студенти по образователно-квалификационна степен, гражданство, форма на обучение и пол във висшите училища по форма на собственост",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира броя на записаните студенти в различни категории висши учебни институции за периода от учебната 2013/14 до 2018/19 година. Хоризонталната ос съдържа категориите, представляващи академичните години, които следват хронологичен ред. Вертикалната ос представя броя на студентите, като стойностите варират от 0 до 300000 с равномерни интервали от 50000. Единиците са изразени в абсолютни числа. Диаграмата съдържа групирани стълбове, които представят три различни категории: общо в държавни и частни висши училища, общо и професионален бакалавър. Всяка категория е обозначена с различен оттенък на сивото според легендата вдясно. Стълбовете не са подредени по височина, а следват хронологичен ред на годините. Най-високите стойности за всяка година са представени от категорията 'Общо', докато останалите категории показват по-ниски стойности."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.3.01",
+      "paper_language": "Bulgarian",
+      "paper_title": "Реформата на българската пенсионна система и скритият пенсионен дълг",
+      "figure_filename": "ISA.2020.3.01_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.3.01_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.01.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.01.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Пенсионни права в българското социално осигуряване, натрупани в края на 2014 и 2015 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира пенсионните права в българското социално осигуряване за две различни години, 2014 и 2015, чрез групирани стълбовидни сегменти. Хоризонталната ос представя категорията \"година\" с две категории - 2014 и 2015. Вертикалната ос е означена с \"Млн. лв.\" и показва стойностите върху линейна скала от 0 до 160,000 милиона лева с интервали от 20,000. Диаграмата съдържа три компонента за всяка година: синьо за \"ДЗПО + ДДПО\" със стойности от 8,160 за 2014 и 9,353 за 2015, червено за \"ДОО\" със стойности от 135,985 за 2014 и 140,546 за 2015, и зелено за \"Общо\" със стойности от 144,145 за 2014 и 149,879 за 2015. Стълбовете са визуално разграничени по цветове, които се съответстват на легенда в долната част на диаграмата, но не са подредени по специфичен ред освен хронологичен."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.3.03",
+      "paper_language": "Bulgarian",
+      "paper_title": "Въздействие на маркетинговата синергия върху резултатите на новите продукти",
+      "figure_filename": "ISA.2020.3.03_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.3.03_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.03.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.03.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Дял на положителните отговори на индикаторите, съставящи променливата Маркетингова синергия",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Линейната диаграма илюстрира дела на положителните отговори по различни индикатори, свързани с променливата маркетингова синергия. Хоризонталната ос съдържа категориите, като всяка категория е представена от текстово описание, което не следва азбучен ред, а е подредено въз основа на различни аспекти на маркетинга и бизнеса. Вертикалната ос представя стойности под формата на проценти, вариращи от 0% до 100%, със стойности за всяка категория, представени непосредствено до съответния стълб; стойностите варират от 47,7% до 68,8%. Стълбовете са хоризонтално подредени един под друг и показват процента положителни отговори за всеки индикатор. Най-високата стойност от 68,8% е свързана с първия индикатор, а най-ниската стойност от 47,7% е свързана с петия индикатор."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.3.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Съвкупно търсене и макроикономическа динамика в ЕС: сравнителен анализ на старите и новите страни членки",
+      "figure_filename": "ISA.2020.3.05_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.3.05_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Темп на прираст на реалния БВП (в %)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира данни за две категории, означени като \"ЕС-15\" и \"ЕС-13\", за периода от 2000 до 2018 година. Хоризонталната ос представя годините и е означена в нарастващ ред от 2000 до 2018. Вертикалната ос показва стойностите, като етикетът е в числов диапазон от -8 до 8, и вероятно използва линейна скала с равномерни интервали от 2 единици. Стълбовете са групирани по години с различни цветове за двете категории: сив за \"ЕС-15\" и оранжев с точки за \"ЕС-13\". За 2009 година стойностите на двете категории изглежда са отрицателни, като \"ЕС-13\" достига най-ниската стойност около -8, докато за останалите години стойностите варират между 0 и 8. Стълбовете за всяка година не изглежда да са подредени по специален начин, освен по този на времевия порядък."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.3.05",
+      "paper_language": "Bulgarian",
+      "paper_title": "Съвкупно търсене и макроикономическа динамика в ЕС: сравнителен анализ на старите и новите страни членки",
+      "figure_filename": "ISA.2020.3.05_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.3.05_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.05.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.05.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Темпове на прираст на компонентите на реалното съвкупно търсене (в %)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира разпределението на икономически показатели за две различни групи страни, ЕС-15 и ЕС-13, в два периода: 2000-2008 г. и 2009-2018 г. Хоризонталната ос представя категориите, етикетирани като \"Крайно потребление\", \"Брутни инвестиции\", \"Износ\" и \"Внос\". Категориите са разположени в произволен ред. Вертикалната ос показва стойности от 0 до 12 без специфични единици, като скалата е линейна с равномерни интервали от 2 единици. Диаграмата съдържа групирани стълбове за всеки икономически показател, представяйки ги по години и групи страни. Оранжевите стълбове с кръгли точки представляват периода 2000-2008 г., а сивите стълбове представят периода 2009-2018 г. В групата ЕС-15 и ЕС-13 всички категории са представени с по два стълба. Най-ниската стойност на стълб е под 2, а най-високата стойност е около 11, като последното е отбелязано при категорията \"Внос\" за ЕС-13 през 2000-2008 г. Няма видимо подредени категории или визуално подчертани стълбове."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Модели за проследяване на публикационната активност на изследователи",
+      "figure_filename": "ISA.2020.3.10_fig11.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.3.10_fig11.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Справки",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира видовете справки и библиометрични анализи с посочените им брой стойности. Хоризонталната ос съдържа категориите и е етикетирана с различни видове справки и библиометрични анализи, подредени в произволен ред като \"цитатни справки\", \"библиографски справки\", \"по страни\", \"по езици\", и други. Вертикалната ос представлява броя на справките, като е етикетирана с числови стойности от 0 до 8, интервалите са равномерни и отчитат цели числа. Стълбовете са разположени вертикално и демонстрират стойности за всяка категория, като някои стълбове достигат по-високи стойности, например \"друго\", което е с най-висока стойност 8, а \"по езици\" със стойност 0 е сред най-ниските. Групиране или наслагване на стълбовете липсва."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Модели за проследяване на публикационната активност на изследователи",
+      "figure_filename": "ISA.2020.3.10_fig12.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.3.10_fig12.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Допълнителни услуги",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира информация за категорията \"Други услуги\". Хоризонталната ос съдържа категориите: \"друго\", \"сигнали за забелязани неточности\", \"RSS\", \"alerts услуги\", \"отчети\", и \"статистики\", като тези категории са изредени в произволен ред. Вертикалната ос представя числовите стойности, като диапазонът е от 0 до 8 с линейна скала, а стойностите са подредени на равномерни интервали. Височината на стълбите варира с максимална стойност от 7 за категорията \"статистики\" и минимална стойност от 1 за категорията \"друго\". Стълбите са с различни цветове, което не е обяснено в легенда, и нямат ясно изразена подредба като низходящ или азбучен ред."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "ISA.2020.3.10",
+      "paper_language": "Bulgarian",
+      "paper_title": "Модели за проследяване на публикационната активност на изследователи",
+      "figure_filename": "ISA.2020.3.10_fig13.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/figures/ISA.2020.3.10_fig13.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.10.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-10/downloaded_pdfs/ISA.2020.3.10.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Програмно осигуряване",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя разпределение на видове програмно осигуряване. Тя включва общо пет сектора. Първият сектор е означен като \"Open Source\" и е оцветен в синьо, с отбелязано значение 1. Вторият сектор е \"специализиран софтуер\", оцветен в червено, със значение 2. Третият сектор е \"модул към АБИС (например: Aleph, COBISS, gp.)\", оцветен в зелено, със значение 2. Четвъртият сектор е \"адаптиран/модифициран софтуер\", оцветен в лилаво, със значение 1. Последният сектор е \"друго (посочете какво)\", който е в сиво и със стойност 0. Диаграмата предоставя легенда и етикети с текстови надпис със стойност във всеки сектор. Секторите не са подредени по определен начин и няма визуално подчертани сегменти."
+    }
   }
 ]
