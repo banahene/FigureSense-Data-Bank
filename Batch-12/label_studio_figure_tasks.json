@@ -1,0 +1,1277 @@
+[
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Popova_Alternativi_br1_2019_BG-7",
+      "paper_language": "Bulgarian",
+      "paper_title": "Системи на корпоративно подоходно облагане",
+      "figure_filename": "Popova_Alternativi_br1_2019_BG-7_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Popova_Alternativi_br1_2019_BG-7_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Popova_Alternativi_br1_2019_BG-7.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Popova_Alternativi_br1_2019_BG-7.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Ставки на данъка върху корпоративната печалба (2001 – 2018 г.)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във времето за различни държави и региони от 2001 до 2018 година. Оста X е обозначена с години, има линейна скала, обхваща диапазон от 2001 до 2018 година, а етикетите са на всеки една година. Оста Y е обозначена с числови стойности от 15,0 до 45,0, скалата е линейна, а стойностите са отбелязани през интервали от 5 единици.\n\nПървата линия представлява „ЕС-28“ и е в светлосив цвят с плътна линия. Тя започва около 39,0 през 2001 година и намалява до около 25,0 през 2018 година, със стабилно понижение през целия период.\n\nВтората линия, в тъмносив цвят с пунктир, представлява „САЩ“. Започва около 35,0 през 2001 година и показва леко колебание, като остава около същата стойност през целия период.\n\nТретата линия изобразява „Русия“ с пунктир в светлосив цвят. Тя започва около 40,0 през 2001 година, спада рязко до около 30,0 през 2002 година и след това продължава плавно надолу до приблизително 25,0 през 2009 година, където стабилизира до 2018 година.\n\nЧетвъртата линия е за „Китай“ и е обозначена с черни точки. Започва около 25,0 през 2001 година и леко се покачва до около 30,0 през 2007 година, след което отново намалява до 2018 година до стойност около 27,0.\n\nПетата линия, „Япония“, е представена с черна плътна линия. Започва около 39,0 през 2001 година и последователно спада до около 29,0 до 2018 година.\n\nШестата линия, която описва „Канада“, е плътна черна линия. Тя започва вътре в"
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени в показателите за бедност в даден период. На оста X е обозначен времевият период от 2013 до 2017 година. Скалата е линейна, без указани единици, като етикетите са разположени през една година. Оста Y е представена от две мерни скали. Лявата страна показва линии на бедност в левове (лв.) с диапазон от 3000 до 4600, а интервалът между числата е 200 лв. Дясната страна представя относителния дял на бедните в проценти (%) с диапазон от 20.0 до 24.0 и интервали от 1.0 процентен пункт.\n\nПървата линия е синя с плътен стил и представя линията на бедност в левове. Тя стартира около 3400 лв. през 2013 г., наблюдава се увеличение до около 3800 лв. през 2014 г., последвано от лек спад през 2015 г. до малко над 3600 лв. След което отново се увеличава, достигайки до приблизително 4200 лв. до 2017 г.\n\nВтората линия е червена и пунктирана, представяща относителния дял на бедните в проценти. Започва около 21.0% през 2013 г., като през периода последователно нараства, достигайки до 23.0% през 2017 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процента на лица, живеещи в материални лишения в Европейския съюз (28 страни) и България за период от 2010 до 2016 година. Хоризонталната ос показва годините, подредени по хронологичен ред от 2010 до 2016 година. Вертикалната ос е обозначена с процентен знак и обхваща диапазон от 0 до 50%, като е скалирана на равномерни интервали от 10%. На всяка година от хоризонталната ос съответстват два стълба: единият представлява данни за ЕС (28), а другият - за България. Диаграмата е с групирани стълбове, като синият цвят представлява ЕС (28), а червеният - България, както е указано в легендата. Най-високите стълбове са за България през целия период, като варират между приблизително 40% до малко над 40%. От друга страна, стойностите за ЕС (28) са значително по-ниски, вариращи около 10%. Стълбовете не са специално подчертани или засенчени, като всички данни се представят в последователна и равномерна форма."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентното съотношение на хората, живеещи в домакинства с нисък интензитет на икономическа активност в Европейския съюз (ЕС) и България за периода 2010-2016 г. Хоризонталната ос съдържа категориите година, които са подредени хронологично от 2010 до 2016 г. Вертикалната ос представя стойностите в проценти, вариращи от 0 до 60, с равномерни интервали на 10 процента. Стълбовите диаграми са групирани по година и са представени с два различни цвята: синьо за Европейския съюз (ЕС), обозначен като \"ЕС (28)\", и червено за България. Стойностите за \"ЕС (28)\" варират малко около 10%, докато за България стойностите са по-високи, започвайки около 45% през 2010 г. и намалявайки до около 43% през 2016 г. Стълбовете не са визуално подчертани и не се забелязва специално засенчване или удебеляване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процента на населението в риск от бедност и социално изключване в различни европейски страни през 2016 г. Хоризонталната ос представя категориите - имената на страните, като те са подредени в произволен ред според стойностите на процента. Вертикалната ос показва стойностите - процента на население, изложено на риск, с диапазон от 0 до 45%, и интервали на скалата през 5%. Скалата е линейна. Стойностите варират, като най-ниската е близо до 14% (Чехия), а най-високата - около 40% (България). Визуално България е подчертана с червен цвят, докато останалите държави са в синьо и една в бежово (ЕС-28). Има ясен растящ ред на стълбовете отляво надясно."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "На графиката е илюстрирано сравнение на процента от населението в риск от бедност и социално изключване в България и ЕС за периода от 2010 до 2016 г. Оста X е обозначена с годините, като скалата е линейна и обхваща диапазона от 2010 до 2016 г., с равномерно разпределени етикети през всяка година. Оста Y показва процентите, като също използва линейна скала и обхваща диапазона от 0 до 60, маркирана през интервали от 10 единици.\n\nСинята линия представлява данните за ЕС. Линията е плътна и няма специални маркери. В началото на периода през 2010 г. стойността е около 23%, след което се наблюдава леко увеличение през 2011 г. до малко над 24%. От 2012 г. до 2016 г. стойността остава почти стабилна, завършвайки периода отново около 23%.\n\nЧервената линия илюстрира данните за България и е с пунктиран стил. В началото на периода през 2010 г. стойността е около 49%, като до 2012 г. остава относително стабилна. От 2013 г. до 2014 г. се наблюдава лек спад до около 42%, след което стойността се запазва почти непроменена до края на периода през 2016 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени в стойностите на коефициент на Джини за разполагаем доход през определен период от време. Оста X е обозначена с години, като типът на скалата е линейна. Диапазонът на стойностите на оста X е от 1989 г. до 2017 г., като годините са отбелязани през интервал от две години. Оста Y е обозначена с \"Коефициент на Джини\", също с линейна скала, с диапазон на стойностите от 25.0 до 45.0. Етикетите са разположени на интервали от 5.0 единици. \n\nНа диаграмата се вижда една линия, която е черна и плътна. Тя започва от около 29.5 през 1989 г. и има тенденция на леко повишаване до около 32.0 около 1997 г. Оттам нататък линията се покачва постепенно, достигайки около 34.0 през 2008 г. Следва краткосрочен спад и отново покачване с незначителни колебания до 2011 г., където стойността е около 33.5. От 2013 г. линията отново започва значително да се покачва и достига около 41.0 през 2017 г. Видимо е явното нарастване през последните години на периода."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промени в коефициента на Джини за разполагаем доход в периода от 2007 до 2017 година. Оста X е обозначена като годината и използва линейна скала с диапазон от 2007 до 2017, като етикетите са разположени на всяка година. Оста Y е обозначена като коефициент на Джини и също използва линейна скала, с диапазон от 25 до 45, без конкретни единици, като етикетите на стойностите са през 5 единици.\n\nСинята линия представя стойностите за Европейския съюз. Линията е плътна и започва от около стойност 30 на оста Y през 2007 година, преминавайки в леко покачване през целия период и завършвайки около стойност 31. Червената линия представя стойностите за България. Тази линия е пунктирана и започва от около стойност 31 през 2007 година, показвайки ясно покачване през разглеждания период и достигайки стойност близка до 39 през 2017 година. Диаграмата ясно показва различните тенденции в измененията на коефициента на Джини за двата наблюдавани обекта."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig9.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig9.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира коефициента S80/S20 за различни държави през 2016 г., който е мярка за икономическо неравенство. Хоризонталната ос представя категориите, които са държави, подредени в произволен ред. Вертикалната ос етикетира стойностите на коефициента S80/S20, вариращи от 3,0 до 8,0, с линейна скала разделена на интервали от 1,0. Стълбовете в диаграмата са оцветени в светло синьо, като някои държави са визуално подчертани - България има стълб в червен цвят, а Европейският съюз (ЕС) и Великобритания имат стълбове в оранжево и кафяво съответно, което може да подчертава значимост или специално отбелязване сред останалите. Най-ниските стойности са около 3,0, както при Чехия, докато най-високите стойности достигат около 7,6, както е при България."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig10.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig10.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата показва сравнение на коефициент S80/S20 за различни региони в периода 2010-2016 г. Оста X е обозначена с \"години\" и има линейна скала, обхващаща диапазона от 2010 до 2016 г. Етикетите са разположени на интервали през една година. Оста Y е обозначена с \"коефициент\" и също има линейна скала, варираща от 4,0 до 8,0, с етикети през 1,0 единици.\n\nНа графиката има две линии. Първата линия е в син цвят и представлява ЕС. Тя е плътна и започва около стойност 5,0 през 2010 г., като остава относително стабилна през периода, но с леко увеличение до около 5,2 през 2016 г. Втората линия е в червен цвят, представлява България и е пунктирана. Тази линия започва със стойност около 6,5 през 2010 г. и показва увеличение до около 7,7 през 2016 г., с видим връх около 2011 г. и постепенно нарастване след 2014 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig11.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig11.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва процентното разпределение на отговорите на въпроса \"Считате ли, че неравенството в доходите е голямо?\" в България и в ЕС. Общият брой на категориите е две: \"да\" и \"не\". Във външния кръг, представляващ ЕС, сегментът за \"да\" е отбелязан със синьо и съставлява 91%, а сегментът за \"не\" е в оранжево и съставлява 7%. Във вътрешния кръг, представляващ България, сегментът за \"да\" е също в синьо с 84%, докато оранжевият сегмент за \"не\" е 3%. Диаграмата включва легенда в долната част и етикети с проценти вътре във всеки сектор. Сегментите не изглеждат визуално подчертавани чрез разширяване или изместване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Yocov3_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предпоставки и последици от неравенството и бедността",
+      "figure_filename": "Yocov3_Alternativi_BG_br_2_2019_fig12.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Yocov3_Alternativi_BG_br_2_2019_fig12.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Yocov3_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва мнението относно необходимостта от правителствени мерки за намаляване на неравенството в проценти. Диаграмата включва два концентрични кръга, като външният кръг представя данни за ЕС, а вътрешният – за България. Всеки кръг съдържа два сектора. За ЕС, секторът с етикет \"да\" заема 81% и е оцветен в синьо, докато секторът с етикет \"не\" заема 7% и е оцветен в оранжево. За България, секторът с етикет \"да\" също заема 81% и е син, а секторът с етикет \"не\" заема 6% и е оцветен в оранжево. Диаграмата включва легенда, която пояснява, че синьото отговаря на отговора \"да\", а оранжевото – на \"не\". Вътре в секторите има етикети с процентите. Сегментите изглеждат подредени по диаметър на кръговете, разделяйки отговорите на \"да\" от тези на \"не\"."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Pirimova5_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ефективност на износа и конкурентоспособност на българската икономика",
+      "figure_filename": "Pirimova5_Alternativi_BG_br_2_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Pirimova5_Alternativi_BG_br_2_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Pirimova5_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Pirimova5_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "БВП, износ и внос за 2008-2017 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойностите на БВП, износа и вноса за периода от 2008 до 2017 година. На хоризонталната ос са разположени категориите, представляващи годините от 2008 до 2017, подредени в хронологичен ред. Вертикалната ос показва стойностите, етикетирана е с числата от 0 до 100000 при стъпка от 10000, като скалата е линейна. Диаграмата съдържа групирани стълбове, като за всяка година са представени три компонента: БВП (черно засенчен), износ (червен) и внос (синьо засенчен). Стойностите на стълбовете варират, като най-високите стойности достигат почти до 80000 за БВП през 2017 година, докато стойностите на износа и вноса варират в по-ниския диапазон. Групирането е ясно обозначено чрез различни цветови и засенчващи техники, а стълбовете за всяка година са подредени последователно, без явно подчертани елементи."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Ilieva6_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Иновативни финансови инструменти за финансиране на общински инвестиционни проекти за устойчиво градско развитие",
+      "figure_filename": "Ilieva6_Alternativi_BG_br_2_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Ilieva6_Alternativi_BG_br_2_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Ilieva6_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Ilieva6_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Процентно разпределение на облигациите, свързани с климатичните промени по сектори за 2017 г. по данни на Climate Bond Initiative (CBI)",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата показва разпределение на различни сектори по определен критерий. Общият брой на секторите е седем. Секторът \"Транспорт\" е представен със син цвят и заема 61%. \"Енергия\" е обозначен със зелен цвят и съставлява 19%. \"Мулти-сектор\" е оцветен в светлосиньо и има дял от 13%. Секторът \"Вода\" е изобразен в оранжево и съставлява 3%. \"Строителство & Индустрия\" е в тъмно оранжево и заема 2%. \"Селско и горско стопанство\" е в жълто с дял от 1%, а \"Контрол на отпадъците и замърсяването\" също е в жълто с дял от 1%. Диаграмата включва етикети с проценти вътре в секторите, но не съдържа легенда. Сегментите не са подредени по видима схема като низходящ размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Dimitrova7_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Фискална стабилност в страните от Централна и Източна Европа в процеса на присъединяване към еврозоната",
+      "figure_filename": "Dimitrova7_Alternativi_BG_br_2_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Dimitrova7_Alternativi_BG_br_2_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Бюджетно салдо. ЦИЕ. Годишни данни 2003-2017",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира измененията на стойностите на икономически показатели за различни държави в периода от 2003 до 2017 година. Оста X представя годините, означена е с етикет, като мащабът е линейна числова скала. Годините са представени от 2003 до 2017, увеличаващи се с интервал от една година. Оста Y показва икономическия показател (неуточнен), със скала от -16.0 до 4.0 и етикети на всеки две единици.\n\nВ графиката участват линии, представящи всяка от десетте държави. Линията за България е синя, Чехия е представена с червена линия, Естония с тъмнозелена, Латвия със светло синя, Литва с лилава, Унгария с оранжева, Полша с морковена, Румъния с кафява, Словения със светложълта и Словакия с тъмносиня линия. Всички линии са плътни и визуално се вижда колебание в стойностите през разглеждания период. Забележими пикове и спадове се наблюдават около годините 2009-2010, когато повечето линии показват значителен спад. Линиите продължават с относителни колебания до 2017 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Dimitrova7_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Фискална стабилност в страните от Централна и Източна Европа в процеса на присъединяване към еврозоната",
+      "figure_filename": "Dimitrova7_Alternativi_BG_br_2_2019_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Dimitrova7_Alternativi_BG_br_2_2019_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Бюджетно салдо. Балтийски страни. Годишни данни 2003-2017",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в някакъв показател за три страни - Естония, Латвия и Литва - в периода от 2003 до 2017 година. Оста X е обозначена по години, като скалата е линейна с числови етикети през една година, обхващащи интервала от 2003 до 2017 година. Оста Y е неозначена с единици, като скалата също е линейна и обхваща диапазон от -10 до 4, с интервали от 2 единици.\n\nПървата графика е за Естония, представена с плътна синя линия. Линията започва около стойност 2 за 2003 година и отчетливо преминава през върхове и спадове: спада около 2008 година до стойност близо -5, след това се изкачва и стабилизира около 1 след 2011 година до края на периода.\n\nВтората графика изобразява данните за Латвия, показана с плътна червена линия. Линията започва около стойност 1 през 2003 година, след което рязко спада след 2008 година, достигайки стойност около -9 през 2009 година. След това се изкачва и достига положителни стойности от около 1 към края на периода през 2017 година.\n\nТретата графика е за Литва, представена с плътна зелена линия. Началната стойност през 2003 година е около 1, след което линията спада до около -8 през 2009 година. След този спад, линията се възстановява и достига почти 2 към 2016 година, след което леко се снижава до близо 1 към края на периода през 2017 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Dimitrova7_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Фискална стабилност в страните от Централна и Източна Европа в процеса на присъединяване към еврозоната",
+      "figure_filename": "Dimitrova7_Alternativi_BG_br_2_2019_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Dimitrova7_Alternativi_BG_br_2_2019_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Бюджетно салдо. Словения. Годишни данни 2003-2017",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във времето. Оста X е обозначена с години и показва времевия период от 2003 до 2017 година. Скалата на оста X е линейна, като стойностите са равномерно разпределени с интервал от една година. Оста Y е обозначена с числови стойности, вариращи от 0,0 до -16,0. Скалата също е линейна, с интервали от 2 единици, без уточнена мерна единица.\n\nНа графиката има една синя линия с плътен стил, без използване на маркери. Линията започва малко под -2,0 през 2003 г., след което се изкачва леко до около -1,8 през 2007 г. След този пик, линията се понижава до около -6,0 през 2009 г. През следващите години се наблюдава колеблив спад до минимум около -14,4 през 2012 г. След това следва бързо възстановяване, като линията се изкачва обратно до около -2,0 през 2014 г. и продължава възходящата си посока до малко под 0,0 през 2017 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Dimitrova7_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Фискална стабилност в страните от Централна и Източна Европа в процеса на присъединяване към еврозоната",
+      "figure_filename": "Dimitrova7_Alternativi_BG_br_2_2019_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Dimitrova7_Alternativi_BG_br_2_2019_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Dimitrova7_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Бюджетно салдо. Нови страни членки. Годишни данни 2003-2017",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази фигура илюстрира промените във времето за две отделни линии. Оста X е обозначена с години като стойностите обхващат периода от 2003 до 2017 година. Скала е линейна, като няма специфизирани единици и интервалите са равни, представени на всяка година. Оста Y е маркирана с числови стойности, вариращи от -10,0 до 4,0, с обозначени равномерни интервали от 2 единици. Линията, представяща България, е в син цвят, без маркери, и с плътен стил. Визуално тя започва около 0 през 2003 г., преминава през колебания, като има върхове около 2004 и 2007 г., спад в 2012 г., и отново увеличение до 2017 г. Линията, представяща Румъния, е в червен цвят, също без маркери и с плътен стил. Тя започва също около 0 през 2003 г., спада рязко до приблизително -9,0 около 2009 г., след което започва възходяща тенденция, достигайки около -2,0 през 2017 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Lazarova_8_Alternativi_BG_br_2_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Дигитализация и дигитална трансформация в счетоводството",
+      "figure_filename": "Lazarova_8_Alternativi_BG_br_2_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Lazarova_8_Alternativi_BG_br_2_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Lazarova_8_Alternativi_BG_br_2_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Lazarova_8_Alternativi_BG_br_2_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Изследване на Сименс България & Германо-Българска индустриално-търговска камара за проектите за внедряване на IT технологии в българските фирми.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира степента на внедряване или планиране на различни технологии. Хоризонталната ос представя стойностите, които са означени в проценти и се простират от 0 до 40, с равномерно разположени интервали на всеки 10 единици. Вертикалната ос съдържа категориите технологии, които са: \"Умни среди\", \"Мобилни приложения\", \"Блокчейн технологии\", \"Облачни изчисления\", \"Киберфизични системи\", \"Big/Smart Data & разширени анализи\" и \"Свързаност или Интернет на нещата\". Категориите са подредени в произволен ред. Скалата на стойностите е линейна. В диаграмата са представени grouped стълби, като всеки цвят обозначава различен етап от внедряването: напреднала фаза, близо до финалната фаза, работна фаза, започнало внедряване, начална фаза и не се планира. Най-високата стойност е отбелязана при категорията \"Умни среди\" в секцията \"Не се планира\", а най-ниската при \"Киберфизични системи\" в секцията \"Напреднала фаза\". Стълбите показват визуално разпределението на етапите за всяка технология и не са подредени по специфичен начин по стойност."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "5_Dimitrova_ISA_br3_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Винен клъстер в България – възможности и перспективи (на примера на област Пловдив)",
+      "figure_filename": "5_Dimitrova_ISA_br3_2019_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/5_Dimitrova_ISA_br3_2019_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_Dimitrova_ISA_br3_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_Dimitrova_ISA_br3_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Съвместни дейности при реализацията на продукта",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентното участие на предприятия в съвместни дейности с други фирми, като различните категории на хоризонталната ос представят видовете сътрудничество. Хоризонталната ос съдържа категориите на съвместни дейности, изразени с текстови етикети, подредени произволно. На вертикалната ос са представени процентите, които варират от 0% до 40% с линейна скала, като стойностите са означени през интервал от 5%. Най-висока стойност има категорията \"Договори с доставчици на суровини и материали,\" като процента е 40%, а най-ниска е \"Обща складова база за готови продукти\" и \"Съвместни дейности с други фирми за проучвания,\" всяка от тях с по 10%. Групирането и наслагването на стълбите не присъства и няма визуално подчертани стълби чрез специфично засенчване или удебеляване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "5_Dimitrova_ISA_br3_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Винен клъстер в България – възможности и перспективи (на примера на област Пловдив)",
+      "figure_filename": "5_Dimitrova_ISA_br3_2019_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/5_Dimitrova_ISA_br3_2019_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_Dimitrova_ISA_br3_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_Dimitrova_ISA_br3_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Ефективност от прилагането на съвместни дейности",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата илюстрира оценката на ефективността от съвместните дейности с други организации. Тя включва четири сектора: \"Ниска\" с дял от 25%, обозначена със син цвят; \"Средна\", представляваща 10%, оцветена в червено; \"Добра\", която заема 45% от диаграмата и е показана в зелено; и \"Много добра\" с 20%, изобразена в лилав цвят. Всички сектори имат етикети с процентни стойности вътре. Диаграмата разполага и с легенда, която свързва всяко наименование с неговия съответстващ цвят. Сегментите в диаграмата не изглеждат подредени по низходящ или възходящ размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "04_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на газопроводния транспорт и тенденции в обемите на превозените газови потоци в България за периода 1998 – 2017 г.",
+      "figure_filename": "04_ISA_4_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/04_ISA_4_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/04_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/04_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на доказаните резерви на природен газ в някои региони на света за периода 1988-2017 г. в трил. М3",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените във времето на определени показатели, свързани с различни географски региони. Оста X е обозначена с годините, обхващащи периода от 1988 до 2017 година. Скала е линейна, без конкретни единици, с етикети, обозначаващи всяка година поотделно в целия диапазон. Оста Y е обозначена с \"Трил. м³\" и е линейна. Диапазонът на стойностите обхваща от 10,0 до 90,0, с етикети на всеки 10 единици.\n\nГрафиката представя четири линии, всяка от които представлява различен регион. Първата линия е в зелен цвят с плътна форма, без маркери. Тя започва около 30,0 през 1988 и се покачва постепенно, достигайки до стойност малко над 80,0 през 2017. Втората линия е червена и плътна, също без маркери. Тя започва около стойността 30,0 през 1988, увеличава се стабилно и достига около 50,0 през 2017. Третата линия е в лилав цвят с плътна форма. Започва леко под 10,0 през 1988 и показва незначителна промяна през годините, достигайки малко над 10,0 през 2017. Последната линия е синя, също плътна. Тя стартира от стойност малко над 10,0 през 1988 и остава почти без промяна, завършвайки около 10,0 през 2017."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "04_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Развитие на газопроводния транспорт и тенденции в обемите на превозените газови потоци в България за периода 1998 – 2017 г.",
+      "figure_filename": "04_ISA_4_2019_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/04_ISA_4_2019_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/04_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/04_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Потребен и транспортиран природен газ по преносни и разпределителни газопроводи в България за периода 1998-2017 г.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промените в потреблението и транспорта на природен газ в милиарди кубически метри за периода от 1998 до 2017 година. Оста X представлява времето, обозначено с годините от 1998 до 2017, с линейна скала и етикети на всяка година. Оста Y показва количеството природен газ в милиарди кубически метри, с линейна скала, варираща от 0,50 до 4,00, с интервали от 0,50 между етикетите. Линията е синя, плътна, без маркери по точките. В началото на периода през 1998 стойността е около 3,60 милиарда кубически метра. След това се забелязва спад до примерно 2,50 милиарда през 2002 година. Между 2002 и 2005 година линията остава относително стабилна, а след 2005 наблюдаваме повишение до 2008 година, последвано от спад през 2009. След още един подем през годините след 2012, диаграмата завършва през 2017 с увеличение до около 3,00 милиарда кубически метра."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "05_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на социалното въздействие Каква е ефективността на политиката на Столична община в решаване проблемите с паркирането?",
+      "figure_filename": "05_ISA_4_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/05_ISA_4_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на броя на подадените жалби и броя на отговорите по подадените жалби",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във връзката между броя подадени жалби и броя отговори по тях. Оста X е обозначена с \"Брой подадени жалби\". Тя има линейна скала с диапазон от 0 до 3000, като числовите етикети са разположени на интервали от 500 единици. Оста Y е обозначена с \"Брой отговори по подадени жалби\". Тази ос също е с линейна скала, с диапазон от 0 до 2500, а етикетите са на интервали от 500 единици. На графиката е представена една линия в син цвят с триъгълни маркери върху точките за годините 2012 и 2013, и ромбоидни маркери за годините 2015 и 2016. Линията е солидна и се простира от началната точка на 2012 година до последната точка на 2017 година. В началото и края на оста X се наблюдават следните стойности: през 2012 година стойността е около 200 жалби и около 750 отговори, а през 2017 година стойността е около 2500 жалби и 1800 отговори. Линията визуално показва увеличение, като има линия на регресия, обозначена с уравнение y = 0,62x + 280,28 и стойност на R² = 1,00."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "05_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на социалното въздействие Каква е ефективността на политиката на Столична община в решаване проблемите с паркирането?",
+      "figure_filename": "05_ISA_4_2019_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/05_ISA_4_2019_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на общия брой на паркоместата",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази диаграма илюстрира промени във времето, свързани с общия брой паркоместа. Оста X е обозначена с години, обхващайки периода от 2007 до 2018 година, с линейна скала и равномерни интервали от по една година. Оста Y е обозначена с \"Общ брой паркоместа\", също с линейна скала, като стойностите варират от 0 до 35,000, разпределени през интервали от 5,000 паркоместа. Линията на диаграмата е в син цвят, с маркери под формата на малки ромбове, и има плътен стил. Започва от стойност 4,969 през 2007 г., след което се покачва до 8,957 през 2008 г. През 2009 г. достига 10,780, а след това стойността остава същата през 2010 г., като за 2011 г. се покачва леко до 11,880. От 2012 г. до 2016 г. е отбелязано стойност от 16,642 до 16,782 без значителни промени. През 2017 г. стойността е 21,580, а в края на периода, през 2018 г., достига 28,874, демонстрирайки значително увеличение."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "05_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на социалното въздействие Каква е ефективността на политиката на Столична община в решаване проблемите с паркирането?",
+      "figure_filename": "05_ISA_4_2019_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/05_ISA_4_2019_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на отговорите на подадените жалби",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промяната в броя на отговорите по подадени жалби от 2006 до 2018 година. Оста X е обозначена с годините, започвайки от 2006 и завършвайки с 2018, с линейна скала и интервал от една година. Оста Y представлява броя отговори, със стойности от 0 до 2500, също с линейна скала и равномерно разположени етикети през 500 единици. Линията е синя, с форма на малки ромбовидни маркери и плътна връзка. Започвайки от 486 през 2006 година, броят отговори се увеличава плавно до 760 през 2010. След това има спад до 564 през 2011 г., последван от постепенно нарастване, достигайки 2243 през 2018. Визуално се наблюдават няколко върха и спадове, като най-съществените са през 2010 и 2011 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "05_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на социалното въздействие Каква е ефективността на политиката на Столична община в решаване проблемите с паркирането?",
+      "figure_filename": "05_ISA_4_2019_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/05_ISA_4_2019_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на общия брой на паркоместата и на отговорите на подадените жалби",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промени във времето. Оста X е обозначена с години, започвайки от 2006 до 2018 г., разделена равномерно с интервал от една година. Оста Y е двойнствена и има два етикета: \"Брой паркоместа\" отляво и \"Брой отговори\" отдясно. И двете Y оси са линейни. Отляво диапазонът е от 0 до 35000, с единици през интервал от 5000. Отдясно диапазонът е от 0 до 2500, с единици през интервал от 500.\n\nСинята линия представя \"Общ брой паркоместа\". Тя е обозначена с диамантени маркери и е плътна. През 2006 г. стойността е 5000. Тя се увеличава до 2008 г., след което следва период на колебание до 2012 г., когато стойността е около 10000. Следва стабилен период до 2016 г., когато започва рязко нарастване, достигайки около 20000 през 2018 г.\n\nСивата линия представя \"Брой отговори по подадени жалби\". Тя е обозначена с триъгълни маркери и също е плътна. През 2006 г. стойността е около 500 и се увеличава до 2009 г. След това следва спад до 2011 г., когато стойността е около 800. След този период линията показва нарастване, преминавайки стойност 1000 през 2013 г., и продължава да расте, достигайки около 2000 през 2018 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "05_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на социалното въздействие Каква е ефективността на политиката на Столична община в решаване проблемите с паркирането?",
+      "figure_filename": "05_ISA_4_2019_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/05_ISA_4_2019_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Регресионен анализ на броя на паркоместата и броя на отговорите по подадени жалби",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в броя на отговорите по подадени жалби във връзка с общия брой паркоместа за периода от 2007 до 2018 година. Оста X е обозначена с \"Общ брой паркоместа\" и използва линейна скала, варираща от 0 до 35 000, с равномерни интервали от 5 000. Оста Y е маркирана като \"Брой отговори по подадени жалби\", също с линейна скала, обхващаща диапазона от 0 до 2500 с интервали от 500. Графиката включва една линия, която е оранжева на цвят, с квадратни маркери и плътна линия, която свързва точките. \n\nВ началото, през 2007 година, стойността е около 500 отговора при 5 000 паркоместа. Следва покачване до приблизително 800 през 2010 година с около 10 000 паркоместа. През 2011 година има спад до към 650 отговора при същия брой паркоместа, след което следва рязък скок, като през 2014 година броят на паркоместата достига около 15 000, а отговорите са колкото и през 2010 година. От 2015 до 2018 година се наблюдава значително нарастване, достигайки до около 2 000 отговора при приблизително 30 000 паркоместа през 2018 година. Фигурата показва и линия на тренда с формула y = 0.08x - 142.30 и R² = 0.80."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "05_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на социалното въздействие Каква е ефективността на политиката на Столична община в решаване проблемите с паркирането?",
+      "figure_filename": "05_ISA_4_2019_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/05_ISA_4_2019_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамиката на Traffic Index и на паркоместата",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в броя на паркоместата и Traffic Index за периода от 2006 до 2018 година. Оста X е означена с годините от 2006 до 2018 и използва линейна скала с равномерни интервали от една година. Оста Y отляво е обозначена с \"Брой паркоместа\" и има линейна скала с диапазон от 0 до 35000, с етикети на всеки 5000. Оста Y вдясно е обозначена като \"Traffic Index\" и също използва линейна скала с диапазон от 0 до 140, със същите интервали като отляво.\n\nПървата линия, обозначена като \"Общ брой паркоместа\", е в син цвят и има плътна линия с диамантени маркери. През 2006 година начинът на промяна на паркоместата започва с около 5000, като до 2012 постепенно нараства до над 20000. След това практически остава стабилен с малки колебания до 2018, когато достига около 29000.\n\nВтората линия, обозначена като \"Traffic Index\", е в зелен цвят и има плътна линия с окръжни маркери. През 2011 тя започва около 60, рязко се покачва до 120 през 2012, след което пада до 90 през 2013. След това линията има леко покачване и снижение между 90 и 110, като отново достига 120 през 2018 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "05_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на социалното въздействие Каква е ефективността на политиката на Столична община в решаване проблемите с паркирането?",
+      "figure_filename": "05_ISA_4_2019_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/05_ISA_4_2019_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/05_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на Traffic Index и динамиката на броя на отговорите на подадени жалби",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в броя отговори по подадени жалби и Traffic Index за периода от 2006 до 2018 година. Оста X е обозначена с \"Година\" и има линейна скала с диапазон от 2006 до 2018 година. Етикетите на оста X са разположени през една година: 2006, 2007, 2008 и така нататък, до 2018 година. Оста Y вляво е обозначена с \"Брой отговори по подадени жалби\", има линейна скала и диапазон от 0 до 2500, с етикети на равномерни интервали от 500 единици. Оста Y вдясно е обозначена с \"Traffic Index\", също с линейна скала, и с диапазон от 0 до 140, с етикети на интервали от 20 единици.\n\nСинята линия представя броя отговори по подадени жалби. Линията е плътна, с кръгли маркери на всяка точка, и започва от стойност около 500 през 2006 година, като плавно нараства до около 1000 през 2010 година. Следва лек спад през 2011 година, след което броят отговори отново нараства, достигайки стойност около 1750 през 2018 година.\n\nЖълтата линия представя Traffic Index. Тя е пунктирана, с кръстовидни маркери, и започва от 40 през 2010 година. Има рязък скок до 120 през 2012 година, след което следва спад до около 100 през 2013 година, и се стабилизира с леко нарастване до около 120 през 2018 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "12_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Основни характеристики на данъчната политика в България и тяхната относително самостоятелна роля за високото равнище на бедността и незадоволителния икономически растеж",
+      "figure_filename": "12_ISA_4_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/12_ISA_4_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Максимални данъчни ставки за личните доходи във водещи страни-членки на ЕС и в България през 2002-2016 г. – в %",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира количествени данни за три различни държави - Белгия, Германия и България, през различни години в периода от 2002 до 2016 година. Хоризонталната ос представя временни интервали, обозначени с години, подредени хронологично: 2002, 2007, 2008, 2010, 2012, 2014, 2015 и 2016. Вертикалната ос показва стойности в числови единици, започващи от 0 и достигащи до 60, с равномерни интервали от 10 единици. Цялостната скала е линейна. Диаграмата съдържа групирани стълби за всяка година, като за всяка държава има отделен цвят - синьо за Белгия, червено за Германия и зелено за България, както е показано в легендата. Височините на стълбовете демонстрират стойностите за съответната държава в конкретната година. Най-високите стойности са около 55 за Белгия през всички обсъждани години, докато най-ниските стойности са около 10 за България в същите години. Височината на стълбовете за Германия варира около 45 единици. Стълбовете не са подредени по величина в рамките на всяка година, а са представени последователно за всяка държава според ориентацията на легендата."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "12_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Основни характеристики на данъчната политика в България и тяхната относително самостоятелна роля за високото равнище на бедността и незадоволителния икономически растеж",
+      "figure_filename": "12_ISA_4_2019_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/12_ISA_4_2019_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Относителен дял на ОДП в БВП средно за страните-членки на ЕС 28 и в България през 2002-2016 г.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промените в стойностите за два различни показателя в периода от 2002 до 2015 година. Оста X е надписана с годините от 2002 до 2015, като е разделена на равномерни интервали, всеки представящ една година. Скалата на оста X е линейна и няма обозначени единици. Оста Y е надписана с числови стойности от 0 до 50, разположени на линейна скала с интервал от 10 единици между етикетите.\n\nПървата линия е в син цвят с форма на маркер диамант и е плътна. Тази линия представя стойностите за „средно за ЕС 28“. Началната стойност през 2002 година е около 40, а крайната стойност през 2015 година е същата. Линията е относително хоризонтална, с минимални колебания през отделните години.\n\nВтората линия е червена с квадратни маркери и също е плътна. Тази линия показва стойностите „в България“. В началото през 2002 година стойността е около 30, а в края на периода през 2015 година тя е почти същата. Линията показва намаляване до около 2009 година, след което постепенно нараства."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "13_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Моделът на кръгова икономика – нови възможности за фирмено развитие",
+      "figure_filename": "13_ISA_4_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/13_ISA_4_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/13_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/13_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Брой заети във фирмите, участващи в изследването",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата илюстрира разпределението на определени категории данни, обозначени със следните етикети: \"1;10\", \"11;50\", \"51;100\", \"101;250\" и \"up to 250\". Общо има пет сектора. Секторът \"1;10\" е представен в синьо и заема приблизително една шеста от кръга. Секторът \"11;50\" е в червено и заема около една трета от диаграмата. \"51;100\" е обозначен със зелен цвят и обхваща приблизително една четвърт от кръга. Секторът \"101;250\" е в лилаво и също покрива приблизително една шеста от диаграмата. Накрая, секторът \"up to 250\" е в светлосиньо и заема най-малката част от кръга. Включена е легенда, която посочва цветовете и съответните им категории. Няма изрично посочени проценти вътре в секторите и няма сектор, който да е визуално подчертан чрез изместване или удебеляване. Сегментите изглеждат подредени по големина, започвайки от най-големия."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "03_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Политика за развитие на железопътния транспорт в България – основни цели и резултати",
+      "figure_filename": "03_ISA_4_2019_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/03_ISA_4_2019_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/03_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/03_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Индекси на изменение на обема на товарните и пътническите превози в България и ЕС",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във времето за различни категории между 2010 и 2016 година. Оста X е означена със стойности, представляващи годините, като се използва линейна скала. Диапазонът на оста X е от 2010 до 2016 година, с равномерни интервали от една година. Оста Y е означена с числови стойности, вариращи от 0 до 140, с интервали от 20 единици. \n\nПървата линия е в тъмносин цвят с ромбовиден маркер, представляваща \"ТП ЕС\". Линията е плътна и се променя относително малко по оста X, започвайки около стойност 100 през 2010 и запазвайки се стабилна до 2016. \n\nВтората линия е в розов цвят с квадратен маркер и представлява \"ПП ЕС\". Тя е плътна и също започва около 100 през 2010, след което остава стабилна до 2016. \n\nТретата линия е в жълт цвят с триъгълен маркер, представляваща \"ТП Бг\". Тази линия започва около стойност 100 през 2010, показва леко нарастване, достига връх през 2013 и спада леко до 2016. \n\nПоследната линия е в светлосин цвят с X-образен маркер и представлява \"ПП Бг\". Тя също започва около 100 през 2010, но показва умерен спад до около 2016, достигайки стойност под 90."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "03_ISA_4_2019",
+      "paper_language": "Bulgarian",
+      "paper_title": "Политика за развитие на железопътния транспорт в България – основни цели и резултати",
+      "figure_filename": "03_ISA_4_2019_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/03_ISA_4_2019_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/03_ISA_4_2019.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/03_ISA_4_2019.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Индекси на изменение на ефективността на товарните и пътническите превози в България",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени в два показателя за периода от 2010 до 2017 година. Оста X е обозначена с годините, използва линейна скала и обхваща диапазона от 2010 до 2017, с интервали от една година без приложения за единици. Оста Y има етикет без обозначени единици и обхваща стойности от 0 до 140, с равномерни интервали от 20 единици. \n\nПървата графика е представена с тъмносиня линия, използва маркери във форма на ромб и е със стил плътна линия. През 2010 г. стойността започва малко над 100, достига връх около 120 през 2013 г., след което следва спад до около 2016 г. до малко над 100, с леко покачване в края на периода.\n\nВтората графика е представена с розова линия, с маркери във форма на квадрат и също е със стил плътна линия. Стойността в началото на периода през 2010 г. е малко над 100, с леко повишаване през 2012 г. до около 110, след което спада и достига минимална стойност около 2015 г., след което остава стабилна и леко се покачва към 2017 година до около 95."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Институционална среда и детерминанти на проектното управление във водния сектор",
+      "figure_filename": "1_IA_br_1 2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_IA_br_1 2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Оценка за Законодателството във водния сектор",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира разпределението на мненията по отношение на нормативни промени, представено в хоризонтален стълбовиден формат. Хоризонталната ос съдържа категориите като текстови описания: \"Необходима е цялостна промяна\", \"Съществуват противоречиви текстове в отделни нормативни документи\", \"Голям брой закони и подзаконови актове, които често се променят\" и \"Добро е, не се нуждае от промяна\". Вертикалната ос е означена с проценти, вариращи от 0% до 100%, разделени на равни интервали от 10%. Стълбите са групирани и всеки компонент е обозначен с легенда: \"Напълно несъгласен\", \"Несъгласен донякъде (частично)\", \"Без мнение\", \"Съгласен донякъде (частично)\" и \"Напълно съгласен\". Всяка от категориите е представена чрез хоризонтални секции със сто процентно натрупване, които aggregate различните степени на съгласие. Представителни стойности включват, например, че 55% от хората са напълно съгласни, че е \"добро, не се нуждае от промяна\", докато за първата категория \"Необходима е цялостна промяна\", 55% са съгласни донякъде частично. Стълбите не изглеждат визуално подчертани чрез засенчване или удебеляване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Институционална среда и детерминанти на проектното управление във водния сектор",
+      "figure_filename": "1_IA_br_1 2018_BG_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_IA_br_1 2018_BG_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на оценките за значението на фактори за проектното управление във водния сектор (%)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира мнението относно важността на различни фактори, свързани с управление и комуникация в проектите. Хоризонталната ос представлява категориите, които са различни фактори, като например \"Комуникация със заинтересовани страни\", \"Резултати по проекта\", \"Управление на ресурсите\" и други, и са подредени в произволен ред. Вертикалната ос показва стойностите, изразени в проценти от 0% до 100%, които посочват различната степен на важност според участниците, като тези стойности са равномерно разположени. Стълбовете показват пет категории на мнение: \"Изобщо не е важен\", \"По-скоро не е важен\", \"Без мнение\", \"По-скоро е важен\" и \"Определено е важен\". Най-високата стойност е 75% при фактора \"Управление на екипа\", определена като \"По-скоро е важен\", а най-ниската стойност е 5% при няколко фактора, определени като \"Изобщо не е важен\" или \"Без мнение\". Стълбовете са подредени по важността на факторите и са разделени на цветни и текстурни сегменти, но не са визуално подчертани с други елементи като засенчване или удебеляване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Институционална среда и детерминанти на проектното управление във водния сектор",
+      "figure_filename": "1_IA_br_1 2018_BG_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_IA_br_1 2018_BG_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Оценка на факторите на външната бизнес среда, които ще спомогнат за подобряване на управлението на проекти във водния сектор",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентното изразяване на различни дейности или фактори, свързани с сектор \"Води\". Хоризонталната ос съдържа категориите, с етикети, които описват конкретни дейности или фактори като \"Подобряване на информираността за мерките по ос 1, сектор Води\", \"Увеличаване на социалната активност на обществото\" и други подобни. Категориите са подредени вероятно в произволен ред, в зависимост от контекста на данните. Вертикалната ос представлява процентни стойности с диапазон от 0% до 80%, означена на равномерни интервали от 10%. Стълбовете са хоризонтални и представят процентното участие или значение на всяка категория. Най-високите стойности от 75% са отбелязани за категориите \"Подобряване на информираността за мерките по ос 1, сектор Води\" и \"Предоставяне на техническа помощ за кандидатстване по ос 1 сектор Води\", докато най-ниските маркирани стойности са 40% за \"Увеличаване на социалната активност на обществото\". Стойностите върху диаграмата са ясно обозначени с процентни цифри в края на всеки стълб, за да подсилят информацията, представена от графиката."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Институционална среда и детерминанти на проектното управление във водния сектор",
+      "figure_filename": "1_IA_br_1 2018_BG_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_IA_br_1 2018_BG_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Оценка на мотивацията за кандидатстване по проект в сектор Води за периода 2014-2020 (%)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира разпределението на проценти сред различни категории, които се описват като мерки или дейности. Оста, съдържаща категориите, е вертикалната ос, като категориите са представени по произволен ред: \"Осигуряване на обучение,\" \"Промяна на изискванията на нормативната база,\" \"Спазване на регламентите на ЕС,\" \"Подобряване на жизнения стандарт на обществото и благосъстоянието на хората,\" \"Улесняване на процедурата по кандидатстване,\" и \"Осигуряване на техническа помощ.\" Хоризонталната ос показва процентни стойности, обозначени от 0% до 80% с равномерни интервали от по 10%. Стойностите са представени като хоризонтални стълбове, които указват процента, съответстващ на всяка категория. Стълбът за \"Улесняване на процедурата по кандидатстване\" има най-висока стойност от 70%, последван от \"Осигуряване на техническа помощ\" с 50% и \"Подобряване на жизнения стандарт на обществото и благосъстоянието на хората\" с 45%. \"Осигуряване на обучение\" е с 30%, а \"Промяна на изискванията на нормативната база\" и \"Спазване на регламентите на ЕС\" са с най-ниските стойности, всяка по 15%. Стълбовете са визуално подчертани чрез етикети с процентните стойности вдясно от всеки стълб."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "5_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Стокова структура на търговията на България със Субсахарска Африка",
+      "figure_filename": "5_IA_br_1 2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/5_IA_br_1 2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Външна търговия на България със Субсахарска Африка (млн. евро)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойностите на износа и вноса за определен период от време. Хоризонталната ос представя категориите, които са години от 2001 до 2015, подредени хронологично. Вертикалната ос представлява стойностите, обозначени от 0 до 550 с интервал от 50 между маркерите. Няма посочени единици за измерване. Стълбовете са подредени по две групи: износ и внос. Всяка година е представена със стълби, където вносът е показан с плътно затъмнени участъци, а износът с наклонени линии върху плътен фон, като са визуално разграничени от легенда. За 2008 година стълбът достига около 300, а за 2013 - около 500, което са едни от най-високите стойности. От 2001 до 2004 годините стойностите са ниски и близки една до друга. Стълбовете не са визуално подчертани с изключение на различното запълване за различаване между категориите."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "5_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Стокова структура на търговията на България със Субсахарска Африка",
+      "figure_filename": "5_IA_br_1 2018_BG._fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/5_IA_br_1 2018_BG._fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Дял на търговията със Субсахарска Африка във външната търговия на България (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "На графиката са илюстрирани промените в проценти по години, обхващащи периода от 2003 до 2015 година. Оста X представлява времевата скала, обозначена с години, започваща от 2003 и завършваща на 2015. Интервалите между етикетите са на една година. Оста Y е обозначена с процентни стойности, вариращи от 0,0% до 5,5%, с равномерни интервали от 0,5%. \n\nПървата линия е обозначена като \"общо\" и е представена с пунктирана линия. Линията започва от приблизително 1,0% през 2003 година, показва колебания с увеличение до около 1,5% през 2006 година, след което остава относително стабилна с леки промени до 2012 година. От 2012 до 2015 година, графиката отбелязва ново увеличение, достигайки близо 1,5% в края на периода.\n\nВтората линия, обозначена като \"извън ЕС,\" е представена с плътна линия. Тази линия започва от около 2,0% през 2003 година и достига връх от почти 4,5% около 2007 година. След това следва спад, достигайки около 3,5% през 2008 година, и се издига отново до над 4,0% през 2009 и 2010 година. Следва леко понижение до около 3,0% към 2013 година. Към края на периода има малко покачване до около 3,5% през 2015 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "5_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Стокова структура на търговията на България със Субсахарска Африка",
+      "figure_filename": "5_IA_br_1 2018_BG._fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/5_IA_br_1 2018_BG._fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/5_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Стокова структура на търговията на България със Субсахарска Африка (млн. евро)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира количествата на вноса и износа на различни категории стоки. Категориите са представени на вертикалната ос, където са изписани разнообразни типове продукти: \"Стоки сделки, н.д.\", \"Разнообразни готови продукти, н.д.\", \"Машини, оборудване и превозни средства\", \"Артикули, класифицирани главно според вида им\", \"Химични вещества и продукти\", \"Мазнини, масла и восъци от животински и растителен произход\", \"Минерални горива, масла и подобни продукти\", \"Необработени материали, негодни за изхранване\", \"Безалкохолни и алкохолни напитки и тютюн\", и \"Храни и живи животни\". Тези категории не следват азбучен ред и нямат видима скала. Хоризонталната ос представя стойностите на вноса и износа, вариращи от 0 до 100 със сегментация на равномерни интервали. Стълбите за внос и износ са визуализирани чрез различно щриховане. Категорията \"Безалкохолни и алкохолни напитки и тютюн\" показва най-висок стойност на износа, над 90, а категорията \"Мазнини, масла и восъци от животински и растителен произход\" също има значима височина. Някои категории като \"Стоки сделки, н.д.\" имат значително по-ниска стойност както за внос, така и за износ."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "ХИПЦ в България и ЕС през периода 2004-2016 г. (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промени във времето на два показателя, обозначени като \"Референтна стойност за ЕС\" и \"България\", в процентни стойности от 2004 до 2016 година. Оста X представлява времева линия от 2004 до 2016 година, обозначена с години, като стойностите са разположени отляво надясно на равномерни интервали. Оста Y е обозначена с процентни стойности, диапазонът на които е от -4,00% до 14,00%. Етикетите на оста Y са разположени на равномерни интервали от 2 единици.\n\nГрафиката, обозначена като \"Референтна стойност за ЕС\", е представена със сива линия. Линията започва от стойност 2,17% през 2004 г., след което показва леко увеличение, достигайки 2,87% през 2007 г. Последва спад до 0,57% през 2009 г., с последващо леко колебание около 2,77% през 2010 и 2011 г. и постепенно намаляване до 0,30% през 2016 г.\n\nГрафиката, обозначена като \"България\", е представена с черна плътна линия. Линията започва от стойност 6,1% през 2004 г., увеличава се значително до 12% през 2008 г., след което рязко спада до 2,5% през 2009 г. След това, линията продължава с колебания, като достига 3,4% през 2012 г. След този период, стойностите намаляват до -1,3% през 2016 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Дългосрочни лихвени проценти в България и ЕС през периода 2004-2016 г. (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промените в процентни стойности за референтната стойност за ЕС и България в периода от 2004 до 2016 година. Оста X е обозначена с години, от 2004 до 2016, с равномерни годишни интервали. Оста Y е обозначена като процент (%) и има линейна скала, варираща от 0 до 14 с равномерни интервали на всеки 2%.\n\nСивата линия представлява \"Референтната стойност за ЕС\". Тя е плътна, без използвани маркери, като началната стойност през 2004 година е 6.28%. Линията показва леко увеличение с малки колебания до 2010 година, когато се наблюдава значителен пик до 12.09% през 2011 година. След този пик, стойностите постепенно намаляват до 7.57% през 2015, и завършват с 5.12% през 2016 година.\n\nЧерната линия представлява стойностите за \"България\". Тази линия също е плътна и без маркери. Започва с 5.36% през 2004 година и отбелязва влошаване до 3.87% през 2005 година, след което отново отбелязва постепенен ръст, достигайки до 7.22% през 2009 година. След този период, линията намалява стабилно от 6.01% през 2010 до 2.27% през 2016 година, с няколко малки нараствания и спадове между тях."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Бюджетен дефицит/излишък в България през периода 2004-2015 г. (% от БВП)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промени в процентните стойности на икономически показатели за България спрямо референтна стойност за ЕС в периода от 2004 до 2015 година. Оста X е обозначена с години и има линейна скала, с интервали от една година, като диапазонът е от 2004 до 2015 година. Оста Y е означена с проценти (%) и има линейна скала, обхващаща от -6 до 3 процента, с интервал между етикетите равен на 1 процент.\n\nНа графиката са представени две линии. Първата линия е сива и плътна, представляваща референтната стойност за ЕС, която се задържа на постоянна стойност от -3% през целия период от 2004 до 2015 година. Втората линия представлява показателите за България, изобразени като черна и плътна линия без маркери. Започва с 1.8% през 2004 година, след което следват колебания около линията между 1.1% и 1.8%. През 2009 година стойността пада до -3.1%, след което отново леко нараства до -2% през 2011 година. Следва ново понижение до -0.4% през 2013 година, последвано от рязък спад до -5.5% през 2014 година, и накрая показателят завършва на -1.7% през 2015 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Общ държавен дълг на България през периода 2004-2015 г. (% от БВП)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промени във времето. Оста X е обозначена с години и е линейна, обхващаща периода от 2004 до 2015 година с равномерни годишни интервали. Оста Y е обозначена с процент (%) и също е линейна, с диапазон от 0 до 70%, и етикети през 10 процентни точки.\n\nДиаграмата съдържа две линии. Първата линия представлява \"Референтна стойност за ЕС\", която е от сив цвят и е изобразена като плътна линия. Тази линия остава константна на ниво от 60% през целия период от 2004 до 2015 година.\n\nВтората линия представлява \"България\" и е в черен цвят, също плътна. Започвайки от 36% през 2004 година, линията постепенно намалява до 13.7% през 2009 година, след което следва леко покачване до 17% през 2013 година. Следват увеличения до 27% през 2014 година и леко намаление до 26% през 2015 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Индекси на ценовите равнища в България през периода 2004-2015 г. (ЕС-28=100) (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промени в процентни стойности във времето за Европейския съюз и България от 2004 до 2015 година. Оста X е обозначена с години и има линейна скала. Обхваща диапазона от 2004 до 2015 година без обозначени единици, а етикетите са разположени на равни годишни интервали. Оста Y е обозначена с проценти (%) и също използва линейна скала, с диапазон от 0 до 120, като етикетите са разположени на интервали от 20 единици.\n\nНа графиката са представени две линии. Първата линия е оцветена в сиво и представлява Европейския съюз. Тя е изобразена с плътна линия и няма маркери. Стойността по оста Y остава постоянно на 100 през целия период от 2004 до 2015 година. Втората линия, която представлява България, е в черно и също е изобразена с плътна линия без маркери. Началната стойност през 2004 година е 35,1, след което линията показва постепенен растеж, достигайки 46,9 през 2012 година, после стойността леко намалява до 46,4 през 2015 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Изменение на БВП спрямо предходна година по пазарни цени в България, ЕС и еврозоната в периода 2004 2016 г. (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените в процентния растеж на БВП в периода от 2004 до 2016 година за три различни региона: ЕС, Еврозоната и България. Оста X е обозначена като години, разположени на линейна скала, с диапазон от 2004 до 2016 година, като етикетите са равномерно разпределени през една година. Оста Y е обозначена с процентен растеж, върху линейна скала, с диапазон от -6% до 8%, и има етикети на интервали по 2%.\n\nСивата плътна линия представя данните за ЕС. Линията започва от стойност 2.5% през 2004 година, след което се увеличава до 3.3% през 2006, и спада до -4.4% през 2009 година. След това линията показва колебания между положителни и отрицателни стойности, като през 2016 година завършва на 2.2%.\n\nЧерната пунктирана линия представя Еврозоната. Тази линия започва от 2.3% през 2004 година и следва сходна посока до 2009 година, където достига -4.5%. След този спад, линията показва подобни колебания и завършва през 2016 година на 2.0%.\n\nЧерната плътна линия представлява данните за България. Линията започва от 6.4% през 2004 година, достига връх от 7.3% през 2007 година, след което рязко пада до -3.6% през 2009 година. Следва скок в стойностите до 3.6% през 2015 година и завършва леко надолу на 3.4% през 2016 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Реална производителност на труда на един отработен човекочас в България, ЕС и еврозоната спрямо предходната година за периода 2004-2015 г. (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промените в проценти за три различни региона: ЕС, Еврозоната и България, за периода от 2004 до 2015 година. Оста X е обозначена с години, използва линейна скала и обхваща диапазона от 2004 до 2015, като етикетите са равномерно разположени през една година. Оста Y е обозначена с проценти, също с линейна скала, варираща от -2,0% до 6,0%, с етикети през 1,0%.\n\nСивата линия представлява данните за ЕС. Тя използва плътна линия, започвайки с 1,6% през 2004 и завършвайки с 1,2% през 2015, с по-видим спад през 2009 до -1,4%, а след това нарастване, достигайки връх през 2010 с 3,1%.\n\nЧерната пунктирана линия показва данните за Еврозоната. Линията започва на 1,1% през 2004 и завършва на 0,9% през 2015. Забележим спад е отбелязан през 2009, достигайки -4,3%, след което следва увеличение през 2010, достигайки 2,5%.\n\nЧерната плътна линия описва данните за България. Тя започва на 2,3% през 2004 и завършва на 3,2% през 2015, с върхове, регистрирани през 2007 с 6,3% и през 2010 с 5,5%, и спад през 2009 до 0,9%."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig10.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig10.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Салдо по текущата сметка на платежния баланс на България през периода 2004-2016 г. (млн. евро)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промените в стойностите за определен период от време. Оста X е обозначена с годините, обхваща диапазона от 2004 до 2016 година и е с линейна скала. Стойностите са равномерно разположени на интервали от една година. Оста Y е обозначена с \"МЛН. евро\" и също използва линейна скала. Диапазонът на стойностите варира от -10,000 до 4,000, като етикетите са разположени на равномерни интервали от 2,000 единици.\n\nГрафиката съдържа една линия, която е представена в черен цвят и е плътна. Линията започва през 2004 г. при стойност -1,306 и достига до стойност 1,809 през 2016 г. В периода от 2004 до 2008 година е видимо снижаване до стойност -8,182 през 2008 г. След това се наблюдава увеличаване, което продължава до 2013 г., когато достига положителна стойност от 535,6. След лек спад през 2014 г., последвано от незначителни колебания през 2015 година, линията отново се покачва, като завършва на положителна стойност през 2016 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig11.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig11.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Износ и внос на стоки в България през периода 2004-2015 г. (млн. евро)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойностите на износ и внос в милиони евро за периода от 2004 до 2015 година. Хоризонталната ос съдържа категориите, представлявани от годините, които са подредени хронологично от 2004 до 2015. Вертикалната ос представлява стойностите в милиони евро, като диапазонът е от 0 до 30,000 милиона евро, с линейна скала и интервали през 5,000 единици. Диаграмата съдържа два комплекта стълбове за всяка година: черни стълбове за износ и сиви стълбове за внос, като всеки от тях е отбелязан с конкретна стойност надолу. Например, през 2004 година стойността на износа е 7,985 милиона евро, а на вноса е 11,620 милиона евро. Стойностите показват тенденции в изменението на износа и вноса през разглеждания период, като различната височина на стълбовете индикира тези промени. Диаграмата не съдържа визуално подчертани стълбове или специфично форматиране, което да акцентира върху определени години или стойности."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig12.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig12.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Внос и износ на България с ЕС в периода 2004-2015г. (% от общия внос или износ)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентното съотношение на внос и износ на стоки от общия внос или износ за периода от 2004 до 2015 година. Хоризонталната ос съдържа категориите, които са години, подредени по хронологичен ред от 2004 до 2015 година. Вертикалната ос е етикетирана като „% от общия внос или износ“ и има линейна скала с диапазон от 0 до 70, като стойностите са разположени на интервали от 10. Диаграмата съдържа групирани стълби, представляващи износ и внос на стоки, като износът е маркиран с черни стълби, а вносът със сиви стълби. Най-високата стойност на износ е през 2015 година със 64,63%, а най-ниската стойност на внос е през 2012 година с 47,74%. Стълбите за внос и износ са подредени хронологично според годините и няма очевидно визуално подчертане или специални бележки."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig14.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig14.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Обща капиталова адекватност и адекватност на капитала от първи ред на банковата система в България през периода 2004-2016 г. (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в проценти на общата капиталова адекватност и адекватността на капитала от първи ред през годините. Оста X е обозначена с календарни години и има линейна скала, обхващаща периода от 2004 до 2016 година. Етикетите на оста X са разположени равномерно на интервали от една година. Оста Y представлява проценти и също е линейна, с диапазон от 0% до 25%, маркирана на интервали от 5%.\n\nПървата линия е черна и представлява общата капиталова адекватност. Линията е плътна и започва с 16.08% през 2004 година, показва кратък спад до 13.83% през 2007 година, след което има тенденция на леко нарастване и остава около 17.48% през 2011 година. След 2012 година, стойността започва да нараства значително, достигайки 22.15% през 2016 година.\n\nВтората линия е черна с пунктиран стил и представлява адекватността на капитала от първи ред. Тази линия започва с 14.06% през 2004 година, след което стойността намалява до 10.82% през 2007 година. След това се наблюдава плавно нарастване, като отново достига 15.24% през 2011 година. След 2012 година, стойността се покачва значително, стигайки 20.88% през 2016 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig15.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig15.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Печалба след данъчно облагане на банковата система в България през периода 2004-2016 г. (млрд. евро)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира печалба след данъчно облагане за период от 2004 до 2016 година. Хоризонталната ос съдържа категориите, които представляват години, подредени в хронологичен ред от 2004 до 2016. Вертикалната ос показва стойностите на печалбата в милиарди евро, с етикет \"млрд. евро\". Скалата на оста е линейна с равномерно разположени номера от 0,000 до 0,800 със стъпка от 0,100. Най-ниската стойност на печалбата е през 2004 година - 0,222 млрд. евро, а най-високата стойност е през 2008 година - 0,709 млрд. евро. През 2016 година стойността също е висока, достигайки 0,645 млрд. евро. Стълбите не са визуално подчертани по специален начин, но стойностите са обозначени над всяка колона в диаграмата, което позволява лесно разчитане на данните за всяка година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig17.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig17.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Рискови експозиции на банковата система в България през периода 2004-2016 г. (млрд. евро)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойностите в милиарди евро на различни категории експозиции от 2004 до 2016 година, които са изобразени като групирани стълбове. Хоризонталната ос показва различни години в хронологичен ред от 2004 до 2016 г. Вертикалната ос етикетирана като \"млрд. евро\" и представя стойности, вариращи от 0 до 8 с интервали от 1 милиард, като скалата е линейна. Диаграмата е съставена от три компонента за всяка година: \"Експозиции под наблюдение\", \"Необслужвани експозиции\" и \"Експозиции загуба\", които са визуално разделени чрез различно засенчване: диагонални линии, черни и бели участъци. Представителни стойности за \"Експозиции загуба\" варират от 0,519 млрд. евро през 2008 г. до пикова стойност от 4,071 млрд. евро през 2011 г. \"Необслужвани експозиции\" достигат до максимум 0,910 млрд. евро през 2012 г. \"Експозиции под наблюдение\" са с най-голяма стойност през 2012 г. - 2,375 млрд. евро. Стълбовете не показват видима нисходяща или азбучна подредба, но се отбелязват последователни промени по височина в различните години."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig18.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig18.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Лихвени проценти по нов бизнес по кредити в левове за сектори „нефинансови предприятия“ и „домакинства“ по оригинален матуритет на банковата система в България през периода 2007-2016 г. (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в процентите на три различни типа кредити за периода от 2007 до 2016 година. Оста X е обозначена с години, варира от 2007 до 2016, с равномерни годишни интервали. Оста Y е обозначена като процент, варира от 2,00% до 16,00%, също с равномерни интервали от 2%. \n\nНа графиката има три линии. Първата линия представлява кредити за нефинансови предприятия и е изобразена с черна пунктирана линия с маркери. Тя започва от 9,16% през 2007 година, нараства до пик от 11,18% през 2008, след което постепенно намалява до 3,90% през 2016 година. Втората линия е за кредити за потребление, изобразена с черна плътна линия. Тя започва от 10,21% през 2007 година, достига максимума си от 13,54% през 2009 година и намалява до 10,84% през 2016 година. Третата линия представлява жилищни кредити, изобразена с черна пунктирана линия без маркери. Тя започва от 7,83% през 2007 година, нараства до 9,72% през 2009 година и след това намалява до 4,37% през 2016 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig19.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig19.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Лихвени проценти по нов бизнес по срочни депозити в левове на сектори „нефинансови предприятия“ и „домакинства“ над 1 ден до 1 година на банковата система в България през периода 2007-2016 г. (%)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна графика илюстрира промените в процентните стойности за нефинансови предприятия и домакинства в периода от 2004 до 2016 година. Оста X е обозначена с години и използва линейна скала, с диапазон от 2004 до 2016 година. Етикетите по оста X са равномерно разположени през една година. Оста Y е обозначена с проценти (%) и също използва линейна скала, с диапазон на стойностите от 1,00% до 9,00% и етикети на интервали от 1,00%.\n\nЛинията за „Нефинансови предприятия“ е представена с черна пунктирана линия, използваща маркер под формата на малки точки. За периода от 2004 до 2008 година стойността на линията нараства, започвайки от 2,32% през 2004 и достигайки пик от 8,60% през 2008. След 2008 година, линията показва намаление, като през 2016 година достига до най-ниска стойност от 0,26%.\n\nЛинията за „Домакинства“ е представена с черна плътна линия. Стойността ѝ нараства от 3,72% през 2004 до 8,04% през 2008 година, след което тенденцията е низходяща. През 2016 година стойността спада до 0,45%."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Оценка на степента на конвергенция на българската икономика с икономиките на страните – членки на Европейския съюз, през периода 2004-2016 г.",
+      "figure_filename": "6_IA_br_1 2018_BG_fig20.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_IA_br_1 2018_BG_fig20.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Пазарна капитализация на котираните местни компании в България, ЕС и еврозоната за периода 2004-2015 г. (% of БВП)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени в процентни стойности за три категории за периода от 2004 до 2015 година. Оста X е обозначена с години и има линейна скала, като са представени стойности от 2004 до 2015 година с интервали през една година. Оста Y е означена с процент (%) и също има линейна скала с диапазон от 0 до 100%, с интервали от 10%.\n\nПървата линия представя стойностите за ЕС и е оцветена в сиво с плътна линия. Започва от около 68,56% през 2004 година, нараства до около 87,84% през 2007 година и след това показва значителен спад до 39,53% през 2008 година, след което остава стабилна до 2015 година на около 52,64%.\n\nВтората линия представлява стойностите за Еврозоната и е оцветена с черна пунктирана линия. Започва от около 59,82% през 2004 година и показва равномерно нарастване до около 84,31% през 2007 година, след което намалява до около 36,36% през 2008 година. Оттогава тя отново нараства и достига 65,36% през 2015 година.\n\nТретата линия визуализира данните за България и е изобразена с черна плътна линия. Започва от 10,75% през 2004 година, повишава се до 48,40% през 2007 година и след това показва стабилен спад, достигайки 9,9% през 2015 година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "11_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ролята на алтернативните инвестиции в управлението на богатството",
+      "figure_filename": "11_IA_br_1 2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/11_IA_br_1 2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/11_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/11_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Сравнение на класическа (SPX Index) и алтернативна инвестиция (GVAINDX Index)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промени във времето на два индекса: GVAINDX и SPX. Оста X е обозначена с дати, започвайки от 1.5.2000 до 1.7.2015 г., с равномерни интервали от приблизително шест месеца. Типът на скалата е линейна и е без единици. Оста Y има две скали: една за GVAINDX, разположена отляво, в диапазона от 0 до 7000, и друга за SPX, разположена отдясно, в диапазон от 0 до 2500, също линейна, с неравномерно разположени етикети.\n\nЛинията за GVAINDX е синя, с плътна линия без видими маркери. От началната точка на 1.5.2000 г., индексът започва над 4000, наблюдаваща се е тенденция на колебания с общо повишение до около средата на 2015 г., завършвайки малко под 6000, с видими върхове около 2007 и 2015 г., и значими спадове около 2009 г.\n\nЛинията за SPX е оранжева, също с плътна линия без маркери. На началната дата тя започва около 1500, след което се наблюдават колебания, с голям спад около 2009 г. След този период следва нарастване и завършва около 2100 през 2015 г., с върхове през 2007 и 2015 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "11_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ролята на алтернативните инвестиции в управлението на богатството",
+      "figure_filename": "11_IA_br_1 2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/11_IA_br_1 2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/11_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/11_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Актуална рентабилност от безрискова инвестиция",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази линейна диаграма илюстрира промени във време. Оста X е обозначена с дати, които са от 13.7.2016 до 13.12.2016 с неравномерно разположени етикети. Типът на скалата е линейна, а датите са представени без единици. Оста Y е обозначена с числови стойности, вариращи от -0,2 до 0,5, със стъпка от 0,1. Скалата е линейна и няма конкретни единици.\n\nЛинията на диаграмата е светлосиня и е плътна, без специфични маркери за данните. Тя започва на 13.7.2016 с приблизителна стойност от около -0,05 по оста Y и остава близо до нулата, като през септември има видими колебания. След средата на октомври започва значително нарастване, достигащо до максимум от близо 0,4 през декември. Видими са няколко пикове и спадове, като ясно се откроява увеличение в края на периода."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "12_IA_br_1 2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Саморегулация на лекарската компетентност във връзка с въздействието на медицинската експертиза върху социалното и здравното осигуряване",
+      "figure_filename": "12_IA_br_1 2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/12_IA_br_1 2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_IA_br_1 2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_IA_br_1 2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамична справка, генерирана в официалния сайт на НОИ в 10:21 на 17-10-2017.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира броя пенсионери с лична пенсия за инвалидност през годините 2014, 2015 и 2016, като се фокусира върху различни категории пенсии: \"Пенсии за инвалидност ПОЗ\", \"Пенсии за инвалидност ПТЗПБ\", \"Социални пенсии за инвалидност\" и \"Общо лични пенсии за инвалидност\". Хоризонталната ос представя категориите пенсии в ред отляво надясно, а вертикалната ос е етикетирана като брой пенсионери, със стойности вариращи вероятно от 0 до над 43 000, на линейна скала. Цветовете на стълбите съответстват на годините: синьо за 2014, оранжево за 2015 и сиво за 2016. В категорията \"Пенсии за инвалидност ПОЗ\" се наблюдават стойности от 377 581 за 2014 г., 382 403 за 2015 г. и 384 774 за 2016 г. В категорията \"Пенсии за инвалидност ПТЗПБ\" стойностите са съответно 5 541, 6 172 и 5 866. При \"Социални пенсии за инвалидност\" са представени стойности от 4 793 за 2014 г., 485 048 за 2015 г., което вероятно е грешка в оригиналния график, и 4 973 за 2016 г. В категорията \"Общо лични пенсии за инвалидност\" стойностите са 432 015, 437 273 и 440 433 съответно за 2014, 2015 и 2016 г. Всички стойности и цветове са ясно обозначени, което позволява разграничаване на различните години и видове пенсии."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "12_Alternativi br2_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Трансмисионен механизъм при оценка на влиянето на преките чуждестранни инвестиции и вътрешните инвестиции върху икономическия растеж в България за периода 1999-2015 г.",
+      "figure_filename": "12_Alternativi br2_2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/12_Alternativi br2_2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_Alternativi br2_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_Alternativi br2_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на ПЧИ и внос на инвестиционни стоки (млн. евро)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промени във времето на два показателя: внос на инвестиционни стоки и ПЧИ (преки чуждестранни инвестиции) в милиони евро от 1999 до 2015 година. Оста X е означена с години, обхваща интервала от 1999 до 2015 година, и има линейна скала с равномерни етикети на всяка година. Оста Y показва стойности в милиони евро със скала от 0 до 10000,0, с равномерни интервали от по 2000 единици.\n\nПървата графика, която представя вноса на инвестиционни стоки, е обозначена със син цвят и маркери във формата на ромб. Стилът на линията е плътен, като показва плавно нарастване през разглеждания период. Стойността започва около 1000 милиона евро през 1999 година и достига около 6000 милиона евро до 2015 година. Линията визуално демонстрира умерено нарастване с по-изразен скок след 2007 година.\n\nВтората графика, представляваща ПЧИ, е в червен цвят с квадратни маркери и също плътна линия. Стартова стойност е близо до 1000 милиона евро през 1999 година, а през 2007 година достига пик от приблизително 9000 милиона евро, след което рязко спада до около 2000 милиона евро през 2015 година. Линията визуално демонстрира значително увеличение до 2007 година с последващо съществено намаление."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "12_Alternativi br2_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Трансмисионен механизъм при оценка на влиянето на преките чуждестранни инвестиции и вътрешните инвестиции върху икономическия растеж в България за периода 1999-2015 г.",
+      "figure_filename": "12_Alternativi br2_2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/12_Alternativi br2_2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_Alternativi br2_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/12_Alternativi br2_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Динамика на внос на инвестиционни стоки (млн. евро)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира промените в стойностите на вноса на инвестиционни стоки и БООК в милиони евро през периода от 1999 г. до 2015 г. Оста X е отбелязана с години, вариращи от 1999 до 2015, с равномерно разпределени интервали по 1 година. Оста Y е обозначена в милиони евро и има линейна скала, варираща от 0 до 14,000, със стъпка от 2,000.\n\nПървата графика изобразява данните за БООК (в милиони евро) и е обозначена със син цвят и диамантен маркер, като линията е плътна. Тази линия започва около 2,000 през 1999 г., нараства стабилно до пик от около 12,000 през 2008 г., след което показва рязък спад до около 6,000 през 2009 г. След това стойностите леко колебаят, остават стабилни около 8,000 от 2010 до 2015 г.\n\nВтората графика представлява вноса на инвестиционни стоки (в милиони евро) и използва червен цвят с квадратни маркери и плътна линия. Началната точка през 1999 г. е около 1,900, последвана от леко увеличение през следващите години, достигайки до около 3,900 през 2008 г. След преминаване през лек спад през 2009 г., линията показва постепенно нарастване, достигайки около 4,800 през 2015 г."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на методите за определяне цената на собствения капитал",
+      "figure_filename": "1_Alternativi_br_3_2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_Alternativi_br_3_2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя методите, които се използват за определяне на цената на собствения капитал. Съдържа седем категории. Категорията \"Метод на надграждането\" е синия сектор с дял от 13%. \"Метод 'Доходност плюс растеж' (или DCF метод)\" е обозначен с оранжев сектор и има дял от 39%. \"CAPM\" е показан в сив сектор също с 39%. „Арбитражна ценообразуваща теория (мултифакторни модели)” е в зелен сектор с дял от 6%. „Три-факторен (или пет-факторен) модел на Фама и Френч” е показан в тъмносин сектор с дял от 3%. Категорията \"Не е приложимо\" е с дял от 0% и е представена в лилав цвят. Също така, категорията \"Друго\" има дял от 0% и е представена в червен цвят. Диаграмата съдържа легенда и етикети с проценти вътре в секторите. Сегментите не са подредени по определен начин."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на методите за определяне цената на собствения капитал",
+      "figure_filename": "1_Alternativi_br_3_2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_Alternativi_br_3_2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Диаграмата илюстрира промените в безрисковата норма, подразбираната премия за риск и подразбираната цена на капитала на S&P500 за периода 1961 – 2016 г. Оста X е обозначена с години и е с линейна скала. Диапазонът на годините е от 1961 до 2016, като етикетите са разположени на интервали от около 2-3 години. Оста Y е обозначена в проценти и също е с линейна скала. Диапазонът на стойностите е от 0,00% до 25,00%, с етикети на всеки 5%.\n\nСинята линия представя безрисковата норма, използвайки малки диамантени маркери и плътна линия. Започва около 3,50% през 1961 г., достига първоначален връх над 10% през началото на 80-те години, последван от спадове и възходи, завършвайки близо до 2% в 2016 г.\n\nЗелената линия обозначава подразбираната цена на собствения капитал, като използва триъгълни маркери и плътна линия. Започва около 10% през 1961 г., нараства до пик над 20% през 1978 г., след което се наблюдава низходяща тенденция, стабилизираща се около 10% в края на периода.\n\nЧервената линия показва подразбираната премия за риск, използвайки квадратни маркери и плътна линия. Започва около 3% през 1961 г., с умерени колебания през целия период и завършва около 5% в 2016 г., като през средата на периода има по-големи отклонения."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Сравнителен анализ на методите за определяне цената на собствения капитал",
+      "figure_filename": "1_Alternativi_br_3_2018_BG_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_Alternativi_br_3_2018_BG_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "No caption",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя използваната пазарна премия за риск при CAPM и включва пет сектора. Първият сектор е означен с \"Текуща (подразбирана) пазарна премия за риск\", оцветен в синьо и заема 32% от диаграмата. Вторият сектор е \"Историческа средна аритметична пазарна премия за риск\", оранжев на цвят, с дял от 16%. Третият сектор е \"Историческа средна геометрична пазарна премия за риск\", сив на цвят, и заема 10%. Четвъртият сектор е \"Не е приложимо\", с жълт цвят и най-голям дял от 42%. Последният сектор е \"Друго\", който е нулев процент и не е визуално забележим, изглежда като тънка линия. Диаграмата включва легенда в долната част, етикети с проценти вътре в секторите и секторите изглеждат подредени по низходящ размер. Няма визуално подчертани или изместени сектори."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "13_Alternativi br2_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред иновациите в банковата сигурност",
+      "figure_filename": "13_Alternativi br2_2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/13_Alternativi br2_2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/13_Alternativi br2_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/13_Alternativi br2_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Участие във въвеждане на директива PSD2 от звената по банкова сигурност",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя разпределение на отговори по въпрос с пет възможни категории. Общият брой на секторите е пет. Първият сектор е етикетиран като \"категорично да\" и е оцветен в синьо с дял от 0%. Вторият сектор е \"по-скоро да\" и се отличава с червено, заемайки 72%. Третият сектор е \"трудно е да се каже\", маркиран в зелено, с дял от 0%. Четвъртият сектор, означен като \"по-скоро не\", е в лилаво и заема 14%. Последният сектор е \"категорично не\", маркиран в тъмносиньо, също със 14%. Диаграмата включва легенда, а вътрешните сегменти са етикетирани с проценти. Няма визуално подчертан сектор и сегментите не изглеждат подредени по определен начин."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "13_Alternativi br2_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Предизвикателства пред иновациите в банковата сигурност",
+      "figure_filename": "13_Alternativi br2_2018_BG_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/13_Alternativi br2_2018_BG_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/13_Alternativi br2_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/13_Alternativi br2_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Отношение към регламент (ЕС) 2016/679",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя мненията по определен въпрос, разделени на три категории. Общо са включени три сектора. Първият сектор е означен с \"Напълно необходим и полезен\", оцветен в синьо и заема 14% от диаграмата. Вторият сектор е обозначен като \"Нямам отношение\", има червен цвят и заема 60%. Третият сектор е обозначен като \"Създава излишни затруднения, които са трудно изпълними и ненужни\", оцветен е в зелено и представлява 28% от диаграмата. Диаграмата включва легенда, която помага за идентифициране на различните категории. Процентите са изрично отбелязани вътре в секторите. Сегментите не са визуално подредени по низходящ размер."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "2_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Емпирични доказателства към ефективността на училищното образование в България",
+      "figure_filename": "2_Alternativi_br_3_2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/2_Alternativi_br_3_2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Среден брой ученици в училище по групи общини",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира сравнение на стойности за два различни периода: 2008/09 и 2015/16. Хоризонталната ос съдържа категориите, отбелязани с числа от 1 до 7, подредени във възходящ ред. Вертикалната ос етикетира стойностите, вариращи от 0 до 600 с равномерно разположени интервали от 100 единици. Единиците не са специфично споменати. Стълбите са групирани по двойки за всеки период с различни цветове: синьо за 2008/09 и червено за 2015/16. Най-високият стълб достига стойност 530 за първата категория през 2008/09, докато най-ниският е 156 за седмата категория през 2015/16. Всеки стълб е означен с точната си стойност върху него. Няма визуално подчертани елементи освен различните цветове за двата периода."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "2_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Емпирични доказателства към ефективността на училищното образование в България",
+      "figure_filename": "2_Alternativi_br_3_2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/2_Alternativi_br_3_2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Учащи се и средна издръжка",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Графиката илюстрира промените във времето на броя на учащите се и средните разходи на един участник. По оста X са отбелязани годините, които са равномерно разпределени с етикети през интервал от приблизително три години, започвайки от 2005 и завършвайки през 2014. Типът на скалата е линейна. Оста Y е разделена на две части: лявата част показва броя на учащите се със синя цветова схема и интервали по 50,000, като започва от 500,000 и стига до 950,000. Дясната част на оста Y показва средните разходи на 1 учащ се в червено, с интервали по 500 единици, започвайки от 0 и стигайки до 2500.\n\nСинята линия, представяща броя на учащите се, започва около 920,000 през 2005 и намалява до около 740,000 през 2011, след което остава почти стабилна до 2014. Формата на маркерите не е отбелязана, а стилът на линията е плътен.\n\nЧервената линия, която показва средните разходи на 1 учащ се, започва около 500 през 2005 и се увеличава до около 1500 през 2008, след което остава относително стабилна до 2011 и отново се увеличава до 2000 през 2014. И тази линия е плътна и без обозначени маркери."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "2_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Емпирични доказателства към ефективността на училищното образование в България",
+      "figure_filename": "2_Alternativi_br_3_2018_BG_fig7.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/2_Alternativi_br_3_2018_BG_fig7.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Образователни постижения (среднопретеглени индекси PISA 2009 и 2012 г.)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира резултатите от PISA изследванията за 2009 и 2012 година за различни държави, като представя стойности за всеки от тях. Хоризонталната ос съдържа категориите – различни държави и обединени общности (като ЕС и ОИСР), представени в произволен ред. Вертикалната ос представя стойностите на резултатите, етикетирана в диапазона от 300 до 600, с единици на интервалите, разположени равномерно през всеки 50 точки. Данните са организирани по две групи стълбове на всяка категория, като светлосините стълбове представят резултатите от 2009 година, а тъмносините – от 2012 година. Има също така стълбове, маркирани с червен, оранжев и зелен цвят, които визуално подчертават стойности за специфични категории – ОИСР (червен), ЕС (оранжев) и България (зелен). Стойностите за тях са съответно 497 за ОИСР, 492 за ЕС и 440 за България, отбелязани над стълбовете. Подчертаните стълбове се отличават с различен цвят в сравнение с останалите, което вероятно отразява специално значение или внимание към тези елементи."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "2_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Емпирични доказателства към ефективността на училищното образование в България",
+      "figure_filename": "2_Alternativi_br_3_2018_BG_fig8.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/2_Alternativi_br_3_2018_BG_fig8.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Публични разходи за училищно образование и образователни резултати (PISA)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Фигурата илюстрира съпоставянето на стойности по две различни оси за различни държави, като представя финансови показатели и резултати от теста PISA за 2012 година. Оста X е категорична и представя имената на различни държави, без числови стойности или скала. Оста Y вляво е линейна, обозначена като \"PISA 2012\" и има диапазон от 0 до 600, с интервали на маркиране през 100 единици, като липсва посочване на конкретни единици. Оста Y вдясно е също линейна и свързана с \"PE ed % GDP\", с диапазон от 0,00 до 3,50 и означения през 0,50.\n\nПървата линия е синя, плътна и представя визуални промени на резултатите по оста Y за PISA 2012. Линията започва около 530 за Финландия и постепенно намалява до стойност близо до 440 за България. В хода на графиката синята линия включва също така пунктирана линия, която не достига по-ниска стойност от пълната линия.\n\nВтората линия е червена, плътна и представя процент от GDP по оста Y вдясно. Линията започва от около 2,25 за Финландия, показва колебания с върхове и спадове за различни държави, и завършва при стойност около 1,50 за България. Червената линия също включва пунктирана линия, като служи за сравнение по протежение на височината на графиката."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "2_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Емпирични доказателства към ефективността на училищното образование в България",
+      "figure_filename": "2_Alternativi_br_3_2018_BG_fig11.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/2_Alternativi_br_3_2018_BG_fig11.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/2_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Равнище на заплащане в евро и образователни резултати (PISA) за 2012 г.",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Тази фигура илюстрира сравненията между две променливи за различни държави чрез линейна диаграма. Оста X е обозначена с абревиатури на държавите. Тя има категориална скала и няма единици или числови означения. Оста Y отляво представлява \"AvSalary 12-13\", а отдясно \"PISA 12\". За оста Y отляво диапазонът е от 0 до 70 000, като етикетите са на интервали от 10 000. За оста Y отдясно диапазонът е от 300 до 550, с етикети на интервали от 50. \n\nЧервената линия представлява \"AvSalary 12-13\". Тя е изобразена със солидна линия и няма видими маркери. Линията започва от горната част на диапазона на оста Y за Дания и постепенно намалява, завършвайки в най-долната част на диапазона за България. Значителни спадове може да се видят при Финландия и между Италия и Португалия.\n\nСинята линия представлява \"PISA 12\", изобразена със солидна линия без маркери. Тя започва във високата част на скалата на оста Y около 500 за Дания, като варира с изкачвания и спадове, и завършва около 420 за България. Забелязват се пикове при Финландия и спадове след България."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "3_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ на състоянието на автобусния транспорт на територията на Столична община и насоки за устойчивото му развитие",
+      "figure_filename": "3_Alternativi_br_3_2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/3_Alternativi_br_3_2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/3_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/3_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на пътниците по видове транспорт, 2011 г.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя дяловете на различни видове обществен транспорт. Общият брой на секторите е четири. Първият сектор, обозначен като \"автобуси\", е в червен цвят и заема 54% от диаграмата. Вторият сектор, обозначен като \"трамваи\", е в жълт цвят и съставлява 22%. Третият сектор, маркиран като \"тролеи\", е в син цвят и представлява 13% от диаграмата. Четвъртият сектор, наречен \"метро\", е в зелен цвят и заема 11%. Диаграмата включва легенда, която идентифицира цветовете на секторите. Процентите са изрично отбелязани вътре в секторите. Секторите не изглеждат подредени по определен начин, например по низходящ размер. Няма визуално подчертани (разширени, изместени или удебелени) сектори в диаграмата."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "3_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Анализ на състоянието на автобусния транспорт на територията на Столична община и насоки за устойчивото му развитие",
+      "figure_filename": "3_Alternativi_br_3_2018_BG_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/3_Alternativi_br_3_2018_BG_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/3_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/3_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Разпределение на пътниците по видове транспорт, 2014 г.",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представя дяловете на различни категории за 2014 година чрез пайова диаграма с общо пет сектора. Червеният сектор заема най-голям дял от 40.77%. Зеленият сектор има дял от 32.19%. Следва златистожълтият сектор с дял от 19.50%. Синият сектор заема дял от 7.54%. Легенда липсва, но процентите са отбелязани извън секторите. Секторите изглеждат подредени в низходящ ред по големина по посока на часовниковата стрелка, като червеният и жълтият сектор са визуално изместени напред, създавайки триизмерен ефект."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Изследване на рентабилността на строителните компании за периода 2008-2015 г.",
+      "figure_filename": "6_Alternativi_br_3_2018_BG_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_Alternativi_br_3_2018_BG_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Рентабилност на база оборот в сектор F „Строителство“ за периода 2008-2015 г. в проценти",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира рентабилността на база оборот в сектор \"Строителство\" за периода от 2008 до 2015 година и е представена в проценти. Хоризонталната ос съдържа категориите, които са годините от 2008 до 2015, подредени в хронологичен ред. Вертикалната ос е означена с процентно изражение и показва рентабилността от 0% до 9%, като стойностите са интервалирани през единица процентен пункт. Диаграмата показва, че през 2008 година рентабилността е най-висока – 8,95%, докато през 2010 година е най-ниска – 1,58%. Последователна промяна може да се забележи между 2010 и 2011 година, където рентабилността е 1,58% и 1,83% съответно. Останалите стълбове показват стойности от 4,38% за 2012, 5,61% за 2013, 5,74% за 2014 и 6,06% за 2015, демонстрирайки възстановяване след спадовете в предходните години. Няма визуално подчертани стълбове, като всички са оцветени в еднакъв нюанс."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "6_Alternativi_br_3_2018_BG",
+      "paper_language": "Bulgarian",
+      "paper_title": "Изследване на рентабилността на строителните компании за периода 2008-2015 г.",
+      "figure_filename": "6_Alternativi_br_3_2018_BG_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/6_Alternativi_br_3_2018_BG_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_Alternativi_br_3_2018_BG.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/6_Alternativi_br_3_2018_BG.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Рентабилността на база нетен размер на приходи от продажби в проценти за периода 2008-2015 г. на строителните компании",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира рентабилността на базата НРПрПр за различни компании през периода от 2008 до 2015 г. Хоризонталната ос представя годините и е обозначена със стойности от 2008 до 2015 без видима строго определен ред. Вертикалната ос е обозначена с процентна стойност (%), която варира от -40% до 100%, с равномерни интервали, обозначени през 20%. Стълбовете са групирани по година и всяка година съдържа до десет стълба, представляващи различни компании. Легендата в долната част на диаграмата показва кои компании съответстват на различните цветове на стълбовете. Всяка компания има характерен цвят по аналогия с легендата, например „Артекс Инженеринг“ АД е представен с жълт цвят, а „НИКМИ“ АД - със светлосин. Рентабилността на „НИКМИ“ АД през 2008 и 2013 е значително по-висока от тази на останалите компании, докато „М – СТРОНГ“ ООД през 2012 също показва висок процент. Представените стойности варират значителна степен, като разликите между най-високите и най-ниските стойности са изразени както чрез маркировка над и под хиксовата ос, така и чрез цветово различаване."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_IA_br4_2018_bg",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ликвидността на банковия сектор и състоянието на икономиката на страната",
+      "figure_filename": "1_IA_br4_2018_bg_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_IA_br4_2018_bg_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br4_2018_bg.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br4_2018_bg.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Структура на частния дълг в България, 2006-2015 г.*",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира дела на нефинансови предприятия и домакинства като процент от БВП за период от 2006 до 2015 година. Хоризонталната ос съдържа категориите, които са години, и са подредени по възходящ ред от 2006 до 2015. Вертикалната ос представя стойностите с етикет \"% от БВП\" и обхваща диапазон от 0 до 160, структурирана с равномерни интервали от 20 единици. Диаграмата е групирана и наслагвана, като всеки стълб е разделен на два сегмента: долната част е с жълт цвят, представляваща нефинансовите предприятия, а горната част е в син цвят, представляваща домакинствата. Групирането на сегментите не изменя подредбата на стълбовете, а те следват естествения хронологичен ред на годината. Няма визуално подчертани стълбове, а височината на всеки стълб показва общия процент за съответната година."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "1_IA_br4_2018_bg",
+      "paper_language": "Bulgarian",
+      "paper_title": "Ликвидността на банковия сектор и състоянието на икономиката на страната",
+      "figure_filename": "1_IA_br4_2018_bg_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/1_IA_br4_2018_bg_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br4_2018_bg.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/1_IA_br4_2018_bg.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Показатели за доходност на банковата система и избрани банки през първите девет месеца на 2016 г.",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира показателите за доходност на банковата система и избрани банки през първите девет месеца на 2016 г. Хоризонталната ос съдържа категориите, които включват “Банкова система”, “Банка ДСК”, “Обединена българска банка” и “Първа инвестиционна банка”. Тези категории са именовани и са подредени в специфичен ред без видимо азбучно или числово организиране. Вертикалната ос показва процентите, представляващи възвръщаемостта, със стойности от 0% до 25%, като изглежда, че стойностите са разпределени на равни интервали от 5%. Има две отделни стойности, представени за всяка категория: възвръщаемост на активите (в синьо) и възвръщаемост на собствения капитал (в оранжево). За “Банкова система”, възвръщаемостта на активите е приблизително 1.59%, а на собствения капитал - около 11.72%. За “Банка ДСК” възвръщаемостта на активите е около 3.05%, а на собствения капитал - приблизително 23.12%, което е най-високата стойност в диаграмата. “Обединена българска банка” показва 1.73% възвръщаемост на активите и 9.33% на собствения капитал, докато “Първа инвестиционна банка” има 0.86% възвръщаемост на активите и 9.06% на собствения капитал. Стълбовете не са визуално подчертани или подредени по определен начин. Легендата разяснява, че сините стълбове са свързани с възвръщаемостта на активите, а оранжевите - с възвръщаемостта на собствения капитал. Източникът на данните е Българската народна банка, както е отбелязано в долната част на диаграмата."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Clasteri_IA_br4_2018_bg-2",
+      "paper_language": "Bulgarian",
+      "paper_title": "Клъстери и клъстерни инициативи в България: развитие и предизвикателства",
+      "figure_filename": "Clasteri_IA_br4_2018_bg-2_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Clasteri_IA_br4_2018_bg-2_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Clasteri_IA_br4_2018_bg-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Clasteri_IA_br4_2018_bg-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Клъстери според етап на жизнения цикъл",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Диаграмата представлява разпределение на три категории въз основа на етап на развитие. Включва общо три сектора. Първият сектор е обозначен като \"развити\" и е оцветен в синьо, със стойност от 6%. Вторият сектор е обозначен като \"развиващи се\" и е в оранжево, със стойност от 31%. Третият сектор е обозначен като \"на начален етап на развитие,\" оцветен в жълто, със стойност от 63%. Диаграмата включва легенда в дясната част, която съответства на цветовете на категориите, като всеки сектор има отбелязани проценти вътре в себе си. Няма визуално подчертан сектор. Секторите не изглеждат подредени по определен начин, като са представени в различни цветове."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "SR_IA_br4_2018_bg-3",
+      "paper_language": "Bulgarian",
+      "paper_title": "Регионално и пространствено развитие на градовете в Северозападен район",
+      "figure_filename": "SR_IA_br4_2018_bg-3_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/SR_IA_br4_2018_bg-3_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/SR_IA_br4_2018_bg-3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/SR_IA_br4_2018_bg-3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Население за периода 2010-2016 г. по данни на НСИ",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира количествено сравнение на четири различни категории, обозначени в легендата като Видин, Враца, Монтана и Ловеч, в седем различни времеви или числови единици, означени на хоризонталната ос с числата от 1 до 7. Хоризонталната ос представя категориите по ред от 1 до 7 в линейна скала. Вертикалната ос е етикетирана с числови стойности, изразяващи мерна единица от 0 до 120000 на интервали от 20000, също в линейна скала. Всеки данни набор е представен като групирани стълби, като всеки цвят отговаря на различна от категориите, според посочените в легендата: червено за Видин, зелено за Враца, лилаво за Монтана и синьо за Ловеч. Стойностите на стълбовете варират, като зелените стълбове за Враца достигат най-големи стойности около 110000, докато сините стълбове за Ловеч са най-ниските, под 20000. Няма подредба на стълбовете по височина, въпреки че възможна разлика в височините на стълбовете между категориите е явно изразена."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "SR_IA_br4_2018_bg-3",
+      "paper_language": "Bulgarian",
+      "paper_title": "Регионално и пространствено развитие на градовете в Северозападен район",
+      "figure_filename": "SR_IA_br4_2018_bg-3_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/SR_IA_br4_2018_bg-3_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/SR_IA_br4_2018_bg-3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/SR_IA_br4_2018_bg-3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Раждаемост по години, по данни на НСИ",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира сравнение между стойностите, свързани с четири различни категории, обозначени като Видин, Враца, Ловеч и Монтана, през седем отделни периода или групи, етикетирани с числата от 1 до 7. Хоризонталната ос съдържа категориите, като тези категории изглежда са подредени по нарастващ ред от 1 до 7. Вертикалната ос представлява стойностите, измерени в интервали от 100 единици, като диапазонът е от 0 до 600. Скалата на оста е линейна, с равномерно разположени числови етикети. Всеки стълб представлява стойност за специфичен период и категория, като различните цветове сигнализират различни категории: червено за Видин, зелено за Враца, лилаво за Ловеч и синьо за Монтана. Най-високите стойности са отбелязани от зеления стълб (Враца) в почти всички групи, като достигат приблизително до 550-600. Най-ниските стойности могат да се наблюдават при Монтана или Ловеч, като остават между 200 и 300. Стълбовете са групирани по четири във всяка от седемте категории, и няма визуално подчертани стълбове чрез засенчване или очертание."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "SR_IA_br4_2018_bg-3",
+      "paper_language": "Bulgarian",
+      "paper_title": "Регионално и пространствено развитие на градовете в Северозападен район",
+      "figure_filename": "SR_IA_br4_2018_bg-3_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/SR_IA_br4_2018_bg-3_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/SR_IA_br4_2018_bg-3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/SR_IA_br4_2018_bg-3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Смъртност по години, по данни на НСИ",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира стойности, свързани с различни категории, обозначени като \"Монтана,\" \"Ловеч,\" \"Враца,\" и \"Видин.\" Хоризонталната ос представя стойности, вариращи от 0 до 1200, на равномерни интервали, вероятно с линейна скала, макар че точните единици не са уточнени. Вертикалната ос съдържа постоянна стойност от 1900, която се повтаря за всяка от категориите. Стълбите са групирани хоризонтално по категории, както е указано от легендата, където всеки цвят съответства на даден град: светло синьо за Монтана, лилаво за Ловеч, зелено за Враца и червено за Видин. Всяка категория съдържа по няколко хоризонтални стълба на една и съща височина, които са визуално еднакви. Не са направени специални визуални акценти или подредби сред стълбите според представената информация."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Izvori_IA_br4_2018_bg-5",
+      "paper_language": "Bulgarian",
+      "paper_title": "Икономически ефекти от използването на минералните извори в спа обектите",
+      "figure_filename": "Izvori_IA_br4_2018_bg-5_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Izvori_IA_br4_2018_bg-5_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Izvori_IA_br4_2018_bg-5.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Izvori_IA_br4_2018_bg-5.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Процентно разпределение на изворите с различни категории дебити в България",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира разпределението на извори по дебит в литри на секунда. Хоризонталната ос представя категориите на изворите по дебит с етикет \"Извори с дебит в л./сек.\", подредени в нарастващ ред: <1, 1-20, 21-40 и 40-100. Вертикалната ос е с етикет \"% от изворите\" и показва процентно съдържание, със стойности вариращи от 0,00% до 80,00% на равномерни интервали от 10,00%. Най-високият стълб е за категорията \"1-20\", достигайки стойност над 70%, докато най-ниската стойност е при категорията \"<1\", близко до 0%. Другите две категории \"21-40\" и \"40-100\" показват по-ниски стойности спрямо \"1-20\". Диаграмата е линейна и всички стойности са визуално представени без допълнителни визуални акценти."
+    }
+  },
+  {
+    "data": {
+      "source": "unwe",
+      "source_id": "Izvori_IA_br4_2018_bg-5",
+      "paper_language": "Bulgarian",
+      "paper_title": "Икономически ефекти от използването на минералните извори в спа обектите",
+      "figure_filename": "Izvori_IA_br4_2018_bg-5_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/figures/Izvori_IA_br4_2018_bg-5_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Izvori_IA_br4_2018_bg-5.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-12/downloaded_pdfs/Izvori_IA_br4_2018_bg-5.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Процентно разпределение на изворите с различни категории температури в България",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Диаграмата илюстрира процентното разпределение на изворите по температурни диапазони в градуси Целзий. Хоризонталната ос съдържа категориите, представляващи температурни диапазони: \"<25\", \"25-50\", \"51-75\" и \"76-100\", като те са подредени в нарастващ порядък. Вертикалната ос е етикетирана като \"% от изворите\" и показва процентни стойности, вариращи от 0% до 60%, с равномерни интервали от по 10%. Стълбовете са вертикални и всеки от тях съответства на даден температурен диапазон. Най-ниският стойност на стълб е около 10% за диапазона \"<25\", а най-високият е около 55% за диапазона \"25-50\". Диаграмата не показва групирани или наслагвани стълби и няма визуално подчертани стълби чрез засенчване, удебеляване, очертаване или допълнителни бележки."
+    }
+  }
+]
