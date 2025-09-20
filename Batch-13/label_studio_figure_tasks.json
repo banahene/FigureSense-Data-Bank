@@ -1,0 +1,1202 @@
+[
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225614",
+      "paper_language": "German",
+      "paper_title": "Verlorenes Glück – Zufriedenheitsverluste in der Corona-Krise",
+      "figure_filename": "586-590-Konrad_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/586-590-Konrad_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Lebenszufriedenheitsverluste von Selbständigen",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt Kerndichteschätzungen verschiedener Gruppen im Hinblick auf Verlustpunkte. Die x-Achse ist mit „Verlustpunkte“ beschriftet und reicht linear von -2 bis 8, wobei die Tick-Beschriftungen an den Stellen -2, 0, 2, 4, 6 und 8 liegen. Die y-Achse trägt die Beschriftung „Wahrscheinlichkeitsdichte“ und erstreckt sich ebenfalls linear von 0,00 bis 0,20, mit Markierungen bei 0,00, 0,05, 0,10, 0,15 und 0,20. Im Diagramm sind drei Linien dargestellt: Eine graue Linie repräsentiert die „Gesamtpopulation (M = 1,15)“ und zeigt einen Anstieg von etwa 0,04 bei x = -2, erreicht ein Maximum von circa 0,18 bei x = 1 und fällt danach stetig ab. Eine blaue durchgezogene Linie stellt die „Selbstständigen (M = 1,43)“ dar, beginnend bei etwa 0,02 bei x = -2, mit einem Höhepunkt von circa 0,17 bei x = 1 und danach einem gleichmäßigen Rückgang. Die blaue gestrichelte Linie weist die „Selbstständigen, negativ betroffen (M = 1,81)“ aus, mit einem Startpunkt nahe 0,01 bei x = -2, einem Maximum von etwa 0,16 bei x = 1 und anschließendem kontinuierlichem Abfall. Jede Linie zeigt spezifische Wahrscheinlichkeitsverteilungen anhand der Verlustpunkte, ohne über ihre Ursachen zu spekulieren."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225614",
+      "paper_language": "German",
+      "paper_title": "Verlorenes Glück – Zufriedenheitsverluste in der Corona-Krise",
+      "figure_filename": "586-590-Konrad_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/586-590-Konrad_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Lebenszufriedenheitsverluste von Selbständigen Kerndichteschätzung",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt eine Kerndichteschätzung, um die Verteilung der Verlustpunkte für verschiedene Gruppen zu veranschaulichen. Die x-Achse ist mit \"Verlustpunkte\" beschriftet und verwendet eine lineare Skala mit einem Wertebereich von -2 bis 8. Die Tik-Beschriftungen erfolgen in Intervallen von 2 Einheiten. Die y-Achse trägt die Bezeichnung \"Wahrscheinlichkeitsdichte\" und ist ebenfalls linear skaliert, mit einem Wertebereich von 0 bis 0,20 und Intervallen von 0,05. Vier Linien werden dargestellt: Eine durchgezogene dunkelblaue Linie für \"Solo-Selbständige\", die von etwa 0,02 bei -2 steigt, einen Höchstwert von ca. 0,20 bei etwa 1 erreicht und dann wieder abfällt. Eine helle, durchgezogene Linie für \"Unternehmer mit Angestellten\" zeigt einen ähnlichen Trend, jedoch mit einem Höchstwert von knapp über 0,18 um die gleiche x-Position. Die gestrichelte dunkelblaue Linie, die \"Solo-Selbstständige, negativ betroffen\" repräsentiert, beginnt etwas unterhalb der Solo-Selbständigen bei -2, erreicht ihren Höhepunkt von etwa 0,18 bei ungefähr 1 und fällt danach ab. Schließlich zeigt die hellblaue gestrichelte Linie für \"Unternehmer mit Angestellten, negativ betroffen\" einen ähnlichen Verlauf, jedoch mit einem Höchstwert von etwas über 0,16. Alle Linien beginnen, steigen und sinken in ähnlichen Bereichen und verlieren an der rechten Seite der x-Achse an Höhe."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225614",
+      "paper_language": "German",
+      "paper_title": "Verlorenes Glück – Zufriedenheitsverluste in der Corona-Krise",
+      "figure_filename": "586-590-Konrad_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/586-590-Konrad_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Lebenszufriedenheitsverluste von Frauen Kerndichteschätzung",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm stellt eine Kerndichteschätzung dar, die die Wahrscheinlichkeitsdichte in Bezug auf Verlustpunkte für verschiedene Populationen zeigt. Die x-Achse ist linear skaliert und mit „Verlustpunkte“ beschriftet. Sie erstreckt sich von -2 bis 8, wobei die Tick-Beschriftungen in Intervallen von 2 dargestellt sind. Die y-Achse ist ebenfalls linear skaliert, mit der Beschriftung „Wahrscheinlichkeitsdichte“ und reicht von 0 bis 0,20, in Intervallen von 0,05 aufgeteilt. Eine graue Linie repräsentiert die Gesamtpopulation, beginnt bei etwa 0,03 bei -2 Verlustpunkten, erreicht ein Maximum von etwa 0,20 zwischen 0 und 2 Verlustpunkten und sinkt dann bis unter 0,05 bei etwa 8 Verlustpunkten. Eine dunkelblaue Linie repräsentiert Frauen, beginnend knapp über 0,03, ebenfalls mit einem Maximum von etwa 0,19 zwischen 0 und 2, und sinkt ähnlich wie die graue Linie. Eine hellblaue Linie kennzeichnet Frauen mit Kindern, startet bei etwa 0,02, erreicht einen Spitzenwert von etwa 0,15 und zeigt einen Abklingverlauf ähnlich der zuvor erwähnten Linien. Eine blassblaue Linie steht für alleinerziehende Frauen und folgt einem ähnlichen Verlauf wie die anderen, startet knapp über 0,03, erreicht ein Maximum von etwa 0,18 und sinkt dann kontinuierlich. Jede Linie zeigt einen ähnlichen Verlauf mit einem Anstieg zu einem Maximum und einer darauffolgenden Abnahme."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225614",
+      "paper_language": "German",
+      "paper_title": "Verlorenes Glück – Zufriedenheitsverluste in der Corona-Krise",
+      "figure_filename": "586-590-Konrad_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/586-590-Konrad_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/586-590-Konrad.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Lebenszufriedenheitsverluste von selbständigen Frauen Kerndichteschätzung",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt eine Kerndichteschätzung für Verlustpunkte in verschiedenen Gruppen von Frauen. Die x-Achse ist mit \"Verlustpunkte\" beschriftet und verwendet eine lineare Skala mit einem Wertebereich von -2 bis 8, wobei die Intervalle der Tick-Beschriftungen regelmäßig bei 2 angeordnet sind. Die y-Achse ist mit \"Wahrscheinlichkeitsdichte\" beschriftet, ebenfalls linear skaliert und reicht von 0 bis 0,20, wobei die Intervalle der Tick-Beschriftungen bei 0,05 liegen. Es gibt drei Linien im Diagramm: Die erste Linie repräsentiert \"Frauen\" und ist grau mit einem durchgezogenen Stil. Sie beginnt bei einem Wert von etwa 0,02 bei -2 Verlustpunkten, erreicht einen Höhepunkt von etwa 0,17 bei 1 Verlustpunkt und fällt dann auf etwa 0,03 bei 8 Verlustpunkten. Die zweite Linie repräsentiert \"Selbständige Frauen\" und ist blau, ebenfalls durchgezogen. Sie startet bei knapp 0,02 bei -2 Verlustpunkten, erreicht ihren höchsten Punkt von etwa 0,15 bei 2 Verlustpunkten und sinkt anschließend auf etwa 0,04 bei 8 Verlustpunkten. Die dritte Linie steht für \"Selbständige Frauen, negativ betroffen\", ist blau gestrichelt, beginnt bei knapp 0,02 bei -2 Verlustpunkten, erreicht einen Höhepunkt von etwa 0,13 bei 2 Verlustpunkten und sinkt anschließend auf etwa 0,05 bei 8 Verlustpunkten."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231864",
+      "paper_language": "German",
+      "paper_title": "Corona-Effekte im internationalen Vergleich",
+      "figure_filename": "10.1007_s10273-020-2789-x_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2789-x_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2789-x.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2789-x.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "BIP-Entwicklung in ausgewählten OECD-Ländern im 1. Halbjahr 2020",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt die prozentuale Veränderung für zwei Quartale (Q1 und Q2) in verschiedenen Ländern dar. Die horizontale Achse zeigt die Kategorien, die aus den Ländern Südkorea, Schweden, Japan, Niederlande, Polen, Deutschland, USA, Italien, Frankreich, Großbritannien und Spanien bestehen. Die vertikale Achse ist mit dem Prozentsymbol (%) beschriftet und zeigt eine Skala von 0 bis -25 mit regelmäßigen Intervallen, die in Schritten von fünf Einheiten abnehmen. Jeder Balken repräsentiert die Veränderung in Prozent und ist in zwei Abschnitte unterteilt, die durch unterschiedliche Farben gekennzeichnet sind: ein hellblauer Abschnitt für Q1 und ein dunkelblauer für Q2. Die größten negativen prozentualen Veränderungen sind in Großbritannien und Spanien mit Werten um -20 zu beobachten, während kleinere Veränderungen bei Südkorea auftreten, das knapp über -5 bleibt. Die Balken sind nicht in einer spezifischen Reihenfolge sortiert und es sind keine besonderen visuell hervorgehobenen Elemente vorhanden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215568",
+      "paper_language": "German",
+      "paper_title": "Stahlkrise reloaded? Lage und Aussichten für die deutsche Stahlindustrie",
+      "figure_filename": "072-074-Oekon-Trends-Doehrn_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/072-074-Oekon-Trends-Doehrn_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/072-074-Oekon-Trends-Doehrn.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/072-074-Oekon-Trends-Doehrn.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Rohstahlerzeugung in Deutschland in 1000 t je Monat",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt die monatliche Entwicklung in Tausend Tonnen von 2011 bis 2019, wobei sowohl saisonbereinigte als auch Ursprungswerte dargestellt werden. Die x-Achse repräsentiert die Zeitspanne von 2011 bis 2019 in jährlichen Intervallen, wodurch ein linearer Zeitverlauf angezeigt wird. Die y-Achse zeigt die Werte in Tausend Tonnen pro Monat, mit einem linearen Verlauf von 3000 bis 4200, wobei die Ticks in Schritten von 200 beschriftet sind. Die erste Linie im Diagramm ist blau und durchgezogen, stellt die saisonbereinigten Werte dar und zeigt an verschiedenen Stellen der x-Achse Änderungen. Beispielsweise beginnt die zeitliche Linie im Jahr 2011 bei etwa 3800, fällt 2012 auf 3600, steigt bis 2014 auf über 3800 und pendelt zwischen 3400 und 3800 in den folgenden Jahren bis 2019, wo sie bei etwa 3200 endet. Kennzeichnend ist ein Höhepunkt bei 3700 im Jahr 2017 und ein Rückgang auf etwa 3200 am Ende der betrachteten Periode. Eine gepunktete blaue Linie zeigt die Ursprungswerte mit stärkeren Ausschlägen um die saisonbereinigten Daten entlang der x-Achse."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215568",
+      "paper_language": "German",
+      "paper_title": "Stahlkrise reloaded? Lage und Aussichten für die deutsche Stahlindustrie",
+      "figure_filename": "072-074-Oekon-Trends-Doehrn_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/072-074-Oekon-Trends-Doehrn_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/072-074-Oekon-Trends-Doehrn.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/072-074-Oekon-Trends-Doehrn.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Produktion der Stahlverwender in Deutschland",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt einen Indexverlauf von 2011 bis 2019, wobei der Basiswert des Index für das Jahr 2015 auf 100 gesetzt wurde. Die x-Achse ist linear skaliert und repräsentiert den Zeitraum von 2011 bis 2019 mit jährlichen Markierungen. Die y-Achse zeigt den Indexwert und ist ebenfalls linear skaliert mit einem Wertebereich von 80 bis 120, in Intervallen von 5 Schritten. Es gibt zwei Linien im Diagramm. Die durchgehende dunkelblaue Linie zeigt die saisonbereinigten Werte. Sie beginnt 2011 mit einem Wert von etwa 100, fällt bis 2013 auf etwa 97 ab, steigt gegen Ende 2014 leicht auf etwa 100,1 und fluktuiert dann um diesen Wert herum, bis sie 2019 auf etwa 94,8 abfällt. Die gestrichelte hellblaue Linie zeigt die Ursprungswerte und weist stärkere Schwankungen auf, wobei sie um den saisonbereinigten Trend oszilliert. Diese Linie erreicht Spitzen wie 8,2 im Jahr 2011 und Tiefpunkte wie -5,2 im Jahr 2019."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231838",
+      "paper_language": "German",
+      "paper_title": "Von der Grundrente zum Lebenserwartungsfaktor",
+      "figure_filename": "10.1007_s10273-020-2762-8_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2762-8_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Fernere Lebenserwartung mit 65",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt drei unterschiedliche Trendvarianten über die Zeit. Die x-Achse ist mit „Jahre“ beschriftet und reicht von 1950 bis 2080 in einem linearen Maßstab mit einem Intervall von 10 Jahren zwischen den Tick-Beschriftungen. Die y-Achse ist ebenfalls linear skaliert, reicht von 12 bis 28 und verfügt über einen Intervall von 2 Einheiten, jedoch ohne spezifische Einheit benannt. Die dunkelblaue Linie repräsentiert den historischen und prognostizierten Trend und beginnt bei etwa 13 im Jahr 1950. Sie steigt kontinuierlich bis zum Jahr 2080 auf etwa 26. Die hellblaue Linie, \"Trendvariante 1\", beginnt um das Jahr 2020 bei etwa 22 und verläuft flacher, wobei sie bis 2080 knapp über 24 erreicht. Die dunkelblaue gestrichelte Linie, \"Trendvariante 2\", startet ebenfalls um 2020 bei etwa 22, jedoch steigt sie steiler an und erreicht bis 2080 fast 28. Die schwarze durchgezogene Linie repräsentiert die \"Mittlere Trendvariante\", die zwischen den Jahren 2020 und 2080 leicht ansteigt, spezifisch bei 22 beginnt und fast 25 erreicht. Alle Linien zeigen unterschiedliche Steigungen und Endpunkte, die verschiedene Szenarien oder Annahmen über die Zeit hinweg darstellen."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231838",
+      "paper_language": "German",
+      "paper_title": "Von der Grundrente zum Lebenserwartungsfaktor",
+      "figure_filename": "10.1007_s10273-020-2762-8_fig2.1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2762-8_fig2.1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Fernere Lebenserwartung bei Renteneintritt bei mittlerer Trendvariante und Beitragsjahre je Rentenjahr",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm stellt die Veränderung der ferneren Lebenserwartung von 1950 bis 2080 dar. Die x-Achse ist linear skaliert und reicht von 1950 bis 2080 mit regelmäßigen Tick-Beschriftungen in Abständen von zehn Jahren. Die y-Achse ist ebenfalls linear skaliert und zeigt die ferneren Lebensjahre von 10 bis 28, wobei die Einheiten in Jahren angegeben sind. Die Skalenmarkierungen sind in Zweierschritten beschriftet. Die dunkelblaue Linie repräsentiert die Prognose „Ohne Rente mit 67“ und beginnt im Jahr 1950 bei etwa 14 Jahren, steigert sich stetig und erreicht im Jahr 2080 etwa 26 Jahre. Die hellblaue Linie stellt den „Status quo“ dar, der ab ca. 1980 leicht oberhalb von 18 Jahren beginnt und bis 2080 einen Wert von etwa 23 Jahren erreicht. Beide Linien zeigen über die Jahre hinweg einen ansteigenden Trend, wobei die „Ohne Rente mit 67“-Linie kontinuierlich über der „Status quo“-Linie liegt."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231838",
+      "paper_language": "German",
+      "paper_title": "Von der Grundrente zum Lebenserwartungsfaktor",
+      "figure_filename": "10.1007_s10273-020-2762-8_fig2.2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2762-8_fig2.2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Fernere Lebenserwartung bei Renteneintritt bei mittlerer Trendvariante und Beitragsjahre je Rentenjahr",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt die Anzahl der Beitragsjahre pro Rentenjahr im Zeitverlauf. Die x-Achse ist linear skaliert und repräsentiert die Jahre von 1950 bis 2070, wobei die Tick-Beschriftungen regelmäßig in 20-Jahres-Intervallen angeordnet sind. Es gibt keine spezifischen Einheiten auf der x-Achse. Die y-Achse ist ebenfalls linear und zeigt die Anzahl der Jahre von 0 bis 3,5, in Schritten von 0,5. Die Einheit ist in Jahren angegeben. Die dunkle Linie, die „Ohne Rente mit 67“ darstellt, beginnt bei etwa 3,2 Jahren im Jahr 1950 und zeigt einen abnehmenden Trend, der im Jahr 2070 bei etwa 1,5 Jahren endet. Diese Linie ist durchgehend und blau. Die hellere, ebenfalls durchgehende Linie, die als „Status quo“ bezeichnet wird, beginnt im Jahr 2020 bei etwa 1,9 Jahren, zeigt zunächst einen leichten Anstieg bis etwa 2030 und fällt dann wieder ab, um im Jahr 2070 bei ungefähr 1,8 Jahren zu enden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231838",
+      "paper_language": "German",
+      "paper_title": "Von der Grundrente zum Lebenserwartungsfaktor",
+      "figure_filename": "10.1007_s10273-020-2762-8_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2762-8_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Beitragsjahre/Rentenjahr mit Lebenserwartungsfaktor",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt die Entwicklung der Dauer in Jahren, in der das Rentenverhältnis unter verschiedenen Szenarien dargestellt wird. Die x-Achse ist linear skaliert, ist mit \"Jahre\" beschriftet und reicht von 1950 bis 2070, mit numerischen Beschriftungen in 20-Jahres-Intervallen. Die y-Achse ist ebenfalls linear skaliert, mit der Beschriftung \"Jahre\", die von 0 bis 3,5 reicht, in 0,5-Einheiten-Schritten unterteilt. Die dunkelblaue durchgezogene Linie repräsentiert das Szenario \"Ohne Rente mit 67\" und zeigt einen kontinuierlichen Rückgang von etwa 3,5 Jahren im Jahr 1950 auf etwa 1,5 Jahre im Jahr 2070. Die graue Linie mit quadratischen Markern stellt den \"Status quo\" dar, beginnend bei etwas unter 3 Jahren in 1950 und sinkend auf knapp über 2 Jahre im Jahr 2070. Die hellblaue gestrichelte Linie, die das Szenario \"Mit Lebenserwartungsfaktor ab 2032\" darstellt, zeigt einen ähnlichen Trend wie der Status quo, bleibt jedoch durchweg leicht darüber und endet etwas über 2 Jahre im Jahr 2070."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231838",
+      "paper_language": "German",
+      "paper_title": "Von der Grundrente zum Lebenserwartungsfaktor",
+      "figure_filename": "10.1007_s10273-020-2762-8_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2762-8_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2762-8.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Renteneintrittsalter mit Lebenserwartungsfaktor",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt die Entwicklung des Renteneintrittsalters über einen Zeitraum von 2017 bis 2077, wobei zwei Trendvarianten dargestellt werden. Die x-Achse ist linear skaliert und repräsentiert die Jahre, beginnend bei 2017 und endend bei 2077, mit Intervallen von 10 Jahren. Die y-Achse ist ebenfalls linear skaliert und zeigt das Alter in Jahren von 63 bis 71, mit Tick-Beschriftungen in Intervallen von einem Jahr. Die erste Linie, bezeichnet als „Trendvariante 1“, ist in hellblauer Farbe dargestellt und zeigt einen konstanten Verlauf, wobei sie um das Renteneintrittsalter von etwa 66 Jahren bleibt. Die zweite Linie, „Trendvariante 2“, ist in dunkelblauer Farbe dargestellt und zeigt einen ansteigenden Verlauf. Diese Linie beginnt bei etwa 65 Jahren im Jahr 2017 und erreicht etwa 70 Jahre im Jahr 2077, mit leichten Steigerungen über die Jahrzehnte verteilt."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215556",
+      "paper_language": "German",
+      "paper_title": "Niedrigzinsen: Ursachen und wirtschaftspolitische Implikationen",
+      "figure_filename": "009-012-ZG-Niedrigzinsen-Fuest_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/009-012-ZG-Niedrigzinsen-Fuest_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/009-012-ZG-Niedrigzinsen-Fuest.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/009-012-ZG-Niedrigzinsen-Fuest.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Investitionen und Ersparnisse der Entwicklungs- und Schwellenländer",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt den Prozentsatz der Ersparnisse und Investitionen im Verhältnis zum Bruttoinlandsprodukt von 1980 bis 2020. Die x-Achse repräsentiert die Jahre, sie ist linear skaliert und reicht von 1980 bis 2020 mit Intervallen von zwei Jahren zwischen den Tick-Beschriftungen. Die y-Achse zeigt Prozentsätze, ebenfalls linear skaliert, im Bereich von 15 % bis 35 % des Bruttoinlandsprodukts, mit Intervallen von 5 Prozentpunkten. Eine dunkelblaue Linie beschreibt den Verlauf der Investitionen. Diese beginnt im Jahr 1980 bei 25 %, fällt bis 1992 auf etwa 18 % und steigert sich bis 2008 auf etwa 27 %. Nach einem leichten Rückgang stabilisiert sie sich um die 25 % zwischen 2010 und 2020. Eine hellblaue Linie stellt die Ersparnisse dar, die im Jahr 1980 bei etwa 23 % liegen, bis 1991 fast konstant bleiben, dann kontinuierlich ansteigen und ihren Höhepunkt im Jahr 2008 bei etwa 32 % erreichen. Von diesem Punkt gibt es leichte Schwankungen, die bis 2020 schließlich bei etwa 30 % enden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215556",
+      "paper_language": "German",
+      "paper_title": "Niedrigzinsen: Ursachen und wirtschaftspolitische Implikationen",
+      "figure_filename": "009-012-ZG-Niedrigzinsen-Fuest_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/009-012-ZG-Niedrigzinsen-Fuest_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/009-012-ZG-Niedrigzinsen-Fuest.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/009-012-ZG-Niedrigzinsen-Fuest.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Investitionen und Ersparnisse der Industrieländer",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt den Verlauf der Investitionen und Ersparnisse als Prozentsatz des Bruttoinlandsprodukts (BIP) von 1980 bis 2020. Die x-Achse trägt die Beschriftung der Jahre und ist linear mit einem Wertebereich von 1980 bis 2020. Die markanten Punkte sind im Intervall von zwei Jahren beschriftet. Die y-Achse ist ebenfalls linear und zeigt den Prozentsatz in Bezug zum BIP, mit einem Wertebereich von 15% bis 27%, wobei die Achsenmarkierungen in 2-Prozent-Schritten angegeben sind. Die dunklere Linie repräsentiert die Investitionen, während die hellere Linie die Ersparnisse darstellt. Beide Linien verlaufen in einem ähnlichen Muster über den gesamten Zeitraum. Die Investitionslinie beginnt 1980 bei etwa 25% und zeigt Schwankungen, mit bemerkenswerten Spitzen um 1990 und zwischen 2006 und 2007, gefolgt von einem starken Rückgang und einer Stabilisierung um 2010 bei ungefähr 21%. Die Linie der Ersparnisse startet ebenfalls bei etwa 23% im Jahr 1980, zeigt ähnliche Schwankungen und erreicht ihre Tiefpunkte um 2006 bei etwa 20% und steigt leicht an, um sich ab ungefähr 2010 bis 2020 bei rund 22% bis 23% zu stabilisieren. Beide Linien zeigen also über die Jahrzehnte hinweg ähnliche, aber nicht identische Trends und Veränderungen."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215556",
+      "paper_language": "German",
+      "paper_title": "Niedrigzinsen: Ursachen und wirtschaftspolitische Implikationen",
+      "figure_filename": "009-012-ZG-Niedrigzinsen-Fuest_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/009-012-ZG-Niedrigzinsen-Fuest_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/009-012-ZG-Niedrigzinsen-Fuest.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/009-012-ZG-Niedrigzinsen-Fuest.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Beitrag zum Rückgang des globalen Realzinses",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Das Kreisdiagramm illustriert verschiedene Faktoren, die das Thema beeinflussen, wobei insgesamt sieben Segmente dargestellt sind. Das Segment \"Demografie\" ist in Blau gehalten und macht ungefähr 20 % des Diagramms aus. \"Hohe Ersparnis Schwellenländer\" ist in mittlerem Blau eingefärbt und umfasst etwa 15 %. \"Ungleichheit\" erscheint in hellblau und nimmt ebenfalls rund 15 % ein. Der Bereich \"Fallender Relativpreis von Investitionsgütern\" ist in Hellgrau gehalten und repräsentiert etwa 10 %. Das Segment \"Niedrigere öffentliche Investitionen\" nutzt ein mittleres Grau und beträgt etwa 10 %. \"Renditedifferenz zwischen riskanten und sicheren Anlagen\" ist in einem dunkleren Grau dargestellt und umfasst ebenfalls rund 10 %. Schließlich nimmt \"Sinkendes erwartetes Wachstum\" in Dunkelgrau etwa 20 % des Diagramms ein. Prozentangaben sind nicht innerhalb der Segmente, aber die Kategorien sind farblich unterscheidbar angegeben. Eine Legende ist nicht vorhanden, und die Segmente scheinen ohne ersichtliche Rangfolge angeordnet zu sein."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231851",
+      "paper_language": "German",
+      "paper_title": "Kommt nach der Corona-Krise die Inflation?",
+      "figure_filename": "10.1007_s10273-020-2776-2_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2776-2_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Preisentwicklung der Komponenten des Harmonisierten Verbraucherpreisindex im Euroraum",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt die Preisindizes verschiedener Güter- und Dienstleistungskategorien von Dezember 2019 bis Oktober 2020, wobei der Referenzwert 100 im Dezember 2019 festgelegt wurde. Die x-Achse ist linear skaliert und stellt die Zeit in Monaten dar, beginnend mit Dezember 2019 bis Oktober 2020. Die Tick-Beschriftungen sind monatlich und umfassen Werte von 12/2019 bis 10/2020. Die y-Achse zeigt den Preisindex an, ebenfalls linear skaliert, mit einem Bereich von 97 bis 106 und Tick-Beschriftungen in Einheiten von 1.\n\nDie dunkelblaue Linie, die unverarbeitete Lebensmittel darstellt, beginnt bei 100 und steigt bis 4/2020 auf einen maximalen Wert von etwa 104 an, fällt dann bis 9/2020 auf etwa 100 ab und steigt bis 10/2020 wieder auf etwa 103. Die hellblaue Linie repräsentiert verarbeitete Lebensmittel, die von 100 im Dezember 2019 stetig auf etwa 102 bis 10/2020 ansteigen, mit einem kurzen Anstieg im April 2020 auf etwa 101,5. Industrie- und Dienstleistungen sind durch eine graue und schwarze Linie gekennzeichnet. Die graue Linie für Industriewaren startet bei ungefähr 100, fällt im Frühjahr 2020 leicht ab, und bleibt dann bis 10/2020 konstant bei etwa 100. Die dunkelgraue Linie für Dienstleistungen zeigt einen leichten Anstieg von 100 bis etwa 101 im Juli 2020, bevor sie bis Oktober 2020 wieder auf 100 sinkt. Die schwarze Linie für alle Güter ohne Energie bleibt nahezu konstant bei etwa 100 über den gesamten Zeitraum."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231851",
+      "paper_language": "German",
+      "paper_title": "Kommt nach der Corona-Krise die Inflation?",
+      "figure_filename": "10.1007_s10273-020-2776-2_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2776-2_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Infl ationsrate in Deutschland und Veränderung des Ölpreises gegenüber dem Vorjahr",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt die Inflationsrate in Prozent sowie die Veränderung des Ölpreises, gemessen in West Texas Intermediate (WTI) in US-Dollar, über einen Zeitraum von 1960 bis 2017. Die x-Achse ist linear skaliert und stellt die Jahre von 1960 bis 2017 dar, wobei die Tick-Beschriftungen im 3-Jahres-Intervall angegeben sind. Die y-Achse links, beschreibt die Veränderung des Ölpreises in US-Dollar mit einem linearen Bereich von -100 bis 200 und hat regelmäßige Intervalle von 50. Die y-Achse rechts beschreibt die Inflationsrate in Prozent, mit einem linearen Bereich von -1 bis 8 und einem Intervall von 1. \n\nDie dunkelblaue Linie mit durchgezogener Darstellung und ohne Markierungen stellt die Inflationsrate dar. Diese zeigt mehrere Schwankungen, wobei sie 1975 einen Höhepunkt bei 160 % erreicht und 1986 einen Tiefpunkt bei etwa -50 %. Nach 2008 verbleibt die Linie meist zwischen 0 % und 4 %. Die hellblaue Linie, ebenfalls durchgezogen und ohne Markierungen, repräsentiert die Veränderung des Ölpreises. Sie zeigt große Schwankungen mit signifikanten Spitzen, z. B. im Jahr 1980, wo sie einen Höchstwert im positiven Bereich knapp unter 5 US-Dollar erreicht, und Tiefpunkte, wie 1986 mit einem negativen Wert nahe -2 US-Dollar. Ab 2009 bleibt die Linie meist zwischen 0 und 3 US-Dollar."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231851",
+      "paper_language": "German",
+      "paper_title": "Kommt nach der Corona-Krise die Inflation?",
+      "figure_filename": "10.1007_s10273-020-2776-2_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2776-2_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Anstieg der Schuldenstandsquoten in Prozentpunkten",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm visualisiert die Daten in Prozentpunkten für die Zeiträume 2008-2011 und 2019-2021 für verschiedene Länder und Regionen. Die horizontale Achse enthält die Kategorien, welche die Länder und Regionen Kanada, Frankreich, Deutschland, Italien, Japan, Großbritannien, USA und den Euroraum umfassen. Diese sind von links nach rechts in alphabetischer Reihenfolge angeordnet. Die vertikale Achse stellt die Prozentpunkte dar und ist linear skaliert mit einem Wertebereich von 0 bis 50 Prozentpunkten, wobei die Ticks in 10er-Schritten markiert sind. Für jeden Zeitraum gibt es zwei Balken pro Kategorie: der Balken für 2008-2011 ist dunkelblau und der Balken für 2019-2021 ist hellblau. Beispielsweise weist Kanada zwei Balken auf, einen niedrigen dunkelblauen und einen höheren hellblauen, die beide unter 20 liegen. In Frankreich ist der dunkelblaue Balken niedriger als der hellblaue, welcher knapp unter 30 Prozentpunkten liegt. Japan hat den höchsten dunkelblauen Balken, der über 40 Prozentpunkte erreicht, während der hellblaue Balken niedriger ist. Die Balken der USA sind nahe beieinander, beide über 20 Prozentpunkte, wobei der hellblaue Balken geringfügig niedriger ist. Visuell ist keine bestimmte Hervorhebung oder Sortierung der Balken jenseits der alphabetischen Reihenfolge erkennbar."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231851",
+      "paper_language": "German",
+      "paper_title": "Kommt nach der Corona-Krise die Inflation?",
+      "figure_filename": "10.1007_s10273-020-2776-2_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2776-2_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Anleihekäufe der Notenbanken in % des Bruttoinlandsprodukts des Vorjahres",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht den Prozentsatz des Bruttoinlandsprodukts im Vergleich zum Vorjahr für vier verschiedene Regionen, und zwar Japan, Großbritannien, die USA und den Euroraum, in den Jahren 2009 und 2020 (bis Oktober). Die horizontale Achse des Diagramms zeigt die vier Kategorien der Länder und Regionen, sortiert in der Reihenfolge Japan, Großbritannien, USA und Euroraum. Die vertikale Achse repräsentiert den Prozentsatz des Bruttoinlandsprodukts mit einer linearen Skala von 0 bis 14 Prozent, wobei die Tick-Beschriftungen in Zweierschritten angegeben sind. Für die Jahre 2009 und 2020 sind unterschiedliche Farben verwendet; 2009 ist in Dunkelblau dargestellt und 2020 in Hellblau. In Japan ist der Balken für 2009 niedriger, ungefähr bei 2 %, während der Balken für 2020 bei etwa 8 % liegt. Für Großbritannien sind die Balken für 2009 und 2020 nahezu identisch in der Höhe, beide knapp über 12 %. In den USA zeigt der Balken für 2009 einen Wert von circa 10 %, während er 2020 bei etwa 12 % liegt. Im Euroraum ist der 2009-Balken der niedrigste, ungefähr bei 2 %, während der 2020-Balken fast 10 % erreicht. Die Balken sind nicht in einer numerischen Reihenfolge sortiert, und keine besonderen visuelle Hervorhebungen oder Anmerkungen sind vorhanden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231851",
+      "paper_language": "German",
+      "paper_title": "Kommt nach der Corona-Krise die Inflation?",
+      "figure_filename": "10.1007_s10273-020-2776-2_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2776-2_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2776-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Geldmengenwachstum in %",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt den Verlauf der Geldmengenaggregate M2 für die USA und M3 für Großbritannien, den Euroraum und Japan von Februar 2000 bis Februar 2020. Die x-Achse ist zeitlich linear skaliert und reicht von Februar 2000 bis Februar 2020, wobei die Tick-Beschriftungen in unregelmäßigen Abständen erscheinen. Die y-Achse ist linear skaliert und zeigt Prozentwerte von -5 % bis 30 % in Intervallen von 5 % an. \n\nDie blaue Linie kennzeichnet das M3-Aggregat für Japan, wobei die Markierungen unauffällig sind, und sie bleibt durchgängig relativ stabil, mit leichten Schwankungen um 0 % von Februar 2000 bis Februar 2020. Zu Beginn der Zeitreihe ist der Wert knapp unter 0 % und endet im Februar 2020 bei etwa 2 %. Die hellblaue Linie stellt das M3-Aggregat für Großbritannien dar, beginnt im Bereich um 10 % im Februar 2000, geht durch mehrere Spitzen, den höchsten Punkt erreichend knapp über 20 % im Jahr 2008, und sinkt dann bis 2010 rapide, bevor sie schließlich im Bereich von etwa 7 % im Jahr 2020 endet. Die dunkelgraue Linie repräsentiert das M2-Aggregat der USA, das bei etwa 8 % im Februar 2000 startet, mehrere Höhepunkte und Rückgänge erlebend, wobei ein signifikanter Rückgang 2009 auftritt und ein Wert um 6 % bis Februar 2020 gehalten wird. Schließlich zeigt die schwarze Linie das M3-Aggregat für den Euroraum, welches bei rund 5 % beginnt, durch leichte Schwankungen geprägt ist und bei etwa 5 % im Jahr 2020 endet."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231817",
+      "paper_language": "German",
+      "paper_title": "Energiewende: Wo bleibt das langfristige Denken bei der Offshore-Windenergie?",
+      "figure_filename": "10.1007_s10273-020-2740-1_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2740-1_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Installierte Leistung aus Offshore-Windenergie im Nordseeraum 2016 bis 2018",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt die installierte Leistung in Megawatt (MW) in verschiedenen Ländern für die Jahre 2016, 2017 und 2018 dar. Auf der horizontalen Achse sind die Länder angegeben: Belgien, Dänemark, Deutschland, Großbritannien und Niederlande, in dieser Reihenfolge. Die vertikale Achse zeigt die Leistungsskala von 0 bis 8.000 MW in einem linearen Intervall von 1.000 MW. Jedes Land wird durch gruppierte Balken für die Jahre 2016, 2017 und 2018 repräsentiert, die in unterschiedlichen Blautönen dargestellt sind. Für Belgien sind die Balken relativ niedrig, mit dem höchsten Balken in 2018, unmerklich über 1.000 MW. Dänemarks Balken zeigen ebenfalls niedrige Werte, die leichten Anstieg in 2017 und 2018 zeigen. In Deutschland ist 2018 mit etwas über 5.000 MW am höchsten. Großbritannien zeigt die höchsten Werte, wobei alle Jahre über 6.000 MW liegen, und 2018 den höchsten Wert erreicht. Die Niederlande weisen niedrige Balken auf, die 2018 unter 500 MW bleiben. Es gibt keine visuelle Hervorhebung bestimmter Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231817",
+      "paper_language": "German",
+      "paper_title": "Energiewende: Wo bleibt das langfristige Denken bei der Offshore-Windenergie?",
+      "figure_filename": "10.1007_s10273-020-2740-1_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2740-1_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Geplante Leistung aus Offshore-Windenergie im Nordseeraum bis 2030",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm illustriert die installierte und geplante Leistung von Offshore-Windenergie für verschiedene Länder in Megawatt (MW). Die horizontale Achse zeigt die Länder Belgien, Dänemark, Deutschland, Großbritannien und die Niederlande in dieser Reihenfolge. Die vertikale Achse stellt die Leistung in Megawatt dar, mit einer linearen Skala von 0 bis 30.000 MW, wobei die Intervalle in Einheiten von 5.000 MW angegeben sind. Die Diagrammlegende differenziert zwischen drei Kategorien: \"2018\" in Blau, \"im Bau\" in Hellgrau und \"Zielwert 2030\" in Dunkelgrau. Jede Ländergruppe zeigt drei Balken, die jeweils die Menge an installierter Leistung im Jahr 2018, die Leistung im Bau und den Zielwert für 2030 darstellen. Für Belgien liegt der blaue Balken bei etwa 2.000 MW, der hellgraue Balken ebenso und der dunkelgraue Balken bei etwa 4.000 MW. Dänemark hat einen blauen Balken von etwa 1.500 MW, einen hellgrauen etwas geringeren und einen dunkelgrauen von etwa 4.000 MW. Für Deutschland werden etwa 6.000 MW in Blau angezeigt, mit einem leichten Zuwachs im hellgrauen Balken und einem dunklen Balken bei ca. 15.000 MW. Großbritannien hat einen blauen Balken von etwa 7.000 MW, einen leichten Anstieg im hellgrauen und einen dunklen Balken, der die 25.000 MW Marke erreicht. Die Niederlande werden mit etwa 1.000 MW in Blau dargestellt, einem kleinen Anstieg im hellgrauen Balken und einem dunkelgrauen Balken von ungefähr 12.000 MW. Die Balken sind nicht in einer bestimmten Reihenfolge sortiert, außer der alphabetischen Anordnung der Länder."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231817",
+      "paper_language": "German",
+      "paper_title": "Energiewende: Wo bleibt das langfristige Denken bei der Offshore-Windenergie?",
+      "figure_filename": "10.1007_s10273-020-2740-1_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2740-1_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Fertigstellung von Offshore-Windparks in der Nordseeregion",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die Anzahl der Anlagen in verschiedenen Ländern über mehrere Jahre hinweg. Auf der horizontalen Achse sind die Jahre von 1995 bis 2018 dargestellt, beginnend mit 1995 auf der linken Seite und endend mit 2018 auf der rechten Seite. Die vertikale Achse zeigt die Anzahl der Anlagen mit einem linearen Skalenintervall, das von 0 bis 12 reicht. Die Einheiten sind die Anzahl der Anlagen, und die Skala ist in Intervallen von 2 unterteilt. Das Diagramm enthält gestapelte Balken, die die fünf Länder Belgien, Dänemark, Deutschland, Großbritannien und die Niederlande in verschiedenen Farben repräsentieren: Hellgrau für Belgien, Dunkelgrau für Dänemark, Hellblau für Deutschland, Mittelblau für Großbritannien und Dunkelblau für die Niederlande. Zum Beispiel zeigt der Balken für 2003, dass Dänemark die höchste Anzahl an Anlagen mit einem Wert von 4 hatte, während andere Länder keine Anlagen in diesem Jahr meldeten. Im Jahr 2010 erreichen die niederländischen Anlagen mit einem Wert von 5 den höchsten Punkt in diesem Jahr, während Deutschland und Großbritannien ebenfalls an der Gesamtzahl beteiligt sind. In den Jahren 2015 und 2017 verzeichnet Deutschland den höchsten Wert mit einer Anzahl von 12 Anlagen in beiden Jahren. Die gestapelten Komponenten innerhalb der Balken sind stets von oben nach unten in der gleichen Reihenfolge der Länder gefärbt. Es gibt keine spezielle Reihenfolge oder Hervorhebung einzelner Balken innerhalb des Diagramms, abgesehen von der chronologischen Anordnung der Jahre."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231817",
+      "paper_language": "German",
+      "paper_title": "Energiewende: Wo bleibt das langfristige Denken bei der Offshore-Windenergie?",
+      "figure_filename": "10.1007_s10273-020-2740-1_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2740-1_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2740-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Erwartete Zahl zurückzubauender Offshore-Windenergieanlagen in der Nordseeregion",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt Daten für verschiedene Jahre von 2015 bis 2038 dar. Auf der horizontalen Achse sind die Zeitkategorien in Jahresabschnitten angegeben, die von 2015 bis 2038 reichen. Die vertikale Achse zeigt die Werteskala in einer linearen Skala mit einem Bereich von 0 bis 1000, wobei die Achse in Intervallen von 200 beschriftet ist. Die Balken sind in einem hellblauen Farbton dargestellt. Der kürzeste Balken scheint sich um das Jahr 2015 zu befinden, während der höchste Balken im Jahr 2030 mit einem ungefähren Wert von 1000 liegt. Weitere auffällige Balkenwerte sind im Jahr 2035, der ebenfalls eine beträchtliche Höhe erreicht. Die Balken sind in chronologischer Reihenfolge angeordnet, ohne visuelle Hervorhebungen oder spezielle Markierungen zu enthalten."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215586",
+      "paper_language": "German",
+      "paper_title": "Voucher für Glasfaseranschlüsse: Warum Bund und Länder auf sie verzichten sollten",
+      "figure_filename": "128-132-Gerpott_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/128-132-Gerpott_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/128-132-Gerpott.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/128-132-Gerpott.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Bestand Fiber-To-The-Building/-Home-Anschlüsse in Deutschland in Tausend, jeweils zum Jahresende, Zahl der Haushalte jeweils 100 %",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das dargestellte Balkendiagramm zeigt die Entwicklung der Anzahl erreichbarer Haushalte gegenüber den tatsächlich genutzten Anschlüssen zwischen den Jahren 2014 und 2019, wobei das Jahr 2019 eine Schätzung darstellt. Die horizontale Achse beinhaltet die Jahreszahlen in chronologischer Reihenfolge von 2014 bis 2019. Die vertikale Achse repräsentiert die Anzahl in Haushalten, mit einem Skalenbereich von 0 bis 4500 in gleichmäßigen Schritten von 500. Jeder Balken ist in zwei Segmente unterteilt: der untere, dunkler gefärbte Abschnitt steht für die erreichten Kunden, die den Anschluss nutzen, und der obere, heller gefärbte Abschnitt für erreichbare Haushalte, die den Anschluss nicht nutzen. Im Jahr 2014 gibt es insgesamt 1750 Haushalte, davon 25,8 % Nutzer. Bis 2019 steigt die Gesamtzahl auf 4390 Haushalte, wobei der Anteil der Nutzer im Vergleich dazu 33,8 % beträgt. Die Balken sind nicht spezifisch sortiert, sondern folgen der zeitlichen Abfolge der dargestellten Jahre. Es sind keine besonderen Hervorhebungen oder Anmerkungen innerhalb der Balken vorhanden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225579",
+      "paper_language": "German",
+      "paper_title": "Renditen privater Haushalte nach Vermögensgruppen – Deutschland versus Österreich",
+      "figure_filename": "446-453-Rupprecht_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/446-453-Rupprecht_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/446-453-Rupprecht.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/446-453-Rupprecht.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Struktur des Geldvermögens privater Haushalte, 2018",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Das Diagramm vergleicht die Anteile verschiedener Finanzanlagen in Deutschland und Österreich. Insgesamt gibt es sechs Kategorien für jedes Land. Für Deutschland sind diese wie folgt: \"Bargeld und Einlagen\" in Dunkelblau mit 39,6%, \"Schuldverschreibungen\" in Hellblau mit 5,9%, \"Aktien\" in Blau mit 9,0%, \"Investmentfondsanteile\" in sehr hellem Blau mit 1,9%, \"Ansprüche gegenüber Versicherungen\" in Grau mit 30,6% und \"Übriges Finanzvermögen\" in Dunkelgrau mit 13,1%. Für Österreich sind die Kategorien: \"Bargeld und Einlagen\" in Dunkelblau mit 41,3%, \"Schuldverschreibungen\" in Hellblau mit 3,8%, \"Aktien\" in Blau mit 8,5%, \"Investmentfondsanteile\" in sehr hellem Blau mit 2,5%, \"Ansprüche gegenüber Versicherungen\" in Grau mit 20,3% und \"Übriges Finanzvermögen\" in Dunkelgrau mit 21,8%. Beide Diagramme enthalten Prozentangaben innerhalb der Segmente und verwenden eine Legende zur Beschreibung der Kategorien. Die Anteile sind nicht in einer spezifischen Reihenfolge bezüglich der Größe angeordnet."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225579",
+      "paper_language": "German",
+      "paper_title": "Renditen privater Haushalte nach Vermögensgruppen – Deutschland versus Österreich",
+      "figure_filename": "446-453-Rupprecht_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/446-453-Rupprecht_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/446-453-Rupprecht.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/446-453-Rupprecht.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Reale Rendite privater Haushalte nach Vermögensklasse – Deutschland",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die prozentuale Verteilung über verschiedene Dezile in den Jahren 2010, 2014 und 2017. Die horizontale Achse enthält die Kategorien, die als \"1. Dezil\" bis \"10. Dezil\" gekennzeichnet und entlang einer schrägen Linie angeordnet sind. Die vertikale Achse stellt die prozentualen Werte dar, die in einem Bereich von -2 % bis 5 % reichen, mit regelmäßigen Tick-Beschriftungsintervallen bei jedem Prozentpunkt. Jede der drei Zeitperioden ist durch unterschiedlich farbige Balken repräsentiert: Hellblau für 2010, Grau für 2014 und Dunkelblau für 2017. Die Werte der Balken variieren, wobei im Jahr 2010 der erste Dezil-Balken den höchsten Punkt mit einem Wert über 3 % erreicht, während für 2017 der 10. Dezil-Balken ebenfalls über 3 % liegt. Die Balken für 2014 weisen eine ausgewogenere Verteilung auf, ohne extreme Werte. Die Balken sind nicht in einer speziellen Reihenfolge sortiert, sondern entsprechen der natürlichen Reihenfolge der Dezile. Innerhalb jeder Dezilkategorie sind die Balken gruppiert, wobei jede Farbe eine spezifische Jahreszuordnung darstellt. Es sind keine spezifischen Hervorhebungen in Form von Schattierungen oder Umrandungen vorhanden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225579",
+      "paper_language": "German",
+      "paper_title": "Renditen privater Haushalte nach Vermögensgruppen – Deutschland versus Österreich",
+      "figure_filename": "446-453-Rupprecht_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/446-453-Rupprecht_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/446-453-Rupprecht.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/446-453-Rupprecht.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Reale Rendite privater Haushalte nach Vermögensklasse – Österreich",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die prozentuale Veränderung in verschiedenen Dezilen für die Jahre 2010, 2014 und 2017. Die horizontale Achse enthält die Kategorien, die als „1. Dezil“ bis „10. Dezil“ beschriftet sind und sich in einer aufsteigenden Reihenfolge befinden. Die vertikale Achse ist als Prozentangabe („in %“) beschriftet, mit einem Skalenbereich von -2 % bis 5 %, linear verteilt und einem Tick-Beschriftungsintervall von 1 %. In jedem Dezil sind gruppierte Balken vorhanden, die jeweils die Jahre 2010, 2014 und 2017 repräsentieren, dargestellt durch unterschiedliche Farben: Hellblau für 2010, Grau für 2014 und Dunkelblau für 2017. Im ersten Dezil erreicht der hellblaue Balken etwa 2 %, der graue ca. 1 % und der dunkelblaue unter -1 %. Im zweiten Dezil liegen die Werte für 2010 und 2017 unter 0 %, während 2014 knapp über 0 % liegt. Im dritten Dezil überschreiten alle Balken kaum 0 %, wobei 2017 etwas niedriger ist. Von Dezil 4 bis 7 sind die dunkelblauen Balken meist negativ, während die anderen Farben um 0 % schwanken. Im sechsten und siebten Dezil verbleiben die dunkelblauen Balken leicht unter Null. Ab dem achten Dezil zeigen alle Balken positive Werte, wobei Dezil 10 die höchsten Balken aufweist: 2010 erreicht knapp über 3 %, 2014 liegt bei ungefähr 2 % und 2017 bei etwa 1 %. Die Balken sind nicht speziell hervorgehoben oder betont."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231833",
+      "paper_language": "German",
+      "paper_title": "Die Schuldenbremse nach der Corona-Krise",
+      "figure_filename": "10.1007_s10273-020-2757-5_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2757-5_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2757-5.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2757-5.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Mangelhafte Infrastruktur Beeinträchtigung der aktuellen Geschäftsabläufe von Unternehmen in Deutschland nach Branchen im Frühjahr 2018 und im Herbst 2013 durch Infrastrukturmängel",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht die prozentuale Beeinträchtigung verschiedener Infrastrukturbereiche deutscher Unternehmen in den Jahren 2013 und 2018. Die horizontalen Achsen sind mit „Angaben in % der befragten Unternehmen“ beschriftet und umfassen einen Wertebereich von 0 bis 80% in einem linearen Skalentyp, wobei die Intervalle bei 10% liegen. Die vertikale Achse listet die Kategorien der Infrastrukturbereiche auf, darunter Schiffsverkehr, Luftverkehr, Schienenverkehr, Energieversorgung, Kommunikationsnetz und Straßenverkehr, jeweils für die Jahre 2013 und 2018. Es gibt gruppierte Balken, die in hellblau für „deutliche Beeinträchtigung“ und dunkelblau für „geringe Beeinträchtigung“ dargestellt sind. Im Bereich Schiffsverkehr liegt der dunkelblaue Balken 2018 bei etwa 30%, was zu den kürzeren Balken gehört, während der Bereich Kommunikationsnetz 2013 in hellblau mit etwa 70% zu den längsten Balken gehört. Die Datenpunkte innerhalb jeder Kategorie sind paarweise für die Jahre 2013 und 2018 angeordnet. Die Balken sind nicht nach Größe, sondern nach Kategorie sortiert, wobei keine spezifische visuelle Hervorhebung der Balken erkennbar ist."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231874",
+      "paper_language": "German",
+      "paper_title": "Gleicht Schulbildung soziale Unterschiede aus?",
+      "figure_filename": "10.1007_s10273-020-2800-6_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2800-6_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Menge an Wissensgütern1 im Heimbesitz",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die Darstellung einer bestimmten Metrik in Bezug auf drei Kategorien von Büchermengen. Die horizontale Achse präsentiert die Kategorien als \"<100 Bücher\", \"100 bis 200 Bücher\" und \">200 Bücher\". Diese Kategorien sind in aufsteigender Reihenfolge der Büchermenge geordnet. Die vertikale Achse ist numerisch und linear skaliert, mit einer Beschriftung von 0 bis 4, in Schritten von 1. Jeder Balken ist einfarbig blau dargestellt. Der Balken für \"<100 Bücher\" hat eine Höhe von ungefähr 2,86. Der Balken für \"100 bis 200 Bücher\" erreicht eine Höhe von etwa 3,56. Der dritte Balken, der die Kategorie \">200 Bücher\" repräsentiert, hat die größte Höhe von etwa 4,23. Es gibt keine optischen Hervorhebungen oder Anmerkungen zu den unterschiedlichen Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231874",
+      "paper_language": "German",
+      "paper_title": "Gleicht Schulbildung soziale Unterschiede aus?",
+      "figure_filename": "10.1007_s10273-020-2800-6_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2800-6_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Ausgaben für außerschulische Aktivitäten",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht die durchschnittlichen Ausgaben in Euro pro Woche, die für Bücher aufgewendet werden, in Abhängigkeit von der Anzahl der Bücher. Die horizontale Achse repräsentiert die Kategorien der Buchanzahl, geordnet in \"<100 Bücher\", \"100 bis 200 Bücher\" und \">200 Bücher\". Die vertikale Achse gibt den Wertebereich in Euro pro Woche an, mit einer linearen Skala von 0 bis 60 in 20er Schritten. Jeder Balken ist in einem einheitlichen Blau dargestellt. Der Balken für \"<100 Bücher\" hat einen Wert von 32,6 Euro, der für \"100 bis 200 Bücher\" zeigt 41,8 Euro und der für \">200 Bücher\" beträgt 55,7 Euro. Die Balken sind nicht in einer bestimmten Reihenfolge sortiert und es gibt keine zusätzliche visuelle Hervorhebung oder besondere Formatierung der Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231874",
+      "paper_language": "German",
+      "paper_title": "Gleicht Schulbildung soziale Unterschiede aus?",
+      "figure_filename": "10.1007_s10273-020-2800-6_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2800-6_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Wie viel Zeit Eltern mit ihren Kindern verbringen",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt die wöchentlichen Stunden dar, die verschiedene Aktivitäten in Haushalten mit unterschiedlicher Anzahl von Büchern umfassen. Die horizontale Achse zeigt die Kategorien der Bücheranzahl: \"<100 Bücher\", \"100 bis 200 Bücher\" und \">200 Bücher\". Die vertikale Achse ist mit \"Stunden pro Woche\" beschriftet und zeigt eine lineare Skala von 0 bis 25 in Fünferschritten. Jeder Balkensatz enthält drei Balken unterschiedlicher Farben: dunkelblau für \"allgemein mit Eltern\", hellblau für \"schulische Unterstützung durch Eltern\" und grau für \"außerschulische Aktivitäten\". Im Segment \"<100 Bücher\" erreicht der dunkelblaue Balken eine Länge von etwa 20,9 Stunden, der hellblaue Balken liegt bei 2,7 Stunden und der graue Balken bei 3,5 Stunden. Im Segment \"100 bis 200 Bücher\" zeigt der dunkelblaue Balken 20,5 Stunden, der hellblaue Balken 2,2 Stunden und der graue Balken 3,5 Stunden. In der Kategorie \">200 Bücher\" beträgt die Länge des dunkelblauen Balkens 19,5 Stunden, der hellblaue Balken erreicht 2,0 Stunden und der graue Balken ebenfalls 3,5 Stunden. Alle Balken sind in derselben Reihenfolge innerhalb jeder Kategorie angeordnet. Eine visuelle Hervorhebung oder besondere Anordnung der Balken ist nicht erkennbar."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231874",
+      "paper_language": "German",
+      "paper_title": "Gleicht Schulbildung soziale Unterschiede aus?",
+      "figure_filename": "10.1007_s10273-020-2800-6_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2800-6_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2800-6.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Wie viel Zeit Kinder mit Fernsehen, Computer- oder Konsolenspielen verbringen",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die durchschnittliche Anzahl der Stunden pro Woche, die in verschiedenen Buchkategorien verbracht werden. Die horizontale Achse enthält die Kategorien der Büchermengen, nämlich \"<100 Bücher,\" \"100 bis 200 Bücher,\" und \">200 Bücher,\" in dieser Reihenfolge. Die vertikale Achse repräsentiert die Stunden pro Woche, beginnt bei 0 und endet bei 3,5, mit einem gleichmäßigen Skalenintervall von 0,5 Stunden. Der erste Balken, der die Kategorie \"<100 Bücher\" darstellt, ist hellblau und hat eine Höhe von 3,18 Stunden pro Woche. Der zweite Balken für die Kategorie \"100 bis 200 Bücher\" ist ebenfalls hellblau und erreicht eine Höhe von 2,84 Stunden. Der letzte Balken, der die Kategorie \">200 Bücher\" darstellt, hat eine Höhe von 2,02 Stunden und ist ebenfalls in der gleichen Farbe gehalten. Die Balken scheinen nicht in einer spezifischen Reihenfolge sortiert zu sein, sind gleichmäßig verteilt und zeigen keine zusätzliche visuelle Hervorhebung."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/221977",
+      "paper_language": "German",
+      "paper_title": "Projektion der COVID-19-Epidemie in Deutschland",
+      "figure_filename": "10-1007-s10273-020-2631-5_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10-1007-s10273-020-2631-5_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2631-5.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2631-5.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Zahl der Erkrankten über den Verlauf der COVID-19- Epidemie in Deutschland, 2020",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm veranschaulicht die Anzahl erkrankter Personen in Abhängigkeit von verschiedenen Maßnahmen zur Kontaktbeschränkung über die Monate März bis September 2020. Die x-Achse ist linear skaliert und zeigt den Zeitverlauf von März bis September 2020, ohne spezifische Einheiten. Die y-Achse ist ebenfalls linear skaliert und stellt die Anzahl erkrankter Personen in Einheiten von 1.000 dar, mit einem Bereich von 0 bis 1.200 Personen und einer Intervallbeschriftung in Schritten von 200. Es gibt drei Linien, die jeweils eine unterschiedliche Maßnahme darstellen. Die hellblaue, durchgezogene Linie (beschriftet mit „ohne“) beginnt nahe null im März, steigt bis zu einem Maximum im Mai mit etwa 1.200 erkrankten Personen und fällt dann bis September ab. Die mittlere blaue, durchgezogene Linie (beschriftet mit „mit“) startet ebenfalls nahe null im März, erreicht ihr Maximum im Juni mit etwa 1.000 erkrankten Personen und nimmt bis September wieder ab. Die dunkelblaue, durchgezogene Linie mit Markierungen (beschriftet mit „verlängert“) zeigt einen Anstieg ab April, erreicht ihr Maximum im Juli mit etwa 800 erkrankten Personen und sinkt dann bis auf nahezu null im September. Alle Linien zeigen anfangs einen Anstieg, gefolgt von einem Rückgang der erkrankten Personen."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/221977",
+      "paper_language": "German",
+      "paper_title": "Projektion der COVID-19-Epidemie in Deutschland",
+      "figure_filename": "10-1007-s10273-020-2631-5_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10-1007-s10273-020-2631-5_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2631-5.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2631-5.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Zahl der Erkrankten in Deutschland im optimistischen Hubei-Szenario",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt die Anzahl der Erkrankten in Tausend Personen in Abhängigkeit von der Zeit, und vergleicht drei Szenarien einer Kontaktsperre: ohne, mit und verlängert. Die x-Achse ist linear skaliert und repräsentiert den Zeitraum von März bis August 2020, wobei die Monate entlang der Achse regelmäßig markiert sind. Die y-Achse ist ebenfalls linear, beschriftet mit „Zahl Erkrankter in 1.000 Personen“ und reicht von 0 bis 200 in Intervallen von 20. Die hellblaue Linie ohne Markierungen repräsentiert das Szenario ohne Kontaktsperre. Sie beginnt im März bei 0, steigt im April stark an, erreicht im Mai einen Spitzenwert von etwa 180.000 Personen und fällt dann bis Juli wieder auf 0. Die mittlere, dunkelblaue Linie mit rautenförmigen Markierungen zeigt das Szenario mit Kontaktsperre. Diese Linie beginnt ebenfalls bei 0 im März, wächst im April, erreicht im Mai einen Maximum von etwa 120.000 Personen und fällt bis Ende Juni auf 0. Die dunkelblaue Linie mit verlängerten Kontaktsperren beginnt auch im März bei 0, wölbt sich gleichmäßiger, erreicht Ende Mai einen Spitzenwert, der unter 100.000 Personen liegt, und sinkt bis Ende Juli auf 0."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/221977",
+      "paper_language": "German",
+      "paper_title": "Projektion der COVID-19-Epidemie in Deutschland",
+      "figure_filename": "10-1007-s10273-020-2631-5_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10-1007-s10273-020-2631-5_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2631-5.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2631-5.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Zahl der insgesamt Erkrankten in Deutschland im optimistischen Hubei-Szenario",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt die Entwicklung der Gesamtzahl Erkrankter in 1.000 Personen über die Monate März bis August 2020 in Abhängigkeit von verschiedenen Kontaktbeschränkungen. Die x-Achse stellt einen linearen Zeitverlauf von März bis August 2020 dar, wobei das Intervall der Tick-Beschriftungen monatlich ist. Die y-Achse zeigt die Anzahl der Erkrankten in tausend Personen, beginnend bei 0 bis zu 450, mit einem regelmäßigen Intervall von 50 Personen. Es sind drei Linien dargestellt: Die dunkelblaue durchgezogene Linie ohne Markierung zeigt eine schnell ansteigende Kurve, die im März fast bei 0 startet, im April stark ansteigt und im Mai einen Wert von etwa 450 erreicht, wo sie plateauartig verläuft. Die mittlere hellblaue Linie, ebenfalls durchgezogen, zeigt eine weniger steile Kurve und erreicht den Höchstwert von etwa 450 im Juni. Die hellste blaue Linie, wiederum durchgezogen, zeigt eine noch flachere Kurve an, die ebenfalls bei etwa 450 ausläuft, erreicht dies jedoch erst im Juni. Ein vertikale gestrichelte Linie markiert den Beginn der Kontaktsperre und liegt zwischen März und April."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231835",
+      "paper_language": "German",
+      "paper_title": "Industriestrategie der nächsten Generation für Deutschland",
+      "figure_filename": "10.1007_s10273-020-2759-3_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2759-3_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2759-3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2759-3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "COVID-19-Konjunkturpakete aus einer Klima- und Energieperspektive in Mrd. US-$",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt Investitionen oder Ausgaben in verschiedenen Energiekategorien für fünf Länder dar, nämlich die USA, Großbritannien, Deutschland, Frankreich und China. Die horizontale Achse zeigt die finanzielle Skala in Milliarden US-Dollar und hat einen linearen Wertebereich von 0 bis 90, mit einem Intervall von 10 Milliarden US-Dollar zwischen den Ticks. Die vertikale Achse listet die Länder in alphabetischer Reihenfolge auf. Das Diagramm enthält gestapelte Balken, die verschiedene Energiekategorien darstellen, farblich differenziert: „Saubere Energie, bedingungslos“ in dunkelblau, „Saubere Energie, bedingt“ in hellblau, „Fossile Energie, bedingt“ in dunkelgrau, „Fossile Energie, bedingungslos“ in hellgrau und „Andere Energie“ in schwarz. Die Balken der USA zeigen eine hohe Gesamtsumme mit einer dominierenden hellgrauen Komponente. Großbritannien hat einen relativ kurzen Balken, mit einem ausgeglichenen Anteil an dunkelblau und hellgrau sowie einem kleinen schwarzen Segment. Deutschlands Balken ist länger, mit einem großen hellblauen Beitrag und einem merklichen dunklen Bereich. Frankreich präsentiert sich mit einem großen dunkelgrauen Segment ohne weitere Farben. Chinas Balken weist eine große hellblaue und hellgraue Fläche auf. Die Energieelemente sind innerhalb jedes Landes übereinander gestapelt und verdeutlichen die unterschiedliche Gewichtung der Energieformen pro Land."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231835",
+      "paper_language": "German",
+      "paper_title": "Industriestrategie der nächsten Generation für Deutschland",
+      "figure_filename": "10.1007_s10273-020-2759-3_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2759-3_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2759-3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2759-3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Das KfW-Inlandsvolumen und die Investitionen der KfW in den Umwelt- und Klimaschutz in Mrd. Euro",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Dieses Balkendiagramm stellt die Gesamtinvestitionen und spezifische Investitionen in Klima- und Umweltschutz im Zeitraum von 2000 bis 2019 dar. Auf der horizontalen Achse sind die Jahre von 2000 bis 2019 aufgeführt, wobei die Jahre in aufsteigender Reihenfolge angeordnet sind. Die vertikale Achse zeigt die Investitionsbeträge in Milliarden Euro, wobei die Skala linear von 0 bis 80 reicht, und die Beschriftungsintervalle regelmäßig bei jedem Zehnerschritt liegen. Die dunkelblauen Balken repräsentieren die Gesamtinvestitionen jedes Jahres, während die hellblauen Balken die Investitionen in Klima- und Umweltschutz darstellen. Zum Beispiel ist der dunkelblaue Balken von 2000 etwa 34,70 Milliarden Euro hoch und der hellblaue Balken etwa 4,55 Milliarden Euro. Im Jahr 2007 erreicht der dunkelblaue Balken mit 66,70 Milliarden Euro den höchsten Wert, während der dazugehörige hellblaue Balken etwa 12,5 Milliarden Euro beträgt. Die Balken innerhalb jedes Jahres sind gruppiert, wobei zuerst der Gesamtinvestitionsbalken und dann der Klima- und Umweltschutzbalken angezeigt wird. Die Balken sind nach Jahren geordnet und zeigen keine spezifische farbliche Hervorhebung oder Umrandung."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215569",
+      "paper_language": "German",
+      "paper_title": "Industrierezession und Dienstleistungsbranchen",
+      "figure_filename": "075-076-Schlaglicht-Jannsen_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/075-076-Schlaglicht-Jannsen_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/075-076-Schlaglicht-Jannsen.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/075-076-Schlaglicht-Jannsen.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Auswirkungen eines Absatzrückgangs von Endprodukten des Verarbeitenden Gewerbes",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht den Rückgang der Bruttowertschöpfung in Prozent in verschiedenen Sektoren in Deutschland und im übrigen Euroraum unter zwei unterschiedlichen Szenarien. Die vertikale Achse enthält die Kategorienbeschriftungen, die die verschiedenen Sektoren sowie die geografische Region angeben: „Deutschland“ und „Übriger Euroraum“ mit den Sektoren „Verarbeitendes Gewerbe“, „Unternehmensnahe Dienstleister“ und „Unternehmensdienstleister“. Die horizontale Achse stellt den Prozentrückgang der Bruttowertschöpfung dar, wobei die Skala von 0 bis -0,8 verläuft, in einem regulären Intervall von -0,2 Schritten. Jede Kategorie enthält zwei Balken, die unterschiedliche Szenarien repräsentieren: Szenario A, dargestellt durch dunkelblaue Balken, und Szenario B, dargestellt durch hellblaue Balken. Im Fall des „Verarbeitenden Gewerbes“ in Deutschland ist der dunkelblaue Balken etwa -0,6, während der hellblaue bei etwa -0,7 liegt. Bei den „Unternehmensnahen Dienstleistern“ in Deutschland zeigt Szenario A einen Rückgang von etwa -0,15 und Szenario B etwa -0,4. Für die „Unternehmensdienstleister“ ist Szenario A etwa -0,1 und Szenario B bei -0,2. Im übrigen Euroraum sind beide Balken für das „Verarbeitende Gewerbe“ ungefähr bei -0,1, ebenso wie für „Unternehmensnahe Dienstleister“, wobei hier der dunkelblaue Balken kürzer ist. Die „Unternehmensdienstleister“ zeigen nahezu keinen Rückgang in beiden Szenarien. Die Balken erscheinen in keiner speziellen Reihenfolge sortiert, sondern folgen den Sektor- und Regionalbezeichnungen, ohne visuelle Hervorhebung."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215569",
+      "paper_language": "German",
+      "paper_title": "Industrierezession und Dienstleistungsbranchen",
+      "figure_filename": "075-076-Schlaglicht-Jannsen_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/075-076-Schlaglicht-Jannsen_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/075-076-Schlaglicht-Jannsen.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/075-076-Schlaglicht-Jannsen.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Nachfragemangel als produktionsbehindernder Faktor",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm veranschaulicht den Anteil von Unternehmen in verschiedenen Sektoren, die angaben, dass ein Mangel an Nachfrage ihre Produktion einschränke, über den Zeitraum von 2016 bis 2019. Die x-Achse ist linear skaliert und stellt Zeitintervalle von I bis IV für jedes Jahr innerhalb dieses Zeitraums dar. Die y-Achse ist ebenfalls linear skaliert und reicht von 0 % bis 30 %, wobei die Tick-Beschriftung in Intervallen von 5 % angegeben ist. Die Linie für „Unternehmensnahe Dienstleistungen gesamt“ ist dunkelblau und durchgezogen. Sie beginnt im ersten Quartal 2016 bei etwa 13 % und zeigt einen tendenziellen Rückgang auf etwa 5 % Anfang 2018, gefolgt von einem Anstieg bis knapp 15 % Ende 2019. Die hellblaue gestrichelte Linie für „Wirtschaftsprüfung, Recht“ beginnt bei etwa 15 %, zeigt im Laufe der Jahre mehrere Spitzen und endet bei circa 12 %. Die Linie für „Unternehmensführung und -beratung“ ist hellblau und durchgezogen. Sie beginnt bei etwa 13 %, sinkt auf etwa 6 % im Jahr 2017 und steigt dann auf circa 13 % Ende 2019. Die dunkelblau gepunktete Linie für „Transport (Land)“ beginnt bei etwa 5 % und bleibt relativ stabil mit einem leichten Anstieg gegen Ende 2019 auf ungefähr 8 %. Die grau durchgezogene Linie für „Lagerei“ startet ebenfalls bei etwa 13 %, bleibt bis 2018 relativ konstant und steigt dann steil an, um Ende 2019 bei etwa 22 % zu enden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225620",
+      "paper_language": "German",
+      "paper_title": "Europa in der Vertrauenskrise?",
+      "figure_filename": "622-627-Tichy_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/622-627-Tichy_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/622-627-Tichy.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/622-627-Tichy.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Vertrauen in die Europäische Union in % der Befragten",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die prozentuale Verteilung der Zustimmung zu verschiedenen politischen Institutionen und Einstellungen in unterschiedlichen Regionen der EU und Großbritannien. Die horizontale Achse stellt die Kategorien dar, die aus verschiedenen geografischen Regionen bestehen: EU28, Norden, Mitte, Baltikum, Osten, Süden, Südosten und Großbritannien. Die vertikale Achse repräsentiert den Prozentsatz der Befragten und ist linear skaliert, beginnend bei 0 bis 90 Prozent mit einem Tick-Beschriftungsintervall von 10 Prozent. Es gibt sechs gruppierte Balken für jede Region, die jeweils unterschiedliche Aspekte repräsentieren: hellblaue Balken stehen für Vertrauen in das nationale Parlament, mittelblaue Balken für Vertrauen in das EU-Parlament, dunkelblaue Balken für die EU, graue Balken für die Zufriedenheit mit der Demokratie und dunklere graue Balken für den Wunsch, in der EU zu bleiben. In der Kategorie EU28 sind die Balken relativ einheitlich verteilt, während in anderen Regionen wie dem Norden und dem Osten einige Balken, insbesondere der Zufriedenheit mit Demokratie und dem Verbleib in der EU, hervortreten. Die Balken sind in keiner spezifischen Reihenfolge sortiert, außer der geografischen Reihenfolge der Regionen. Der höchste Balken zeigt generell einen hohen Wert für den Verbleib in der EU in den Regionen Norden, Mitte und Osten, während die Zufriedenheit mit der Demokratie im Baltikum hervorzuheben ist. Das Diagramm verwendet ein konsistentes Farbschema zur Differenzierung der unterschiedlichen Kategorien."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215598",
+      "paper_language": "German",
+      "paper_title": "Acht Elemente einer grundlegenden Reform des Steuerund Transfersystems",
+      "figure_filename": "162-165-ZG-Peichl_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/162-165-ZG-Peichl_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Öffentliche Primärausgaben in Deutschland in % des Bruttoinlandsprodukts",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt den Anteil eines bestimmten Parameters in Prozent des Bruttoinlandsprodukts (BIP) über die Jahre 2012 bis 2020. Die horizontale Achse listet die Jahre in chronologischer Reihenfolge von 2012 bis 2020 auf. Die vertikale Achse ist in Prozent des BIP beschriftet, mit einem skalierten Wertebereich von 41,0% bis 45,5%, wobei die Skala in Schritten von 0,5% unterteilt ist. Jede Balkenfarbe ist standardmäßig blau gehalten und repräsentiert das entsprechende Jahr. Im Jahr 2012 liegt der Balken bei etwa 42,5%, in 2013 weist er einen höheren Wert von etwa 43,5% auf. In den darauffolgenden Jahren bis 2016 sind die Werte insgesamt etwas niedriger, bevor sie 2017 erneut auf etwa 43,5% ansteigen. 2019 erreicht der Balken eine Höhe von ungefähr 44%, und im Jahr 2020 liegt er deutlich höher bei etwa 45,5%. Die Balken sind chronologisch nach Jahr sortiert, ohne visuelle Hervorhebungen oder Anmerkungen."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215598",
+      "paper_language": "German",
+      "paper_title": "Acht Elemente einer grundlegenden Reform des Steuerund Transfersystems",
+      "figure_filename": "162-165-ZG-Peichl_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/162-165-ZG-Peichl_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Steuern und Sozialabgaben in Deutschland in % des Bruttoinlandsprodukts",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt die jährlichen Anteile am Bruttoinlandsprodukt in Prozent von 2012 bis 2020 dar. Die horizontale Achse enthält die Kategorien, die durch die Jahre von 2012 bis 2020 in chronologischer Reihenfolge dargestellt werden. Die vertikale Achse zeigt die Werte für den Prozentsatz des Bruttoinlandsprodukts mit einer linearen Skala, die von 38,0 % bis 41,5 % reicht, und das Tick-Beschriftungsintervall beträgt 0,5 %. Jeder Balken im Diagramm repräsentiert ein Jahr und ist einheitlich blau gefärbt. 2012 beträgt der Wert des Balkens etwa 39,5 %, während der kürzeste Balken, der das Jahr 2015 darstellt, etwa 39,0 % erreicht. Der höchste Balken ist für das Jahr 2017, das fast 41,5 % zeigt. Die Daten zeigen weder eine hervorgehobene noch besonders markierte Reihenfolge oder visuelle Unterschiede zwischen den Balken, abgesehen von den jährlichen Variationen in der Höhe."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215598",
+      "paper_language": "German",
+      "paper_title": "Acht Elemente einer grundlegenden Reform des Steuerund Transfersystems",
+      "figure_filename": "162-165-ZG-Peichl_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/162-165-ZG-Peichl_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Persönliche Einkommensteuern und indirekte Steuern in % des Gesamtsteueraufkommens",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt den prozentualen Anteil von persönlichen Einkommensteuern und indirekten Steuern am gesamten Steueraufkommen für die Jahre 2012 bis 2018. Die horizontale Achse repräsentiert die Jahre 2012 bis 2018, während die vertikale Achse den prozentualen Anteil am Steueraufkommen von 22% bis 28% abbildet, in einem linearen Intervall von 1%. Jede Jahreszahl ist mit zwei Balken dargestellt, die jeweils unterschiedliche Steuerarten repräsentieren: dunkelblaue Balken stehen für persönliche Einkommensteuern und hellblaue Balken für indirekte Steuern. Im Jahr 2012 betrug der Wert für persönliche Einkommensteuern etwa 24,5% und für indirekte Steuern etwa 27%. In 2018 zeigt der Balken für persönliche Einkommensteuern einen Wert von etwa 27%, während die indirekten Steuern einen Wert um 25% aufweisen. Die Balken sind nicht speziell sortiert, sondern chronologisch nach Jahren geordnet. Farblich hebt sich jede Steuerart klar voneinander ab, basierend auf der in der Legende angegebenen Beschriftung und Farbzuordnung. Die Daten für die verbleibenden Jahre zeigen bei beiden Kategorien Schwankungen im ähnlichen prozentualen Bereich."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215598",
+      "paper_language": "German",
+      "paper_title": "Acht Elemente einer grundlegenden Reform des Steuerund Transfersystems",
+      "figure_filename": "162-165-ZG-Peichl_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/162-165-ZG-Peichl_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/162-165-ZG-Peichl.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Steuern auf Unternehmensgewinne in % des Gesamtsteueraufkommens",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm stellt den Anteil in Prozent des Gesamtsteueraufkommens von 1991 bis 2017 dar. Die x-Achse ist linear skaliert und zeigt die Jahre von 1991 bis 2017 in regelmäßigen Intervallen, wobei alle zwei Jahre ein Jahr angegeben ist. Die y-Achse, ebenfalls linear skaliert, repräsentiert den Anteil in Prozent und reicht von 0 bis 7 Prozent in Einerschritten. Das Diagramm zeigt eine durchgezogene blaue Linie ohne Markierungen. Der prozentuale Anteil beginnt im Jahr 1991 bei etwas über 4 % und zeigt einen absteigenden Trend bis 1998, wo er knapp unter 3 % liegt. Danach steigt der Anteil bis 2000 auf etwa 4,8 % an, gefolgt von einem deutlichen Rückgang bis 2003 auf etwa 2,3 %. Anschließend steigt der Anteil wieder bis zu einem Höchstwert von etwa 6 % im Jahr 2006. Nach einem weiteren Rückgang auf etwa 3,7 % im Jahr 2009 stagniert der Wert bis 2011. Danach zeigt sich ein allmählicher Anstieg, wobei der Anteil im Jahr 2017 etwa 5 % beträgt."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/222002",
+      "paper_language": "German",
+      "paper_title": "Der steuerliche Umgang mit Verlusten: Reformoptionen für die Corona-Krise",
+      "figure_filename": "10-1007-s10273-020-2657-8_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10-1007-s10273-020-2657-8_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2657-8.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10-1007-s10273-020-2657-8.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Entwicklung der kumulierten Gewinne und Verluste (vor Steuern)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm veranschaulicht die Gewinne und Verluste in Milliarden Euro über den Zeitraum von 2013 bis 2022. Auf der x-Achse sind die Jahre von 2013 bis 2022 in einem linearen Maßstab dargestellt, wobei auf eine regelmäßige Tick-Beschriftung pro Jahr geachtet wird. Die y-Achse zeigt die Skala in Milliarden Euro, ebenfalls linear, mit einem Wertebereich von -150 bis 250, wobei die Intervalle in Schritten von 50 markiert sind. Die obere Linie repräsentiert die Gewinne, dargestellt in blauer Farbe mit quadratischen Markierungen und einem durchgezogenen Stil. Die Gewinne beginnen im Jahr 2013 bei einem Punkt knapp über 100 Milliarden Euro und zeigen im Verlauf einen leichten Anstieg, wobei 2021 ein Höchstwert von etwa 200 Milliarden Euro erreicht wird, bevor es 2022 leicht auf etwa 175 Milliarden Euro fällt. Die untere Linie zeigt Verluste, dargestellt in einer grauen Farbe mit runden Markierungen und ebenfalls einem durchgezogenen Stil. Die Verluste beginnen im Jahr 2013 bei etwa -50 Milliarden Euro, bleiben weitgehend stabil mit einer leichten Abnahme bis 2018, fallen dann 2020 auf etwa -125 Milliarden Euro ab und stabilisieren sich danach um -50 Milliarden Euro bis 2022."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215601",
+      "paper_language": "German",
+      "paper_title": "Wenig Spielraum für dauerhafte Nettoentlastungen",
+      "figure_filename": "174-176-ZG-Truger_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/174-176-ZG-Truger_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/174-176-ZG-Truger.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/174-176-ZG-Truger.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Revision des deutschen realen BIP, des „potenziellen“ BIP und der Produktionslücke Projektionen der Bundesregierung vom Frühjahr 2019 gegenüber dem Frühjahr 2018 in % und Produktionslücke in Prozentpunkten",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die Projektionen der Bundesregierung vom Frühjahr 2019 im Vergleich zu denen vom Frühjahr 2018, sowohl in Prozent als auch bezogen auf die Produktionslücke. Die horizontalen Achse stellt die Jahre 2019 bis 2022 dar, sortiert in fortlaufender Reihenfolge. Die vertikale Achse repräsentiert Werte in Prozent oder Prozentpunkten mit einem Anfangswert von 0,0, abnehmend bis -2,5 in regelmäßigen Intervallen von 0,5 Einheiten. Im Diagramm gibt es drei Arten von Balken: das reale BIP in dunklem Blau, das potenzielle BIP in Hellblau und die Produktionslücke in Grau. Für das Jahr 2019 zeigt der reale BIP-Balken einen Wert von ungefähr -1,0, der potenzielle BIP-Balken liegt knapp darunter und die Produktionslücke etwa bei -0,7. Im Jahr 2020 zeigt der reale BIP-Balken einen ähnlichen Wert wie 2019, wohingegen der potenzielle BIP-Balken abfällt. Die Produktionslücke wird nicht durch einen Balken in diesem Jahr repräsentiert. Im Jahr 2021 bleibt das reale BIP unverändert, während der potenzielle BIP-Balken einen ähnlichen Trend wie 2020 aufweist. Für 2022 gibt es ebenfalls Balken für das reale und potenzielle BIP, wobei der reale BIP-Balken erneut etwas unter -1,0 liegt und der potenzielle BIP-Balken etwas oberhalb von -1,5 endet. Es gibt keine zusätzlichen visuellen Hervorhebungen oder Anmerkungen zu den Balken. Die Gruppen der Balken scheinen nicht in einer speziellen Reihenfolge außer der zeitlichen Anordnung sortiert zu sein."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215601",
+      "paper_language": "German",
+      "paper_title": "Wenig Spielraum für dauerhafte Nettoentlastungen",
+      "figure_filename": "174-176-ZG-Truger_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/174-176-ZG-Truger_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/174-176-ZG-Truger.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/174-176-ZG-Truger.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Auswirkung der Potenzialrevision auf den strukturellen Saldo des Gesamtstaats und des Bundes Projektionen der Bundesregierung vom Frühjahr 2019 gegenüber dem Frühjahr 2018 in Prozentpunkten",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt die Projektionen der Bundesregierung vom Frühjahr 2019 im Vergleich zum Frühjahr 2018 in Prozentpunkten dar. Die horizontale Achse zeigt die Jahre 2019 bis 2022 in aufsteigender Reihenfolge, während die vertikale Achse einen linearen Skalentyp aufweist, der in Intervallen von 0,2 Prozentpunkten von 0,0 bis -1,2 reicht. Die Daten bestehen aus zwei Kategorien: \"Gesamtstaat\", dargestellt durch dunkelblaue Balken, und \"Bund\", dargestellt durch hellblaue Balken. Im Jahr 2019 beträgt der Wert für den Gesamtstaat etwa -0,4 und für den Bund etwa -0,2. Im Jahr 2020 zeigen beide Kategorien ähnliche Werte wie 2019, wobei der Gesamtstaat knapp unter -0,4 und der Bund erneut etwa bei -0,2 liegt. Im Jahr 2021 sinken die Werte weiter, wobei die Projektion für den Gesamtstaat etwa -1,0 erreicht, und die des Bundes knapp unter -0,6 liegt. Für das Jahr 2022 zeigt der Gesamtstaat wieder Werte um -0,8, und der Bund bleibt stabil bei knapp unter -0,6. Die Balken sind nicht in einer bestimmten Reihenfolge sortiert, sondern in der natürlichen Reihenfolge der Jahre angeordnet und zeigen keine spezielle visuelle Hervorhebung."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215564",
+      "paper_language": "German",
+      "paper_title": "Osten holt auf, benötigt aber mehr Investitionen",
+      "figure_filename": "049-054-Quaas_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/049-054-Quaas_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Arbeitsproduktivität: Kettenindex",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm stellt die Entwicklung von Daten dar, die zwischen \"Alte Bundesländer\" und \"Neue Bundesländer\" in der Zeit von 1991 bis 2016 verglichen werden. Die x-Achse ist linear skaliert, reicht von 1991 bis 2016 und die Tick-Beschriftungen sind im Abstand von fünf Jahren angeordnet (1991, 1996, 2001, 2006, 2011, 2016). Die y-Achse ist ebenfalls linear skaliert, zeigt einen Wertebereich von 48 bis 108 mit dem Jahr 2010 als Basiswert bei 100 und ohne spezifische Tick-Beschriftungsintervalle, die überschaubar sind. \n\nDie durchgezogene Linie repräsentiert die \"Alten Bundesländer\" in blauer Farbe. Sie beginnt im Jahr 1991 knapp unter dem Wert von 88 und zeigt eine leichte, aber konstante Steigerung über den gesamten Zeitraum, wobei sie 2016 bei einem Wert von knapp über 108 endet. Ein merklicher Rückgang ist um das Jahr 2009 zu beobachten, dem jedoch eine Erholung folgt. Die gestrichelte Linie zeigt die Entwicklung in den \"Neuen Bundesländern\", ebenfalls in hellblau. Diese beginnt 1991 bei einem Wert unter 60 und steigt stark bis ins Jahr 1996 an, wonach die Steigerung langsamer, aber stetig verläuft. Die Linie erreicht 2016 knapp unter der 100er Marke. Spitzen oder große Schwankungen sind in dieser Linie nicht erkennbar."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215564",
+      "paper_language": "German",
+      "paper_title": "Osten holt auf, benötigt aber mehr Investitionen",
+      "figure_filename": "049-054-Quaas_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/049-054-Quaas_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Arbeitsproduktivität pro Erwerbstätigen in 1000 Euro",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm veranschaulicht den Anstieg der Einkommen in den alten und neuen Bundesländern Deutschlands über den Zeitraum von 1991 bis 2016. Die x-Achse ist linear skaliert, zeigt Jahre vom Startpunkt 1991 bis zum Endpunkt 2016 und ist in Fünfjahresabschnitten beschriftet. Die y-Achse repräsentiert Einkommen, beschriftet in \"1000 Euro\", reicht von 20 bis 70 mit einem Intervall von 10. Die \"Alte Bundesländer\" sind mit einer durchgezogenen blauen Linie markiert. Zu Beginn des betrachteten Zeitraums liegt der Wert knapp über 60 und erreicht 2016 etwa 70, mit geringfügigen Schwankungen dazwischen, insbesondere einem Abfall um das Jahr 2010. Die \"Neue Bundesländer\" werden durch eine gestrichelte blaue Linie dargestellt, die bei 20 beginnt und bis 2016 auf knapp über 50 ansteigt. Die starke Anfangssteigerung flacht nach 1996 ab, gefolgt von einer allmählichen Erhöhung bis 2016."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215564",
+      "paper_language": "German",
+      "paper_title": "Osten holt auf, benötigt aber mehr Investitionen",
+      "figure_filename": "049-054-Quaas_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/049-054-Quaas_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Wohlstand: Bruttoinlandsprodukt pro Einwohner in 1000 Euro",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm veranschaulicht den Verlauf von Einkommen in den alten und neuen Bundesländern zwischen den Jahren 1991 und 2016, gemessen in 1000 Euro. Die x-Achse ist linear skaliert und reicht von 1991 bis 2016, mit einer regelmäßigen Intervalleinteilung von fünf Jahren. Die y-Achse zeigt das Einkommen in 1000 Euro und ist ebenfalls linear skaliert, mit einem Bereich von 8 bis 43, wobei die Beschriftung in 5er-Schritten erfolgt.\n\nDie durchgezogene blaue Linie repräsentiert die Einkommen in den alten Bundesländern. Diese begann im Jahr 1991 bei etwa 28 und zeigt insgesamt einen ansteigenden Trend. Bis 1996 blieb sie nahezu konstant, um dann bis 2016 kontinuierlich anzusteigen, wobei sie in diesem Jahr etwa 38 erreicht. Es gibt einen leichten Rückgang gegen das Jahr 2006, der jedoch in den folgenden Jahren kompensiert wird. Die gestrichelte hellblaue Linie symbolisiert die Einkommen in den neuen Bundesländern. Diese Linie zeigt ebenfalls einen Aufwärtstrend, beginnend bei etwa 13 im Jahr 1991 und erreichte im Jahr 2016 etwa 28. Der Anstieg ist über die Jahre stetig ohne bemerkbare Rückgänge oder Plateaus."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215564",
+      "paper_language": "German",
+      "paper_title": "Osten holt auf, benötigt aber mehr Investitionen",
+      "figure_filename": "049-054-Quaas_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/049-054-Quaas_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Beschäftigungsgrad: Erwerbstätige pro Einwohner",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das gegebene Liniendiagramm veranschaulicht den prozentualen Vergleich zwischen den Alten und Neuen Bundesländern über den Zeitraum von 1991 bis 2016. Die x-Achse ist linear skaliert und zeigt Jahresangaben im Intervall von ungefähr fünf Jahren, beginnend bei 1991 und endend bei 2016. Die y-Achse ist ebenfalls linear und gibt Prozentsätze in der Einheit Prozent an, mit Beschriftungen von 40% bis 56% in Zweierintervallen.\n\nDie durchgezogene Linie repräsentiert die Alten Bundesländer. Diese Linie beginnt bei einem Wert von etwa 48% im Jahr 1991, sinkt dann bis etwa 45% im Jahr 1996 und steigt anschließend bis auf 54% im Jahr 2016 an. Ein Tiefpunkt ist um 1996 bei etwa 45% zu erkennen, gefolgt von einem kontinuierlichen Anstieg. Die gestrichelte Linie repräsentiert die Neuen Bundesländer. Sie startet bei etwa 45% im Jahr 1991, fällt auf 40% im Jahr 1996 ab und steigt dann glatt bis auf etwa 46% im Jahr 2016 an. Ein Tiefpunkt dieser Linie wird ebenfalls um 1996 bei 40% verzeichnet, dem ein langsamer Anstieg folgt."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215564",
+      "paper_language": "German",
+      "paper_title": "Osten holt auf, benötigt aber mehr Investitionen",
+      "figure_filename": "049-054-Quaas_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/049-054-Quaas_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Arbeitsentgelte in 1000 Euro",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt die Entwicklung des Durchschnittseinkommens in tausend Euro in den alten und neuen Bundesländern Deutschlands über einen Zeitraum von 1991 bis 2016. Auf der x-Achse sind die Jahre abgebildet, beginnend mit 1991 und endend mit 2016. Die Skalierung ist linear und zeigt regelmäßige Intervalle von fünf Jahren. Die y-Achse repräsentiert das Einkommen in Tausend Euro, mit einer linearen Skalierung von 12 bis 47 in Intervallen von fünf Einheiten. \n\nDie Linie, die die alten Bundesländer darstellt, ist durchgehend und dunkelblau gefärbt. Sie zeigt einen Anstieg von etwa 27 Tausend Euro im Jahr 1991 auf ungefähr 43 Tausend Euro im Jahr 2016, mit einem gleichmäßigen Aufwärtstrend und einer leichten Abflachung um 2001. Die Linie für die neuen Bundesländer ist hellblau und gestrichelt. Sie beginnt bei etwa 15 Tausend Euro im Jahr 1991 und steigt ebenfalls stetig auf etwa 26 Tausend Euro im Jahr 2016, wobei der Anstieg anfangs steiler ist und danach kontinuierlich verläuft. Beide Linien zeigen einen deutlichen Aufwärtstrend über den gesamten Zeitraum hinweg."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215564",
+      "paper_language": "German",
+      "paper_title": "Osten holt auf, benötigt aber mehr Investitionen",
+      "figure_filename": "049-054-Quaas_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/049-054-Quaas_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/049-054-Quaas.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Vergleich westdeutscher mit ostdeutschen Arbeitsentgelten",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt die Entwicklung zweier Variablen über die Zeit von 1991 bis 2016. Die x-Achse ist linear skaliert und stellt die Jahre von 1991 bis 2016 dar, ohne eine spezifische Einheit, wobei die Tick-Beschriftungen in Fünf-Jahres-Intervallen angezeigt werden. Die linke y-Achse ist ebenfalls linear und repräsentiert den Relationen-Wert, der von 1,2 bis 2,4 reicht, mit einem Intervall von 0,2. Parallel dazu zeigt die rechte y-Achse die Differenz in 1000 Euro, die von 6 bis 14 reicht und ebenfalls ein Intervall von 1 hat. Es gibt zwei Linien im Diagramm. Die durchgezogene blaue Linie mit Kreis-Markierungen repräsentiert die Differenz und zeigt einen Rückgang von etwa 13,5 im Jahr 1991 auf etwa 8 im Jahr 2016, mit mehreren kurzfristigen Schwankungen und einem leichten Trend nach oben um das Jahr 2016. Die gestrichelte blaue Linie mit keiner spezifischen Markierung repräsentiert die Relationen-Werte, die von etwa 2,4 im Jahr 1991 auf etwa 1,35 im Jahr 2016 fallen. Diese Linie zeigt einen relativ gleichmäßigen Abwärtstrend ohne größere Schwankungen."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231879",
+      "paper_language": "German",
+      "paper_title": "Das letzte deutsch-deutsche Rentenkapitel: der Härtefallfonds",
+      "figure_filename": "10.1007_s10273-020-2805-1_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2805-1_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2805-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2805-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Quote der Empfänger*innen der Grundsicherung im Alter und bei Erwerbsminderung",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt die Entwicklung eines Prozentsatzes in Ost- und Westdeutschland von 2003 bis 2018. Die x-Achse ist linear skaliert und stellt die Jahre dar, beginnend bei 2003 und endend bei 2018, mit jährlichen Intervallen. Die y-Achse ist ebenfalls linear skaliert und zeigt Prozentsätze von 0 bis 4 in 0,5er-Schritten. Die Daten werden durch zwei Linien repräsentiert: eine dunkelblaue Linie für Westdeutschland und eine hellblaue Linie für Ostdeutschland. Die Linie für Westdeutschland beginnt im Jahr 2003 bei etwa 2,0 % und steigt bis 2018 auf etwa 3,5 %, zeigt dabei Zunahmen besonders von 2006 bis 2009 und 2014 bis 2017. Die Linie für Ostdeutschland startet bei etwa 1,0 % im Jahr 2003 und erreicht etwa 2,0 % im Jahr 2018, mit einem Plateau von 2010 bis 2014 und leichten Schwankungen in den folgenden Jahren."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231879",
+      "paper_language": "German",
+      "paper_title": "Das letzte deutsch-deutsche Rentenkapitel: der Härtefallfonds",
+      "figure_filename": "10.1007_s10273-020-2805-1_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2805-1_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2805-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2805-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Bundesmittel an die gesetzliche Rentenversicherung: Erstattungen im Rahmen des AAÜG",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt den finanziellen Verlauf von 1992 bis 2018 in Millionen Euro. Die horizontale Achse enthält die Kategorien, die durch Jahresschritte von 1992 bis 2018 in einer fortlaufenden Reihenfolge dargestellt werden. Die vertikale Achse ist als lineare Skala in Millionen Euro beschriftet und reicht von 0 bis 6.000, wobei die Tick-Beschriftungen in Intervallen von 500 Mio. Euro angegeben sind. Jeder Balken repräsentiert ein Jahr und ist einheitlich in Blau gefärbt. Die Balken variieren in der Länge und deuten auf gestaffelte Beträge in Millionen Euro hin. Beispielsweise zeigt der kürzeste Balken im Jahr 1992 einen Wert von knapp über 500 Mio. Euro, während die höchsten Balken, z. B. in den Jahren 2017 und 2018, nahezu 6.000 Mio. Euro erreichen. Die Balken sind chronologisch nach Jahr angeordnet, und es gibt keine spezifische visuelle Hervorhebung, wie z. B. Schattierung oder Umrandung, einzelner Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231879",
+      "paper_language": "German",
+      "paper_title": "Das letzte deutsch-deutsche Rentenkapitel: der Härtefallfonds",
+      "figure_filename": "10.1007_s10273-020-2805-1_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2805-1_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2805-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2805-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Quote der Empfängerinnen der Grundsicherung im Alter und bei Erwerbsminderung",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt den Prozentsatz einer nicht näher spezifizierten Größe in West- und Ostdeutschland im Zeitraum von 2003 bis 2018. Die x-Achse ist linear skaliert und repräsentiert die Jahre von 2003 bis 2018 in Intervallen von einem Jahr. Die y-Achse ist ebenfalls linear skaliert und zeigt Prozentsätze von 0 bis 4,5 in Intervallen von 0,5. Die Linien im Diagramm sind unterschiedlich eingefärbt, um die Daten für West- und Ostdeutschland zu unterscheiden. Die Linie für Westdeutschland ist dunkelblau, hat keine Markierungen und ist durchgezogen. Sie beginnt bei etwa 2,7 % im Jahr 2003 und steigt bis 2009 auf etwa 3,5 %, um dann leicht zu fluktuieren und 2018 einen Wert von circa 3,7 % zu erreichen. Die Linie für Ostdeutschland ist hellblau, ebenfalls ohne Markierungen und durchgezogen. Sie startet bei etwa 1,3 % im Jahr 2003, steigt bis 2009 auf etwa 2 % und bleibt danach relativ stabil bis 2018. Beide Linien zeigen im Verlauf kleinere Schwankungen, wobei Westdeutschland insgesamt höhere Werte aufweist als Ostdeutschland."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225612",
+      "paper_language": "German",
+      "paper_title": "Sparen und Investieren im Spannungsfeld widerstreitender Paradigmen",
+      "figure_filename": "577-581-ZG-Bofinger_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/577-581-ZG-Bofinger_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/577-581-ZG-Bofinger.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/577-581-ZG-Bofinger.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Netto-Sparquoten1 der privaten Haushalte",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht die prozentualen Veränderungen in verschiedenen Ländern über drei ausgewählte Jahre: 1980, 1995 und 2017. Die horizontale Achse enthält die Länderkategorien, die in alphabetischer Reihenfolge von Italien bis Finnland aufgelistet sind. Die vertikale Achse stellt den Prozentsatz (%) dar, der in einem linearen Intervall von -5 bis 30 in Schritten von fünf Einheiten aufgeteilt ist. Die Balken sind in Gruppen von drei für jedes Jahr der Aufzeichnung gefärbt: Dunkelgrau für 1980, Hellblau für 1995 und Dunkelblau für 2017. Zum Beispiel zeigt Italien eine erhebliche Reduzierung über die Jahre, angefangen mit etwa 25% im Jahr 1980, abnehmend auf rund 17% im Jahr 1995 und weiter auf etwa 4% im Jahr 2017. Ähnlich zeigt Japan eine Verringerung von knapp über 10% im Jahr 1980, zu etwa 7% im Jahr 1995 und nahezu Null im Jahr 2017. Kanada hebt sich durch einen deutlichen Abfall von dem höchsten Wert von etwa 21% im Jahr 1980 auf knapp 6% im Jahr 2017 hervor. Die Balken sind nicht hervorgehoben oder besonders markiert. Allgemein deckt das Diagramm eine große Bandbreite an prozentualen Schwankungen zwischen den Jahren für die dargestellten Länder ab."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225612",
+      "paper_language": "German",
+      "paper_title": "Sparen und Investieren im Spannungsfeld widerstreitender Paradigmen",
+      "figure_filename": "577-581-ZG-Bofinger_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/577-581-ZG-Bofinger_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/577-581-ZG-Bofinger.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/577-581-ZG-Bofinger.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Veränderung der bereinigten Lohnquote (2016 bis 2018 gegenüber 1978 bis 1980)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht die prozentuale Veränderung eines nicht spezifizierten Indikators für verschiedene Länder. Auf der horizontalen Achse sind die Länder aufgeführt, beginnend von links mit Portugal, gefolgt von Japan, Spanien, Italien, Niederlande, Australien, Österreich, Finnland, Frankreich, Norwegen, Schweden, Belgien, Deutschland, USA, Kanada und endend mit Großbritannien. Die vertikale Achse zeigt eine Skala in Prozent an, die von 0 bis -25 reicht, mit einem kontinuierlichen Intervall von 5 Prozentpunkten. Jeder Balken, in einem einheitlichen Blauton, repräsentiert ein Land und gibt dessen spezifischen Wert an. Der längste Balken gehört zu Portugal, mit einem Wert knapp unter -20 %, während der kürzeste Balken Kanada mit einem Wert nur knapp unter -5 % darstellt. Die Balken sind in absteigender Reihenfolge ihrer Werte angeordnet, beginnend mit dem größten negativen Wert links und dem kleinsten negativen Wert rechts. Es gibt keine visuelle Hervorhebung oder Anmerkungen bei den Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231854",
+      "paper_language": "German",
+      "paper_title": "Die Inflationsmessung erzeugt die Illusion der stabilen Kaufkraft",
+      "figure_filename": "10.1007_s10273-020-2779-z_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2779-z_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2779-z.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2779-z.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Unterschiedliche Kaufkraftmaße und Veränderung der Bruttolöhne",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht verschiedene Inflations- und Preisveränderungen in Prozent für die Zeiträume 1999-2019 und 2012-2019. Die horizontalen Achse zeigt die Kategorien, die aus gesamtwirtschaftlichen und finanziellen Indikatoren bestehen, nämlich HVPI, Kerninflation, Wohnimmobilien, Steuereinnahmen, DAX und Bruttolöhne. Die vertikale Achse stellt den prozentualen Wert mit einer linearen Skala dar, die in Intervalle von 2 % von 0 % bis 12 % eingeteilt ist. Für jede Kategorie gibt es zwei nebeneinander liegende Balken, die die Zeiträume 1999-2019 und 2012-2019 in dunklerem und hellerem Blau darstellen. Der Balken für HVPI ist in beiden Zeiträumen unter 2 %. Kerninflation weist ebenfalls eine ähnliche geringe Höhe auf. Bei Wohnimmobilien ist der Balken für 2012-2019 höher und liegt unter 6 %, während der für 1999-2019 knapp über 2 % liegt. Steuereinnahmen zeigen einen dunkleren Balken unter 4 % und einen helleren Balken über 4 %. DAX zeigt eine erhebliche Steigerung im helleren Balken über 10 %, während der dunklere um die 6 % liegt. Bei den Bruttolöhnen liegen beide Balken knapp unter 2 %. Balken sind nicht in einer bestimmten Reihenfolge sortiert und zeigen keine visuelle Hervorhebung. Eine horizontale Linie markiert das Inflationsziel nahe, aber unter 2 %."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231878",
+      "paper_language": "German",
+      "paper_title": "Makroökonomische Folgen der demografischen Alterung",
+      "figure_filename": "10.1007_s10273-020-2804-2_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2804-2_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2804-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2804-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Entwicklung der gesamtwirtschaftlichen Sparquote in Deutschland Ersparnisse in % des BIP",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm stellt die Ersparnisse in Prozent des BIP im Zeitraum von 2018 bis 2050 dar und umfasst zwei Szenarien: Basisszenario und Alternativszenario. Die x-Achse ist linear skaliert und repräsentiert die Jahre von 2018 bis 2050, wobei die Tick-Beschriftungen in Zweijahresintervallen angeordnet sind. Die y-Achse ist ebenfalls linear skaliert, zeigt den Prozentsatz der Ersparnisse am BIP im Bereich von 24% bis 28% und ist in Ein-Prozent-Schritten markiert. Die schwarze Linie repräsentiert das Basisszenario. Sie beginnt im Jahr 2018 knapp über 27% und verläuft bis 2050 relativ stabil, mit einem leichten Anstieg am Ende des Zeitraums. Die blaue Linie stellt das Alternativszenario dar. Sie startet 2018 ebenfalls über 27%, zeigt jedoch einen kontinuierlichen Rückgang bis 2038, wo sie knapp unter 25% liegt, und bleibt danach relativ konstant bis 2050."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231878",
+      "paper_language": "German",
+      "paper_title": "Makroökonomische Folgen der demografischen Alterung",
+      "figure_filename": "10.1007_s10273-020-2804-2_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2804-2_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2804-2.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2804-2.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Entwicklung der erwerbsfähigen Bevölkerung Bevölkerung im erwerbsfähigen Alter (15 bis 64 Jahre) Indexwert, 2018 = 100",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm zeigt die Projektion von Indizes für einem unbekannten Faktor für die USA, Deutschland und Japan von 2015 bis 2050. Die x-Achse ist linear und repräsentiert die Zeit in Jahren von 2015 bis 2050 mit einem regelmäßigen Intervall von fünf Jahren. Die y-Achse zeigt den Indexwert an, reicht von 70 bis 110 und ist ebenfalls linear, mit einem Intervall von fünf Einheiten. Die Linie für die USA ist in hellblau dargestellt, durchgezogen und steigt leicht an. Sie beginnt bei etwa 100 im Jahr 2015 und erreicht etwa 108 im Jahr 2050. Die Linie für Deutschland ist dunkelblau und durchgezogen, zeigt einen leichten Rückgang, beginnend knapp über 100 im Jahr 2015 und endend knapp unter 95 im Jahr 2050. Die Linie für Japan ist schwarz, punktiert und weist einen deutlichen Rückgang auf. Sie beginnt bei 100 im Jahr 2015 und fällt stetig bis etwa 75 im Jahr 2050."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215612",
+      "paper_language": "German",
+      "paper_title": "Potenziale und Umsetzung der Digitalisierung auf Unternehmensebene",
+      "figure_filename": "012-019-Huether_fig5.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/012-019-Huether_fig5.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/012-019-Huether.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/012-019-Huether.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Ambivalente Aussichten für Beschäftigungsperspektiven „Welche Auswirkungen hat die Digitalisierung in Ihrem Unternehmen?“, Anteil der befragten Unternehmen, in %",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht die Auswirkungen der Digitalisierung auf verschiedene Branchen in Unternehmen, gemessen in Prozenten der befragten Unternehmen. Die Kategorien sind auf der vertikalen Achse angeordnet und umfassen die Sektoren Verkehr, Sonstige Dienstleistungen, Information/Kommunikation, Industrie, Handel, Gastgewerbe, Finanzwirtschaft, Bau und Alle Branchen. Die horizontale Achse repräsentiert den Anteil in Prozent und ist mit einer linearen Skala von 0 bis 100 versehen, wobei die Tick-Beschriftungen in Intervallen von 20 angeordnet sind. Jeder Balken ist in drei Teile unterteilt, die verschiedene Auswirkungen darstellen: \"Erhöhung\" (dunkelblau), \"Keine Veränderung\" (mittelblau) und \"Reduzierung\" (hellblau). Zum Beispiel zeigt der dunkelblaue Abschnitt für den Sektor Information/Kommunikation einen Anteil von 40 %, der mittelblaue Abschnitt 48 %, und der hellblaue Abschnitt 12 %. In der Finanzwirtschaft ist der dunkelblaue Anteil am kleinsten mit 5 %, während der hellblaue Anteil mit 61 % am größten ist. Die Balken scheinen nicht in einer bestimmten Reihenfolge sortiert zu sein und es gibt keine visuelle Hervorhebung oder Anmerkung von spezifischen Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215612",
+      "paper_language": "German",
+      "paper_title": "Potenziale und Umsetzung der Digitalisierung auf Unternehmensebene",
+      "figure_filename": "012-019-Huether_fig6.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/012-019-Huether_fig6.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/012-019-Huether.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/012-019-Huether.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Entwicklung der Bedeutung von Kompetenzen im Zuge der Digitalisierung Anteil der Unternehmen, die für die folgenden Fähigkeiten in den kommenden fünf Jahren von einem Bedeutungszuwachs ausgehen, 2018",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt dar, welchen Anteil der Unternehmen in einer Umfrage von 2018 davon ausgeht, dass bestimmte Fähigkeiten in den kommenden fünf Jahren an Bedeutung gewinnen werden. Die horizontal angeordnete Achse zeigt die Kategorien der Fähigkeiten, die von oben nach unten aufgelistet sind: IT-Anwenderkenntnisse, Selbstständigkeit, Planungs- und Organisationsfähigkeit, Kooperations- und Kommunikationsfähigkeit, berufliches Fachwissen, Führungskompetenz, IT-Fachwissen und Softwareprogrammierung sowie Kenntnisse über Industrie 4.0-Technologien. Die vertikale Achse ist die Wertachse, die in Prozenten von 0 bis 100 verläuft, mit einem Tick-Beschriftungsintervall von 20 Einheiten, das eine lineare Skalierung aufweist. Jeder Balken ist in einem einheitlichen Blauton dargestellt. Der am weitesten reichende Balken repräsentiert IT-Anwenderkenntnisse mit einem ungefähren Wert von 90 %, während Kenntnisse über Industrie 4.0-Technologien den kürzesten Balken darstellen, mit einem Wert um die 50 %. Die Balken sind nicht in einer erkennbaren Reihenfolge sortiert, wie alphabetisch oder nach Wert. Es sind keine zusätzlichen visuellen Hervorhebungen wie Schattierungen oder Umrandungen erkennbar."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215616",
+      "paper_language": "German",
+      "paper_title": "Digitalisierung und die Zukunft der Arbeit",
+      "figure_filename": "041-047-Arntz_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/041-047-Arntz_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/041-047-Arntz.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/041-047-Arntz.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Länderspezifi sche Automatisierungspotenziale Anteil der Beschäftigten mit hohem Automatisierungspotenzial in %",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt den Anteil der Beschäftigten mit hohem Automatisierungspotenzial in verschiedenen Ländern in Prozent. Die horizontale Achse listet die Ländernamen auf, beginnend mit Österreich links und endend mit Südkorea rechts, in keiner spezifischen Reihenfolge, die einer Skala folgt. Die vertikale Achse repräsentiert den Prozentsatz des Automatisierungspotenzials, mit einer Skala von 0 bis 14 Prozent, in Intervallen von 2, die linear ansteigen. Jeder Balken ist einen spezifischen Prozentsatz für das jeweilige Land. Die Balken sind in einer hellblauen Farbe dargestellt, mit Ausnahme des Balken für die USA, der durch eine dunkelblau Farbe hervorgehoben ist. Die höchsten Balken gehören zu Österreich und Deutschland, beide in der Nähe von 12 Prozent, während der kürzeste Balken Süd-Korea darstellt mit einem Wert unter 6 Prozent. Der Balken, der den Durchschnitt aller Länder darstellt, hat eine Höhe von etwa 10 Prozent. Die Anordnung der Balken zeigt keine offensichtliche Sortierreihenfolge."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215616",
+      "paper_language": "German",
+      "paper_title": "Digitalisierung und die Zukunft der Arbeit",
+      "figure_filename": "041-047-Arntz_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/041-047-Arntz_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/041-047-Arntz.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/041-047-Arntz.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Berufs- versus jobbasierte Schätzungen des Automatisierungspotenzials",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht den Anteil berufsbasierter und jobbasierter Betrachtungen von Daten über die Jahre in den USA und Deutschland, basierend auf den Quellenangaben für die Jahre 2016 bis 2018. Die vertikale Achse listet die untersuchten Studien auf, die durch die Namen der Autoren und das Jahr sowie das Land (USA oder DE) gekennzeichnet sind: \"Frey/Osborne (2017), USA\", \"Arntz et al. (2017), USA\", \"Arntz et al. (2017), USA\", \"Nedelkosta/Quintini (2018), USA\", \"Arntz et al. (2016), DE\", \"Arnold et al. (2016), DE\" und \"Dengler/Matthes (2018), DE\". Die horizontale Achse repräsentiert den prozentualen Anteil mit einer linearen Skala von 0 % bis 50 %, dabei wird das Intervall in 10 %-Schritten dargestellt. Die Balken unterteilen sich in zwei Kategorien, die durch eine Legende unten rechts gekennzeichnet sind: „Berufsbasiert“ wird durch hellblaue Balken und „Jobbasiert“ durch dunkelblaue Balken repräsentiert. Der längste hellblaue Balken von „Arntz et al. (2017), USA“ zeigt einen Wert von etwa 45 %, während der hellblaue Balken von \"Frey/Osborne (2017), USA\" knapp darunter liegt. Die dunkelblauen Balken variieren zwischen etwa 5 % und 15 %, wobei zum Beispiel „Dengler/Matthes (2018), DE“ und „Arnold et al. (2016), DE“ ähnliche Werte aufweisen. Die Balken sind nicht in einer spezifischen Reihenfolge sortiert, sondern scheinen thematisch gruppiert zu sein, da Studien der gleichen Autorengruppe unterschiedlich farbige Balken aufweisen, was auf eine Differenzierung zwischen den untersuchten Kategorien hinweist."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215616",
+      "paper_language": "German",
+      "paper_title": "Digitalisierung und die Zukunft der Arbeit",
+      "figure_filename": "041-047-Arntz_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/041-047-Arntz_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/041-047-Arntz.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/041-047-Arntz.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Anteil von 4.0-Technologien am Kapitalstock in deutschen Betrieben",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt den prozentualen Anteil verschiedener Technologien in den Jahren 2011 und 2016 für die Bereiche \"Büro und Kommunikation\" sowie \"Produktion\" dar. Auf der horizontalen Achse sind die Kategorien nach Jahr und Bereich aufgeführt, beginnend mit 2011 und 2016 für \"Büro und Kommunikation\" gefolgt von 2011 und 2016 für \"Produktion\". Die vertikale Achse zeigt den prozentualen Anteil von 0 bis 100 % mit einem Intervall von 10 %. Die Balken sind gestapelt und in drei verschiedene Technologien unterteilt, welche durch die Legende definiert werden: 1.0/2.0-Technologien (hellblau), 3.0-Technologien (mittelblau) und 4.0-Technologien (dunkelblau). Alle Balken beginnen bei 0 % und erreichen insgesamt 100 %. Im Bereich \"Büro und Kommunikation\" hat der Balken von 2011 den niedrigsten Anteil an 4.0-Technologien, während der von 2016 mehr 3.0- und 4.0-Technologien aufweist. Im Bereich \"Produktion\" ist im Jahr 2011 der Anteil von 3.0-Technologien höher als in allen anderen, während im Jahr 2016 der Anteil bei 1.0/2.0-Technologien dominiert. Die Reihenfolge der Balken ist chronologisch nach Jahr sortiert und innerhalb der Bereiche gruppiert. Es gibt keine visuelle Hervorhebung oder besondere Sortierung der Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225575",
+      "paper_language": "German",
+      "paper_title": "Investitionen und Konsum: wirtschaftspolitische Handlungsoptionen zur Jahresmitte 2020",
+      "figure_filename": "422-428-Huether_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/422-428-Huether_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/422-428-Huether.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/422-428-Huether.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Fiskalpolitische Antworten auf die COVID-19 Pandemie in % des nationalen Bruttoinlandsprodukts",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht die Anteile der Zunahme von Staatsausgaben sowie von Krediten, Bürgschaften und Kapitalspritzen in Prozent des nationalen Bruttoinlandsprodukts (BIP) für verschiedene Länder und die EU. Die Kategorien sind entlang der horizontalen Achse aufgeführt, welche die beteiligten Länder in alphabetischer Reihenfolge von Südafrika bis EU zeigt. Die vertikale Achse stellt den Wertebereich in Prozent von 0 bis 40 dar, wobei der Achsenskalentyp linear ist und die Intervalle regelmäßig in Schritten von 5 Prozent markiert sind. Die Farben der Balken sind hellblau für die Zunahme der Staatsausgaben und dunkelblau für Kredite, Bürgschaften und Kapitalspritzen. Jeder Balken zeigt die kombinierte Länge beider Kategorien. Die kürzesten Balken finden sich bei Südafrika und Indien mit beiden Kategorien zusammen unter 5 %, wobei die hellblauen Anteile minimal sind. Der höchste Balken gehört zur EU mit einem kombinierten Wert von etwa 35 %, wobei der dunkelblaue Anteil deutlich überwiegt. Eine auffällige visuelle Hervorhebung einzelner Balken ist nicht vorhanden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225575",
+      "paper_language": "German",
+      "paper_title": "Investitionen und Konsum: wirtschaftspolitische Handlungsoptionen zur Jahresmitte 2021",
+      "figure_filename": "422-428-Huether_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/422-428-Huether_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/422-428-Huether.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/422-428-Huether.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Aggregierte Gütergruppen, Deutschland 2016 in % des gesamten Güteraufkommens, Angaben auf Basis von Input- Output-Tabellen",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt den prozentualen Anteil verschiedener Komponenten am gesamten Güteraufkommen in verschiedenen Wirtschaftssektoren auf Basis von Input-Output-Tabellen. Die horizontal angeordnete Achse kategorisiert die Sektoren in Dienstleistungen, Industrie (ohne Bau), Primärsektor, Bau und Gesamtwirtschaft. Die vertikale Achse ist als Prozentskala von 0 bis 100 markiert, mit Tick-Beschriftungen an jedem Zehnerschritt, was eine lineare Darstellung impliziert. Die Balken sind gestapelt und repräsentieren unterschiedliche Komponenten: Bruttowertschöpfung in dunklem Blau, inländische Vorleistungen in mittlerem Blau, importierte Vorleistungen in hellem Blau und Importe gleichartiger Güter in Grau. Bei den Dienstleistungen macht die Bruttowertschöpfung 55% aus, die inländischen Vorleistungen 34%, die importierten 5% und die Importe gleichartiger Güter 6%. In der Industrie beträgt die Bruttowertschöpfung 21%, die inländischen Vorleistungen 35%, die importierten 14% und die Importe gleichartiger Güter 30%. Der Primärsektor zeigt 16% Bruttowertschöpfung, 25% inländische Vorleistungen, 4% importierte Vorleistungen und einen hohen Anteil von 55% an Importen gleichartiger Güter. Im Bau sind die Anteile 44% Bruttowertschöpfung, 47% inländische Vorleistungen, 8% importierte Vorleistungen und 1% Importe gleichartiger Güter. Schließlich hat die Gesamtwirtschaft 40% Bruttowertschöpfung, 35% inländische Vorleistungen, 8% importierte Vorleistungen und 16% Importe gleichartiger Güter. Die Balken sind in keiner speziellen Reihenfolge außer der der Sektoren angeordnet, und es gibt keine visuell hervorgehobenen Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225610",
+      "paper_language": "German",
+      "paper_title": "Sparen und Investieren im 21. Jahrhundert: Das Ende der Kapitalknappheit",
+      "figure_filename": "569-572-ZG-CCvWeizsaecker_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/569-572-ZG-CCvWeizsaecker_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/569-572-ZG-CCvWeizsaecker.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/569-572-ZG-CCvWeizsaecker.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Die drei Formen privaten Vermögens und ihre Anteile",
+      "gpt-labeled_plot_type": "Pie Chart",
+      "gpt_annotation": "Das Kreisdiagramm zeigt die Anteile verschiedener Kategorien innerhalb eines bestimmten Themas. Es besteht aus drei Segmenten. Das Segment \"Realkapital\" ist in dunklerem Blau gehalten und umfasst etwa 1/3 des Diagramms. Das Segment \"Boden\" ist in einem mittleren Blauton dargestellt und nimmt 1/5 des Kreises ein. Das größte Segment, \"Ansprüche an den Staat\", ist in hellem Blau gefärbt und macht 7/15 aus. Jedes Segment enthält eine spezifische Prozentangabe innerhalb des Segments, um den Anteil zu verdeutlichen. Es gibt keine Legende, jedoch sind die Segmente mit ihren Bezeichnungen beschriftet. Die Anteile sind in keiner bestimmten Reihenfolge angeordnet."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231871",
+      "paper_language": "German",
+      "paper_title": "Der amerikanische Traum ist ausgeträumt",
+      "figure_filename": "10.1007_s10273-020-2797-x_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2797-x_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2797-x.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2797-x.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Inländische Mobilität in den USA Anteil an der Gesamtbevölkerung",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Liniendiagramm zeigt den Verlauf der Prozentsätze der Intra-County- und Inter-County-Migration über einen Zeitraum von 1940 bis 2020. Die x-Achse ist linear skaliert und repräsentiert die Jahre von 1940 bis 2020, mit regelmäßigen Tick-Beschriftungen in 20-Jahres-Intervallen. Die y-Achse ist ebenfalls linear skaliert, zeigt Prozentsätze und reicht von 2 % bis 14 % mit einem Intervall von 2 % zwischen den Tick-Beschriftungen. Die dunklere Linie repräsentiert die Intra-County-Migration. Sie beginnt 1940 bei etwa 13 %, weist mehrere Schwankungen auf, erreicht um das Jahr 2000 herum einen Höchstwert von knapp 11 % und zeigt anschließend einen kontinuierlichen Rückgang bis auf etwa 6 % im Jahr 2020. Die hellere Linie veranschaulicht die Inter-County-Migration. Diese beginnt bei etwa 6 % im Jahr 1940, zeigt leichte Schwankungen, bleibt relativ stabil bis nach 2000 und fällt dann bis auf etwa 4 % im Jahr 2020 ab."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231871",
+      "paper_language": "German",
+      "paper_title": "Der amerikanische Traum ist ausgeträumt",
+      "figure_filename": "10.1007_s10273-020-2797-x_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2797-x_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2797-x.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2797-x.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Generative Einkommensmobilität in den USA Geburtskohorten gegenüber den Eltern; Anteil der Kinder, die ein höheres Einkommen erzielen als ihre Eltern",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm stellt den Prozentsatz der Familieneinkommen und der individuellen Einkommen von Vätern im Vergleich zu ihren Söhnen über die Jahre dar. Die x-Achse ist linear skaliert und zeigt den Zeitraum von 1940 bis 1984 an, mit Tick-Beschriftungen in 2-Jahres-Intervallen, beginnend bei 1940 und endend bei 1984. Die y-Achse ist ebenfalls linear skaliert und stellt den Prozentsatz dar, wobei die Skala von 0 % bis 100 % reicht und in 10 %-Intervallen eingeteilt ist. Eine dunkelblaue durchgezogene Linie repräsentiert das Familieneinkommen. Diese Linie beginnt im Jahr 1940 bei etwa 90 % und zeigt einen abwärts gerichteten Trend auf bis zu etwa 50 % im Jahr 1984, mit kleineren Schwankungen. Eine hellblaue durchgezogene Linie repräsentiert das individuelle Einkommen, das im Jahr 1940 bei etwa 90 % startet und bis 1984 auf etwa 40 % sinkt, wobei zwischenzeitliche Schwankungen deutlich zu erkennen sind. Beide Linien weisen eine allgemein abnehmende Tendenz auf, allerdings mit unterschiedlichen Abstiegsraten und Verlaufsmustern."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231871",
+      "paper_language": "German",
+      "paper_title": "Der amerikanische Traum ist ausgeträumt",
+      "figure_filename": "10.1007_s10273-020-2797-x_fig3.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2797-x_fig3.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2797-x.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2797-x.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Beschäftigte im Verarbeitenden Gewerbe der USA Vollzeitäquivalente (VZÄ)",
+      "gpt-labeled_plot_type": "Line Plot",
+      "gpt_annotation": "Das Diagramm veranschaulicht die Anzahl der Beschäftigten im verarbeitenden Gewerbe und ihren Anteil an allen Vollzeitäquivalenten über einen Zeitraum von 1929 bis 2017. Die x-Achse ist linear skaliert und zeigt Jahreszahlen in einem Intervall von etwa vier Jahren. Die y-Achse auf der linken Seite ist in Einheiten von 1.000 angegeben, reicht von 0 bis 25.000 und hat Intervalle von 5.000. Die y-Achse auf der rechten Seite repräsentiert Prozentwerte, erstreckt sich von 0 % bis 35 % mit einem Intervall von 5 %. Die dunkelblaue Linie, die die Anzahl der Beschäftigten darstellt, beginnt 1929 bei etwa 11.000, erreicht einen Höhepunkt von knapp 20.000 um Mitte der 1960er Jahre und fällt bis 2017 auf etwa 10.000 ab. Die hellblaue Linie zeigt den Anteil dieser Beschäftigten an allen Vollzeitäquivalenten, beginnt 1929 bei etwa 25 %, erreicht mehrere Spitzen, darunter eine um 1970 bei etwa 30 %, und reduziert sich bis 2017 kontinuierlich auf etwa 10 %."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/225603",
+      "paper_language": "German",
+      "paper_title": " Quo vadis paarinterne Arbeitsteilung post coronam?",
+      "figure_filename": "556-558-Oekon-Trends-Boll_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/556-558-Oekon-Trends-Boll_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/556-558-Oekon-Trends-Boll.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/556-558-Oekon-Trends-Boll.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Homeoffi ce-Potenzial und Systemrelevanz von Elternpaaren",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt die Verteilung von Homeoffice-Regelungen in verschiedenen Kategorien im Kontext des Zugangs zur Notbetreuung und spezifischer Regelungen. Die vertikale Achse enthält die Kategorien „Zugang Notbetreuung“, „nur Vater SRInf“, „nur Mutter SRInf“ und „beide NSR“, wobei die Achsenbeschriftungen in dieser Reihenfolge von oben nach unten verlaufen. Die horizontale Achse repräsentiert den prozentualen Anteil jeder Homeoffice-Regelung mit einer linearen Skala von 0 bis 60 Prozent und regelmäßigen Tick-Beschriftungen in Intervallen von 20 Prozent. Die Diagrammbalken sind gestapelt und in vier Segmente unterteilt, die durch unterschiedliche Farben gekennzeichnet sind: Dunkelblau für „beide Homeoffice“, Hellblau für „nur Vater Homeoffice“, Hellgrau für „nur Mutter Homeoffice“ und Dunkelgrau für „keiner Homeoffice“. In der Kategorie „Zugang Notbetreuung“ beträgt der Gesamtprozentwert 2,8 mit einem kleinen Anteil der anderen Homeoffice-Typen. Bei „nur Vater SRInf“ wird ein Gesamtwert von 1,0 Prozent angezeigt. In der Kategorie „nur Mutter SRInf“ sind die Prozente nicht speziell angegeben. Die Kategorie „beide NSR“ hat den höchsten Gesamtprozentwert von 14,6 Prozent, wobei alle Homeoffice-Varianten signifikant erscheinen. Die Balken sind nicht in einer bestimmten Reihenfolge sortiert und es sind keine spezifischen Balken visuell hervorgehoben."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/215585",
+      "paper_language": "German",
+      "paper_title": "Forschungsbereiche der Datenökonomie",
+      "figure_filename": "124-127-Goecke_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/124-127-Goecke_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/124-127-Goecke.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/124-127-Goecke.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Wachstum der Beschäftigung in der Datenökonomie",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt den prozentualen Anteil von zwei unterschiedlichen Messgrößen für mehrere europäische Länder und die gesamte EU27. Auf der horizontalen Achse sind die Länder Frankreich, Spanien, Italien, Deutschland, Irland, Schweden, Polen, Niederlande, Österreich, Belgien und die EU27 aufgelistet. Die vertikale Achse steht für den Prozentsatz, wobei die linke Skala von 0 bis 12 in Einheiten von 2 gestaffelt ist und die rechte Skala von 0 bis 100 in Einheiten von 10. Das Diagramm enthält gruppierte Balken, die in zwei Farben dargestellt sind: hellblau und dunkelblau. Jede Farbe repräsentiert eine unterschiedliche Kategorie, jedoch ist dies durch die gegebenen Informationen nicht spezifiziert. Für jedes Land gibt es einen hellblauen und einen dunkelblauen Balken, die nicht in einer bestimmten Reihenfolge sortiert sind. Der hellblaue Balken in Frankreich erreicht etwa 10 %, während der dunkelblaue Balken denselben Wert erreicht, was auf eine Gleichheit beider Kategorien hindeutet. In Spanien weist der hellblaue Balken ebenfalls etwa 10 % auf, und der dunkelblaue etwa 8 %. In Italien zeigen beide Balken etwa 10 %, in Deutschland beide Balken etwa 8 %, in Irland der hellblaue Balken ebenfalls etwa 8 % und der dunkelblaue etwa 7 %. Schweden zeigt im dunkelblauen Balken etwa 10 % und im hellblauen etwa 9 %. In Polen erreicht der dunkelblaue Balken ebenfalls 10 %, während der hellblaue 6 % aufweist. Die Niederlande zeigen im hellblauen Balken etwa 6 % und im dunkelblauen etwa 8 %. In Österreich ist der hellblaue Balken bei etwa 4 % und der dunkelblaue bei etwa 6 %. Belgien hat den dunkelblauen Balken bei etwa 2 % und den hellblauen bei 8 %. Für die EU27 liegt der hellblaue Balken bei etwa 7 % und der dunkelblaue bei 60 %. Die Balken sind visuell durch unterschiedliche Farben hervorgehoben, um die beiden Kategorien voneinander zu unterscheiden."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231821",
+      "paper_language": "German",
+      "paper_title": "Weltklassepatente – das \"Gold\" der Wissensökonomie?",
+      "figure_filename": "10.1007_s10273-020-2744-x_fig4.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2744-x_fig4.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2744-x.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2744-x.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Quantencomputing Weltklassepatente je 1 Mio. Einwohner (2019)",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt verschiedene Kategorien entlang der horizontalen Achse, die die Namen von Ländern darstellt, nämlich Kanada, USA, Großbritannien, Südkorea, Japan, Frankreich, Deutschland und China. Diese Kategorien sind nicht nach einer erkennbaren Reihenfolge wie Alphabet oder Größe sortiert. Die vertikale Achse repräsentiert die Werte, die in einem numerischen Maßstab von 0 bis 0,7 figurieren, mit einem regelmäßigen Beschriftungsintervall von 0,1. Die Balken selbst sind in unterschiedlichen Blauschattierungen gefärbt. Der Balken für Kanada ist der höchste mit einem Wert von etwa 0,69 und ist in einem dunkleren Blau dargestellt. Es folgt der Balken für die USA, der etwas niedriger bei etwa 0,56 liegt. Großbritannien und Südkorea haben vergleichbare Balkenhöhen von ungefähr 0,36 bis 0,38. Der Balken für Japan liegt darunter bei etwa 0,23, gefolgt von Frankreich und Deutschland, die ähnliche Werte von etwa 0,12 bis 0,14 aufweisen. Der Balken für China ist der kleinste mit einem Wert knapp über 0. Die visuelle Darstellung zeigt keine hervorgehobenen oder anders gekennzeichneten Balken."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231845",
+      "paper_language": "German",
+      "paper_title": "Konjunkturschlaglicht: Muster der Erwerbslosigkeit in der COVID-19-Krise",
+      "figure_filename": "10.1007_s10273-020-2769-1_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2769-1_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2769-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2769-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Arbeitslosenquoten nach Personengruppen in Deutschland",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt den prozentualen Vergleich verschiedener Kategorien zum Stichtag der Arbeitslosigkeit im Juli 2019 und Juli 2020 dar. Die horizontale Achse des Diagramms zeigt die Kategorien „insgesamt“, „Frauen“, „Männer“, „Inländer“, „Ausländer“ und „Über-55-Jährige“ in dieser Reihenfolge an. Die vertikale Achse ist eine lineare Skala, die Prozentsätze von 0 % bis 18 % in Zweierschritten anzeigt. Jeder Kategorie sind zwei Balken zugeordnet, die unterschiedliche Blau-Schattierungen repräsentieren: ein hellblauer Balken für Juli 2019 und ein dunkelblauer Balken für Juli 2020. Innerhalb der Kategorien variiert der prozentuale Anteil. Die Balken für Juli 2019 liegen überwiegend im Bereich von etwa 3 % bis 10 %, wobei die Kategorie „Ausländer“ den höchsten Wert von annähernd 13 % aufweist. Die Werte für Juli 2020 sind durchgehend höher und reichen von etwa 5 % bis zu über 15 %, wobei „Ausländer“ auch hier den höchsten Balken darstellt. Die Balken sind nicht nach einer bestimmten Reihenfolge sortiert und keine der Balken ist besonders hervorgehoben."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231845",
+      "paper_language": "German",
+      "paper_title": "Konjunkturschlaglicht: Muster der Erwerbslosigkeit in der COVID-19-Krise",
+      "figure_filename": "10.1007_s10273-020-2769-1_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2769-1_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2769-1.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2769-1.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Arbeitslose nach Zielberufen in Deutschland Bestände in 1.000",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm zeigt eine vergleichende Darstellung der Beschäftigungszahlen in verschiedenen Berufsgruppen zwischen Juli 2019 und Juli 2020. Die vertikale Achse listet die Kategorien der Berufsgruppen auf, einschließlich „Büro und Sekretariat“, „Speisenzubereitung“, „Reinigung“, „Verkauf (ohne Produktspezialisierung)“ und „Lagerwirtschaft, Post etc.“, jeweils gefolgt von einer Zahl in Klammern. Diese Zahlen scheinen als Identifikationsnummern für die Berufsgruppen zu fungieren. Die horizontale Achse repräsentiert die Werteachse, mit einer linearen Skala von 0 bis 300, die in Intervallen von 50 beschriftet ist, ohne ausgewiesene Einheit. Für jede Berufsgruppe gibt es zwei Balken, die jeweils einen anderen Zeitraum repräsentieren: Juli 2019 in hellblauer Farbe und Juli 2020 in dunkelblauer Farbe. Bei „Büro und Sekretariat“ zeigt der hellblaue Balken einen Wert knapp über 200, während der dunkelblaue Balken bei etwa 250 liegt. In der Kategorie „Speisenzubereitung“ erreichen die Balken für Juli 2019 knapp über 100 und für Juli 2020 etwa 150. In der „Reinigung“ ist der hellblaue Balken etwas über 200, während der dunkelblaue Balken knapp bei 250 liegt. Der „Verkauf“ zeigt hellblau etwa 170 und dunkelblau etwas über 200. Bei „Lagerwirtschaft, Post etc.“ reicht der hellblaue Balken bis etwa 200 und der dunkelblaue Balken bis knapp 250. Die Reihenfolge der Kategorien scheint keiner spezifischen Reihenfolge zu folgen, und die Balken sind konsistent ohne besondere Hervorhebungen. Eine Legende im Diagramm identifiziert die Farbcodierung der dargestellten Jahre."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231858",
+      "paper_language": "German",
+      "paper_title": "Corona-Pandemie und die Stabilität des Bankensystems: Ursachen in der Realwirtschaft kurieren",
+      "figure_filename": "10.1007_s10273-020-2783-3_fig1.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2783-3_fig1.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2783-3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2783-3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Insolvenzen nach Wirtschaftsbereichen in % aller Insolvenzen, Januar 2008 bis März 2020",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm veranschaulicht den prozentualen Anteil von Insolvenzen in verschiedenen Branchen in der Zeitspanne von Januar 2008 bis März 2020. Auf der horizontalen Achse sind die Kategorien der Branchen aufgeführt, welche in einer spezifischen Reihenfolge dargestellt sind, beginnend mit Landwirtschaft, gefolgt von Bergbau, Verarbeitendes Gewerbe und weiteren Sektoren bis zu Sonstigen Dienstleistungen. Die vertikale Achse repräsentiert den prozentualen Anteil, mit einer linearen Skala, die von 0 bis 20 Prozent reicht. Die Tick-Beschriftungen weisen ein regelmäßiges Intervall von 2 Prozent auf. Jeder Balken repräsentiert eine Branche und ist einheitlich blau gefärbt. Der Balken für den Handel weist den höchsten Wert von knapp über 15 Prozent auf, während die Bereiche Bergbau und Wasserverorgung mit jeweils fast keinem oder sehr geringem Anteil die niedrigsten Balken haben. Weitere Beispiele sind das verarbeitende Gewerbe mit etwa 8 Prozent und das Baugewerbe mit etwa 4 Prozent. Die Anordnung der Balken erfolgt nicht in einer spezifischen, erkennbaren Reihenfolge wie absteigend oder alphabetisch; keine Balken sind visuell hervorgehoben oder durch besondere Anmerkungen markiert."
+    }
+  },
+  {
+    "data": {
+      "source": "econstor",
+      "source_id": "10419/231858",
+      "paper_language": "German",
+      "paper_title": "Corona-Pandemie und die Stabilität des Bankensystems: Ursachen in der Realwirtschaft kurieren",
+      "figure_filename": "10.1007_s10273-020-2783-3_fig2.png",
+      "figure_image": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/figures/10.1007_s10273-020-2783-3_fig2.png",
+      "paper_pdf": "https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2783-3.pdf",
+      "html_pdf_button": "<a href='https://banahene.github.io/FigureSense-Data-Bank/Batch-13/downloaded_pdfs/10.1007_s10273-020-2783-3.pdf' title='Right-click → Open in new tab' target='_blank' style='display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007BFF;border-radius:5px;text-decoration:none;'>📄 View Full PDF</a>",
+      "caption": "Home Bias bei Staatsanleihen Volumen der Staatsanleihen in den Bankbilanzen, in Mrd. Euro, 4. Quartal 2019",
+      "gpt-labeled_plot_type": "Bar Chart",
+      "gpt_annotation": "Das Balkendiagramm stellt das Volumen der Staatsanleihen in den Bankbilanzen im vierten Quartal 2019 dar, angegeben in Milliarden Euro. Die Kategorien sind horizontal entlang der x-Achse angeordnet, die verschiedene Länder Europas darstellt, beginnend mit Österreich und endend mit der Slowakei. Die y-Achse repräsentiert das Volumen in Milliarden Euro, skaliert linear von 0 bis 1.000 mit einem Intervall von 100 Milliarden Euro. Die Balken sind farblich in drei Segmente unterteilt: dunkelblau für „Heimatland“, hellblau für „andere EU“, und grau für die „restliche Welt“. Der höchste Balken gehört Griechenland mit einem Volumen von etwa 900 Milliarden Euro, wovon der größte Anteil dem Heimatland zugerechnet wird. Dänemark und Italien folgen mit ebenfalls hohen Werten, wobei Dänemark eine bedeutende graue Komponente für die „restliche Welt“ aufweist. Im Kontrast dazu zeigen Länder wie Zypern und Malta sehr niedrige Balken, die fast ausschließlich aus dem Segment „Heimatland“ bestehen. Die Länder sind nicht in einer bestimmten Reihenfolge sortiert, und kein Balken ist visuell hervorgehoben."
+    }
+  }
+]
